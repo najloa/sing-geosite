@@ -297,13 +297,7 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 	if err != nil {
 		return err
 	}
-	cnCodes := []string{
-		"geolocation-cn",
-	}
 	cnDomainMap := make(map[string][]geosite.Item)
-	for _, cnCode := range cnCodes {
-		cnDomainMap[cnCode] = domainMap[cnCode]
-	}
 	cnOutputFile, err := os.Create(cnOutput)
 	if err != nil {
 		return err
