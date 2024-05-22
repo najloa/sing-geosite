@@ -283,7 +283,7 @@ func mergeTags(data map[string][]geosite.Item) {
 	println("merged cn categories: " + strings.Join(cnCodeList, ","))
 }
 
-func generate(release *github.RepositoryRelease, output string, cnOutput string, ruleSetOutput string, jsonOutput string) error {
+func generate(release *github.RepositoryRelease, output string, cnOutput string, ruleSetOutput string) error {
 	vData, err := download(release)
 	if err != nil {
 		return err
@@ -340,7 +340,8 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 				DefaultOptions: headlessRule,
 			},
 		}
-		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".srs"))
+		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".json"))
+		//os.Stderr.WriteString("write " + srsPath + "\n")
 		outputRuleSet, err := os.Create(srsPath)
 		if err != nil {
 			return err
@@ -352,17 +353,6 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 		}
 		outputRuleSet.Close()
 	}
-	jsonOutputFile, err := os.Create(jsonOutput)
-	if err != nil {
-		return err
-	}
-	defer jsonOutputFile.Close()
-	jsonEncoder := json.NewEncoder(jsonOutputFile)
-	jsonEncoder.SetIndent("", "  ")
-	err = jsonEncoder.Encode(domainMap)
-	if err != nil {
-		return err
-	}
 	return nil
 }
 
@@ -370,7 +360,7 @@ func setActionOutput(name string, content string) {
 	os.Stdout.WriteString("::set-output name=" + name + "::" + content + "\n")
 }
 
-func release(source string, destination string, output string, cnOutput string, ruleSetOutput string, jsonOutput string) error {
+func release(source string, destination string, output string, cnOutput string, ruleSetOutput string) error {
 	sourceRelease, err := fetch(source)
 	if err != nil {
 		return err
@@ -385,7 +375,7 @@ func release(source string, destination string, output string, cnOutput string, 
 			return nil
 		}
 	}
-	err = generate(sourceRelease, output, cnOutput, ruleSetOutput, jsonOutput)
+	err = generate(sourceRelease, output, cnOutput, ruleSetOutput)
 	if err != nil {
 		return err
 	}
@@ -400,7 +390,6 @@ func main() {
 		"geosite.db",
 		"geosite-cn.db",
 		"rule-set",
-		"geosite.json",
 	)
 	if err != nil {
 		log.Fatal(err)
