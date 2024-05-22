@@ -267,11 +267,6 @@ func mergeTags(data map[string][]geosite.Item) {
 		cnCodeList = append(cnCodeList, code)
 	}
 	newMap := make(map[geosite.Item]bool)
-	for _, code := range cnCodeList {
-		for _, item := range data[code] {
-			newMap[item] = true
-		}
-	}
 	newList := make([]geosite.Item, 0, len(newMap))
 	for item := range newMap {
 		newList = append(newList, item)
