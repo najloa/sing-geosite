@@ -353,37 +353,18 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 		}
 		outputRuleSet.Close()
 
-		// JSON 文件
+		// JSON
 		jsonPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".json"))
 		jsonOutputFile, err := os.Create(jsonPath)
 		if err != nil {
 			return err
 		}
-		
-		rules := make(map[string][]string)
-		for _, domain := range domains {
-			switch domain.Type {
-			case geosite.RuleTypeDomain:
-				rules["domain"] = append(rules["domain"], domain.Value)
-			case geosite.RuleTypeDomainSuffix:
-				rules["domain_suffix"] = append(rules["domain_suffix"], domain.Value)
-			case geosite.RuleTypeDomainKeyword:
-				rules["domain_keyword"] = append(rules["domain_keyword"], domain.Value)
-			case geosite.RuleTypeDomainRegex:
-				rules["domain_regex"] = append(rules["domain_regex"], domain.Value)
-			}
-		}
-
-		jsonData := map[string]interface{}{
-			"version": 1,
-			"rules": []map[string]interface{}{
-				rules,
-			},
-		}
-
 		jsonEncoder := json.NewEncoder(jsonOutputFile)
-		jsonEncoder.SetIndent("", "  ")
-		err = jsonEncoder.Encode(jsonData)
+		jsonEncoder.SetIndent(option.PlainRuleSetCompat{
+		Version: 1,
+		Options: plainRuleSet,
+	}, "", "  ")
+		err = jsonEncoder.Encode(domains)
 		if err != nil {
 			jsonOutputFile.Close()
 			return err
