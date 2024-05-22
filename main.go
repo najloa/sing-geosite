@@ -4,7 +4,6 @@ import (
 	"context"
 	"crypto/sha256"
 	"encoding/hex"
-	"encoding/json"
 	"fmt"
 	"io"
 	"net/http"
@@ -340,7 +339,7 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 				DefaultOptions: headlessRule,
 			},
 		}
-		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".json"))
+		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".srs"))
 		//os.Stderr.WriteString("write " + srsPath + "\n")
 		outputRuleSet, err := os.Create(srsPath)
 		if err != nil {
@@ -352,6 +351,21 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 			return err
 		}
 		outputRuleSet.Close()
+
+		jsonPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".json"))
+		jsonOutputFile, err := os.Create(jsonPath)
+		if err != nil {
+			return err
+		}
+		jsonEncoder := json.NewEncoder(jsonOutputFile)
+		jsonEncoder.SetIndent("", "  ")
+		err = jsonEncoder.Encode(domains)
+		if err != nil {
+			jsonOutputFile.Close()
+			return err
+		}
+		jsonOutputFile.Close()
+
 	}
 	return nil
 }
