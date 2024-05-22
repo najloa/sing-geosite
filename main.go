@@ -404,6 +404,7 @@ func main() {
 		"najloa/sing-geosite",
 		"geosite.db",
 		"geosite-cn.db",
+		"geosite.json",
 		"rule-set",
 	)
 	if err != nil {
