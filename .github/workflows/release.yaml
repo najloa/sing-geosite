@@ -38,7 +38,17 @@ jobs:
       - uses: dev-drprasad/delete-older-releases@v0.3.2
         if: steps.build.outputs.skip != 'true'
         with:
-          keep_latest: 10
+          keep_latest: 2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Delete old workflow runs
+        if: steps.build.outputs.skip != 'true'
+        run: |
+          gh auth login --with-token <<< "${{ secrets.GITHUB_TOKEN }}"
+          runs=$(gh run list --limit 100 | tail -n +4 | awk '{print $1}')
+          for run in $runs; do
+            gh run delete "$run" --yes
+          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Release geosite
