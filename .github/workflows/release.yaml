@@ -41,14 +41,6 @@ jobs:
           keep_latest: 2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Delete old workflow runs
-        if: steps.build.outputs.skip != 'true'
-        uses: s0/git-push-action@v0.1.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          commands: |
-            curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/${{ github.repository }}/actions/runs?status=completed&per_page=100" | jq -r '.workflow_runs | .[2:] | .[] | .id' | xargs -I {} curl -s -X DELETE -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/${{ github.repository }}/actions/runs/{}"
-
       - name: Release geosite
         if: steps.build.outputs.skip != 'true'
         uses: softprops/action-gh-release@v1
