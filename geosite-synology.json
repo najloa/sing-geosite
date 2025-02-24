@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "gofile.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".gofile.me"
+  },
+  {
+    "Type": 0,
+    "Value": "quickconnect.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".quickconnect.to"
+  },
+  {
+    "Type": 0,
+    "Value": "synology.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".synology.com"
+  },
+  {
+    "Type": 0,
+    "Value": "synologydownload.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".synologydownload.com"
+  },
+  {
+    "Type": 0,
+    "Value": "synologyupdate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".synologyupdate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quickconnect.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".quickconnect.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "synology.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".synology.cn"
+  }
+]

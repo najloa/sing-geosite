@@ -1,0 +1,850 @@
+[
+  {
+    "Type": 0,
+    "Value": "google.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".google.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "g.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".g.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gkecnapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gkecnapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "googlecnapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".googlecnapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gstatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gstatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gstaticcnapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gstaticcnapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "www.recaptcha.net"
+  },
+  {
+    "Type": 0,
+    "Value": "265.com"
+  },
+  {
+    "Type": 0,
+    "Value": "2mdn-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "2mdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "admob-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adservice.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ai.ytimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "app-measurement-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "app-measurement.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apps5.oingo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "avail.googleflights.net"
+  },
+  {
+    "Type": 0,
+    "Value": "beacons.gcp.gvt2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beacons.gvt2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beacons2.gvt2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beacons3.gvt2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "borgmon.adz.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.admob.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.android.clients.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cache-management-prod.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cache.pack.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "checkin.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clickserve.cc-dt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clickserve.dartsearch.net"
+  },
+  {
+    "Type": 0,
+    "Value": "clickserver.googleads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clientservices.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.widevine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnappinstall.googleadapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "connectivitycheck.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "content.googleadapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crashlyticsreports-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "csi.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dartsearch-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dg-meta.video.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "distribution.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "distribution.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "distribution.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doubleclick-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "doubleclick.net"
+  },
+  {
+    "Type": 0,
+    "Value": "download.mlcc.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "download.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "download.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "download.tensorflow.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "emmapplecodevice.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase-settings.crashlytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fontfiles.googleadapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fontfiles.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fonts.googleadapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fonts.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fonts.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g0.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g1.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g2.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g3.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gonglchuangl.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gongyichuangyi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "google-analytics-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "google-analytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleadservices-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleadservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleanalytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleapis-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleapps-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleflights-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "googleoptimize-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleoptimize.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googleplex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googlesyndication-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googlesyndication.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googletagmanager-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googletagmanager.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googletagservices-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googletagservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googletraveladservices-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googletraveladservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "googlevads-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gstatic-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gstaticadssl.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtm.oasisfeng.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imasdk.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "monitoring.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "monitoring.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "monitoring.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "pagead-googlehosted.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "performanceparameters.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-goog.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play.1ucrs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "prod-controlbe.floonet.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "prod-databe.floonet.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "prod.databe.floonet.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "qagpublic.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qagpublic.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qagpublic.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qgadmin.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qgadmin.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qgadmin.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qpx.googleflights.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qualysapi.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qualysapi.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qualysapi.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qualysguard.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qualysguard.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qualysguard.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "recaptcha.net"
+  },
+  {
+    "Type": 0,
+    "Value": "recaptcha-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.bdn.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.c.chat.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.c.mail.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.c.pack.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.c.youtubeeducation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.gcpcdn.gvt1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.gvt1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.offline-maps.gvt1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.snap.gvt1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.xn--ngstr-lra8j.com"
+  },
+  {
+    "Type": 0,
+    "Value": "regioninfo-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "safebrowsing.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "scanservice1.qatp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "scanservice1.qcpp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "scanservice1.qpdp1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "service.urchin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "settings.xn--9trs65b.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl-google-analytics.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "staging-controlbe.floonet.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "staging-databe.floonet.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "staging-regioninfo-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "staging.databe.floonet.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "support.1ucrs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tac.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "test.bugs-qa.chromium.org"
+  },
+  {
+    "Type": 0,
+    "Value": "test.gbugs-qa.chromium.org"
+  },
+  {
+    "Type": 0,
+    "Value": "tools.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tools.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "update.crashlytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "update.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wear.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www-google-analytics.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www-googletagmanager.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.destinationurl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.googleadapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.pxcc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--9kr7l.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--flw351e.com"
+  },
+  {
+    "Type": 0,
+    "Value": "applemdm.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g3doc.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gmskiosk-ssl.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gorom.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "l2-uberproxy.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "logger.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "logger-dev.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "login.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "proxyconfig.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rapture-autopush.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rapture.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rapture-prod.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rapture-test.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "r.cert.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssh-relay.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sslredirect.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "streaming-uberproxy.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "streaming-uberproxy-rotation.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sup.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supportcenter.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sup-ssh-relay2.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sup-ssh-relay.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "techstop.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy4.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy6.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy-debug4.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy-debug.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy-pen-redirect.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vext.corp.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sup.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy-with-cn.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy-with-cn4.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uberproxy-with-cn6.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qiao-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gvt1-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gvt1-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gvt2-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gvt2-cn.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.c.play.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "i.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "o.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "crls.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "ggpht.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ggpht.cn"
+  }
+]

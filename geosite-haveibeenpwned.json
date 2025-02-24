@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "haveibeenpwned.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".haveibeenpwned.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pwnedpasswords.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pwnedpasswords.com"
+  }
+]

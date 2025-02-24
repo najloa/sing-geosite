@@ -1,0 +1,10 @@
+[
+  {
+    "Type": 0,
+    "Value": "js-agent.newrelic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".js-agent.newrelic.com"
+  }
+]

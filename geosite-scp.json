@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "scp-wiki.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".scp-wiki.net"
+  },
+  {
+    "Type": 0,
+    "Value": "scpdb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".scpdb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "scpwiki.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".scpwiki.com"
+  }
+]

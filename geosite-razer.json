@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "razer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".razer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "razerofficial.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".razerofficial.com"
+  },
+  {
+    "Type": 0,
+    "Value": "razersupport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".razersupport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "razerzone.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".razerzone.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "respawnbyrazer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".respawnbyrazer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "razerapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".razerapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "razersynapse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".razersynapse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "razerzone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".razerzone.com"
+  }
+]

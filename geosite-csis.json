@@ -1,0 +1,14 @@
+[
+  {
+    "Type": 0,
+    "Value": "csis-prod.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "csis.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".csis.org"
+  }
+]

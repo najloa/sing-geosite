@@ -1,0 +1,314 @@
+[
+  {
+    "Type": 0,
+    "Value": "126.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".126.com"
+  },
+  {
+    "Type": 0,
+    "Value": "126.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".126.link"
+  },
+  {
+    "Type": 0,
+    "Value": "126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "127.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".127.com"
+  },
+  {
+    "Type": 0,
+    "Value": "127.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".127.net"
+  },
+  {
+    "Type": 0,
+    "Value": "163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "163cn.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".163cn.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "163industry.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".163industry.com"
+  },
+  {
+    "Type": 0,
+    "Value": "163mail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".163mail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "163qiyukf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".163qiyukf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "163yun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".163yun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "166.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".166.com"
+  },
+  {
+    "Type": 0,
+    "Value": "166.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".166.net"
+  },
+  {
+    "Type": 0,
+    "Value": "188.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".188.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haowu.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".haowu.link"
+  },
+  {
+    "Type": 0,
+    "Value": "icourse163.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".icourse163.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kaola.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kaola.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lofter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lofter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nease.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nease.net"
+  },
+  {
+    "Type": 0,
+    "Value": "netease-inc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netease-inc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netease.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netease.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netease.im"
+  },
+  {
+    "Type": 1,
+    "Value": ".netease.im"
+  },
+  {
+    "Type": 0,
+    "Value": "qiyukf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qiyukf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ydstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ydstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yeah.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yeah.net"
+  },
+  {
+    "Type": 0,
+    "Value": "youdao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youdao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zhuanzfx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhuanzfx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a.youdao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".a.youdao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "admusicpic.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".admusicpic.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "analytics.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".analytics.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crash.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crash.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crashlytics.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crashlytics.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".g.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmat.nosdn.127.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmat.nosdn.127.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmatapk.nosdn.127.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmatapk.nosdn.127.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmusicmat.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmusicmat.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmusicmatvideo.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmusicmatvideo.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.music.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sentry.music.163.com"
+  }
+]

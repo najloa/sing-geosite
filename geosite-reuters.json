@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "reut.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".reut.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "reuters.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reuters.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reuters.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".reuters.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "reutersmedia.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".reutersmedia.net"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "intercom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intercom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intercom.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".intercom.io"
+  },
+  {
+    "Type": 0,
+    "Value": "intercomassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intercomassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intercomcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intercomcdn.com"
+  }
+]

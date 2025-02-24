@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "cnet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnet.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnet.de"
+  },
+  {
+    "Type": 0,
+    "Value": "cnetfrance.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnetfrance.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "download.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".download.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnet.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnet.co.kr"
+  }
+]

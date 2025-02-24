@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "starott.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starott.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star.api.edge.bamgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star.api.edge.bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star.connections.edge.bamgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star.connections.edge.bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star.content.edge.bamgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star.content.edge.bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star.playback.edge.bamgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star.playback.edge.bamgrid.com"
+  }
+]

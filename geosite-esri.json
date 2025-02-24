@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "arcgis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".arcgis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "arcgisonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".arcgisonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "esri.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".esri.com"
+  }
+]

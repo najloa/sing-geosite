@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 0,
+    "Value": "amd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amdfanstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amdfanstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "radeon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".radeon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amd.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amd.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "www.amd.com"
+  }
+]

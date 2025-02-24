@@ -1,0 +1,2462 @@
+[
+  {
+    "Type": 0,
+    "Value": "abhouses.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abhouses.com"
+  },
+  {
+    "Type": 0,
+    "Value": "agconnect.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".agconnect.link"
+  },
+  {
+    "Type": 0,
+    "Value": "dbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dbankcdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dbankcdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dbankcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dbankcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dbankcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dbankcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dbankcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dbankcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dbankedge.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dbankedge.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dbankedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dbankedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hihonor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hihonor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "honor.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".honor.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huawei.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huawei.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huawei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huawei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiacad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiacad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiief.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiief.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiief.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiief.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweistatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweistatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwccpc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwccpc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwccpc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwccpc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwht.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwht.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwocloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwocloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwtrip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwtrip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shanhaitujian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shanhaitujian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmallres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmallres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcqwg14.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcqwg14.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcgrb01.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcgrb01.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "b2bgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".b2bgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eduapaashwc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eduapaashwc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hc-cdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hc-cdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hc-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hc-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hc-sre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hc-sre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiapaas.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiapaas.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiapaas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiapaas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-dns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-dns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-idme.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-idme.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-idme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-idme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-smn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-smn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-smn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-smn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-smn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-smn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloudapis.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloudapis.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloudapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloudapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloudlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloudlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloudsite.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloudsite.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloudsite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloudsite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloudwaf.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloudwaf.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloudwaf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloudwaf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweioneaccess.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweioneaccess.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweioneaccess.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweioneaccess.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweimarketplace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweimarketplace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweisafedns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweisafedns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweisafedns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweisafedns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweisafehub.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweisafehub.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweisre.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweisre.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweisre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweisre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiyun.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiyun.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwastro.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwastro.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwastro.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwastro.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwcdnsre.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwcdnsre.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwcdnsre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwcdnsre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwclouds-dns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwclouds-dns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwclouds-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwclouds-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwclouds-dns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwclouds-dns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hwclouds.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwclouds.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwclouds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwclouds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwclouds.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwclouds.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "hwcloudsite.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwcloudsite.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwcloudsite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwcloudsite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwcloudvis.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwcloudvis.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hwcloudvis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwcloudvis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hweventgrid.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hweventgrid.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hweventgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hweventgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "idonguapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".idonguapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "idonguapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".idonguapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imc-oneaccess.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".imc-oneaccess.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "imcapptest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imcapptest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inanguapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".inanguapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "inanguapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".inanguapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ixiguapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ixiguapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "km6g.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".km6g.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "km7g.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".km7g.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "km8g.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".km8g.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "km9g.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".km9g.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kmcb-cn-east-3.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kmcb-cn-east-3.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kmcb-cn-north-4.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kmcb-cn-north-4.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kmop-cn-east-3.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kmop-cn-east-3.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kmop-cn-north-4.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kmop-cn-north-4.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "livehwc3.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".livehwc3.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "modelarts-infer.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".modelarts-infer.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "modelarts-infer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".modelarts-infer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhuaweicloud-custom.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhuaweicloud-custom.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "myhuaweicloud-custom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhuaweicloud-custom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhuaweicloud-koodrive.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhuaweicloud-koodrive.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "myhuaweicloud-koodrive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhuaweicloud-koodrive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhuaweicloud-obs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhuaweicloud-obs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "myhuaweicloud-obs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhuaweicloud-obs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhuaweicloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhuaweicloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "myhwcdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhwcdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "myhwcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhwcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhwcloudlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhwcloudlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhwclouds.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhwclouds.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "myhwclouds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhwclouds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhwclouds.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhwclouds.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pagescube.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pagescube.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "576nt.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".576nt.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pagescube.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pagescube.com"
+  },
+  {
+    "Type": 0,
+    "Value": "powerapp.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerapp.io"
+  },
+  {
+    "Type": 0,
+    "Value": "kma1g.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kma1g.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "8gcdp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".8gcdp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cza84.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cza84.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "7k2k1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".7k2k1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ivwi3.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ivwi3.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lu1da.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lu1da.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "vo6z2.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".vo6z2.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "3ili6.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".3ili6.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "z95rr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".z95rr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tzygd.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tzygd.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "9coof.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".9coof.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "26r9y.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".26r9y.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mle5p.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mle5p.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "acgab.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".acgab.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ka9bv.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ka9bv.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ms2tg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ms2tg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "x9exk.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".x9exk.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "8n82b.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".8n82b.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "y43f6.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".y43f6.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwchcg02.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwchcg02.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcurq03.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcurq03.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczba04.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczba04.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwclxw05.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwclxw05.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcupf06.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcupf06.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcxcy07.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcxcy07.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcatq08.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcatq08.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcztu09.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcztu09.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcedi10.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcedi10.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcoem01.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcoem01.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcllh11.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcllh11.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcjog12.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcjog12.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcpsd13.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcpsd13.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcjbj05.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcjbj05.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aadcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aadcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcaoc115.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcaoc115.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcajk17.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcajk17.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcchh18.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcchh18.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcohm19.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcohm19.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczjt20.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczjt20.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcggk22.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcggk22.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczth23.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczth23.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwctxz24.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwctxz24.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcqir15.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcqir15.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcyxb02.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcyxb02.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcywp03.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcywp03.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwclkl04.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwclkl04.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aadcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aadcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwconz06.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwconz06.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcgqa21.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcgqa21.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwckbw08.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwckbw08.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcsjs09.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcsjs09.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcjkl10.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcjkl10.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwctmz11.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwctmz11.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcrpp12.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcrpp12.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcpqh13.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcpqh13.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcxsi14.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcxsi14.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcfzp15.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcfzp15.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcgvs16.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcgvs16.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcrgg07.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcrgg07.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwceft18.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwceft18.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwccvo19.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwccvo19.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcbvo20.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcbvo20.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcdkd21.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcdkd21.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcdvg22.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcdvg22.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwclnh23.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwclnh23.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwckfd24.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwckfd24.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczxh101.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczxh101.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcbzj102.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcbzj102.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcjqv17.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcjqv17.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcljk104.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcljk104.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwclxu105.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwclxu105.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcbqs106.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcbqs106.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwctnm107.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwctnm107.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcbni108.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcbni108.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczks109.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczks109.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcick110.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcick110.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcead111.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcead111.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcjlg112.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcjlg112.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwckon103.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwckon103.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczmn114.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczmn114.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcqgw115.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcqgw115.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwckfz116.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwckfz116.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcqve117.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcqve117.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcgnc118.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcgnc118.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcuim119.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcuim119.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcjsb120.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcjsb120.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwccmz121.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwccmz121.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcibv122.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcibv122.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcprh113.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcprh113.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcedt124.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcedt124.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcofl101.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcofl101.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwclrd102.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwclrd102.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcurr103.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcurr103.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczid104.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczid104.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcqvk105.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcqvk105.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczoy106.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczoy106.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcuwd107.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcuwd107.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcogx108.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcogx108.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcoph123.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcoph123.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwceod109.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwceod109.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcpcw110.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcpcw110.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwczic111.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwczic111.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcozb112.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcozb112.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcqrr114.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcqrr114.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcvix16.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcvix16.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwctyd116.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwctyd116.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcidu117.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcidu117.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwclsl119.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwclsl119.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcsux118.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcsux118.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcbie120.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcbie120.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcuxc121.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcuxc121.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcaip122.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcaip122.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcwqz113.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcwqz113.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcojn124.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcojn124.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnhwcscc123.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnhwcscc123.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "o7mu8.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".o7mu8.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "59bob.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".59bob.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tc3bl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tc3bl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hiu58.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiu58.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kfomn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kfomn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azkr2.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azkr2.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "vm45e.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".vm45e.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "buf35.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".buf35.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "uwtmy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".uwtmy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "fpxyo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fpxyo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tm2a8.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tm2a8.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "r8zc9.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".r8zc9.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "6ts7c.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".6ts7c.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "2gkjr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".2gkjr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ns95c.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ns95c.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tm7sg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tm7sg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "le5vb.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".le5vb.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huawei.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".huawei.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-south-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-south-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhwclouds.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhwclouds.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-11.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-11.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-northeast-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-northeast-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-9.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-9.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-6.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-6.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-southwest-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-southwest-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ami-alliance.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ami-alliance.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-5.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-5.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-south-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-south-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-east-5.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-east-5.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-east-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-east-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-east-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-east-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-east-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-east-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-south-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-south-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hwclouds.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwclouds.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-north-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-north-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.cdnhwc([1-9]|10)\\.(cn|com)$"
+  },
+  {
+    "Type": 0,
+    "Value": "bisheng.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bisheng.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bishengcompiler.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bishengcompiler.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "devui.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".devui.design"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harmonyos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harmonyos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hiascend.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiascend.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hiascend.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiascend.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hiclc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiclc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hisilicon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hisilicon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hisilicon.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hisilicon.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mindspore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mindspore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "owsgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".owsgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teleows.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teleows.com"
+  },
+  {
+    "Type": 0,
+    "Value": "saasops.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".saasops.tech"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-dns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-dns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-dns.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-dns.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ae-ad-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ae-ad-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "af-north-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".af-north-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "af-south-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".af-south-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-west-0.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-west-0.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-west-101.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-west-101.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "la-north-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".la-north-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "la-south-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".la-south-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "me-east-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".me-east-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my-kualalumpur-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my-kualalumpur-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-mexico-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-mexico-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ru-moscow-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ru-moscow-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ru-northwest-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ru-northwest-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sa-brazil-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sa-brazil-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tr-west-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tr-west-1.myhuaweicloud.com"
+  }
+]

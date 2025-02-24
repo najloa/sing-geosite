@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 0,
+    "Value": "misa-prod.s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fansta.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".fansta.me"
+  },
+  {
+    "Type": 0,
+    "Value": "aga-expo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aga-expo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cosfans-tw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cosfans-tw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "2023aga.oen.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".2023aga.oen.tw"
+  }
+]

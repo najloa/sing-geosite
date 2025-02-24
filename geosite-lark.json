@@ -1,0 +1,714 @@
+[
+  {
+    "Type": 0,
+    "Value": "baseopendev.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baseopendev.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "byteoc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byteoc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytewebservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytewebservice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytexns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytexns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bytexns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytexns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytexns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytexns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bytexopen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytexopen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytexservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytexservice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meegobeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meegobeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oceancloudapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oceancloudapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".okr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "okr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vscenevideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscenevideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anycross.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anycross.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blmpb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blmpb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytedancehermestest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytedancehermestest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "falconsending.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".falconsending.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fei-shu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fei-shu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu-3rd-party-services.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu-3rd-party-services.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu-boe.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu-boe.net"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu-customer.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu-customer.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu-pre.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu-pre.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu-pre.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu-pre.net"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu-psc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu-psc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu-staging.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu-staging.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishu.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishu.net"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuapp-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuapp-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuapp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuapp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishucdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishudoc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishudoc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishudoc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishudoc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuhuiyi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuhuiyi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuhuiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuhuiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuimg-boe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuimg-boe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuimg-pre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuimg-pre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishukacdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishukacdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishumeetings.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishumeetings.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishumeetings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishumeetings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuoffice.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuoffice.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuoffice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuoffice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuopenplatformrecord.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuopenplatformrecord.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishupkg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishupkg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feishustatus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishustatus.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuvc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuvc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feishuvc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feishuvc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "getfeishu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".getfeishu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "getfeishu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getfeishu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "getsays.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".getsays.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "getsays.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getsays.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lackvc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lackvc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "securityfeishu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".securityfeishu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "securityfs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".securityfs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "statusfeishu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".statusfeishu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thelarkcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thelarkcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficeimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficeimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkcloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkcloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "larkfn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkfn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkmeetings.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkmeetings.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "larkmeetings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkmeetings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkoffice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkoffice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "statuslarkoffice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".statuslarkoffice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficeapp-boe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficeapp-boe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficeapp-pre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficeapp-pre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficeapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficeapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficeboe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficeboe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lark.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lark.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficepkg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficepkg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lark-passport-qa-sg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".lark-passport-qa-sg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "larkofficepre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkofficepre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkrooms.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkrooms.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "larkrooms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkrooms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuite-pre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuite-pre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkvc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkvc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuiteimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuiteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuitecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuitecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuiteimg-boe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuiteimg-boe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuiteimg-pre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuiteimg-pre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okr.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".okr.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuite.com.ttdns2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuite.com.ttdns2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larksuite.com.ttdns1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larksuite.com.ttdns1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "larkoffice.com.bytedns1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".larkoffice.com.bytedns1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "frontier-lark-lb-v3.lf.bytelb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".frontier-lark-lb-v3.lf.bytelb.net"
+  }
+]

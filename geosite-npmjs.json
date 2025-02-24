@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "npm.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".npm.community"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.org"
+  }
+]

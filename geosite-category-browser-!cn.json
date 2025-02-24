@@ -1,0 +1,222 @@
+[
+  {
+    "Type": 1,
+    "Value": ".chrome"
+  },
+  {
+    "Type": 0,
+    "Value": "librewolf.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".librewolf.net"
+  },
+  {
+    "Type": 0,
+    "Value": "torproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".torproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kmeleonbrowser.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".kmeleonbrowser.org"
+  },
+  {
+    "Type": 0,
+    "Value": "brave.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".brave.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bromite.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bromite.org"
+  },
+  {
+    "Type": 0,
+    "Value": "chrome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chrome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cromite.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cromite.org"
+  },
+  {
+    "Type": 0,
+    "Value": "decentr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".decentr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dothq.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dothq.org"
+  },
+  {
+    "Type": 0,
+    "Value": "floorp.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".floorp.app"
+  },
+  {
+    "Type": 0,
+    "Value": "iridiumbrowser.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".iridiumbrowser.de"
+  },
+  {
+    "Type": 0,
+    "Value": "kiwibrowser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kiwibrowser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "basilisk-browser.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".basilisk-browser.org"
+  },
+  {
+    "Type": 0,
+    "Value": "chromium.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".chromium.org"
+  },
+  {
+    "Type": 0,
+    "Value": "waterfox.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".waterfox.net"
+  },
+  {
+    "Type": 0,
+    "Value": "netsurf-browser.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".netsurf-browser.org"
+  },
+  {
+    "Type": 0,
+    "Value": "opera.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".opera.com"
+  },
+  {
+    "Type": 0,
+    "Value": "palemoon.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".palemoon.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pulsebrowser.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".pulsebrowser.app"
+  },
+  {
+    "Type": 0,
+    "Value": "qutebrowser.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".qutebrowser.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vivaldi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vivaldi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minbrowser.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".minbrowser.org"
+  },
+  {
+    "Type": 0,
+    "Value": "censorship.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".censorship.no"
+  },
+  {
+    "Type": 0,
+    "Value": "epicbrowser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicbrowser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firefox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firefox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firefoxusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firefoxusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "browser.kagi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".browser.kagi.com"
+  }
+]

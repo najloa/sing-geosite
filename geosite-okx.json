@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "okex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx-dns1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx-dns1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx-dns2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx-dns2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oklink.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oklink.com"
+  }
+]

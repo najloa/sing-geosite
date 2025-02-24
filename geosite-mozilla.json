@@ -1,0 +1,182 @@
+[
+  {
+    "Type": 0,
+    "Value": "mdn.mozillademos.org"
+  },
+  {
+    "Type": 0,
+    "Value": "firefox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firefox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mozilla.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".mozilla.community"
+  },
+  {
+    "Type": 0,
+    "Value": "firefoxusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firefoxusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mdn.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdn.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "mozilla.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mozilla.org"
+  },
+  {
+    "Type": 0,
+    "Value": "extensionworkshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".extensionworkshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bugzilla.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bugzilla.org"
+  },
+  {
+    "Type": 0,
+    "Value": "getpocket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getpocket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seamonkey-project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".seamonkey-project.org"
+  },
+  {
+    "Type": 0,
+    "Value": "thunderbird.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".thunderbird.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mozgcp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mozgcp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "crates.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".crates.io"
+  },
+  {
+    "Type": 0,
+    "Value": "docs.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".docs.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "mozilla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mozilla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mozilla.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mozilla.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mdnplay.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdnplay.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "mdnyalp.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdnyalp.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "rustup.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".rustup.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "rust-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rust-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mdn.allizom.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdn.allizom.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mdn.mozit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdn.mozit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.allizom.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".developer.allizom.org"
+  }
+]

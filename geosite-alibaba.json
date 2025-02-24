@@ -1,0 +1,2914 @@
+[
+  {
+    "Type": 1,
+    "Value": ".alibaba"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipay"
+  },
+  {
+    "Type": 1,
+    "Value": ".taobao"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmall"
+  },
+  {
+    "Type": 0,
+    "Value": "1688.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".1688.com"
+  },
+  {
+    "Type": 0,
+    "Value": "taopiaopiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".taopiaopiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "95095.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".95095.com"
+  },
+  {
+    "Type": 0,
+    "Value": "9game.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".9game.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aliapp.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliapp.org"
+  },
+  {
+    "Type": 0,
+    "Value": "alibaba-inc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibaba-inc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibaba.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibaba.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacapital.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacapital.com"
+  },
+  {
+    "Type": 0,
+    "Value": "juhuasuan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".juhuasuan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabadoctor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabadoctor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabafuturehotel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabafuturehotel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabagroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabagroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabaplanet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabaplanet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabaued.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabaued.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabausercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabausercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alifanyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alifanyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aligames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aligames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alikmd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alikmd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alimama.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alimama.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alimebot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alimebot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alimei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alimei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alios.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alios.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alipay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alipay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alipaydns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipaydns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alipaylog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipaylog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alipayobjects.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipayobjects.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliresearch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliresearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alisoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alisoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alisports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alisports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alitianji.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alitianji.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliunicorn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliunicorn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliway.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliway.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alixiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alixiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alizhaopin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alizhaopin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alyms.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alyms.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "asczwa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asczwa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "asczxcefsv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asczxcefsv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "asmlink.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".asmlink.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "atatech.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".atatech.org"
+  },
+  {
+    "Type": 0,
+    "Value": "b2byao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".b2byao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bazai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bazai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bcvbw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcvbw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cheng.xin"
+  },
+  {
+    "Type": 1,
+    "Value": ".cheng.xin"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudeagle.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudeagle.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "damai.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".damai.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dayu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dayu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dfkhgj.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dfkhgj.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doctoryou.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".doctoryou.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "doctoryou.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".doctoryou.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dongting.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dongting.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dratio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dratio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "emas-poc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".emas-poc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gongyi.xin"
+  },
+  {
+    "Type": 1,
+    "Value": ".gongyi.xin"
+  },
+  {
+    "Type": 0,
+    "Value": "ialicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ialicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iconfont.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".iconfont.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ics.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".ics.design"
+  },
+  {
+    "Type": 0,
+    "Value": "jhgtgb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jhgtgb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kanbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kanbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lazada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lazada.com"
+  },
+  {
+    "Type": 0,
+    "Value": "liangxinyao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".liangxinyao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m-now.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".m-now.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "maitix.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maitix.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mdeer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdeer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miaostreet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miaostreet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mshare.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".mshare.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "nic.xin"
+  },
+  {
+    "Type": 1,
+    "Value": ".nic.xin"
+  },
+  {
+    "Type": 0,
+    "Value": "philanthropy.xin"
+  },
+  {
+    "Type": 1,
+    "Value": ".philanthropy.xin"
+  },
+  {
+    "Type": 0,
+    "Value": "phpwind.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".phpwind.com"
+  },
+  {
+    "Type": 0,
+    "Value": "phpwind.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".phpwind.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qingtingtrip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingtingtrip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rexpos.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".rexpos.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "shenjing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shenjing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shuqi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shuqi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teambitionapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teambitionapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shuqireader.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shuqireader.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sparenode.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sparenode.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ttpod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ttpod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wandoujia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wandoujia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xin.xin"
+  },
+  {
+    "Type": 1,
+    "Value": ".xin.xin"
+  },
+  {
+    "Type": 0,
+    "Value": "xinlingshou.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xinlingshou.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yowhale.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yowhale.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yunos-inc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yunos-inc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yunos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yunos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yushanfang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yushanfang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zuodao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zuodao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliexpress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliexpress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alipayplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipayplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alicloudccp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alicloudccp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alipan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliyundrive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliyundrive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliyundrive.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliyundrive.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cainiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cainiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teambition.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".teambition.net"
+  },
+  {
+    "Type": 0,
+    "Value": "teambition.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teambition.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elenet.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".elenet.me"
+  },
+  {
+    "Type": 0,
+    "Value": "cainiao-inc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cainiao-inc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freshhema.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freshhema.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hemamax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hemamax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hemaos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hemaos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hemashare.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hemashare.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "shyhhema.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shyhhema.com"
+  },
+  {
+    "Type": 0,
+    "Value": "antfortune.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".antfortune.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fund123.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fund123.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "antfin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".antfin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "antgroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".antgroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "antgroup-inc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".antgroup-inc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sm.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sm.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "25pp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".25pp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "etao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".etao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabachengdun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabachengdun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "56che.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".56che.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunra.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunra.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pailitao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pailitao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "taobao.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".taobao.org"
+  },
+  {
+    "Type": 0,
+    "Value": "taobaocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".taobaocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "taobizhong.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".taobizhong.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lingshoujia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lingshoujia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tb.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tb.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tbcache.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tbcache.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tburl.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".tburl.in"
+  },
+  {
+    "Type": 0,
+    "Value": "tmall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tmalltv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmalltv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tmjl.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmjl.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "quark.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".quark.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alitrip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alitrip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feizhu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feizhu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "feizhu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feizhu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fliggy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fliggy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iuynfg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iuynfg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xiami.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiami.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xiami.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiami.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "xiami.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiami.net"
+  },
+  {
+    "Type": 0,
+    "Value": "koubei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".koubei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zhisheng.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhisheng.com"
+  },
+  {
+    "Type": 0,
+    "Value": "npmmirror.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmmirror.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goofish.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".goofish.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabadns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabadns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alicloudapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alicloudapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alidayu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alidayu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alidns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alidns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alikunlun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alikunlun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliyun-inc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliyun-inc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliyun-iot-share.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliyun-iot-share.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliyuncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliyuncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliyunfile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliyunfile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdngslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdngslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hichina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hichina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ica-alliance.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ica-alliance.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunaq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunaq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunluncan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunluncan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlungem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlungem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlungr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlungr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunhuf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunhuf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunle.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunle.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunli.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunli.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunno.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunno.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunpi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunpi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mashort.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mashort.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunsa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunsa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunsc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunsc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunsl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunsl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunso.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunso.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunvi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunvi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kunlunwe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kunlunwe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mxhichina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mxhichina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myalicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myalicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elemecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elemecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elemecdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".elemecdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "eleme.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".eleme.io"
+  },
+  {
+    "Type": 0,
+    "Value": "eleme.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".eleme.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ele.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".ele.to"
+  },
+  {
+    "Type": 0,
+    "Value": "ele.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".ele.me"
+  },
+  {
+    "Type": 0,
+    "Value": "doservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doservice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gaode.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gaode.com"
+  },
+  {
+    "Type": 0,
+    "Value": "autonavi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".autonavi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anav.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anav.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ddurl.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".ddurl.to"
+  },
+  {
+    "Type": 0,
+    "Value": "dingding.xin"
+  },
+  {
+    "Type": 1,
+    "Value": ".dingding.xin"
+  },
+  {
+    "Type": 0,
+    "Value": "dingtalk.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dingtalk.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dingtalk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dingtalk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dingtalk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dingtalk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dingtalkapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dingtalkapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "laiwang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".laiwang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lwurl.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".lwurl.to"
+  },
+  {
+    "Type": 0,
+    "Value": "uc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".uc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "uc123.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uc123.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucweb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucweb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uczzd.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".uczzd.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mobmore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobmore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "umeng.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".umeng.com"
+  },
+  {
+    "Type": 0,
+    "Value": "umengcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".umengcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "umsns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".umsns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "umtrack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".umtrack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uyunad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uyunad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whalecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whalecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a-map.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".a-map.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "a-map.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".a-map.co"
+  },
+  {
+    "Type": 0,
+    "Value": "a-map.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".a-map.link"
+  },
+  {
+    "Type": 0,
+    "Value": "a-map.vip"
+  },
+  {
+    "Type": 1,
+    "Value": ".a-map.vip"
+  },
+  {
+    "Type": 0,
+    "Value": "acloudrender.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acloudrender.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amapauto.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amapauto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-shanghai.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-shanghai.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-guangzhou.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-guangzhou.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-shenzhen.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-shenzhen.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-hangzhou.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-hangzhou.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-zhangjiakou.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-zhangjiakou.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-nanjing.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-nanjing.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-heyuan.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-heyuan.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-wulanchabu.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-wulanchabu.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-qingdao.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-qingdao.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-huhehaote.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-huhehaote.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-chengdu.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-chengdu.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-beijing.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-beijing.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cainiao.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cainiao.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "saee.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".saee.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alipay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alihealth.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alihealth.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alihealth.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".alihealth.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "aliexpress.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliexpress.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "alipay.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipay.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "alipaymo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alipaymo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tmall.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmall.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "fliggy.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".fliggy.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "a.alimama.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".a.alimama.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "acjs.aliyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acjs.aliyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adash-c.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adash-c.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adash-c.ut.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adash-c.ut.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adash-emas.cn-hangzhou.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adash-emas.cn-hangzhou.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adash.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adash.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adash.man.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adash.man.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashbc.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashbc.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashbc.ut.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashbc.ut.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashx.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashx.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashx.ut.amap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashx.ut.amap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashx.ut.ele.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashx.ut.ele.me"
+  },
+  {
+    "Type": 0,
+    "Value": "adashx.ut.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashx.ut.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashx4ae.ut.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashx4ae.ut.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashx4yt.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashx4yt.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adashxgc.ut.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adashxgc.ut.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsh.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsh.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "afp.adchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".afp.adchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "afp.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".afp.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "agoodm.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".agoodm.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "agoodm.wapa.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".agoodm.wapa.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amdc.alipay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amdc.alipay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api.wapa.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.wapa.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api.waptest.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.waptest.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apoll.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apoll.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atanx.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atanx.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atanx2.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atanx2.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c-adash.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".c-adash.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn0.mobmore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn0.mobmore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "click.aliyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.aliyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "click.mz.simba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.mz.simba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cm.ipinyou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cm.ipinyou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dsp.simba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dsp.simba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ex.mobmore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ex.mobmore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ex.puata.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ex.puata.info"
+  },
+  {
+    "Type": 0,
+    "Value": "fav.simba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fav.simba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feedback.whalecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feedback.whalecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ff.win.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ff.win.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fm.p0y.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fm.p0y.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "g.click.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".g.click.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g.tbcdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".g.tbcdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gma.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gma.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtms01.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtms01.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtms02.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtms02.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtms03.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtms03.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtms04.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtms04.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "h-adashx.ut.ele.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".h-adashx.ut.ele.me"
+  },
+  {
+    "Type": 0,
+    "Value": "h-adashx.ut.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".h-adashx.ut.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "h-adashx.ut.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".h-adashx.ut.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "h-adashx4yt.ut.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".h-adashx4yt.ut.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hydra.alibaba.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hydra.alibaba.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hz.pre.tbusergw.taobao.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hz.pre.tbusergw.taobao.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hz.tbusergw.taobao.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hz.tbusergw.taobao.net"
+  },
+  {
+    "Type": 0,
+    "Value": "i.ipinyou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".i.ipinyou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init.phpwind.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".init.phpwind.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intl.wapa.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intl.wapa.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intl.waptest.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intl.waptest.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jxlog.istreamsche.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jxlog.istreamsche.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.umtrack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.umtrack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m-adash.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".m-adash.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m.intl.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".m.intl.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m.simba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".m.simba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "match.p4p.1688.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".match.p4p.1688.com"
+  },
+  {
+    "Type": 0,
+    "Value": "material.istreamsche.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".material.istreamsche.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mlt01.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mlt01.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbsdk-baichuan.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbsdk-baichuan.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbsdk-baichuan.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbsdk-baichuan.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "osfota.cdn.aliyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".osfota.cdn.aliyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "osupdate.aliyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".osupdate.aliyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "osupdateservice.yunos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".osupdateservice.yunos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pindao.huoban.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pindao.huoban.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "push.wandoujia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".push.wandoujia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "re.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".re.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "re.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".re.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redirect.simba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redirect.simba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rj.m.taobao.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".rj.m.taobao.co"
+  },
+  {
+    "Type": 0,
+    "Value": "rj.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rj.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sdkinit.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdkinit.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "simaba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".simaba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "simba.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".simba.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "srd.simba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".srd.simba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stats.ipinyou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stats.ipinyou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "strip.taobaocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".strip.taobaocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tanxlog.istreamsche.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tanxlog.istreamsche.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tejia.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tejia.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "temai.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".temai.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tns.simba.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tns.simba.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tongji.linezing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tongji.linezing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tvupgrade.yunos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvupgrade.yunos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tyh.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tyh.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "userimg.qunar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".userimg.qunar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "v6-adashx.ut.amap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".v6-adashx.ut.amap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "v6-adashx.ut.cainiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".v6-adashx.ut.cainiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "v6-adashx.ut.ele.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".v6-adashx.ut.ele.me"
+  },
+  {
+    "Type": 0,
+    "Value": "v6-adashx.ut.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".v6-adashx.ut.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "w.m.taobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".w.m.taobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yiliao.hupan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yiliao.hupan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-northeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-northeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-northeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-northeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-south-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-south-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-3.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-3.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-5.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-5.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-6.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-6.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-7.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-7.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-eu-central-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-eu-central-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-eu-west-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-eu-west-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-me-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-me-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-us-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-us-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-us-west-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-us-west-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alog.umeng.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alog.umeng.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alog.umengcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alog.umengcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "w.cnzz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".w.cnzz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "z.gds.cnzz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".z.gds.cnzz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.tw"
+  }
+]

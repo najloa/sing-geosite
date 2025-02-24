@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "ads.union.jd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.union.jd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c-nfa.jd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".c-nfa.jd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cps.360buy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cps.360buy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jzt.jd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jzt.jd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stat.m.jd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stat.m.jd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "img-x.jd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".img-x.jd.com"
+  }
+]

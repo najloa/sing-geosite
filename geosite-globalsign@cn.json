@@ -1,0 +1,46 @@
+[
+  {
+    "Type": 0,
+    "Value": "alphassl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alphassl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easy-signing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easy-signing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsigncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsigncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.globalsigncdn.com.cdn.cloudflare.net"
+  }
+]

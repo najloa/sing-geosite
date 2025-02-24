@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "wistia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wistia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wistia.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wistia.net"
+  },
+  {
+    "Type": 0,
+    "Value": "embedwistia-a.akamaihd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".embedwistia-a.akamaihd.net"
+  }
+]

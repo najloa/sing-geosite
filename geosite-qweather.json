@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "hecdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hecdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "heweather.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".heweather.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qweather.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qweather.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qweather.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".qweather.net"
+  }
+]

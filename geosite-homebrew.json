@@ -1,0 +1,14 @@
+[
+  {
+    "Type": 0,
+    "Value": "homebrew.bintray.com"
+  },
+  {
+    "Type": 0,
+    "Value": "brew.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".brew.sh"
+  }
+]

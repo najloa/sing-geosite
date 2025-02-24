@@ -1,0 +1,934 @@
+[
+  {
+    "Type": 0,
+    "Value": "cisco.evergage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscolivehls-i.akamaihd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco"
+  },
+  {
+    "Type": 0,
+    "Value": "mcisco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcisco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "app-dynamics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".app-dynamics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cciesecuritylabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cciesecuritylabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ccievoicelabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ccievoicelabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ccna5.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ccna5.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cisco-returns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco-returns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cisco-warrantyfinder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco-warrantyfinder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cisco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cisco.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoccservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoccservice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoconnectcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoconnectcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoconnectcloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoconnectcloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoconnectcloud.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoconnectcloud.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscocontest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscocontest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoerate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoerate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscofax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscofax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoinvestments.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoinvestments.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscojabbervideo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscojabbervideo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscokinetic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscokinetic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoknowledgenetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoknowledgenetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscolearningsociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscolearningsociety.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscolearningsystem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscolearningsystem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscolive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscolive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cisconetspace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisconetspace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cisconetspace.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisconetspace.info"
+  },
+  {
+    "Type": 0,
+    "Value": "cisconetspace.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisconetspace.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cisconetapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisconetapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscopartnermarketing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscopartnermarketing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscopowercube.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscopowercube.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoprice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoprice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoresearch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoresearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscosoftware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscosoftware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscospark.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscospark.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscospark.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscospark.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscospark.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscospark.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscotaccc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscotaccc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscotr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscotr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscoturk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscoturk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscovideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscovideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscowebseminars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscowebseminars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudlock.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudlock.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloupia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloupia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloupia.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloupia.net"
+  },
+  {
+    "Type": 0,
+    "Value": "connect-in-canada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".connect-in-canada.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coreoptics.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".coreoptics.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cs.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".cs.co"
+  },
+  {
+    "Type": 0,
+    "Value": "devm2m.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".devm2m.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnaspaces.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnaspaces.io"
+  },
+  {
+    "Type": 0,
+    "Value": "flipshare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flipshare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gpstheseries.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gpstheseries.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inlethd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".inlethd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "internetofeverything.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".internetofeverything.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ioe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ioe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kscisco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kscisco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m2m.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".m2m.com"
+  },
+  {
+    "Type": 0,
+    "Value": "academynetriders.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".academynetriders.com"
+  },
+  {
+    "Type": 0,
+    "Value": "obsrvbl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".obsrvbl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "metacloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".metacloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mindmeld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mindmeld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "multiplydiversity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".multiplydiversity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myciscobenefits.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myciscobenefits.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mysdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mysdn.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysdn.info"
+  },
+  {
+    "Type": 0,
+    "Value": "mysdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "netacad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netacad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netacad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".netacad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "observable.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".observable.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mediafiles-cisco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mediafiles-cisco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "parstream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".parstream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "parstream.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".parstream.net"
+  },
+  {
+    "Type": 0,
+    "Value": "parstream.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".parstream.org"
+  },
+  {
+    "Type": 0,
+    "Value": "services-exchange.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".services-exchange.com"
+  },
+  {
+    "Type": 0,
+    "Value": "static-cisco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".static-cisco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tandberg-china.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tandberg-china.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tandberg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tandberg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "versly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".versly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videochampion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videochampion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "virtuata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".virtuata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wballiance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wballiance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whyiwantciscotelepresence.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whyiwantciscotelepresence.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wifi-mx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wifi-mx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubecisco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubecisco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cciernslabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cciernslabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appdynamics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdynamics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appdynamics.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdynamics.de"
+  },
+  {
+    "Type": 0,
+    "Value": "appdynamics.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdynamics.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "appdynamics.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdynamics.info"
+  },
+  {
+    "Type": 0,
+    "Value": "appdynamics.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdynamics.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "appdynamics.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdynamics.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mearki.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mearki.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meraki-go.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meraki-go.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meraki.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".meraki.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "merakigo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".merakigo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tail-f.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tail-f.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tailf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tailf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.es"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.de"
+  },
+  {
+    "Type": 0,
+    "Value": "appdynamics.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdynamics.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.co.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.co.it"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "cisco.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cisco.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "network-auth.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".network-auth.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.com.cn"
+  }
+]

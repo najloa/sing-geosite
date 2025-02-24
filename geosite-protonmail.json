@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "pm.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".pm.me"
+  },
+  {
+    "Type": 0,
+    "Value": "proton.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".proton.me"
+  },
+  {
+    "Type": 0,
+    "Value": "protonmail.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".protonmail.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "protonmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".protonmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "protonstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".protonstatus.com"
+  }
+]

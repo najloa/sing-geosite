@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "perl.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".perl.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cpan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "metacpan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".metacpan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "modperl.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".modperl.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "perl.apache.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".perl.apache.org"
+  }
+]

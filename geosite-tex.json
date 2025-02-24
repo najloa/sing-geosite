@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "ctan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ctan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "latex-project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".latex-project.org"
+  },
+  {
+    "Type": 0,
+    "Value": "miktex.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".miktex.org"
+  },
+  {
+    "Type": 0,
+    "Value": "tug.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tug.org"
+  }
+]

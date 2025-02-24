@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "douyu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "douyu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "douyucdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyucdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "douyucdn2.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyucdn2.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "douyuscdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyuscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "douyutv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyutv.com"
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "Type": 1,
+    "Value": ".aws"
+  },
+  {
+    "Type": 0,
+    "Value": "awsautoscaling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsautoscaling.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elasticbeanstalk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elasticbeanstalk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aesworkshops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aesworkshops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsbraket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsbraket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "thinkboxsoftware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thinkboxsoftware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.info"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.org"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonses.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonses.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amplifyapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amplifyapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amplifyframework.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amplifyframework.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-iot-hackathon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-iot-hackathon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsautopilot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsautopilot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "acmvalidations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acmvalidations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws-china.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws-china.com"
+  },
+  {
+    "Type": 0,
+    "Value": "acmvalidationsaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acmvalidationsaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awseducate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awseducate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsedstart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsedstart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awseducate.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".awseducate.net"
+  },
+  {
+    "Type": 0,
+    "Value": "awseducate.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".awseducate.org"
+  },
+  {
+    "Type": 0,
+    "Value": "awsglobalaccelerator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsglobalaccelerator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsloft-johannesburg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsloft-johannesburg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsloft-stockholm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsloft-stockholm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awssecworkshops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awssecworkshops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsthinkbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsthinkbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awstrack.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".awstrack.me"
+  },
+  {
+    "Type": 0,
+    "Value": "cdkworkshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdkworkshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "containersonaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".containersonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awscommandlineinterface.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awscommandlineinterface.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.co.uk"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.amzndns\\.(co\\.uk|com|net|org)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$"
+  },
+  {
+    "Type": 0,
+    "Value": "a2z.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".a2z.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonwebservices.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonwebservices.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "asfiovnxocqpcry.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".asfiovnxocqpcry.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-border.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-border.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-icp-domain-manager.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-icp-domain-manager.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsapps.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsapps.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsstatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsstatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront-cn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdcloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdcloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcddns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcddns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdinfosec.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdinfosec.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "route53.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".route53.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sagemaker.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sagemaker.com.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.amzndns-cn\\.(biz|cn|com|net)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
+  }
+]

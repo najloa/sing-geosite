@@ -1,0 +1,634 @@
+[
+  {
+    "Type": 0,
+    "Value": "ak1.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ak1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aka-ai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aka-ai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aka-ai.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".aka-ai.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akacrypto.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akacrypto.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akadeem.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akadeem.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akadns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akadns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akadns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akadns6.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akadns6.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akaeai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akaeai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akafms.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akafms.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akagtm.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".akagtm.org"
+  },
+  {
+    "Type": 0,
+    "Value": "akahost.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akahost.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akaint.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akaint.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akam.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akam.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamah.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamah.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-access.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-access.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-access.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-access.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-platform-internal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-platform-internal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-platform-staging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-platform-staging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-platform.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-platform.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-regression.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-regression.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-staging.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-staging.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-sucks.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-sucks.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-thailand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-thailand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-thailand.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-thailand.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai-trials.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai-trials.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaiedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaiedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaientrypoint.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaientrypoint.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaietpcnctest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaietpcnctest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaietpcompromisedcnctest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaietpcompromisedcnctest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaietpcompromisedmalwaretest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaietpcompromisedmalwaretest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaietpmalwaretest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaietpmalwaretest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaietpphishingtest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaietpphishingtest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaihd-staging.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaihd-staging.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaihd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaihd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaihd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaimagicmath.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaimagicmath.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamainewzealand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamainewzealand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaiphillipines.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaiphillipines.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaiphillipines.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaiphillipines.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaitech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaitech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaitech.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaitech.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaitechnologies.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaitechnologies.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaitechnologies.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaitechnologies.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaisingapore.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaisingapore.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaistream.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaistream.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaized-staging.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaized-staging.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamaizercentral.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamaizercentral.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamci.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamci.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akami.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akami.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akami.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akami.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akamqi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamqi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akastream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akastream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akastream.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akastream.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akatns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akatns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "edgekey.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgekey.net"
+  },
+  {
+    "Type": 0,
+    "Value": "edgesuite.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgesuite.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iamakamai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iamakamai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iamakamai.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iamakamai.net"
+  },
+  {
+    "Type": 0,
+    "Value": "soasta-dswb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".soasta-dswb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "srtcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".srtcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "accdn.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".accdn.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "akadns88.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akadns88.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akadns99.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".akadns99.net"
+  },
+  {
+    "Type": 0,
+    "Value": "akamai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".akamai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akcdn.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".akcdn.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aptdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".aptdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "edgekey88.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgekey88.net"
+  },
+  {
+    "Type": 0,
+    "Value": "janrain.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".janrain.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "janrainservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".janrainservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skycdn.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".skycdn.com.cn"
+  }
+]

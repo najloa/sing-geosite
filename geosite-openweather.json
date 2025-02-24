@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "openweathermap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openweathermap.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openweather.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".openweather.co.uk"
+  }
+]

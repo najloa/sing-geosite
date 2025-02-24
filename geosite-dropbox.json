@@ -1,0 +1,126 @@
+[
+  {
+    "Type": 0,
+    "Value": "paper-attachments.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "db.tt"
+  },
+  {
+    "Type": 1,
+    "Value": ".db.tt"
+  },
+  {
+    "Type": 0,
+    "Value": "dropbox-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropbox-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropbox.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropbox.tech"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxbusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxbusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxcaptcha.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxcaptcha.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxforums.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxforums.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxinsiders.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxinsiders.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxpartners.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxpartners.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dropboxusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dropboxusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "getdropbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getdropbox.com"
+  }
+]

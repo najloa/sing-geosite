@@ -1,0 +1,382 @@
+[
+  {
+    "Type": 0,
+    "Value": "ntp.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.se"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.ufe.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.ufe.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.nat.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.nat.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.nic.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.nic.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.ripe.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.ripe.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.fiord.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.fiord.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "clock.isc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".clock.isc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pool.ntp.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pool.ntp.org"
+  },
+  {
+    "Type": 0,
+    "Value": "time.cloudflare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".time.cloudflare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "time.nrc.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".time.nrc.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "time.windows.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".time.windows.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.nict.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.nict.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.wakwak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.wakwak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.wakwak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.wakwak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ats1.e-timing.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ats1.e-timing.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp0.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp0.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.tohoku.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.tohoku.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.tohoku.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.tohoku.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.tut.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.tut.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.tohoku.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.tohoku.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp-tk02.ocn.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp-tk02.ocn.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp-os01.ocn.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp-os01.ocn.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.plala.or.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.plala.or.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.plala.or.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.plala.or.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp-tk01.ocn.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp-tk01.ocn.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp3.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp3.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "s2csntp.miz.nao.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".s2csntp.miz.nao.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.t.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.t.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.dnsbalance.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.dnsbalance.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.nc.u-tokyo.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.nc.u-tokyo.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp3.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp3.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 3,
+    "Value": "^time(.euro)?.apple.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^time([1-5])?\\.facebook\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^time([1-4])?.google.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^((((ut1-wwv)|(ntp\\-(b|d|wwv))|(time(\\-(([a-e]\\-(g|b))|([a-e]\\-wwv)))?))\\.nist\\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\\.colorado\\.edu)$"
+  },
+  {
+    "Type": 3,
+    "Value": "^ntp[0-7]\\.ntp-servers\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^ntp([1-7])?\\.aliyun\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "time.izatcloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "time.xtracloud.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^ntp([1-5])?\\.tencent\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.pool.ntp.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.pool.ntp.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.neu.edu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.neu.edu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.ntsc.ac.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.ntsc.ac.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.org.cn"
+  }
+]

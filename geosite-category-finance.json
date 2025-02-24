@@ -1,0 +1,830 @@
+[
+  {
+    "Type": 1,
+    "Value": ".hsbc"
+  },
+  {
+    "Type": 0,
+    "Value": "longbridge.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".longbridge.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "agdbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".agdbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tuncommercialbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tuncommercialbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "longbridge.global"
+  },
+  {
+    "Type": 1,
+    "Value": ".longbridge.global"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastgp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastgp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ayabank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ayabank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ysx-mm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ysx-mm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yomabank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomabank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ablmm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ablmm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shwebank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shwebank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mmtourismbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mmtourismbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kbzbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kbzbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kbzpay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kbzpay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mabbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mabbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mwdbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mwdbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mdbankpublic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdbankpublic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mobmyanmar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobmyanmar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wise.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wise.com"
+  },
+  {
+    "Type": 0,
+    "Value": "transferwise.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".transferwise.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wbrks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbrks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lbkrs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lbkrs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "longportapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".longportapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "longbridgeapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".longbridgeapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "longbridge.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".longbridge.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.de"
+  },
+  {
+    "Type": 0,
+    "Value": "tradingview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tradingview.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nptsibinbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nptsibinbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "longbridge.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".longbridge.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "ifasttv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifasttv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastnetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastnetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fsmone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fsmone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastgb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastgb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mql5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mql5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcinnovationbanking.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcinnovationbanking.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcnet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcnet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcprivatebank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcprivatebank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.am"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.bm"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.bm"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbctrinkaus.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbctrinkaus.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.lk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.lk"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc-zertifikate.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc-zertifikate.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc-transactionservices.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc-transactionservices.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc-alternatives.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc-alternatives.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "fxcorporate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fxcorporate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastcorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastcorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fundsupermart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fundsupermart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gbank.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".gbank.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.mo"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.mo"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcamanah.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcamanah.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.mu"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.mu"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcqh.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcqh.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcinsurance.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcinsurance.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "cbbank.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbbank.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "cbm.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbm.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "waveomoney.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".waveomoney.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "uab.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".uab.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "fsmone.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".fsmone.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "fsmone.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".fsmone.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastcapital.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastcapital.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastfinancial.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastfinancial.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastfinancial.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastfinancial.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastgp.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastgp.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "chid.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".chid.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "smedevelopmentbank.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".smedevelopmentbank.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "abank.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".abank.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "mcb.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcb.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "meb.gov.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".meb.gov.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "micb.gov.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".micb.gov.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "mminsurance.gov.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".mminsurance.gov.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "mmftb.gov.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".mmftb.gov.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "mmbbank.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".mmbbank.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "firstprivatebank.com.mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".firstprivatebank.com.mm"
+  },
+  {
+    "Type": 0,
+    "Value": "ifastps.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifastps.com.cn"
+  }
+]

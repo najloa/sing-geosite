@@ -1,0 +1,106 @@
+[
+  {
+    "Type": 0,
+    "Value": "amplifi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amplifi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "frontrow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".frontrow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubncloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubncloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uisp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uisp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wifiman.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wifiman.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amplifi.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amplifi.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "frontrow.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".frontrow.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ubnt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubnt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubnt.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubnt.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ui.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ui.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "uum.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".uum.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "uwn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uwn.com"
+  }
+]

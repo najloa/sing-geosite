@@ -1,0 +1,102 @@
+[
+  {
+    "Type": 0,
+    "Value": "csgo.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".csgo.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dota2.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dota2.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wmsjsteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmsjsteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.clngaa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.clngaa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.ksyna.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.ksyna.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.bscstorage.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.bscstorage.net"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.eccdnx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.eccdnx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampowered.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampowered.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xz.pphimalayanrt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamchina.com"
+  }
+]

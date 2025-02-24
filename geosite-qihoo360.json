@@ -1,0 +1,562 @@
+[
+  {
+    "Type": 0,
+    "Value": "360.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".360.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "360.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".360.net"
+  },
+  {
+    "Type": 0,
+    "Value": "360-jr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360-jr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360chou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360chou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360daikuan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360daikuan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360huzhubao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360huzhubao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360jie.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360jie.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360jinrong.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".360jinrong.net"
+  },
+  {
+    "Type": 0,
+    "Value": "360kan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360kan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360kuai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360kuai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360os.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360os.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360panyun.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".360panyun.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "360qhcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360qhcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360safe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360safe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360shouji.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360shouji.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360taojin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360taojin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360totalsecurity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360totalsecurity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360tpcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360tpcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360tres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360tres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360webcache.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360webcache.com"
+  },
+  {
+    "Type": 0,
+    "Value": "360zqaq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".360zqaq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anquanke.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anquanke.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appjiagu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appjiagu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baomitu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baomitu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haoso.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".haoso.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haosou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".haosou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haosou.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".haosou.net"
+  },
+  {
+    "Type": 0,
+    "Value": "i360mall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".i360mall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ludashi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ludashi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nicaifu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nicaifu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nzwgs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nzwgs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimgs0.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimgs0.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimgs1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimgs1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimgs2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimgs2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimgs3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimgs3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimgs4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimgs4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimgs5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimgs5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhimgs6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhimgs6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhmsg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhmsg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhres2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhres2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qihoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qihoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qihoo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".qihoo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qihuapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qihuapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qihucdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qihucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qiku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qiku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qikucdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qikucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "so.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".so.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "urlqh.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".urlqh.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xiaoluyouxuan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiaoluyouxuan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xiaoluzhidian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiaoluzhidian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xjietiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xjietiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youhua.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youhua.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yunpan.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yunpan.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "75.team"
+  },
+  {
+    "Type": 1,
+    "Value": ".75.team"
+  },
+  {
+    "Type": 0,
+    "Value": "75team.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".75team.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haosou.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".haosou.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "fenxi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fenxi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lianmeng.360.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lianmeng.360.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mediav.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mediav.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mvad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mvad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qhupdate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qhupdate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s.360.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.360.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "s.so.360.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.so.360.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "s.union.360.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.union.360.cn"
+  }
+]

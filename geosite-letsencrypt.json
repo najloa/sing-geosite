@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "lencr.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lencr.org"
+  },
+  {
+    "Type": 0,
+    "Value": "letsencrypt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".letsencrypt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "letsencrypt.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".letsencrypt.org"
+  }
+]

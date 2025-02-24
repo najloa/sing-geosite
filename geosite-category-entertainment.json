@@ -1,0 +1,11614 @@
+[
+  {
+    "Type": 0,
+    "Value": "netflix.com.edgesuite.net"
+  },
+  {
+    "Type": 0,
+    "Value": "apl-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hamivideo.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mobilelive-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pvr-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "scc.ott.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "static-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tvcastlive-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "weblive-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "blizzard.nefficient.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "blzddist1-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "blzddistkr1-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bnetcmsus-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bnetproduct-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bnetshopus.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "blizzcon-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "blzmedia-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "blznav.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ea.tt.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "eaassets-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudsync-prod.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rtm.tnt-ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl-lvlt.cdn.ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "assets.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "c.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "osu.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "m1.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "lazer.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "notify.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "spectator.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "opgg-static.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "avatargarenanow-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdngarenanow-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dlgarenanow-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dlmobilegarena-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "lolstatic-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "f3b7q2p3.ssl.hwcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steambroadcast.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcdn-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcommunity-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steammobile.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe-kr.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe-partner.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstore-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamusercontent-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamuserimages-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamvideo-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ubisoft-uplay-savegames.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubisoft-orbit-savegames.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubistatic3-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "prd-priconne-redive.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamedownloads-rockstargames-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "media-rockstargames-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "videos-rockstargames-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamer2-cds.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamer-cds.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.api.edge.bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.hb.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "espndotcom.tt.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "abematv.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ds-linear-abematv.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ds-vod-abematv.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "linear-abematv.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-abematv.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "i.jeded.com"
+  },
+  {
+    "Type": 0,
+    "Value": "audio-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "audio4-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-spotify-experiments.conductrics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heads-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "heads4-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.com.edgesuite.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.map.fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.map.fastlylb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tmdb-image-prod.b-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1g1f25tn8m2e6.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1m7jfoe9zdc1j.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1mhjrowxxagfy.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1oca24q5dwo6d.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1w2poirtb3as9.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1xhnb4ptk05mw.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1ymi26ma8va5x.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2aba1wr3818hz.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2dylwb3shzel1.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2e2de1etea730.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2nvs31859zcd8.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2um2qdswy1tb0.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2vjef5jvl6bfs.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2xmjdvx03ij56.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d36nr0u3xmc4mm.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d3aqoihi2n8ty8.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d3c27h4odz752x.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d3vd9lfkzbru3h.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d6d4ismr40iw.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d6tizftlrpuof.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ddacn6pr5v0tl.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dgeft87wbj63p.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dqrpb9wgowsf5.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ds0h3roq6wcgc.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dykkng5hnh52u.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "api.viu.now.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dfp6rglgjqszk.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1k2us671qcoau.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2anahhhmp1ffz.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "lastfm.freetls.fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.playback.edge.bamgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playstation"
+  },
+  {
+    "Type": 1,
+    "Value": ".nico"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox"
+  },
+  {
+    "Type": 0,
+    "Value": "goodreads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".goodreads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.be"
+  },
+  {
+    "Type": 0,
+    "Value": "joox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".joox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "linetv.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".linetv.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "litv.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".litv.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "megaphone.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".megaphone.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "mikanani.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".mikanani.me"
+  },
+  {
+    "Type": 0,
+    "Value": "moov.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".moov.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "odysee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".odysee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "omobi.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".omobi.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "oranum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oranum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "overcast.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".overcast.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "syosetu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".syosetu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thetvdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thetvdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weverse.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".weverse.io"
+  },
+  {
+    "Type": 0,
+    "Value": "yande.re"
+  },
+  {
+    "Type": 1,
+    "Value": ".yande.re"
+  },
+  {
+    "Type": 0,
+    "Value": "dazn-api.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dazn-api.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dazn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dazn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dazndn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dazndn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "indazn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".indazn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "indaznlab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".indaznlab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chobit.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".chobit.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "ci-en.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ci-en.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ci-en.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ci-en.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dlsite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlsite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dlsite.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlsite.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "dlsitestudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlsitestudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nijiyome.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nijiyome.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "triokini.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".triokini.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhx.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhx.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo-staging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo-staging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo-staging2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo-staging2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeobusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeobusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeogoods.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeogoods.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeoondemand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeoondemand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeostatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeostatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "livestream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".livestream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fast.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fast.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflix.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflix.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "netflix.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflix.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflix.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflix.net"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixinvestor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixinvestor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixtechblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixtechblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nflxext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nflxext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nflximg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nflximg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nflximg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nflximg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nflxsearch.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nflxsearch.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nflxso.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nflxso.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nflxvideo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nflxvideo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest0.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest0.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netflixdnstest10.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflixdnstest10.com"
+  },
+  {
+    "Type": 0,
+    "Value": "showtimeanytime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".showtimeanytime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "showtime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".showtime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kktv.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".kktv.me"
+  },
+  {
+    "Type": 0,
+    "Value": "biggggg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biggggg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zenlesszonezero.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zenlesszonezero.com"
+  },
+  {
+    "Type": 0,
+    "Value": "n0vadesktop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".n0vadesktop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hoyoverse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoyoverse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hoyolab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoyolab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hoyo.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoyo.link"
+  },
+  {
+    "Type": 0,
+    "Value": "mudvod.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mudvod.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "nbys.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbys.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "nbys1.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbys1.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "nbyy.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbyy.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "newpppp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newpppp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nivod.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".nivod.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "nivodi.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".nivodi.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "nivodz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nivodz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vod360.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vod360.net"
+  },
+  {
+    "Type": 0,
+    "Value": "catchplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".catchplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "honkaistarrail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".honkaistarrail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fireside.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".fireside.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "egta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".egta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiivc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiivc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bejewled-stars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bejewled-stars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fitgirl-repacks.site"
+  },
+  {
+    "Type": 1,
+    "Value": ".fitgirl-repacks.site"
+  },
+  {
+    "Type": 0,
+    "Value": "game-repack.site"
+  },
+  {
+    "Type": 1,
+    "Value": ".game-repack.site"
+  },
+  {
+    "Type": 0,
+    "Value": "humblebundle.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".humblebundle.com"
+  },
+  {
+    "Type": 0,
+    "Value": "loverslab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".loverslab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraft.wiki"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraft.wiki"
+  },
+  {
+    "Type": 0,
+    "Value": "modrinth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".modrinth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexusmods.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexusmods.com"
+  },
+  {
+    "Type": 0,
+    "Value": "papermc.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".papermc.io"
+  },
+  {
+    "Type": 0,
+    "Value": "planetminecraft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".planetminecraft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "prismlauncher.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".prismlauncher.org"
+  },
+  {
+    "Type": 0,
+    "Value": "protondb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".protondb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quiltmc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".quiltmc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "speedrun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedrun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamdb.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamdb.info"
+  },
+  {
+    "Type": 0,
+    "Value": "illusion.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".illusion.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mojang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mojang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ynoproject.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ynoproject.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-de.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-de.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-en.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-en.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-fr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-fr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-jp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-jp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-kr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-kr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-sea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-sea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "2k.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".2k.com"
+  },
+  {
+    "Type": 0,
+    "Value": "2kcoretech.online"
+  },
+  {
+    "Type": 1,
+    "Value": ".2kcoretech.online"
+  },
+  {
+    "Type": 0,
+    "Value": "2kgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".2kgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "take2games.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".take2games.com"
+  },
+  {
+    "Type": 0,
+    "Value": "curseforge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".curseforge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "forgecdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".forgecdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "genshinimpact.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".genshinimpact.com"
+  },
+  {
+    "Type": 0,
+    "Value": "honkaiimpact3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".honkaiimpact3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexon.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexon.io"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraftshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraftshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraftservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraftservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blizzard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blizzard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blizzardgearstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blizzardgearstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blz-contentstack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blz-contentstack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battle.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".battle.net"
+  },
+  {
+    "Type": 0,
+    "Value": "diablo3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".diablo3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "diabloimmortal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".diabloimmortal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firesidegatherings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firesidegatherings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playhearthstone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playhearthstone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heroesofthestorm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroesofthestorm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playoverwatch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playoverwatch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starcraft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starcraft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starcraft2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starcraft2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playwarcraft3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playwarcraft3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "worldofwarcraft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".worldofwarcraft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awayoutgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awayoutgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefieldbadcompany2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefieldbadcompany2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefront2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefront2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefrontii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefrontii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pandanet-igs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pandanet-igs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bejeweledstars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bejeweledstars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "capitalgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".capitalgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chillingo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chillingo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "commandandconquer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".commandandconquer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "conquerwithcharacter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".conquerwithcharacter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crysis.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".crysis.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "dawngate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dawngate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dawngatechronicles.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dawngatechronicles.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dicela.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dicela.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dicela.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dicela.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ea-anz-press.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ea-anz-press.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eaaccess.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eaaccess.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eacashcard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eacashcard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eacodigos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eacodigos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eanordic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eanordic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eaplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eaplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easports.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".easports.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsactive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsactive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsactiveonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsactiveonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsfootball.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsfootball.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsfootballclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsfootballclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsmma.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsmma.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "electronicarts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".electronicarts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "electronicarts.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".electronicarts.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "futpromos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".futpromos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "futunited.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".futunited.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ghostgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ghostgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heroesofdragonage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroesofdragonage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hutpromos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hutpromos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenchampionship.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenchampionship.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenrewards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenrewards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenseason.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenseason.info"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenseason.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenseason.net"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenseason.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenseason.org"
+  },
+  {
+    "Type": 0,
+    "Value": "maxis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maxis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mysimsracing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysimsracing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play4free.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".play4free.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playapex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playapex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pogo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pogo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pogobeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pogobeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "popcap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".popcap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "projectapex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".projectapex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pvzheroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvzheroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spearhead.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".spearhead.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "speedhunters.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedhunters.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssx3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssx3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsbattlefront.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsbattlefront.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsbattlefront2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsbattlefront2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiberiumalliances.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiberiumalliances.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiburon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiburon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tnt-ea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tnt-ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ultimaforever.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ultimaforever.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unravel2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unravel2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unraveltwo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unraveltwo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visceralgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visceralgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yogify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yogify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anthemgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anthemgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anthemthegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anthemthegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apexlegends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apexlegends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield1943.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield1943.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefieldheroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefieldheroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefieldv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefieldv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlelog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlelog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bioware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bioware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biowarestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biowarestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamythic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamythic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamythic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamythic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cncrivals.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cncrivals.com"
+  },
+  {
+    "Type": 0,
+    "Value": "camelot-europe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".camelot-europe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "camelotherald.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".camelotherald.com"
+  },
+  {
+    "Type": 0,
+    "Value": "camelotherald.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".camelotherald.net"
+  },
+  {
+    "Type": 0,
+    "Value": "daoc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".daoc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "darkageofcamelot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".darkageofcamelot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "darkness-risen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".darkness-risen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deadspacegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deadspacegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dice.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".dice.se"
+  },
+  {
+    "Type": 0,
+    "Value": "dragonage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dragonage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dragonagekeep.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dragonagekeep.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dragonagemovie.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dragonagemovie.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thedreadwolfrises.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thedreadwolfrises.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dungeonkeeper.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dungeonkeeper.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dungeonkeeper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dungeonkeeper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eafootballworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eafootballworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fifastreet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fifastreet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fifastreet3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fifastreet3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "frostbite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".frostbite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "industrialtoys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".industrialtoys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "masseffect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".masseffect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "masseffectarchives.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".masseffectarchives.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamirrorsedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamirrorsedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge2d.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge2d.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blackboxgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blackboxgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eablackbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eablackbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeed.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeed.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedboost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedboost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraft.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraft.net"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedeliminator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedeliminator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedlightning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedlightning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedoverdrive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedoverdrive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedproven.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedproven.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedredline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedredline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedshowdown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedshowdown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedstreetkings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedstreetkings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedtakedown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedtakedown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedtherun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedtherun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedtimeattack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedtimeattack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedundergroundeast.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedundergroundeast.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nfsworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nfsworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teamneedforspeed.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teamneedforspeed.com"
+  },
+  {
+    "Type": 0,
+    "Value": "plantsvszombies2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".plantsvszombies2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pvzgw2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvzgw2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seaofsolitude.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".seaofsolitude.com"
+  },
+  {
+    "Type": 0,
+    "Value": "simcity-buildit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".simcity-buildit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "simcity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".simcity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skate2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skate2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsfallenorder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsfallenorder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsjedifallenorder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsjedifallenorder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarstheoldrepublic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarstheoldrepublic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swjedifallenorder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swjedifallenorder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swjfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swjfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swtor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swtor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swtor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".swtor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mysims.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysims.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesims.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesims.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesims3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesims3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesims4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesims4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesimssocial.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesimssocial.com"
+  },
+  {
+    "Type": 0,
+    "Value": "titanfall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".titanfall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mythicentertainment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mythicentertainment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mythicentertainment.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mythicentertainment.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mythicgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mythicgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ultimaonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ultimaonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uoherald.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uoherald.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xdsummit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xdsummit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eastore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eastore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lordofultima.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lordofultima.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".origin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".origin.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "callersbane.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".callersbane.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elderscrolls.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elderscrolls.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlebreakers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlebreakers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eac-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eac-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easy.ac"
+  },
+  {
+    "Type": 1,
+    "Value": ".easy.ac"
+  },
+  {
+    "Type": 0,
+    "Value": "easyanticheat.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".easyanticheat.net"
+  },
+  {
+    "Type": 0,
+    "Value": "epicgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epicgames.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicgames.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "epicgamescdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicgamescdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fortnite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fortnite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paragon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paragon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playparagon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playparagon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "roborecall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roborecall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shadowcomplex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shadowcomplex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spyjinx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spyjinx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unrealengine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unrealengine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unrealtournament.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unrealtournament.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lowiro.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lowiro.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supercell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supercell.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.net"
+  },
+  {
+    "Type": 0,
+    "Value": "doom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "op.gg"
+  },
+  {
+    "Type": 1,
+    "Value": ".op.gg"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.com"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.live"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.my"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "garenanow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".garenanow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seagroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".seagroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bethsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bethesdagamestudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethesdagamestudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.se"
+  },
+  {
+    "Type": 0,
+    "Value": "fanatical.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fanatical.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeeddriftkings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeeddriftkings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamunlocked.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamunlocked.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cygames.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".cygames.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "worldflipper.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".worldflipper.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "bethesda.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethesda.net"
+  },
+  {
+    "Type": 0,
+    "Value": "beth.games"
+  },
+  {
+    "Type": 1,
+    "Value": ".beth.games"
+  },
+  {
+    "Type": 0,
+    "Value": "xbx.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbx.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "pinkcore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinkcore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pinkcore.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinkcore.net"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riot-games.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riot-games.com"
+  },
+  {
+    "Type": 0,
+    "Value": "historyofdota.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".historyofdota.org"
+  },
+  {
+    "Type": 0,
+    "Value": "instituteofwar.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".instituteofwar.org"
+  },
+  {
+    "Type": 0,
+    "Value": "molesports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".molesports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rgpub.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".rgpub.io"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.info"
+  },
+  {
+    "Type": 0,
+    "Value": "riot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riot.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".riot.net"
+  },
+  {
+    "Type": 0,
+    "Value": "riotcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.info"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.net"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "riotpin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotpin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riotpoints.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotpoints.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rstatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".rstatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "historyofdota.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".historyofdota.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supremacy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".supremacy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "championshipseriesleague.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".championshipseriesleague.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lcsmerch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lcsmerch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leaguehighschool.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leaguehighschool.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "supremacy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supremacy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "historyofdota.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".historyofdota.net"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.net"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.org"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegendsscripts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegendsscripts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leaguesharp.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".leaguesharp.info"
+  },
+  {
+    "Type": 0,
+    "Value": "leaguoflegends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leaguoflegends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "learnwithleague.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".learnwithleague.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lol-europe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lol-europe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolclub.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolclub.org"
+  },
+  {
+    "Type": 0,
+    "Value": "lolespor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolespor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolesports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolesports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolfanart.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolfanart.net"
+  },
+  {
+    "Type": 0,
+    "Value": "lolpcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolpcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "convrgencegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".convrgencegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pvp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pvp.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvp.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ulol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ulol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playvalorant.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playvalorant.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riotforgegames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotforgegames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ruinedking.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ruinedking.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxstudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxstudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxplayanywhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxplayanywhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamdeck.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamdeck.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "steam-api.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam-api.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam-chat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam-chat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcommunity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamcommunity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamcontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s.team"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.team"
+  },
+  {
+    "Type": 0,
+    "Value": "steamgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampowered.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampowered.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamserver.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamserver.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "valvesoftware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".valvesoftware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "underlords.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".underlords.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playartifact.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playartifact.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxone.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxone.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxone.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxone.co"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxgamestudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxgamestudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxgamepass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxgamepass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.org"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "ubi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubisoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubisoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubisoftconnect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubisoftconnect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluearchive.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluearchive.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gog-statics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "priconne-redive.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".priconne-redive.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.co"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rockstargames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rockstargames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rsg.sc"
+  },
+  {
+    "Type": 1,
+    "Value": ".rsg.sc"
+  },
+  {
+    "Type": 0,
+    "Value": "snkplaymore.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".snkplaymore.info"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "fireemblemawakening.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fireemblemawakening.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiipartyu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiipartyu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ayudanintendo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ayudanintendo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bowsersinsidestory.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bowsersinsidestory.com"
+  },
+  {
+    "Type": 0,
+    "Value": "excitebots.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".excitebots.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flipnotestudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flipnotestudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gloryofheracles.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gloryofheracles.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hackyourconsole.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hackyourconsole.com"
+  },
+  {
+    "Type": 0,
+    "Value": "100classicbooks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".100classicbooks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kirbysepicyarn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kirbysepicyarn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miitomo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miitomo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miiverse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miiverse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nentindo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nentindo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo-europe-sales.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo-europe-sales.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo-europe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo-europe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.at"
+  },
+  {
+    "Type": 0,
+    "Value": "pca.st"
+  },
+  {
+    "Type": 1,
+    "Value": ".pca.st"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.de"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.es"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "xenoblade.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xenoblade.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dodi-repacks.download"
+  },
+  {
+    "Type": 1,
+    "Value": ".dodi-repacks.download"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.it"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.no"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "joyjoy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".joyjoy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo3ds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo3ds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendodsi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendodsi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoeurope.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoeurope.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendonetwork.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendonetwork.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendonyc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendonyc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendostore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendostore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitchtogether.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitchtogether.com"
+  },
+  {
+    "Type": 0,
+    "Value": "personaltrainermath.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".personaltrainermath.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playnintendo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playnintendo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thelegendarystarfy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thelegendarystarfy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thewonderful101.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thewonderful101.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wariolandshakeit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wariolandshakeit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wariowarediy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wariowarediy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yoshisnewisland.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yoshisnewisland.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ac-pocketcamp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ac-pocketcamp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "diddykongracing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".diddykongracing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dkr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dkr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonmysterydungeon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonmysterydungeon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gr-assets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gr-assets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kirbysuperstarultra.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kirbysuperstarultra.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dialga.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dialga.com"
+  },
+  {
+    "Type": 0,
+    "Value": "giratina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".giratina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kyurem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyurem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokedex3d.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokedex3d.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-moon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-moon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-sun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-sun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-sunmoon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-sunmoon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-unitepgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-unitepgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonblackwhite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonblackwhite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonbw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonbw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonchampionships.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonchampionships.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemongoldsilver.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemongoldsilver.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonhome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonhome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonletsgoeevee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonletsgoeevee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonletsgopikachu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonletsgopikachu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "donkeykongcountryreturns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".donkeykongcountryreturns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonpicross.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonpicross.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonplatinum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonplatinum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonrubysapphire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonrubysapphire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonsunmoon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonsunmoon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonswordshield.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonswordshield.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonultrasunmoon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonultrasunmoon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonvgc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonvgc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonwifi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonwifi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--mts47c3w9b1qr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mts47c3w9b1qr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "splatoon2tournament.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".splatoon2tournament.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starfox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starfox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "drmario-world.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".drmario-world.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marioandluigidreamteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marioandluigidreamteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariobroswii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariobroswii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariosupersluggers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariosupersluggers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsupermariobrosu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsupermariobrosu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermario.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermario.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermario3dworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermario3dworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermariogalaxy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermariogalaxy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermariorun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermariorun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "superpapermario.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".superpapermario.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendowii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendowii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wii-u.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wii-u.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiifit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiifit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiifitu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiifitu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fire-emblem-heroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fire-emblem-heroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiisports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiisports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiisportsresort.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiisportsresort.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiiugamepad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiiugamepad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.co"
+  },
+  {
+    "Type": 0,
+    "Value": "tellmewhygame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tellmewhygame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "renovacionxboxlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".renovacionxboxlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "orithegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".orithegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gamepass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamepass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fabricmc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".fabricmc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "playstation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playstation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playstation.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".playstation.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sonyentertainmentnetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonyentertainmentnetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dodi-repacks.site"
+  },
+  {
+    "Type": 1,
+    "Value": ".dodi-repacks.site"
+  },
+  {
+    "Type": 0,
+    "Value": "forzamotorsport.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".forzamotorsport.net"
+  },
+  {
+    "Type": 0,
+    "Value": "forzaracingchampionship.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forzaracingchampionship.com"
+  },
+  {
+    "Type": 0,
+    "Value": "forzarc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forzarc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "discoveryplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".discoveryplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disco-api.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disco-api.com"
+  },
+  {
+    "Type": 0,
+    "Value": "da-files.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".da-files.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deviantart.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".deviantart.net"
+  },
+  {
+    "Type": 0,
+    "Value": "deviantart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deviantart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webnovel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webnovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sndcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sndcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "soundcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".soundcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movetv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movetv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movenetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movenetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sling.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slinginternational.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slinginternational.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dishworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dishworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rokutime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rokutime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "roku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ravm.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ravm.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "mgo-images.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgo-images.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fandango.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fandango.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwhuluplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwhuluplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thehulubraintrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thehulubraintrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "registerhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".registerhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "payhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".payhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "originalhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".originalhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mushymush.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mushymush.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "joinmaidez.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".joinmaidez.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluusa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluusa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulutv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulutv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulustream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulustream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulusports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulusports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluspain.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluspain.com"
+  },
+  {
+    "Type": 0,
+    "Value": "9anime.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".9anime.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "9anime.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".9anime.id"
+  },
+  {
+    "Type": 0,
+    "Value": "9anime.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".9anime.to"
+  },
+  {
+    "Type": 0,
+    "Value": "9anime.ws"
+  },
+  {
+    "Type": 1,
+    "Value": ".9anime.ws"
+  },
+  {
+    "Type": 0,
+    "Value": "age.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".age.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "agedm.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".agedm.org"
+  },
+  {
+    "Type": 0,
+    "Value": "agedm.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".agedm.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "agefans.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".agefans.com"
+  },
+  {
+    "Type": 0,
+    "Value": "agemys.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".agemys.org"
+  },
+  {
+    "Type": 0,
+    "Value": "agedm.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".agedm.app"
+  },
+  {
+    "Type": 0,
+    "Value": "animedao-tv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".animedao-tv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crunchyroll.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crunchyroll.com"
+  },
+  {
+    "Type": 0,
+    "Value": "funimation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".funimation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vrv.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".vrv.co"
+  },
+  {
+    "Type": 0,
+    "Value": "gogoanime.vc"
+  },
+  {
+    "Type": 1,
+    "Value": ".gogoanime.vc"
+  },
+  {
+    "Type": 0,
+    "Value": "pocketcasts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pocketcasts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gogoanime3.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".gogoanime3.co"
+  },
+  {
+    "Type": 0,
+    "Value": "gogotaku.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".gogotaku.info"
+  },
+  {
+    "Type": 0,
+    "Value": "gogo-load.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gogo-load.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gogocdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gogocdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hidive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hidive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "777tv.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".777tv.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amiibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amiibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "internationalsaimoe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".internationalsaimoe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gogoanime.wiki"
+  },
+  {
+    "Type": 1,
+    "Value": ".gogoanime.wiki"
+  },
+  {
+    "Type": 0,
+    "Value": "aiv-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".aiv-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonprimevideos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonprimevideos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonvideo.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonvideo.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonvideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonvideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "prime-video.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".prime-video.com"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.info"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "kamisama-day.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kamisama-day.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "abow.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".abow.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "anigema.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".anigema.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "charlotte-anime.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".charlotte-anime.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "clannad-movie.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".clannad-movie.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "heaven-burns-red.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heaven-burns-red.com"
+  },
+  {
+    "Type": 0,
+    "Value": "angelbeats.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".angelbeats.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kamisama-maeda-lab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kamisama-maeda-lab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visual-arts.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".visual-arts.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "litbus-anime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".litbus-anime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "koubaibu.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".koubaibu.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "rewrite-anime.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".rewrite-anime.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "hulurussia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulurussia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluqa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluqa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulupurchase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulupurchase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulupremium.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulupremium.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thestationbymaker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thestationbymaker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "babble.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".babble.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmomentsme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmomentsme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "themarvelexperiencetour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".themarvelexperiencetour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelsuperwar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelsuperwar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelsuperheroseptember.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelsuperheroseptember.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelspotlightplays.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelspotlightplays.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelsdoubleagent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelsdoubleagent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelpinball.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelpinball.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelparty.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelparty.net"
+  },
+  {
+    "Type": 0,
+    "Value": "marveldimensionofheroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marveldimensionofheroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvel10thanniversary.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvel10thanniversary.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.de"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.es"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.it"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.id"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.in"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.io"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.it"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.my"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.no"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.se"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstarext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstarext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar-labs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar-labs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "20thcenturystudios.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".20thcenturystudios.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "adventuresbydisney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adventuresbydisney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "babyzone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".babyzone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bamgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dilcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dilcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-asia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-asia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-discount.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-discount.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-plus.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-plus.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-studio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-studio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-studio.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-studio.net"
+  },
+  {
+    "Type": 0,
+    "Value": "watchespn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".watchespn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyadsales.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyadsales.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyarena.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyarena.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyaulani.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyaulani.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneybaby.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneybaby.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneycareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneycareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneychannelonstage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneychannelonstage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneychannelroadtrip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneychannelroadtrip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneycruisebrasil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneycruisebrasil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyenconcert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyenconcert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyiejobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyiejobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyinflight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyinflight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyinternational.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyinternational.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyinternationalhd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyinternationalhd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyjunior.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyjunior.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyjuniortreataday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyjuniortreataday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneylatino.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneylatino.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espnqa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espnqa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.de"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.es"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.be"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymeetingsandevents.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymeetingsandevents.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymovieinsiders.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymovieinsiders.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymusicpromotion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymusicpromotion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneynewseries.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneynewseries.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneynow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneynow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneypeoplesurveys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneypeoplesurveys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtci.technology"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtci.technology"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtci.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtci.co"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyredirects.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyredirects.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneysrivieraresort.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneysrivieraresort.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneystore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneystore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneystreaming.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneystreaming.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneysubscription.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneysubscription.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dmed.technology"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmed.technology"
+  },
+  {
+    "Type": 0,
+    "Value": "disneytvajobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneytvajobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyworld-go.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyworld-go.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dssott.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dssott.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go-disneyworldgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-disneyworldgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".go.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mickey.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mickey.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "moviesanywhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".moviesanywhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nomadlandmovie.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".nomadlandmovie.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "playmation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playmation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopdisney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopdisney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shops-disney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shops-disney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sorcerersarena.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sorcerersarena.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spaindisney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spaindisney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star-brasil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star-brasil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star-latam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star-latam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsgalacticstarcruiser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsgalacticstarcruiser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarskids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarskids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "streamingdisney.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".streamingdisney.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.asia"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.asia"
+  },
+  {
+    "Type": 0,
+    "Value": "thisispolaris.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thisispolaris.com"
+  },
+  {
+    "Type": 0,
+    "Value": "watchdisneyfe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".watchdisneyfe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "natgeomaps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".natgeomaps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nationalgeographic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nationalgeographic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nationalgeographicpartners.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nationalgeographicpartners.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ngeo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ngeo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starott.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starott.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edgedatg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgedatg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "abc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "abc-studios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abc-studios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulunetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulunetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulunet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulunet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluitaly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluitaly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluinstantmessenger.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluinstantmessenger.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluim.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluim.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulugo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulugo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulugermany.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulugermany.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulugans.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulugans.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulufree.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulufree.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulucall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulucall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluasks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluasks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluaction.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluaction.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.us"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huloo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".huloo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "huloo.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".huloo.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "hu1u.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hu1u.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hoolu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoolu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "hoolu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoolu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hooloo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".hooloo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "freehulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freehulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "findyourlimits.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".findyourlimits.com"
+  },
+  {
+    "Type": 0,
+    "Value": "callhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".callhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "112263.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".112263.com"
+  },
+  {
+    "Type": 0,
+    "Value": "castro.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".castro.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "boxofficemojo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".boxofficemojo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imdb.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb.to"
+  },
+  {
+    "Type": 0,
+    "Value": "media-imdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".media-imdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buzzsprout.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buzzsprout.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.az"
+  },
+  {
+    "Type": 0,
+    "Value": "ytimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ytimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "withyoutube.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".withyoutube.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtu.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtu.be"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube-nocookie.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube-nocookie.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yt.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".yt.be"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.al"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.al"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.am"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.at"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ba"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.be"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.by"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubemobilesupport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubemobilesupport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubekids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubekids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.id"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubegaming.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubegaming.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubefanfest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubefanfest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubeeducation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubeeducation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ug"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ug"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.soy"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.soy"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "ggpht.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ggpht.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.si"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.se"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sn"
+  },
+  {
+    "Type": 0,
+    "Value": "googlevideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".googlevideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.no"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ni"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ni"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.my"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.mn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.me"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.md"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.la"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.kz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.kz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.it"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.is"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.iq"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.iq"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.es"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.de"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "last.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".last.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "dmcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dm-event.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dm-event.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dailymotion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailymotion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "manhuagui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".manhuagui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeeuk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeeuk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeetv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeetv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeebioskop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeebioskop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zee5.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".zee5.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "zee5.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".zee5.in"
+  },
+  {
+    "Type": 0,
+    "Value": "zee5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zee5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "z5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".z5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "z5.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".z5.app"
+  },
+  {
+    "Type": 0,
+    "Value": "tver.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tver.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "screens-lab.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".screens-lab.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "gorin.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".gorin.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "dogatch.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".dogatch.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "viu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".viu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "viu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".viu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "wbdnbo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbdnbo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "boomerang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".boomerang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bcbits.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcbits.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bandcamp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bandcamp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gimy.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".gimy.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "gimy.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".gimy.to"
+  },
+  {
+    "Type": 0,
+    "Value": "gimy.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".gimy.co"
+  },
+  {
+    "Type": 0,
+    "Value": "gimy.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".gimy.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "nettyinternet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nettyinternet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtvce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtvce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "directv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".directv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "attwatchtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".attwatchtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atttvnow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atttvnow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "att.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".att.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "archiveofourown.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".archiveofourown.net"
+  },
+  {
+    "Type": 0,
+    "Value": "archiveofourown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".archiveofourown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "archiveofourown.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archiveofourown.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ao3.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ao3.org"
+  },
+  {
+    "Type": 0,
+    "Value": "twitchsvc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".twitchsvc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "twitchcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".twitchcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "twitch.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".twitch.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ttvnw.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ttvnw.net"
+  },
+  {
+    "Type": 0,
+    "Value": "live-video.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".live-video.net"
+  },
+  {
+    "Type": 0,
+    "Value": "jtvnw.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jtvnw.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ext-twitch.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ext-twitch.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "tmdb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmdb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "themoviedb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".themoviedb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "yourfantasybeginsnow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yourfantasybeginsnow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwtbam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwtbam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wheelpop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wheelpop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sonypicturestelevisiongames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonypicturestelevisiongames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sonypicturestelevision.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonypicturestelevision.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sonypicturesstudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonypicturesstudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sonypicturesmuseum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonypicturesmuseum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sonypicturesanimation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonypicturesanimation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sonypictures.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonypictures.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sonyclassics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sonyclassics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playshowtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playshowtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playshow.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".playshow.io"
+  },
+  {
+    "Type": 0,
+    "Value": "motionpictureser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".motionpictureser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imageworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imageworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kktix.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kktix.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kkbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kkbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kk.stream"
+  },
+  {
+    "Type": 1,
+    "Value": ".kk.stream"
+  },
+  {
+    "Type": 0,
+    "Value": "kfs.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".kfs.io"
+  },
+  {
+    "Type": 0,
+    "Value": "simg.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".simg.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nimg.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nimg.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nicovideo.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nicovideo.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nicoseiga.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nicoseiga.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "niconico.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niconico.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nicomanga.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nicomanga.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nicodic.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nicodic.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "blubrry.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blubrry.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nunuyy.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".nunuyy.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "dandanzan.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".dandanzan.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "chii.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".chii.in"
+  },
+  {
+    "Type": 0,
+    "Value": "bgm.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bgm.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "kingkongapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kingkongapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bangumi.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bangumi.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "mytvsuper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mytvsuper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tvb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mox.moe"
+  },
+  {
+    "Type": 1,
+    "Value": ".mox.moe"
+  },
+  {
+    "Type": 0,
+    "Value": "vol.moe"
+  },
+  {
+    "Type": 1,
+    "Value": ".vol.moe"
+  },
+  {
+    "Type": 0,
+    "Value": "iyf.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".iyf.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "dnvodcdn.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnvodcdn.me"
+  },
+  {
+    "Type": 0,
+    "Value": "pbs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pbs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pluto.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".pluto.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "plutotv.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".plutotv.net"
+  },
+  {
+    "Type": 0,
+    "Value": "max.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".max.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogoasia.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogoasia.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "forthethrone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forthethrone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogoasia.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogoasia.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "hboasia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hboasia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maxgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maxgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogoasia.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogoasia.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogo.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogo.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogoasia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogoasia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogoasia.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogoasia.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogoasia.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogoasia.id"
+  },
+  {
+    "Type": 0,
+    "Value": "discomax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".discomax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cinemax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cinemax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbomax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbomax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbomaxcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbomaxcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbonow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbonow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "brightline.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".brightline.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify.link"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifyjobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifyjobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifyforbrands.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifyforbrands.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycodes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycodes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycharts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycharts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tidal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tidalhifi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidalhifi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wimpmusic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wimpmusic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amebaowndme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amebaowndme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amebame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amebame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "abema-tv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abema-tv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "winticket.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".winticket.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "abema.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".abema.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ameba.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ameba.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "abema.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".abema.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "amebaownd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amebaownd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adx.promo"
+  },
+  {
+    "Type": 1,
+    "Value": ".adx.promo"
+  },
+  {
+    "Type": 0,
+    "Value": "ameblo.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ameblo.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "bucketeer.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".bucketeer.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "dokusho-ojikan.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".dokusho-ojikan.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hayabusa.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".hayabusa.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "hayabusa.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".hayabusa.io"
+  },
+  {
+    "Type": 0,
+    "Value": "hayabusa.media"
+  },
+  {
+    "Type": 1,
+    "Value": ".hayabusa.media"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amcn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amcn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amcnetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amcnetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amcplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amcplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ptzwx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ptzwx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quanben-xiaoshuo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".quanben-xiaoshuo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quanben.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".quanben.io"
+  },
+  {
+    "Type": 0,
+    "Value": "subscene.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".subscene.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwe9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwe9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haiwaikan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".haiwaikan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iole.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".iole.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "olehd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".olehd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "olelive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".olelive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "olevod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".olevod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "olevod.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".olevod.io"
+  },
+  {
+    "Type": 0,
+    "Value": "olevod.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".olevod.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "olevodtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".olevodtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "olemovienews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".olemovienews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "booth.pm"
+  },
+  {
+    "Type": 1,
+    "Value": ".booth.pm"
+  },
+  {
+    "Type": 0,
+    "Value": "fanbox.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".fanbox.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "pixiv.help"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixiv.help"
+  },
+  {
+    "Type": 0,
+    "Value": "pixiv.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixiv.me"
+  },
+  {
+    "Type": 0,
+    "Value": "pixiv.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixiv.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pixiv.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixiv.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pixiv-recommend.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixiv-recommend.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pximg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pximg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify.design"
+  },
+  {
+    "Type": 0,
+    "Value": "byspotify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byspotify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pscdn.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".pscdn.co"
+  },
+  {
+    "Type": 0,
+    "Value": "scdn.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".scdn.co"
+  },
+  {
+    "Type": 0,
+    "Value": "spoti.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".spoti.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify-everywhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify-everywhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "abematv.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".abematv.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "dlsite.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlsite.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "kktv.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".kktv.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "tra-ww000-cp.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tra-ww000-cp.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "hbomax-images.warnermediacdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbomax-images.warnermediacdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbogo.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbogo.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "kingkong.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".kingkong.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "content-ause1-ur-discovery1.uplynk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".content-ause1-ur-discovery1.uplynk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.at"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubeembeddedplayer.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubeembeddedplayer.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ke"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ke"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "kkbox.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".kkbox.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.tz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.tz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ug"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ug"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.az"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.by"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.do"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.gh"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.gh"
+  },
+  {
+    "Type": 0,
+    "Value": "zeetv.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeetv.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.hn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.hn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.jm"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.jm"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.lb"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.lb"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ni"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ni"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.om"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "pixiv.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixiv.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "tver.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tver.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubei.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubei.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "illusion.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".illusion.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.zw"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.zw"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "litvfreepc.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".litvfreepc.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "snk-corp.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".snk-corp.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nexoncdn.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexoncdn.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "hsprepack.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsprepack.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "20thcenturystudios.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".20thcenturystudios.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "20thcenturystudios.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".20thcenturystudios.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.gen.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.gen.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyplus.bn5x.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyplus.bn5x.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "disneytickets.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneytickets.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "beautyandthebeastmusical.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".beautyandthebeastmusical.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyturkiye.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyturkiye.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "gamer.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamer.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "bahamut.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".bahamut.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "bahamut.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bahamut.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "product.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".product.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "visualarts.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualarts.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sekai.colorfulpalette.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sekai.colorfulpalette.org"
+  },
+  {
+    "Type": 0,
+    "Value": "eakorea.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".eakorea.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "dungeonkeeper.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dungeonkeeper.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supercell.helpshift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.helpshift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "nexon.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexon.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "lolshop.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolshop.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "cygames.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".cygames.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "worldflipper.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".worldflipper.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "umamusume.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".umamusume.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api.podcast.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amp-api.podcast.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wide-youtube.l.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wide-youtube.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theater-kktv.cdn.hinet.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".theater-kktv.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.webra.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.webra.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.apac.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.apac.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.ru.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.ru.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.naeu.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.naeu.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbomaxdash.s.llnwi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbomaxdash.s.llnwi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bag.itunes.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bag.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bookeeper.itunes.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bookeeper.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-portal.my.onetrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-portal.my.onetrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbo.com.edgesuite.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbo.com.edgesuite.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.on.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.on.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.my.sentry.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.my.sentry.io"
+  },
+  {
+    "Type": 0,
+    "Value": "hbo.map.fastly.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbo.map.fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.eca.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.eca.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube-ui.l.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube-ui.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbo.com.c.footprint.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbo.com.c.footprint.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.slingshot.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.slingshot.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.orcon.net.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.orcon.net.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "edge.steam-dns.top.comcast.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".edge.steam-dns.top.comcast.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyplus.com.ssl.sc.omtrdc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyplus.com.ssl.sc.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^[0-9]+vod-adaptive\\.akamaized\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "(^|\\.)apiproxy-device-prod-nlb-.+\\.amazonaws\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "(^|\\.)apiproxy-website-nlb-prod-.+\\.amazonaws\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "(^|\\.)dualstack\\.apiproxy-.+\\.amazonaws\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "(^|\\.)dualstack\\.ichnaea-web-.+\\.amazonaws\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^epicgames-download\\d\\.akamaized\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^hses[1-7]?\\.akamaized\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^ewcdn[0-9]{2}\\.nowe\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.co"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.net"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.co"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sl916.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sl916.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mhystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mhystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mhyurl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mhyurl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mihayo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihayo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihayou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihayou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyocg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyocg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyogift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyogift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyomall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyomall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miyoushe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miyoushe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "benghuai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".benghuai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bh3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bh3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bhsr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bhsr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "themisweeps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".themisweeps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuanshen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuanshen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "juequling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".juequling.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^.+-mihayo\\.akamaized\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "kurogames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kurogames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aki-game.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aki-game.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lpl.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lpl.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "csgo.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".csgo.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dota2.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dota2.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wmsjsteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmsjsteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.clngaa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.clngaa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.ksyna.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.ksyna.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.bscstorage.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.bscstorage.net"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.eccdnx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.eccdnx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampowered.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampowered.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xz.pphimalayanrt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uplaypc-s-ubisoft.cdn.ubi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluearchive-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluearchive-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gog.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gogalaxy.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "menu-static.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "productcard.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "static-login.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www4-static.gog-statics.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^cdn-akamai-.+\\.gog-services\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^gog-cdn-.+\\.footprint\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^images(-\\d)?\\.gog-statics\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "legendofzelda.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".legendofzelda.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "legendofzelda.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".legendofzelda.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "miitomo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".miitomo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendolabo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendolabo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supersmashbros.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersmashbros.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supersmashbros.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersmashbros.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--mts47c3w9b1qr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mts47c3w9b1qr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supermariobros.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermariobros.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "battlecare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlecare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gameitop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameitop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gameloop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameloop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcstest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcstest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcstestonly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcstestonly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gclouddolphin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gclouddolphin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudsdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudsdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gdtimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gdtimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.org"
+  },
+  {
+    "Type": 0,
+    "Value": "happyhlddz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".happyhlddz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hdyxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdyxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkgcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkgcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ihappystudio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ihappystudio.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ihappystudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ihappystudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "in.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".in.th"
+  },
+  {
+    "Type": 0,
+    "Value": "ludosuperstar.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ludosuperstar.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ludoworld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ludoworld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongai.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongai.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.net"
+  },
+  {
+    "Type": 0,
+    "Value": "metalrevolution.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".metalrevolution.com"
+  },
+  {
+    "Type": 0,
+    "Value": "midasbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".midasbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nagcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nagcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "proximabeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".proximabeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pubghelper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubghelper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pubgno1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubgno1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pubgtool.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubgtool.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qqgameapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqgameapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rmwxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rmwxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skydweller.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".skydweller.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "syxlgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".syxlgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-gcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-gcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentstart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentstart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.net"
+  },
+  {
+    "Type": 0,
+    "Value": "timibase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timibase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videoxiaoyouxi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videoxiaoyouxi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wcbygame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wcbygame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yxdmgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yxdmgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yximg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yximg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yxwsgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yxwsgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yzyxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yzyxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zcjbgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zcjbgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zhuoyuegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhuoyuegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--owtw8cc49ajfl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--owtw8cc49ajfl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "roblox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".roblox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "roblox.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roblox.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "robloxdev.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".robloxdev.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nextstudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextstudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextworkshop.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextworkshop.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamebonfire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamebonfire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gouhuo.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gouhuo.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ffbuddy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ffbuddy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gotolink.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gotolink.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gtgres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtgres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realcybertron.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realcybertron.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegame.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegame.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wegameplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegameplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "werepository.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".werepository.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "brawlstars.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".brawlstars.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "haydaypop.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".haydaypop.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "labycore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".labycore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sccreator.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sccreator.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sccreators.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sccreators.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scescdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scescdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scid.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scid.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scsentry.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scsentry.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supercellcommunity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercellcommunity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supercellsupport.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercellsupport.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "codm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".codm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bcfmglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcfmglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcfmglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcfmglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anticheatexpert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anticheatexpert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "17roco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".17roco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "roco.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roco.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxlive.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxlive.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonprimevideo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonprimevideo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonprimevideo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonprimevideo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ggpht.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ggpht.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "byteoversea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byteoversea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "muscdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".muscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "musical.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".musical.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "tik-tokapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tik-tokapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktok.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktok.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokcdn-eu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokcdn-eu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokcdn-us.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokcdn-us.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokd.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokd.org"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokeu-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokeu-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokrow-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokrow-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokv.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokv.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokv.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokv.us"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokw.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokw.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "tiktokw.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiktokw.us"
+  },
+  {
+    "Type": 0,
+    "Value": "ttlivecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ttlivecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ttoverseaus.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ttoverseaus.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ttwstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ttwstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p16-tiktokcdn-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ads-pixiv.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads-pixiv.net"
+  }
+]

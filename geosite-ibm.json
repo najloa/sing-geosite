@@ -1,0 +1,150 @@
+[
+  {
+    "Type": 1,
+    "Value": ".ibm"
+  },
+  {
+    "Type": 1,
+    "Value": ".weatherchannel"
+  },
+  {
+    "Type": 1,
+    "Value": ".weather"
+  },
+  {
+    "Type": 0,
+    "Value": "appdomain.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".appdomain.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "bluemix.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluemix.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluemix.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluemix.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ibm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ibm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ibm.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".ibm.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "ibm.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ibm.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ibm.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".ibm.us"
+  },
+  {
+    "Type": 0,
+    "Value": "s-bluemix.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-bluemix.net"
+  },
+  {
+    "Type": 0,
+    "Value": "s81c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s81c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "consul.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".consul.io"
+  },
+  {
+    "Type": 0,
+    "Value": "hashicorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hashicorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nomadproject.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".nomadproject.io"
+  },
+  {
+    "Type": 0,
+    "Value": "packer.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".packer.io"
+  },
+  {
+    "Type": 0,
+    "Value": "terraform.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".terraform.io"
+  },
+  {
+    "Type": 0,
+    "Value": "vagrantcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vagrantcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vagrantup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vagrantup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vaultproject.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vaultproject.io"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "Type": 0,
+    "Value": "github-cloud.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubhackathon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubhackathon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ghcr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ghcr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubnext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubnext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubpreview.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubpreview.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "github.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "github.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.com"
+  },
+  {
+    "Type": 0,
+    "Value": "github.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.community"
+  },
+  {
+    "Type": 0,
+    "Value": "github.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "github.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubcopilot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubcopilot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dependabot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dependabot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "git.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".git.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubstatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubuniverse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubuniverse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myoctocat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myoctocat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opensource.guide"
+  },
+  {
+    "Type": 1,
+    "Value": ".opensource.guide"
+  },
+  {
+    "Type": 0,
+    "Value": "repo.new"
+  },
+  {
+    "Type": 1,
+    "Value": ".repo.new"
+  },
+  {
+    "Type": 0,
+    "Value": "thegithubshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thegithubshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atom.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".atom.io"
+  },
+  {
+    "Type": 0,
+    "Value": "npm.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".npm.community"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blob.core.windows.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".blob.core.windows.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^github-production-release-asset-[0-9a-zA-Z]{6}\\.s3\\.amazonaws\\.com$"
+  }
+]

@@ -1,0 +1,950 @@
+[
+  {
+    "Type": 1,
+    "Value": ".psk"
+  },
+  {
+    "Type": 0,
+    "Value": "belgorod.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".belgorod.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "chel.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".chel.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "gu-st.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".gu-st.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "emias.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".emias.info"
+  },
+  {
+    "Type": 0,
+    "Value": "mgfoms.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgfoms.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "edu.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".edu.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "cbr.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbr.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nalog.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nalog.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "mos.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".mos.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "mosreg.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".mosreg.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "spb.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".spb.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "sevastopol.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".sevastopol.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "sev.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".sev.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "adygeya.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".adygeya.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "bashkiria.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".bashkiria.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "buryatia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".buryatia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "chuvashia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".chuvashia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "crimea.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".crimea.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "dagestan.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".dagestan.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "grozny.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".grozny.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "i-ola.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".i-ola.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "izhevsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".izhevsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kalmykia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kalmykia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "karelia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".karelia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kazan.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kazan.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kchr.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kchr.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "khakassia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".khakassia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "mari-el.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".mari-el.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "mari.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".mari.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "mordovia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".mordovia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nalchik.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nalchik.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ptz.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ptz.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "rkomi.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".rkomi.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tatarstan.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tatarstan.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tuva.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tuva.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "udm.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".udm.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "udmurtia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".udmurtia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ulan-ude.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ulan-ude.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vladikavkaz.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vladikavkaz.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "yakutia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".yakutia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "altai.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".altai.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "chita.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".chita.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kamchatka.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kamchatka.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "khabarovsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".khabarovsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "khv.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".khv.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "krasnodar.su"
+  },
+  {
+    "Type": 1,
+    "Value": ".krasnodar.su"
+  },
+  {
+    "Type": 0,
+    "Value": "krasnoyarsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".krasnoyarsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kuban.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kuban.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "marine.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".marine.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "perm.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".perm.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "stavropol.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".stavropol.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "bir.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".bir.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vl.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vl.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vladivostok.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vladivostok.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "amur.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".amur.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "arkhangelsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".arkhangelsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "astrakhan.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".astrakhan.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "government.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".government.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "stv.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".stv.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "gosuslugi.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".gosuslugi.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "surgut.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".surgut.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "bryansk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".bryansk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "chelyabinsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".chelyabinsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ekburg.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ekburg.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--80acgfbsl1azdqr.xn--p1ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--80acgfbsl1azdqr.xn--p1ai"
+  },
+  {
+    "Type": 0,
+    "Value": "irk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".irk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "irkutsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".irkutsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ivanovo.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ivanovo.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "jar.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".jar.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kaluga.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kaluga.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kemerovo.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kemerovo.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kirov.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kirov.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "koenig.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".koenig.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kostroma.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kostroma.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kurgan.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kurgan.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "kursk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".kursk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "lipetsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".lipetsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "magadan.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".magadan.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "murmansk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".murmansk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nn.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nn.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nov.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nov.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "novosibirsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".novosibirsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "omsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".omsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "orb.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".orb.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "oryol.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".oryol.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "penza.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".penza.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "gov.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".gov.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "psk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".psk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "pskov.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".pskov.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "rnd.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".rnd.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ryazan.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ryazan.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "sakhalin.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".sakhalin.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "samara.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".samara.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "saratov.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".saratov.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "simbirsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".simbirsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "smolensk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".smolensk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tambov.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tambov.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tom.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tom.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tomsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tomsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tsaritsyn.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tsaritsyn.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tula.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tula.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tver.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tver.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "tyumen.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".tyumen.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vladimir.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vladimir.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vlg.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vlg.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "volgograd.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".volgograd.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vologda.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vologda.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "voronezh.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".voronezh.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vrn.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vrn.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vyatka.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vyatka.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "yaroslavl.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".yaroslavl.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "yuzhno-sakhalinsk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuzhno-sakhalinsk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "chukotka.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".chukotka.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "jamal.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".jamal.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "cbg.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbg.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "yamal.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamal.ru"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "abc-studios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abc-studios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "abc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edgedatg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgedatg.com"
+  }
+]

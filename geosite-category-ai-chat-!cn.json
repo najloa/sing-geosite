@@ -1,0 +1,378 @@
+[
+  {
+    "Type": 0,
+    "Value": "openaiapi-site.azureedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "openaicomproductionae4b.blob.core.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "production-openaicom-storage.azureedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "servd-anthropic-website.b-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ai.google.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "alkalicore-pa.clients6.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "poe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".poe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openart.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".openart.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "notebooklm.google"
+  },
+  {
+    "Type": 1,
+    "Value": ".notebooklm.google"
+  },
+  {
+    "Type": 0,
+    "Value": "clipdrop.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".clipdrop.co"
+  },
+  {
+    "Type": 0,
+    "Value": "dify.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".dify.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "grok.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".grok.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meta.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".meta.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "poecdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".poecdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "groq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".groq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chatgpt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chatgpt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oaistatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oaistatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oaiusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oaiusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sora.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sora.com"
+  },
+  {
+    "Type": 0,
+    "Value": "generativeai.google"
+  },
+  {
+    "Type": 1,
+    "Value": ".generativeai.google"
+  },
+  {
+    "Type": 0,
+    "Value": "deepmind.google"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepmind.google"
+  },
+  {
+    "Type": 0,
+    "Value": "deepmind.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepmind.com"
+  },
+  {
+    "Type": 0,
+    "Value": "claudeusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".claudeusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "perplexity.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".perplexity.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "claude.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".claude.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "jasper.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".jasper.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "anthropic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anthropic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "x.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".x.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "cursor-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cursor-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cursor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cursor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cursor.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".cursor.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "cursorapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cursorapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chatgpt.livekit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".chatgpt.livekit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "notebooklm.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".notebooklm.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "turn.livekit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".turn.livekit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "host.livekit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".host.livekit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "geller-pa.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geller-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makersuite.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".makersuite.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "proactivebackend-pa.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".proactivebackend-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "generativelanguage.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".generativelanguage.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aistudio.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aistudio.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bard.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bard.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gemini.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemini.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gateway.ai.cloudflare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateway.ai.cloudflare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openai.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".openai.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "o33249.ingest.sentry.io"
+  },
+  {
+    "Type": 0,
+    "Value": "openaicom.imgix.net"
+  },
+  {
+    "Type": 0,
+    "Value": "browser-intake-datadoghq.com"
+  }
+]

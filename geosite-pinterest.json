@@ -1,0 +1,418 @@
+[
+  {
+    "Type": 0,
+    "Value": "pinterest.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.at"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.es"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.engineering"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.engineering"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.co"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.th"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.se"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "pin.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".pin.it"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "pinimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.de"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterestmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterestmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.be"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.id"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.in"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.info"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.it"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.co.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.co.at"
+  },
+  {
+    "Type": 0,
+    "Value": "pinterest.map.fastly.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinterest.map.fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pinimg.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pinimg.com.cdn.cloudflare.net"
+  }
+]

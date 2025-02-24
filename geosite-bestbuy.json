@@ -1,0 +1,658 @@
+[
+  {
+    "Type": 0,
+    "Value": "bby.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bby.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycastatic.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycastatic.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycontent.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycontent.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bbyintl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbyintl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbyurl.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbyurl.us"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbhy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbhy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-audio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-audio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-communityrelations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-communityrelations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-giftcard.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-giftcard.info"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-int.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-int.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-jobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-jobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.info"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy24x7solutions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy24x7solutions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuybusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuybusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuybusinessadvantageaccount.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuybusinessadvantageaccount.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycanada.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycanada.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycanada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycanada.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycanadaltd.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycanadaltd.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycharityclassic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycharityclassic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycoffeemakers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycoffeemakers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyethics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyethics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyforbusiness.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyforbusiness.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuygsm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuygsm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyideax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyideax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyphotoworkshoptours.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyphotoworkshoptours.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyrewards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyrewards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyrewardzone.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyrewardzone.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuysgeeksquad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuysgeeksquad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuysolutions.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuysolutions.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuystores.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuystores.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuytradein.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuytradein.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "besztbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".besztbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bextbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bextbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bienvenuechezbestbuy.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bienvenuechezbestbuy.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "cowboom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cowboom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "futureshop.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".futureshop.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "initproducts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".initproducts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mybestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mybestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mybestbuyclaims.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mybestbuyclaims.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myrewardzone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myrewardzone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myrz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myrz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pacifickitchenandhome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pacifickitchenandhome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiendabestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiendabestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unbrandedproducts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unbrandedproducts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "welcometobestbuy.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".welcometobestbuy.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "wolfatbestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wolfatbestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wolfatbestbuy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wolfatbestbuy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "www-bestbuystores.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".www-bestbuystores.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squad-support.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squad-support.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squad.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squad.org"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squads.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squads.net"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadcares.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadcares.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadcentral.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadcentral.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadforums.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadforums.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadprotectionplan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadprotectionplan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadservices.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadservices.org"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadwebroot.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadwebroot.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gscanada.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".gscanada.info"
+  },
+  {
+    "Type": 0,
+    "Value": "gsccdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gsccdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gslink.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".gslink.us"
+  },
+  {
+    "Type": 0,
+    "Value": "onlinegeeksquad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onlinegeeksquad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rocketfishproducts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocketfishproducts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dealtree.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dealtree.org"
+  },
+  {
+    "Type": 0,
+    "Value": "techliquidators.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techliquidators.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "magnoliaav.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".magnoliaav.com.cn"
+  }
+]

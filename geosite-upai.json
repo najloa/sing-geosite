@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "aicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "upai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".upai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "upaiyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".upaiyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "upcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".upcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "upyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".upyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oncdp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oncdp.com"
+  }
+]

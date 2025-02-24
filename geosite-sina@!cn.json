@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "hk.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hk.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "overseas.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".overseas.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sg.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sg.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "th.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".th.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tw.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tw.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "us.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".us.weibo.com"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "Type": 0,
+    "Value": "blogspot.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.al"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.al"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.am"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ba"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.be"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.bj"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.bj"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.cf"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.cf"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ug"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ug"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.de"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.sn"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.sn"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.si"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.se"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.re"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.re"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.no"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.my"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.cv"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.cv"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "blogblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.td"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.td"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.in"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.is"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.it"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.li"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.md"
+  },
+  {
+    "Type": 0,
+    "Value": "blogger.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogger.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.co.ke"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.co.ke"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.by"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.co.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.co.at"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "blogspot.com.cy"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogspot.com.cy"
+  }
+]

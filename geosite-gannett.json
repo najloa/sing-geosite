@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "gannett-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gannett-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gannett.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gannett.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gannettdigital.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gannettdigital.com"
+  },
+  {
+    "Type": 0,
+    "Value": "usatoday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".usatoday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "usatodaynetworkservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".usatodaynetworkservice.com"
+  }
+]

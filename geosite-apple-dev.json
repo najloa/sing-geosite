@@ -1,0 +1,278 @@
+[
+  {
+    "Type": 0,
+    "Value": "notary-submissions-prod.s3-accelerate.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "notary-submissions-prod.s3.us-west-2.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appleworldwidedeveloper.hb-api.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "appleworldwidedeveloper.sc.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "p-events-delivery.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "macruby.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".macruby.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cups.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cups.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macruby.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".macruby.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swift.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".swift.org"
+  },
+  {
+    "Type": 0,
+    "Value": "appleswift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appleswift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webobjects.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webobjects.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wpewebkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wpewebkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "calendarserver.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".calendarserver.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macruby.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".macruby.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macosforge.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".macosforge.org"
+  },
+  {
+    "Type": 0,
+    "Value": "servicetalk.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".servicetalk.io"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-cloudkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-cloudkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foundationdb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".foundationdb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-mapkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webkitgtk.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".webkitgtk.org"
+  },
+  {
+    "Type": 0,
+    "Value": "carekit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".carekit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "researchandcare.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchandcare.org"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.net"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "webkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".webkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "timestamp.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timestamp.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playgrounds-cdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playgrounds-cdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developerservices2.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".developerservices2.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devstreaming-cdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".devstreaming-cdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devimages-cdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".devimages-cdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".developer.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.com.cn"
+  }
+]

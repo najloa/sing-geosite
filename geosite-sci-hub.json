@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "sci-hub.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".sci-hub.se"
+  },
+  {
+    "Type": 0,
+    "Value": "sci-hub.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".sci-hub.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "sci-hub.st"
+  },
+  {
+    "Type": 1,
+    "Value": ".sci-hub.st"
+  },
+  {
+    "Type": 0,
+    "Value": "sci-hub.it.nf"
+  },
+  {
+    "Type": 1,
+    "Value": ".sci-hub.it.nf"
+  },
+  {
+    "Type": 0,
+    "Value": "sci-hub.mksa.top"
+  },
+  {
+    "Type": 1,
+    "Value": ".sci-hub.mksa.top"
+  },
+  {
+    "Type": 0,
+    "Value": "sci.hubg.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sci.hubg.org"
+  }
+]

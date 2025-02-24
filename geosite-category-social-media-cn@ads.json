@@ -1,0 +1,570 @@
+[
+  {
+    "Type": 0,
+    "Value": "2016.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".2016.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adbox.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adbox.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adimages.sina.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".adimages.sina.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "adimg.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adimg.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adimg.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adimg.uve.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adm.leju.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adm.leju.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.sina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alitui.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alitui.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api.apps.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.apps.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appgift.sinaapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appgift.sinaapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appsupdate.sinaapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appsupdate.sinaapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atm.sina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atm.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beacon.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beacon.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "biz.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biz.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "click.uve.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.uve.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "click.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.uve.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "contentrecommend-out.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".contentrecommend-out.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "count.video.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".count.video.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "counter.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".counter.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cre.dp.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cre.dp.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cre-dp.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cre-dp.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "d00.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".d00.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dcads.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcads.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.kjava.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.kjava.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dmp.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmp.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dp.im.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dp.im.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "game.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".game.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "game.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".game.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gw5.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gw5.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gw6.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gw6.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "int.dpool.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".int.dpool.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "interest.mix.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".interest.mix.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "log.mix.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.mix.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "log.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mg.games.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mg.games.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "newspush.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".newspush.sinajs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oascentral.sina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oascentral.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oascentral.sina.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".oascentral.sina.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "p4p.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".p4p.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "palmnews.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".palmnews.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pay.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pay.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pfp.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pfp.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pfpip.sina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pfpip.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "promote.biz.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".promote.biz.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "rm.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".rm.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "rs.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".rs.sinajs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "s.img.mix.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.img.mix.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sapi.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sapi.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sax.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sax.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sax.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sax.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "saxn.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".saxn.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "saxs.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".saxs.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sbeacon.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sbeacon.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sdkapp.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdkapp.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sdkapp.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdkapp.uve.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sdkclick.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdkclick.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "slog.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".slog.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "slog.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".slog.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "staticadm.leju.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticadm.leju.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tjs.sjs.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tjs.sjs.sinajs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trends.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trends.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "u1.img.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".u1.img.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wapwbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wapwbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbapp.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbapp.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbapp.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbapp.uve.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbpctips.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbpctips.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "widget.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".widget.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "woocall.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".woocall.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zymo.mps.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zymo.mps.weibo.com"
+  }
+]

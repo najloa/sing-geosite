@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "8btc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".8btc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bystack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bystack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chainnode.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chainnode.com"
+  },
+  {
+    "Type": 0,
+    "Value": "matpool.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".matpool.com"
+  },
+  {
+    "Type": 0,
+    "Value": "matpool.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".matpool.net"
+  }
+]

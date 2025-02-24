@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "rust-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rust-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rustup.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".rustup.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "crates.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".crates.io"
+  },
+  {
+    "Type": 0,
+    "Value": "docs.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".docs.rs"
+  }
+]

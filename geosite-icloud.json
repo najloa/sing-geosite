@@ -1,0 +1,406 @@
+[
+  {
+    "Type": 0,
+    "Value": "www-cdn.icloud.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "applemx-icloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".applemx-icloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud-content.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud-content.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud-isupport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud-isupport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud-sandbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud-sandbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.de"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.is"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.om"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.org"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.se"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.si"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudads.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudads.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudbox.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudbox.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudbrowser.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudbrowser.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloude.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloude.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudhome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudhome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudmail.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudmail.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudmusic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudmusic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudnet.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudnet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudpay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudpay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudo.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudo.de"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudos.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudos.de"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudos.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudos.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudsecure.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudsecure.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudsetup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudsetup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ios-icloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ios-icloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "me.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".me.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myicloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".myicloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mylcloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mylcloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-icloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-icloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appleicloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appleicloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud-apple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud-apple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudapple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudapple.cn"
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "Type": 0,
+    "Value": "adcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appforebay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appforebay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectedcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectedcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.yn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.yn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.zj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.zj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayadvertising.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayadvertising.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydesc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydesc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydesc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydesc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypedia.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypedia.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypedia.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypedia.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshopping.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshopping.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshopping.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshopping.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystores.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystores.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "half.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".half.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "prostores.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".prostores.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "prostores.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".prostores.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--7hvy28f.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--7hvy28f.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijidns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijidns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijidns.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijidns.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mobileinternational.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobileinternational.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "booking.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".booking.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-dt.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-dt.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-internal.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-internal.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-system.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-system.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "magnoliaav.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".magnoliaav.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gucci.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gucci.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hm.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hm.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "minisohome.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisohome.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "minsio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".minsio.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "just-do-it.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".just-do-it.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-shox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-shox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikechina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikechina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikegolf.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikegolf.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeid.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeid.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeid.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeid.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeinc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeinc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikelab.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikelab.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikelab.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikelab.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeliuxiang.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeliuxiang.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeliuxiang.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeliuxiang.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikemall.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikemall.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikemall.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikemall.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunclub.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunclub.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunclub.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunclub.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunning.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunning.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikestore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikestore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "shopeesz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopeesz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "walmart.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmart.cn"
+  }
+]

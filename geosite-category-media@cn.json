@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "cn-cdn1.skymansion.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-cdn1.skymansion.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "etnet.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".etnet.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "etnetchina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".etnetchina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "thetype.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".thetype.cloud"
+  }
+]

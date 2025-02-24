@@ -1,0 +1,102 @@
+[
+  {
+    "Type": 0,
+    "Value": "bcovlive-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bcsecure01-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "brightcove.imgix.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bcove.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcove.video"
+  },
+  {
+    "Type": 0,
+    "Value": "bcovlive.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcovlive.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bcvp0rtal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcvp0rtal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "boltdns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".boltdns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "brightcove.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".brightcove.com"
+  },
+  {
+    "Type": 0,
+    "Value": "brightcove.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".brightcove.net"
+  },
+  {
+    "Type": 0,
+    "Value": "brightcove.services"
+  },
+  {
+    "Type": 1,
+    "Value": ".brightcove.services"
+  },
+  {
+    "Type": 0,
+    "Value": "brightcovecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".brightcovecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videojs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videojs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zencdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".zencdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "zencoder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zencoder.com"
+  }
+]

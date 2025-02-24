@@ -1,0 +1,134 @@
+[
+  {
+    "Type": 0,
+    "Value": "battlebreakers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlebreakers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eac-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eac-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easy.ac"
+  },
+  {
+    "Type": 1,
+    "Value": ".easy.ac"
+  },
+  {
+    "Type": 0,
+    "Value": "easyanticheat.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".easyanticheat.net"
+  },
+  {
+    "Type": 0,
+    "Value": "epicgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epicgames.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicgames.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "epicgamescdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicgamescdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fortnite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fortnite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paragon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paragon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playparagon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playparagon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "roborecall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roborecall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shadowcomplex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shadowcomplex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spyjinx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spyjinx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unrealengine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unrealengine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unrealtournament.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unrealtournament.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^epicgames-download\\d\\.akamaized\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  }
+]

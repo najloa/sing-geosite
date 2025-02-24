@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "graph.instagram.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".graph.instagram.com"
+  },
+  {
+    "Type": 0,
+    "Value": "graph-fallback.instagram.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".graph-fallback.instagram.com"
+  }
+]

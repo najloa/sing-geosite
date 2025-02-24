@@ -1,0 +1,46 @@
+[
+  {
+    "Type": 0,
+    "Value": "gigabyte2.azureedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sa78gs.wpc.edgecastcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sni1dcb6gl.wpc.edgecastcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aorus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aorus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gigabyte.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gigabyte.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aoruszone.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aoruszone.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gigabyte.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gigabyte.cn"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "javdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".javdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jdbimgs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jdbimgs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jdbstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jdbstatic.com"
+  }
+]

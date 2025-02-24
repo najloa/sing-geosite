@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "chinanews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinanews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ecns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "inewsweek.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".inewsweek.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinanews.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinanews.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cns.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cns.com.cn"
+  }
+]

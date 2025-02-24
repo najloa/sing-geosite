@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "cdn.jetbrains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn.jetbrains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download-cdn.jetbrains.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".download-cdn.jetbrains.com.cn"
+  }
+]

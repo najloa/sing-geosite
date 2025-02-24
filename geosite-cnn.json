@@ -1,0 +1,74 @@
+[
+  {
+    "Type": 0,
+    "Value": "cnn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnn.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnn.io"
+  },
+  {
+    "Type": 0,
+    "Value": "cnn.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnn.it"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnarabic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnarabic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnlabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnlabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnmoney.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnmoney.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnmoney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnmoney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnmoneystream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnmoneystream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnpolitics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnpolitics.com"
+  }
+]

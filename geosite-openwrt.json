@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "openwrt.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openwrt.org"
+  },
+  {
+    "Type": 0,
+    "Value": "lede-project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lede-project.org"
+  }
+]

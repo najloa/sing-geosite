@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "embed.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".embed.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "embedly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".embedly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playerjs.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".playerjs.io"
+  }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "Type": 0,
+    "Value": "aigc-cloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aigc-cloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdegnine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdegnine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bplslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bplslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bpltm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bpltm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "byte-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byte-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "byte-dns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".byte-dns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bytehouse.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytehouse.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "byteinspire.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".byteinspire.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "byteinspire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byteinspire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytevdn-boe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytevdn-boe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytevdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytevdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cache4ever.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cache4ever.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cache666.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cache666.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudendpoint.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudendpoint.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "douyincloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyincloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "douyincloud.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".douyincloud.run"
+  },
+  {
+    "Type": 0,
+    "Value": "dycloudbk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dycloudbk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dycloud.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".dycloud.run"
+  },
+  {
+    "Type": 0,
+    "Value": "emr-volces.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".emr-volces.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feilian.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".feilian.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "iccvlog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iccvlog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ifeilian.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifeilian.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ifeilian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifeilian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inspirecloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".inspirecloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "inspirecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".inspirecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "isealsuite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".isealsuite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ivolces.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ivolces.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kfcbest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kfcbest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kych5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kych5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "multilingual-volc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".multilingual-volc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qingfuwuapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingfuwuapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qingfuwucdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingfuwucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qingfuwu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingfuwu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qingfuwu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingfuwu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slbauto.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slbauto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sms18.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sms18.com"
+  },
+  {
+    "Type": 0,
+    "Value": "toutiaopanapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".toutiaopanapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "toutiaopan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".toutiaopan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ttgslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ttgslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ttgtm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ttgtm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vecdnlb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vecdnlb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vecloudgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vecloudgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vedcdnlb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vedcdnlb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vedsalb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vedsalb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veefdev.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veefdev.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veew-alb-cn1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veew-alb-cn1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veew-alb-cn2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veew-alb-cn2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veew-alb-ts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veew-alb-ts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vegalb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vegalb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vegslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vegslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vegtm.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vegtm.net"
+  },
+  {
+    "Type": 0,
+    "Value": "veicplive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veicplive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ve-imcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ve-imcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vemarsdev.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vemarsdev.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vemarsstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vemarsstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vemarsweb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vemarsweb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vertciot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vertciot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vestack.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".vestack.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "ve-trafficroute.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ve-trafficroute.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ve-trafficroute.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ve-trafficroute.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volcadocean.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcadocean.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcadvc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcadvc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcalb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcalb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcautovod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcautovod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcbiz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcbiz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcca.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcca.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volcca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcca.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcca.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volccdn1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volccdn1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volccdn2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volccdn2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volccdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volccdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volccdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volccdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcddos001.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcddos001.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcddos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcddos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcdem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcdem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcdlspace.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcdlspace.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volc-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volc-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcdns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcdns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volc-dns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volc-dns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volc-dns.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".volc-dns.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "volcdns.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcdns.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "volceapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volceapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volceapplog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volceapplog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcecr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcecr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcecw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcecw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volc-embed.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volc-embed.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcenginapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcenginapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcenginealb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcenginealb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcengineapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcengineapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcengine.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcengine.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volcengine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcengine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcengine-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcengine-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcenginedns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcenginedns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcengine-dns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcengine-dns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volcenginedns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcenginedns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volcengine.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcengine.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volcenginepaas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcenginepaas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volces.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volces.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfake.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfake.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfcdnbyte.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfcdnbyte.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfcdndvs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfcdndvs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfcdnplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfcdnplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfcdnrd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfcdnrd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfcdnsc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfcdnsc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcfxgjrtm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcfxgjrtm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcgroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcgroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcgslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcgslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcgtm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcgtm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volciad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volciad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcimagex.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcimagex.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volcimagex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcimagex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcimagex.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcimagex.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volcimagextest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcimagextest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcmagicpage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcmagicpage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcmcdn1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcmcdn1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcmcdn2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcmcdn2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcmcdn3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcmcdn3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcmcdn4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcmcdn4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcmgs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcmgs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcmusecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcmusecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcocic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcocic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcopjrtm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcopjrtm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcpartner.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcpartner.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcpartner.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcpartner.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volcsiriusbd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcsiriusbd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcsirius.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcsirius.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcspaceeduc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcspaceeduc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volctracer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volctracer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volctrack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volctrack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volctraffic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volctraffic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volctranscdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volctranscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcvideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcvideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcvideos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcvideos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcvms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcvms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcvod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcvod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcwaf001.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcwaf001.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volcwaf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volcwaf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "writingo-editor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".writingo-editor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "writingo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".writingo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ytxptd.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ytxptd.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ytxptz.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ytxptz.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zebracdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zebracdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zjytxd.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zjytxd.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zjytxp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zjytxp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zvip.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zvip.cn"
+  }
+]

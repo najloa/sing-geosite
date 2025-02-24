@@ -1,0 +1,70 @@
+[
+  {
+    "Type": 0,
+    "Value": "mdn.mozillademos.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mdn.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdn.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "mdnplay.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdnplay.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "mdnyalp.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdnyalp.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.allizom.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".developer.allizom.org"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.mozilla.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".developer.mozilla.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mdn.allizom.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdn.allizom.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mdn.mozilla.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdn.mozilla.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mdn.mozit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdn.mozit.cloud"
+  }
+]

@@ -1,0 +1,870 @@
+[
+  {
+    "Type": 0,
+    "Value": "p1-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p2-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p3-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p4-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p5-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p6-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p7-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p8-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p9-juejin.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openmidas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openmidas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qq.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".qq.design"
+  },
+  {
+    "Type": 0,
+    "Value": "qqgamedesign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqgamedesign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-cloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-cloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-cloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-cloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.design"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tjstats.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tjstats.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegamedeveloper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegamedeveloper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weixinbridge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weixinbridge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tipdim.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tipdim.org"
+  },
+  {
+    "Type": 0,
+    "Value": "segmentfault.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".segmentfault.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sifou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sifou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mysxl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysxl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sxl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sxl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sxlcdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sxlcdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apifox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apifox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apifox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apifox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deepin.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "deepin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deepin.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.io"
+  },
+  {
+    "Type": 0,
+    "Value": "deepin.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.org"
+  },
+  {
+    "Type": 0,
+    "Value": "chinauos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinauos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uniontech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uniontech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dengguobi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dengguobi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "houyicaiji.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".houyicaiji.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jinglingbiaozhu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jinglingbiaozhu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitee.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitee.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ruby-china.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ruby-china.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rubyconfchina.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rubyconfchina.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openkylin.top"
+  },
+  {
+    "Type": 1,
+    "Value": ".openkylin.top"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntukylin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntukylin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xueyuanjun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xueyuanjun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apipost.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apipost.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apipost.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".apipost.net"
+  },
+  {
+    "Type": 0,
+    "Value": "baltamatica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baltamatica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coding.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".coding.me"
+  },
+  {
+    "Type": 0,
+    "Value": "coding.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".coding.net"
+  },
+  {
+    "Type": 0,
+    "Value": "goproxy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".goproxy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "goproxy.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".goproxy.io"
+  },
+  {
+    "Type": 0,
+    "Value": "jinrishici.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jinrishici.com"
+  },
+  {
+    "Type": 0,
+    "Value": "juejin.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".juejin.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "juejin.im"
+  },
+  {
+    "Type": 1,
+    "Value": ".juejin.im"
+  },
+  {
+    "Type": 0,
+    "Value": "xitu.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".xitu.io"
+  },
+  {
+    "Type": 0,
+    "Value": "oschina.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".oschina.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aixcoder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aixcoder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nnthink.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nnthink.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blogjava.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogjava.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cnblogs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnblogs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnitblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnitblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnweblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnweblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cppblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cppblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "phpweblog.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".phpweblog.net"
+  },
+  {
+    "Type": 0,
+    "Value": "teachblog.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".teachblog.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gitcode.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitcode.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitchat.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitchat.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "csdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".csdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "kaifayun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kaifayun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "csdnimg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".csdnimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "csto.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".csto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "csdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".csdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitbook.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitbook.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "datasea.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".datasea.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "codechina.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".codechina.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gitcode.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitcode.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iteye.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iteye.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pgyer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pgyer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tracup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tracup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "frontjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".frontjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "asktug.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asktug.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pingcap.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pingcap.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pingcap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pingcap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tidb.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidb.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "tidb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tidbcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidbcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tikv.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tikv.org"
+  },
+  {
+    "Type": 0,
+    "Value": "csdn.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".csdn.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "programmer.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".programmer.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "programmer.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".programmer.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "weui.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".weui.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bisheng.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bisheng.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bishengcompiler.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bishengcompiler.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "devui.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".devui.design"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gneec7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gneec7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harmonyos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harmonyos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hiascend.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiascend.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hiascend.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiascend.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hiclc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiclc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hikunpeng.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hikunpeng.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hisilicon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hisilicon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hisilicon.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hisilicon.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweiapaas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweiapaas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mindspore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mindspore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "owsgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".owsgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teleows.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teleows.com"
+  },
+  {
+    "Type": 0,
+    "Value": "saasops.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".saasops.tech"
+  }
+]

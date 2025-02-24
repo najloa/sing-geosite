@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "cdn.jsdelivr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "jsdelivr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jsdelivr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jsdelivr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jsdelivr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "esm.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".esm.run"
+  }
+]

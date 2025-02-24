@@ -1,0 +1,78 @@
+[
+  {
+    "Type": 0,
+    "Value": "moocs.unipus.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "opencourse.pku.edu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "study.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chinesemooc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinesemooc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cnmooc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnmooc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "icourse163.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".icourse163.org"
+  },
+  {
+    "Type": 0,
+    "Value": "icourses.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icourses.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mooc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mooc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "openlearning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openlearning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pmphmooc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pmphmooc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icve.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icve.com.cn"
+  }
+]

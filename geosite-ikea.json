@@ -1,0 +1,762 @@
+[
+  {
+    "Type": 0,
+    "Value": "ikea.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.be"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "ingkacentres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingkacentres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.us"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.si"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.de"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.om"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.no"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.my"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.at"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.it"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.is"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.in"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.do"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.es"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.in"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.cy"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.cy"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.om"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.do"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.de"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.om"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.de"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.at"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-dt.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-dt.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-internal.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-internal.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-system.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-system.cn"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "Type": 0,
+    "Value": "digital-id.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".digital-id.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "digitalid.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".digitalid.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "managed-pki.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".managed-pki.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "managed-pki.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".managed-pki.de"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-post.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pki-post.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-posta.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pki-posta.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-poste.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pki-poste.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "root-signing.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".root-signing.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "rootsigning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rootsigning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl-certificate.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssl-certificate.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swissid.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissid.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swissign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swissign.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissign.li"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign-group.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign-group.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign-group.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign-group.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign-group.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign-group.li"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.li"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.org"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigner.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigner.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigner.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigner.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigngroup.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigngroup.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigngroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigngroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swissstick.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissstick.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisstsa.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisstsa.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisstsa.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisstsa.li"
+  },
+  {
+    "Type": 0,
+    "Value": "trustdoc.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustdoc.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "trustsign.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustsign.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "zert.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".zert.ch"
+  }
+]

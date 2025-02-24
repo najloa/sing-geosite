@@ -1,0 +1,994 @@
+[
+  {
+    "Type": 0,
+    "Value": "fireemblemawakening.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fireemblemawakening.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiipartyu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiipartyu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ayudanintendo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ayudanintendo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bowsersinsidestory.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bowsersinsidestory.com"
+  },
+  {
+    "Type": 0,
+    "Value": "excitebots.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".excitebots.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flipnotestudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flipnotestudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gloryofheracles.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gloryofheracles.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hackyourconsole.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hackyourconsole.com"
+  },
+  {
+    "Type": 0,
+    "Value": "100classicbooks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".100classicbooks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kirbysepicyarn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kirbysepicyarn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miitomo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miitomo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miiverse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miiverse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nentindo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nentindo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo-europe-sales.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo-europe-sales.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo-europe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo-europe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.at"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.be"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.de"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.es"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "xenoblade.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xenoblade.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiivc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiivc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.it"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.no"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.se"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo3ds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo3ds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendodsi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendodsi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoeurope.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoeurope.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendonetwork.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendonetwork.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendonyc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendonyc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendostore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendostore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitchtogether.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitchtogether.com"
+  },
+  {
+    "Type": 0,
+    "Value": "personaltrainermath.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".personaltrainermath.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playnintendo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playnintendo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thelegendarystarfy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thelegendarystarfy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thewonderful101.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thewonderful101.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wariolandshakeit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wariolandshakeit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wariowarediy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wariowarediy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yoshisnewisland.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yoshisnewisland.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ac-pocketcamp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ac-pocketcamp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "diddykongracing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".diddykongracing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dkr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dkr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonmysterydungeon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonmysterydungeon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amiibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amiibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kirbysuperstarultra.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kirbysuperstarultra.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dialga.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dialga.com"
+  },
+  {
+    "Type": 0,
+    "Value": "giratina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".giratina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kyurem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyurem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokedex3d.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokedex3d.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-moon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-moon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-sun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-sun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-sunmoon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-sunmoon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon-unitepgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon-unitepgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonbank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonbank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonblackwhite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonblackwhite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonbw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonbw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonchampionships.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonchampionships.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemongoldsilver.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemongoldsilver.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonhome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonhome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonletsgoeevee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonletsgoeevee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonletsgopikachu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonletsgopikachu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "donkeykongcountryreturns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".donkeykongcountryreturns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonpicross.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonpicross.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonplatinum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonplatinum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonrubysapphire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonrubysapphire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonsunmoon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonsunmoon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonswordshield.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonswordshield.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonultrasunmoon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonultrasunmoon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonvgc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonvgc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pokemonwifi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pokemonwifi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--mts47c3w9b1qr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mts47c3w9b1qr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "splatoon2tournament.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".splatoon2tournament.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starfox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starfox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "drmario-world.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".drmario-world.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marioandluigidreamteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marioandluigidreamteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariobroswii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariobroswii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mariosupersluggers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariosupersluggers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsupermariobrosu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsupermariobrosu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermario.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermario.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermario3dworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermario3dworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermariogalaxy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermariogalaxy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supermariorun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermariorun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "superpapermario.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".superpapermario.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendowii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendowii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wii-u.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wii-u.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiifit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiifit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiifitu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiifitu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fire-emblem-heroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fire-emblem-heroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiisports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiisports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiisportsresort.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiisportsresort.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiiugamepad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiiugamepad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendo.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendo.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "legendofzelda.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".legendofzelda.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "legendofzelda.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".legendofzelda.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "miitomo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".miitomo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendolabo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendolabo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supersmashbros.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersmashbros.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supersmashbros.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersmashbros.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--mts47c3w9b1qr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mts47c3w9b1qr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supermariobros.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermariobros.com.cn"
+  }
+]

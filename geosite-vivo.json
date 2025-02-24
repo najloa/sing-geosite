@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "vivo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vivo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vivo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".vivo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "vivoglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vivoglobal.com"
+  }
+]

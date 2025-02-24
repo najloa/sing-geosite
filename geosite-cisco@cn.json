@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "cisco.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cisco.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "network-auth.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".network-auth.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "webex.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".webex.com.cn"
+  }
+]

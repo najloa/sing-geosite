@@ -1,0 +1,98 @@
+[
+  {
+    "Type": 0,
+    "Value": "zdns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.info"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "zcmbc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zcmbc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zdns.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdns.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zdns.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdns.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnscloud.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnscloud.org.cn"
+  }
+]

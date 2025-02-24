@@ -1,0 +1,98 @@
+[
+  {
+    "Type": 0,
+    "Value": "www.speedtest.net.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnst.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnst.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cellmaps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cellmaps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ekahau.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".ekahau.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "ekahau.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ekahau.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ookla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ookla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ooklaserver.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ooklaserver.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pingtest.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pingtest.net"
+  },
+  {
+    "Type": 0,
+    "Value": "speedtest.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedtest.co"
+  },
+  {
+    "Type": 0,
+    "Value": "speedtest.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedtest.net"
+  },
+  {
+    "Type": 0,
+    "Value": "speedtestcustom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedtestcustom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webtest.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".webtest.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$"
+  }
+]

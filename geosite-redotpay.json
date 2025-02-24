@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "redotpay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redotpay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redotpay.zendesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redotpay.zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pod-15-sunco-ws.zendesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pod-15-sunco-ws.zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xhpjc6-cdn-settings.appsflyersdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xhpjc6-cdn-settings.appsflyersdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rp-static-apne1.s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rp-static-apne1.s3.ap-northeast-1.amazonaws.com"
+  }
+]

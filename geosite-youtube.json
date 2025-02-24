@@ -1,0 +1,1406 @@
+[
+  {
+    "Type": 1,
+    "Value": ".youtube"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.az"
+  },
+  {
+    "Type": 0,
+    "Value": "ytimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ytimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "withyoutube.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".withyoutube.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtu.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtu.be"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube-nocookie.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube-nocookie.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yt.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".yt.be"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.al"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.al"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.am"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.at"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ba"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.be"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.by"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubemobilesupport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubemobilesupport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubekids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubekids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.id"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubegaming.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubegaming.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubefanfest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubefanfest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubeeducation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubeeducation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ug"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ug"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.soy"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.soy"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "ggpht.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ggpht.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.si"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.se"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.sn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.sn"
+  },
+  {
+    "Type": 0,
+    "Value": "googlevideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".googlevideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.pa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.no"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ni"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ni"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.my"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.mn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.me"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.md"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.lk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.lk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.la"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.kz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.kz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.it"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.is"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.iq"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.iq"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.es"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.de"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.zw"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.zw"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.pa"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.om"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ni"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ni"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.lb"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.lb"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.jm"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.jm"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.hn"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.hn"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.gh"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.gh"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.do"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.by"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.az"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ug"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ug"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.tz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.tz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ke"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ke"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubeembeddedplayer.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubeembeddedplayer.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubego.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubego.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "youtubei.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtubei.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.at"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube.co.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube.co.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "youtube-ui.l.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube-ui.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wide-youtube.l.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wide-youtube.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ggpht.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ggpht.cn"
+  }
+]

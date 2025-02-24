@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "mikrotik.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mikrotik.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mt.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mt.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "mynetname.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mynetname.net"
+  },
+  {
+    "Type": 0,
+    "Value": "routerboard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".routerboard.com"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "Type": 0,
+    "Value": "az764295.vo.msecnd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bingsettingssearch.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "default.exp-tas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.visualstudio.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtlgalleryint.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "poshtestgallery.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "psg-int-centralus.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "psg-int-eastus.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rink.hockeyapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-sync-insiders.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-sync.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.blob.core.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.search.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vsmarketplacebadge.apphb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adaptivecards.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".adaptivecards.io"
+  },
+  {
+    "Type": 0,
+    "Value": "api-extractor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api-extractor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apisof.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".apisof.net"
+  },
+  {
+    "Type": 0,
+    "Value": "appcenter.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".appcenter.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "blazor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".blazor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "botframework.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".botframework.com"
+  },
+  {
+    "Type": 0,
+    "Value": "codethemicrobit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".codethemicrobit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devopsassessment.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".devopsassessment.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dot.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dot.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamesstack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamesstack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "graphengine.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".graphengine.io"
+  },
+  {
+    "Type": 0,
+    "Value": "insiderdevtour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insiderdevtour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jwt.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwt.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "microbit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microbit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftadc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftadc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftgamestack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftgamestack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftiotinsiderlabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftiotinsiderlabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.info"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsqlserver.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsqlserver.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mmdnn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mmdnn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mono-project.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mono-project.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msinnovationchallenge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msinnovationchallenge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mspairlift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mspairlift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msropendata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msropendata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nuget.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nuget.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nugettest.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nugettest.org"
+  },
+  {
+    "Type": 0,
+    "Value": "opentranslatorstothings.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opentranslatorstothings.org"
+  },
+  {
+    "Type": 0,
+    "Value": "poshtestgallery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".poshtestgallery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pwabuilder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pwabuilder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankie.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankie.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sqlserveronlinux.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sqlserveronlinux.com"
+  },
+  {
+    "Type": 0,
+    "Value": "timelinestoryteller.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timelinestoryteller.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uwpcommunitytoolkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uwpcommunitytoolkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio-staging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio-staging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.co"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsforgit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsforgit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsforgit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsforgit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vsassets.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vsassets.io"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-unpkg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode-unpkg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "xamarin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xamarin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "reactorms.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactorms.com.cn"
+  }
+]

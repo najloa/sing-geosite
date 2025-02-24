@@ -1,0 +1,1390 @@
+[
+  {
+    "Type": 0,
+    "Value": "cdn.js7k.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo"
+  },
+  {
+    "Type": 1,
+    "Value": ".flickr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ps"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ps"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.at"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.az"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ba"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.be"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bs"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bs"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.by"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cd"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cd"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cm"
+  },
+  {
+    "Type": 0,
+    "Value": "staticflickr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticflickr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flickr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".flickr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "flickr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flickr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flic.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".flic.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "yusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ymail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ymail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yimg.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yimg.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yho.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yho.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoosportsbook.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoosportsbook.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoosandbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoosandbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoomusic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoomusic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoohealth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoohealth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoofinance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoofinance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoodns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoodns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yahooapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahooapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "techcrunch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techcrunch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myguide.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".myguide.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "maktoob.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maktoob.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ws"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ws"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.vg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.vg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.as"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.as"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.de"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.st"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.st"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.so"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.so"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.is"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.si"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.dj"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.dj"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.se"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.rw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.rw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.am"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.pn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.pn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.nu"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.nu"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.no"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.mw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.mw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.me"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.md"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.la"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.je"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.je"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.it"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.dm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.dm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.es"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gp"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gy"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gy"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.im"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.im"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.in"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.bz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.bz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.vc"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.vc"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.tj"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.tj"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sb"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sb"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pa"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.om"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.nf"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.nf"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.na"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.na"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.lb"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.lb"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.gi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.gi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.fj"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.fj"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.do"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ag"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ag"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.af"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.af"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo-news.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo-news.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.vi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.vi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.uz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.uz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.tz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.tz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.mz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.mz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.ck"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.ck"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.bw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.bw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.ao"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.ao"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gemini.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemini.yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ysm.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ysm.yahoo.com"
+  }
+]

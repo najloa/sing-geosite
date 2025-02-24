@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "flyme.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".flyme.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "flyme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flyme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flymeauto.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flymeauto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meizu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".meizu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "meizu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meizu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mzres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mzres.com"
+  }
+]

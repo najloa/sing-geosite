@@ -1,0 +1,22 @@
+[
+  {
+    "Type": 1,
+    "Value": ".target"
+  },
+  {
+    "Type": 0,
+    "Value": "target.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".target.com"
+  },
+  {
+    "Type": 0,
+    "Value": "targetimg1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".targetimg1.com"
+  }
+]

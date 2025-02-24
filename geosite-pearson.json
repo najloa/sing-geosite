@@ -1,0 +1,746 @@
+[
+  {
+    "Type": 0,
+    "Value": "pearsonassessment.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessment.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "mypearsonenglish.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".mypearsonenglish.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "activeteachonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".activeteachonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "addison-wesley.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".addison-wesley.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "adobepress.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobepress.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--pearsonenespaol-brb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--pearsonenespaol-brb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ciscopress.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".ciscopress.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "connectionsacademy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectionsacademy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "connectionseducation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectionseducation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "connectionslearning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectionslearning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "themathsfactor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".themathsfactor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ecpa.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecpa.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "talentlens.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".talentlens.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ilongman.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ilongman.com"
+  },
+  {
+    "Type": 0,
+    "Value": "integral7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".integral7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stark-verlag.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".stark-verlag.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "longman.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".longman.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "mut.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".mut.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "myhelpinglab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhelpinglab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mylogiclab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mylogiclab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mypearson.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mypearson.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonassessment.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessment.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "pvue2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvue2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mypearsonshop.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".mypearsonshop.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "mysocialworklab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysocialworklab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pvue1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvue1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson-anaya.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson-anaya.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson-intl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson-intl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson-schule.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson-schule.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson-studium.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson-studium.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonassessment.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessment.de"
+  },
+  {
+    "Type": 0,
+    "Value": "pobl-content.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pobl-content.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonvue.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonvue.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonvue.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonvue.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonperu.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonperu.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsononlineacademy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsononlineacademy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonlongman.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonlongman.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.es"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonactivelearn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonactivelearn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonassessment.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessment.be"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonhighered.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonhighered.com"
+  },
+  {
+    "Type": 0,
+    "Value": "internationalconnectionsacademy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".internationalconnectionsacademy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonassessment.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessment.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonassessment.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessment.no"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonassessment.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessment.se"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonassessments.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonassessments.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoncanada.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoncanada.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.be"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonenespanol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonenespanol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonelt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonelt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonelt.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonelt.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.de"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.es"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.in"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.no"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.se"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoncmg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoncmg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoncred.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoncred.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoneducationbooks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoneducationbooks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoned.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoned.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoneducacion.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoneducacion.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "activelearnprimary.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".activelearnprimary.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoned.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoned.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsoninstitute.ac.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsoninstitute.ac.za"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "btec.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".btec.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonschoolsandfecolleges.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonschoolsandfecolleges.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonclinical.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonclinical.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "netname.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".netname.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "mypearsonshop.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".mypearsonshop.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "quatrum.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".quatrum.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "activelearnprimary.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".activelearnprimary.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "escapestudios.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".escapestudios.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "dombosco.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".dombosco.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "pearsonplaces.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearsonplaces.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "pearson.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pearson.com.cn"
+  }
+]

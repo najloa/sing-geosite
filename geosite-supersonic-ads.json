@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "supersonic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersonic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supersonicads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersonicads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssacdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssacdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supersonicads-a.akamaihd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersonicads-a.akamaihd.net"
+  }
+]

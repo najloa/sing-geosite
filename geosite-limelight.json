@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "delvenetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".delvenetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "limelight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".limelight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lldns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".lldns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "llnw-trials.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".llnw-trials.com"
+  },
+  {
+    "Type": 0,
+    "Value": "llnw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".llnw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "llnw.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".llnw.net"
+  },
+  {
+    "Type": 0,
+    "Value": "llnwd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".llnwd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "llnwi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".llnwi.net"
+  }
+]

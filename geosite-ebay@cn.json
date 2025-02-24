@@ -1,0 +1,298 @@
+[
+  {
+    "Type": 0,
+    "Value": "adcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appforebay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appforebay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectedcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectedcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.yn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.yn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.zj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.zj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayadvertising.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayadvertising.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydesc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydesc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydesc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydesc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypedia.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypedia.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypedia.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypedia.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshopping.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshopping.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshopping.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshopping.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystores.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystores.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "half.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".half.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "prostores.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".prostores.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "prostores.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".prostores.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--7hvy28f.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--7hvy28f.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijidns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijidns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijidns.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijidns.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mobileinternational.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobileinternational.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.cn"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "kumiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kumiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ykimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ykimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mmstat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mmstat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "soku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".soku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cibntv.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cibntv.net"
+  }
+]

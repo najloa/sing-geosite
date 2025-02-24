@@ -1,0 +1,1846 @@
+[
+  {
+    "Type": 1,
+    "Value": ".baidu"
+  },
+  {
+    "Type": 0,
+    "Value": "91.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".91.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aipage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aipage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "antpcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".antpcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apollo.auto"
+  },
+  {
+    "Type": 1,
+    "Value": ".apollo.auto"
+  },
+  {
+    "Type": 0,
+    "Value": "baidu-cdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidu-cdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "baidu-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidu-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baidu-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidu-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "baidu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baiduapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baiduapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baidubce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidubce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baidubcr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidubcr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baiducontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baiducontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baidupcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidupcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baidustatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidustatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baiduyuncdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".baiduyuncdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "baiduyuncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baiduyuncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baiduyuncdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".baiduyuncdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "baifae.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baifae.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baifubao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baifubao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bce-cdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bce-cdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bce-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bce-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bce-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bce-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bcebos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcebos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdcloudapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdcloudapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdtjrcv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdtjrcv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdurl.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdurl.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bdycdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdycdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bdycdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdycdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bdydns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdydns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bdydns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdydns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdydns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdydns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "chuanke.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chuanke.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dlnel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlnel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dlnel.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlnel.org"
+  },
+  {
+    "Type": 0,
+    "Value": "duapp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".duapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "duapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duurl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".duurl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dwz.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dwz.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hao123.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hao123.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hao123img.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hao123img.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hao222.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hao222.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haokan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".haokan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jomocdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".jomocdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "jomocdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jomocdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "jomodns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".jomodns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "jomodns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jomodns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jomodns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jomodns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mipcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mipcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nuomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nuomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quyaoya.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".quyaoya.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shifen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shifen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "smartapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".smartapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tieba.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tieba.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiebaimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiebaimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xianfae.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xianfae.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xiaodutv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiaodutv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duxiaoman-int.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duxiaoman-int.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duxiaoman.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duxiaoman.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duxiaomanfintech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duxiaomanfintech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duxiaomantech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duxiaomantech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxm-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxm-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxm-int.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxm-int.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxmlcf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxmlcf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxmlcfintech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxmlcfintech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxmpay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxmpay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxmstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxmstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxmyqh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxmyqh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paydxm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paydxm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zuoyebang.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".zuoyebang.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "zuoyebang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zuoyebang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zybang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zybang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baidu.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidu.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "a.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".a.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.duapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.duapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.player.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.player.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adm.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adm.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adscdn.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adscdn.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adx.xiaodutv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adx.xiaodutv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ae.bdstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ae.bdstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "afd.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".afd.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "als.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".als.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api.mobula.sdk.duapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.mobula.sdk.duapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api.tuisong.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.tuisong.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appc.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appc.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "b.bdstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".b.bdstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baichuan.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baichuan.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baidutv.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baidutv.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "banlv.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".banlv.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bar.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bar.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bdplus.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bdplus.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "btlaunch.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".btlaunch.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".c.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cb.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cb.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbjs.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbjs.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cjhq.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cjhq.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cleaner.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cleaner.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "click.bes.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.bes.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "click.qianqian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.qianqian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cm.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cm.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpro.baidu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpro.baidu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cpro.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpro.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpro.baidustatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpro.baidustatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpro.tieba.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpro.tieba.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpro.zhidao.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpro.zhidao.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpro2.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpro2.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpro2.baidustatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpro2.baidustatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpu.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpu.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crs.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crs.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cstm.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cstm.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "datax.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".datax.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dd713.bj.bcebos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dd713.bj.bcebos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.client.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.client.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.ops.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.ops.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl1sw.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl1sw.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl2.bav.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl2.bav.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dlsw.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlsw.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dlsw.br.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlsw.br.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dlswbr.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlswbr.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl-vip.bav.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl-vip.bav.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl-vip.pcfaster.baidu.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl-vip.pcfaster.baidu.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "download.bav.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".download.bav.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.sd.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".download.sd.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "drmcmm.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".drmcmm.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duiwai.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duiwai.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dup.baidustatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dup.baidustatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dxp.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dxp.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dzl.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dzl.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eclick.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eclick.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ecma.bdimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecma.bdimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ecmb.bdimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecmb.bdimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ecmc.bdimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecmc.bdimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eduad.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eduad.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eiv.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eiv.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "em.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".em.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "entry.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".entry.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ers.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ers.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "f10.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".f10.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fc-feed.cdn.bcebos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fc-feed.cdn.bcebos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fclick.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fclick.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fclog.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fclog.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "feed.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".feed.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".g.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gimg.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gimg.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goutong.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".goutong.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp1.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gsp1.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guanjia.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".guanjia.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hao123union.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hao123union.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hc.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hc.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hm.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hm.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hmma.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hmma.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hpd.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hpd.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "idm.bce.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".idm.bce.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "idm-su.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".idm-su.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iebar.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iebar.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ikcode.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikcode.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "img.taotaosou.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".img.taotaosou.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "img01.taotaosou.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".img01.taotaosou.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "imgstat.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imgstat.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iwanad.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iwanad.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "j.br.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".j.br.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kstj.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kstj.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.music.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.music.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lxbjs.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lxbjs.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m1.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".m1.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ma.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ma.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miao.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miao.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mobads.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobads.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mobads-logs.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobads-logs.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mpro.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mpro.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msite.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msite.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "neirong.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".neirong.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nsclick.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nsclick.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nsclickvideo.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nsclickvideo.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openrcv.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openrcv.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pc.videoclick.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pc.videoclick.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pos.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pos.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pups.bdimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pups.bdimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "push.zhanzhang.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".push.zhanzhang.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qianclick.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qianclick.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "release.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".release.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "res.mi.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".res.mi.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rigel.baidustatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rigel.baidustatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "river.zhidao.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".river.zhidao.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rj.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rj.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rplog.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rplog.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sa.tuisong.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sa.tuisong.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sclick.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sclick.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sestat.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sestat.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shadu.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shadu.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "share.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".share.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sobar.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sobar.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sobartop.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sobartop.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spcode.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spcode.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stat.v.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stat.v.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "su.bdimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".su.bdimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "su.bdstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".su.bdstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tk.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tk.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tkweb.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tkweb.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tob-cms.bj.bcebos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tob-cms.bj.bcebos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tongji.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tongji.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "toolbar.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".toolbar.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tracker.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tracker.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tuijian.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tuijian.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uat1.bfsspadserver.8le8le.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uat1.bfsspadserver.8le8le.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubmcmm.baidustatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubmcmm.baidustatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucstat.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucstat.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ulic.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ulic.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ulog.imap.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ulog.imap.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "union.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".union.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unionimage.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unionimage.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "utility.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".utility.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "utk.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".utk.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videopush.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videopush.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vv84.bj.bcebos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vv84.bj.bcebos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "w.gdown.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".w.gdown.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "w.x.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".w.x.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wangmeng.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wangmeng.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weishi.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weishi.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wenku-cms.bj.bcebos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wenku-cms.bj.bcebos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wisepush.video.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wisepush.video.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wkctj.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wkctj.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wm.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wm.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "znsv.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".znsv.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zz.bdstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zz.bdstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zzy1.quyaoya.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zzy1.quyaoya.com"
+  }
+]

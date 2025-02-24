@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "imgur.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imgur.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imgur.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".imgur.io"
+  },
+  {
+    "Type": 0,
+    "Value": "imgurinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imgurinc.com"
+  }
+]

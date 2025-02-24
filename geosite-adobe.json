@@ -1,0 +1,1554 @@
+[
+  {
+    "Type": 0,
+    "Value": "3dns-1.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "3dns-2.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "3dns-3.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "3dns-4.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "3dns-5.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "3dns.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "activate-sea.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "activate-sjc0.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "activate.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "activate.wip1.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "activate.wip2.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "activate.wip3.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "activate.wip4.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-dns-1.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-dns-2.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-dns-3.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-dns-4.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-dns.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeereg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.versign.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ereg.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ereg.wip.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ereg.wip1.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ereg.wip2.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ereg.wip3.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ereg.wip4.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hl2rcv.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hlrcv.stage.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lm.licenses.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lmlicenses.wip4.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na1r.services.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ood.opsource.net"
+  },
+  {
+    "Type": 0,
+    "Value": "practivate.adobe"
+  },
+  {
+    "Type": 0,
+    "Value": "practivate.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "practivate.adobe.ipp"
+  },
+  {
+    "Type": 0,
+    "Value": "practivate.adobe.newoa"
+  },
+  {
+    "Type": 0,
+    "Value": "practivate.adobe.ntp"
+  },
+  {
+    "Type": 0,
+    "Value": "wip.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wip1.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wip2.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wip3.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wip4.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip100.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip101.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip102.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip103.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip104.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip105.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip106.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip107.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip108.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip109.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip110.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip111.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip112.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip113.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip114.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip115.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip116.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip117.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip118.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip119.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip120.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip121.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip122.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip123.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip124.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip125.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip30.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip31.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip32.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip33.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip34.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip35.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip36.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip37.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip38.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip39.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip40.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip41.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip42.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip43.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip44.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip45.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip46.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip47.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip48.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip49.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip50.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip51.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip52.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip53.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip54.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip55.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip56.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip57.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip58.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip59.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip60.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip61.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip62.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip63.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip64.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip65.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip66.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip67.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip68.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip69.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip70.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip71.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip72.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip73.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip74.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip75.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip76.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip77.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip78.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip79.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip80.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip81.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip82.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip83.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip84.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip85.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip86.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip87.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip88.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip89.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip90.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip91.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip92.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip93.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip94.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip95.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip96.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip97.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip98.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwis-dubc1-vip99.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "10xfotolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".10xfotolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "2o7.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".2o7.net"
+  },
+  {
+    "Type": 0,
+    "Value": "acrobat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acrobat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adbecrsl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adbecrsl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-aemassets-value.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobe-aemassets-value.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-audience-finder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobe-audience-finder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe-video-partner-finder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobe-video-partner-finder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobe.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeaemcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeaemcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeaemcloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeaemcloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeawards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeawards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobecontent.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobecontent.io"
+  },
+  {
+    "Type": 0,
+    "Value": "adobecreativityawards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobecreativityawards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobedc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobedc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "adobedemo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobedemo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobedtm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobedtm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeexchange.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeexchange.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeexperienceawards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeexperienceawards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobegov.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobegov.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobehiddentreasures.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobehiddentreasures.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobejanus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobejanus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobelanding.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobelanding.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobelogin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobelogin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeoobe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeoobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeplatinumclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeplatinumclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeprojectm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeprojectm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobesc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobesc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobesign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobesign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobesigncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobesigncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobespark.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobespark.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobess.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobess.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobestock.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobestock.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobetag.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobetag.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobetarget.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobetarget.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobetcstrialdvd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobetcstrialdvd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobetechcomm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobetechcomm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobetechcommcallback.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobetechcommcallback.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobetechcommdemo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobetechcommdemo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobexdplatform.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobexdplatform.com"
+  },
+  {
+    "Type": 0,
+    "Value": "assetsadobe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".assetsadobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "authorxml.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".authorxml.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businesscatalyst.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".businesscatalyst.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ccnsite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ccnsite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ccpsx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ccpsx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "demdex.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".demdex.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dollarfotoclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dollarfotoclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dollarphotoclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dollarphotoclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dollarphotosclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dollarphotosclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "douwriteright.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".douwriteright.com"
+  },
+  {
+    "Type": 0,
+    "Value": "echocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".echocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "echosign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".echosign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edgefonts.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgefonts.net"
+  },
+  {
+    "Type": 0,
+    "Value": "enablementadobe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enablementadobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ftcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ftcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gostorego.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gostorego.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imagineecommerce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imagineecommerce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "macromedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".macromedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "magentoliveconference.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".magentoliveconference.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marketing-nirvana.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketing-nirvana.com"
+  },
+  {
+    "Type": 0,
+    "Value": "omniture.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".omniture.com"
+  },
+  {
+    "Type": 0,
+    "Value": "omtrdc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "photoshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".photoshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "placesdocs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".placesdocs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sundanceignite2016.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sundanceignite2016.com"
+  },
+  {
+    "Type": 0,
+    "Value": "worldsecureemail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".worldsecureemail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "worldsecuresystems.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".worldsecuresystems.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobe.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobe.io"
+  },
+  {
+    "Type": 0,
+    "Value": "developria.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".developria.com"
+  },
+  {
+    "Type": 0,
+    "Value": "behance.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".behance.net"
+  },
+  {
+    "Type": 0,
+    "Value": "s2stagehance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s2stagehance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobecc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobecc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobecce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobecce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adobeccstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobeccstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "creativecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".creativecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "creativesdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".creativesdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cotolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cotolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ffotolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ffotolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fiotolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fiotolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foftolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foftolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fonolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fonolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fotiolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fotiolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fotoiia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fotoiia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fotolia-noticias.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fotolia-noticias.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fotolia.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".fotolia.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "fotolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fotolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fotolia.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".fotolia.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "fotolja.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fotolja.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fptolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fptolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gfotolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gfotolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "motolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".motolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "photolia.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".photolia.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tenbyfotolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tenbyfotolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "votolia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".votolia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluefootcms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluefootcms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mageconf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mageconf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "magento.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".magento.com"
+  },
+  {
+    "Type": 0,
+    "Value": "magento.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".magento.net"
+  },
+  {
+    "Type": 0,
+    "Value": "magentocommerce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".magentocommerce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "magentomobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".magentomobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marketing-cloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketing-cloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marketo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marketo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "marketo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "marketodesigner.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketodesigner.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marketolive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketolive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mktdns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mktdns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mkto-c0100.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mkto-c0100.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mktorest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mktorest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mktroute.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mktroute.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mobilemarketo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobilemarketo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "revenue-performance-management.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".revenue-performance-management.com"
+  },
+  {
+    "Type": 0,
+    "Value": "toutapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".toutapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "compresspdf.new"
+  },
+  {
+    "Type": 1,
+    "Value": ".compresspdf.new"
+  },
+  {
+    "Type": 0,
+    "Value": "pdf.new"
+  },
+  {
+    "Type": 1,
+    "Value": ".pdf.new"
+  },
+  {
+    "Type": 0,
+    "Value": "sign.new"
+  },
+  {
+    "Type": 1,
+    "Value": ".sign.new"
+  },
+  {
+    "Type": 0,
+    "Value": "scene7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".scene7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "typekit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".typekit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "typekit.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".typekit.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mageconf.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".mageconf.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "marketo.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketo.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "adobedc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adobedc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "advertising.adobe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".advertising.adobe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tubemogul.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tubemogul.com"
+  }
+]

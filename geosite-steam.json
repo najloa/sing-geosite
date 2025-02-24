@@ -1,0 +1,342 @@
+[
+  {
+    "Type": 0,
+    "Value": "f3b7q2p3.ssl.hwcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steambroadcast.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcdn-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcommunity-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steammobile.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe-kr.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe-partner.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstore-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamusercontent-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamuserimages-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamvideo-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamdeck.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamdeck.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "steam-api.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam-api.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam-chat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam-chat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcommunity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamcommunity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamcontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamcontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s.team"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.team"
+  },
+  {
+    "Type": 0,
+    "Value": "steamgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampowered.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampowered.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamserver.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamserver.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "valvesoftware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".valvesoftware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "underlords.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".underlords.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playartifact.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playartifact.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.apac.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.apac.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.eca.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.eca.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.naeu.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.naeu.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.ru.qtlglb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.ru.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.on.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.on.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.webra.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.webra.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "edge.steam-dns.top.comcast.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".edge.steam-dns.top.comcast.net"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.orcon.net.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.orcon.net.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "steam.cdn.slingshot.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".steam.cdn.slingshot.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "csgo.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".csgo.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dota2.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dota2.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wmsjsteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmsjsteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.clngaa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.clngaa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.ksyna.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.ksyna.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.bscstorage.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.bscstorage.net"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.eccdnx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.eccdnx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampowered.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampowered.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xz.pphimalayanrt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamchina.com"
+  }
+]

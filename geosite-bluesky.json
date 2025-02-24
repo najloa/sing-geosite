@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "bsky.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".bsky.app"
+  },
+  {
+    "Type": 0,
+    "Value": "bsky.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".bsky.network"
+  },
+  {
+    "Type": 0,
+    "Value": "bsky.social"
+  },
+  {
+    "Type": 1,
+    "Value": ".bsky.social"
+  }
+]

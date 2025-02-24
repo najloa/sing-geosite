@@ -1,0 +1,94 @@
+[
+  {
+    "Type": 0,
+    "Value": "fandom.zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cursecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cursecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fandom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fandom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wikia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wikia.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikia.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dndbeyond.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dndbeyond.com"
+  },
+  {
+    "Type": 0,
+    "Value": "futhead.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".futhead.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gamepedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamepedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "muthead.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".muthead.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cortexrpg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cortexrpg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fanatical.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fanatical.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wikia.nocookie.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikia.nocookie.net"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "Type": 0,
+    "Value": "a2z.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".a2z.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonwebservices.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonwebservices.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "asfiovnxocqpcry.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".asfiovnxocqpcry.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-border.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-border.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-icp-domain-manager.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-icp-domain-manager.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsapps.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsapps.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsstatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsstatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront-cn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdcloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdcloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcddns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcddns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdinfosec.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdinfosec.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "route53.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".route53.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sagemaker.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sagemaker.com.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.amzndns-cn\\.(biz|cn|com|net)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
+  }
+]

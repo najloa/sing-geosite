@@ -1,0 +1,170 @@
+[
+  {
+    "Type": 0,
+    "Value": "ipns.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipns.co"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.tech"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflare-ipfs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflare-ipfs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cf-ipfs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cf-ipfs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs-gateway.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs-gateway.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "c4rex.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".c4rex.co"
+  },
+  {
+    "Type": 0,
+    "Value": "via0.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".via0.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nftstorage.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".nftstorage.link"
+  },
+  {
+    "Type": 0,
+    "Value": "jorropo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jorropo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "crustwebsites.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".crustwebsites.net"
+  },
+  {
+    "Type": 0,
+    "Value": "4everland.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".4everland.io"
+  },
+  {
+    "Type": 0,
+    "Value": "dweb.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".dweb.link"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.anonymize.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.anonymize.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.runfission.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.runfission.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gateway.pinata.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateway.pinata.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.eternum.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.eternum.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.best-practice.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.best-practice.se"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.lain.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.lain.la"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.fleek.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.fleek.co"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.eth.aragon.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.eth.aragon.network"
+  }
+]

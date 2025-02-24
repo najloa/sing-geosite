@@ -1,0 +1,974 @@
+[
+  {
+    "Type": 0,
+    "Value": "instant.arubanetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "setmeup.arubanetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "asusrouter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "router.asus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.asusrouter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oasisauth.h3c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "routerlogin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.routerlogin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tplogin.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "miwifi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.miwifi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lan"
+  },
+  {
+    "Type": 1,
+    "Value": ".localdomain"
+  },
+  {
+    "Type": 1,
+    "Value": ".example"
+  },
+  {
+    "Type": 1,
+    "Value": ".invalid"
+  },
+  {
+    "Type": 1,
+    "Value": ".localhost"
+  },
+  {
+    "Type": 1,
+    "Value": ".test"
+  },
+  {
+    "Type": 1,
+    "Value": ".local"
+  },
+  {
+    "Type": 0,
+    "Value": "plex.direct"
+  },
+  {
+    "Type": 1,
+    "Value": ".plex.direct"
+  },
+  {
+    "Type": 0,
+    "Value": "phicomm.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".phicomm.me"
+  },
+  {
+    "Type": 0,
+    "Value": "ts.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ts.net"
+  },
+  {
+    "Type": 0,
+    "Value": "home.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".home.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "zte.home"
+  },
+  {
+    "Type": 1,
+    "Value": ".zte.home"
+  },
+  {
+    "Type": 0,
+    "Value": "tplinkwifi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tplinkwifi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tendawifi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tendawifi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hiwifi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiwifi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leike.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".leike.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "router.ctc"
+  },
+  {
+    "Type": 1,
+    "Value": ".router.ctc"
+  },
+  {
+    "Type": 0,
+    "Value": "my.router"
+  },
+  {
+    "Type": 1,
+    "Value": ".my.router"
+  },
+  {
+    "Type": 0,
+    "Value": "peiluyou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".peiluyou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "0.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".0.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "127.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".127.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "test.steampowered.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".test.steampowered.com"
+  },
+  {
+    "Type": 0,
+    "Value": "10.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".10.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "81.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".81.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "93.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".93.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "30.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".30.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "31.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".31.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "16.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".16.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "17.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".17.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "28.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".28.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "168.192.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".168.192.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "254.169.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".254.169.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "18.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".18.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "19.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".19.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "localhost.ptlogin2.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".localhost.ptlogin2.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "localhost.sec.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".localhost.sec.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "20.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".20.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "21.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".21.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "22.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".22.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "23.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".23.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "d.f.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".d.f.ip6.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "64.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".64.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "65.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".65.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "66.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".66.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "67.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".67.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "68.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".68.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "69.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".69.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "70.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".70.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "71.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".71.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "72.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".72.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "73.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".73.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "74.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".74.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "75.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".75.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "76.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".76.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "77.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".77.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "78.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".78.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "79.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".79.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "80.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".80.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "27.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".27.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "82.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".82.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "83.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".83.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "84.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".84.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "85.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".85.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "86.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".86.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "87.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".87.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "88.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".88.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "89.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".89.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "90.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".90.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "91.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".91.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "92.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".92.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "29.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".29.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "94.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".94.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "95.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".95.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "96.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".96.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "97.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".97.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "98.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".98.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "99.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".99.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "100.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".100.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "101.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".101.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "102.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".102.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "103.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".103.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "104.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".104.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "105.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".105.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "106.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".106.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "107.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".107.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "108.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".108.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "109.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".109.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "110.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".110.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "111.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".111.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "112.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".112.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "113.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".113.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "114.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".114.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "115.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".115.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "116.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".116.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "117.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".117.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "118.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".118.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "119.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".119.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "120.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".120.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "121.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".121.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "122.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".122.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "123.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".123.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "124.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".124.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "125.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".125.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "126.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".126.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "127.100.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".127.100.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "26.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".26.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "25.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".25.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "24.172.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".24.172.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "b.e.f.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".b.e.f.ip6.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "a.e.f.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".a.e.f.ip6.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "9.e.f.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".9.e.f.ip6.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "8.e.f.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".8.e.f.ip6.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "113.0.203.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".113.0.203.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "100.51.198.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".100.51.198.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "2.0.192.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".2.0.192.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "255.255.255.255.in-addr.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".255.255.255.255.in-addr.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "8.b.d.0.1.0.0.2.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".8.b.d.0.1.0.0.2.ip6.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"
+  },
+  {
+    "Type": 0,
+    "Value": "0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"
+  },
+  {
+    "Type": 3,
+    "Value": "^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$"
+  }
+]

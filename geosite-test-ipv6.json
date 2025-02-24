@@ -1,0 +1,202 @@
+[
+  {
+    "Type": 0,
+    "Value": "test-ipv6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "testipv6.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".testipv6.de"
+  },
+  {
+    "Type": 0,
+    "Value": "sixte.st"
+  },
+  {
+    "Type": 1,
+    "Value": ".sixte.st"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.se"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.is"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.epic.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.epic.network"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.arauc.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.arauc.br"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.carnet.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.carnet.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.fratec.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.fratec.net"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.freerangecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.freerangecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.go6.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.go6.si"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.belwue.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.belwue.net"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.ttk.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.ttk.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.iu13.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.iu13.net"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.alpinedc.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.alpinedc.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.noroutetohost.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.noroutetohost.net"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.roedu.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.roedu.net"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.ke.liquidtelecom.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.ke.liquidtelecom.net"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.sin.vr.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.sin.vr.org"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.cs.umd.edu"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.cs.umd.edu"
+  },
+  {
+    "Type": 0,
+    "Value": "test-ipv6.csclub.uwaterloo.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".test-ipv6.csclub.uwaterloo.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "testipv6.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".testipv6.cn"
+  }
+]

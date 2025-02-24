@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "grok.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".grok.com"
+  },
+  {
+    "Type": 0,
+    "Value": "x.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".x.ai"
+  }
+]

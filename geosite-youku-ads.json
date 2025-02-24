@@ -1,0 +1,346 @@
+[
+  {
+    "Type": 0,
+    "Value": "actives.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".actives.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.api.3g.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.api.3g.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.api.mobile.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.api.mobile.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.mobile.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.mobile.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a-dxk.play.api.3g.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".a-dxk.play.api.3g.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atm.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atm.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "b.smartvideo.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".b.smartvideo.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.yes.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".c.yes.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "das.api.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".das.api.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "das.mobile.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".das.mobile.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dev-push.m.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dev-push.m.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.g.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.g.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dmapp.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmapp.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e.stat.ykimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e.stat.ykimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gamex.mobile.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamex.mobile.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guanggaoad.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".guanggaoad.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huodong.vip.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huodong.vip.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hz.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hz.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iyes.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iyes.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "l.ykimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".l.ykimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lstat.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lstat.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mobilemsg.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobilemsg.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msg.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msg.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myes.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myes.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p.l.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".p.l.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pl.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pl.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "passport-log.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".passport-log.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p-log.ykimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".p-log.ykimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "push.m.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".push.m.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "r.l.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".r.l.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s.p.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.p.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sdk.m.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdk.m.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stat.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stat.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "statis.api.3g.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".statis.api.3g.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "store.tv.api.3g.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".store.tv.api.3g.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "store.xl.api.3g.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".store.xl.api.3g.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tdrec.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tdrec.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "test.ott.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".test.ott.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "v.l.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".v.l.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "val.api.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".val.api.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wan.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wan.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ykatr.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ykatr.youku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ykrec.youku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ykrec.youku.com"
+  }
+]

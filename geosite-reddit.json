@@ -1,0 +1,94 @@
+[
+  {
+    "Type": 0,
+    "Value": "reddit.map.fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "redd.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".redd.it"
+  },
+  {
+    "Type": 0,
+    "Value": "reddit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reddit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reddithelp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reddithelp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditspace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditspace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditstatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reddit.app.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".reddit.app.link"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "launchpad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadcontent.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadcontent.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.org"
+  }
+]

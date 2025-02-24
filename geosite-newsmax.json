@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "andysparis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".andysparis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsmax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsmax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsmax.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsmax.in"
+  },
+  {
+    "Type": 0,
+    "Value": "newsmaxtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsmaxtv.com"
+  }
+]

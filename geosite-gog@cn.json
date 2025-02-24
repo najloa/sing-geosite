@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 0,
+    "Value": "gog.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gogalaxy.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "menu-static.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "productcard.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "static-login.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www4-static.gog-statics.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^cdn-akamai-.+\\.gog-services\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^gog-cdn-.+\\.footprint\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^images(-\\d)?\\.gog-statics\\.com$"
+  }
+]

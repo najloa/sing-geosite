@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "servd-anthropic-website.b-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "anthropic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anthropic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "claude.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".claude.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "claudeusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".claudeusercontent.com"
+  }
+]

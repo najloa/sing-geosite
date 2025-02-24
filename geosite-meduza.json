@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "meduza.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".meduza.io"
+  },
+  {
+    "Type": 0,
+    "Value": "meduza-flutter.firebaseapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meduza-flutter.firebaseapp.com"
+  }
+]

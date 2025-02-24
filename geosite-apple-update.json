@@ -1,0 +1,154 @@
+[
+  {
+    "Type": 0,
+    "Value": "oscdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oscdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xp.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xp.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appldnld.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appldnld.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gnf-mr.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gnf-mr.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gs.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gs.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ig.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ig.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mesu.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mesu.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "osrecovery.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".osrecovery.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gnf-mdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gnf-mdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gg.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gg.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swcdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swcdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skl.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skl.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swdist.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swdist.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swdownload.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swdownload.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swpost.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swpost.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swscan.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swscan.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "updates-http.cdn-apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".updates-http.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "updates.cdn-apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".updates.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ns.itunes.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ns.itunes.apple.com"
+  }
+]

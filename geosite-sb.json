@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "dns.sb"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.sb"
+  },
+  {
+    "Type": 0,
+    "Value": "ip.gs"
+  },
+  {
+    "Type": 1,
+    "Value": ".ip.gs"
+  },
+  {
+    "Type": 0,
+    "Value": "ip.sb"
+  },
+  {
+    "Type": 1,
+    "Value": ".ip.sb"
+  },
+  {
+    "Type": 0,
+    "Value": "loli.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".loli.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sb.sb"
+  },
+  {
+    "Type": 1,
+    "Value": ".sb.sb"
+  },
+  {
+    "Type": 0,
+    "Value": "sm.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".sm.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "u.nu"
+  },
+  {
+    "Type": 1,
+    "Value": ".u.nu"
+  },
+  {
+    "Type": 0,
+    "Value": "www.sb"
+  },
+  {
+    "Type": 1,
+    "Value": ".www.sb"
+  }
+]

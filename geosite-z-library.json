@@ -1,0 +1,338 @@
+[
+  {
+    "Type": 0,
+    "Value": "1lib.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.domains"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.domains"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.education"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.education"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.limited"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.limited"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.to"
+  },
+  {
+    "Type": 0,
+    "Value": "1lib.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".1lib.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "2lib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".2lib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "3lib.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".3lib.net"
+  },
+  {
+    "Type": 0,
+    "Value": "art1lib.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".art1lib.com"
+  },
+  {
+    "Type": 0,
+    "Value": "b-ok.africa"
+  },
+  {
+    "Type": 1,
+    "Value": ".b-ok.africa"
+  },
+  {
+    "Type": 0,
+    "Value": "b-ok.asia"
+  },
+  {
+    "Type": 1,
+    "Value": ".b-ok.asia"
+  },
+  {
+    "Type": 0,
+    "Value": "b-ok.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".b-ok.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "b-ok.global"
+  },
+  {
+    "Type": 1,
+    "Value": ".b-ok.global"
+  },
+  {
+    "Type": 0,
+    "Value": "b-ok.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".b-ok.org"
+  },
+  {
+    "Type": 0,
+    "Value": "book4you.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".book4you.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bookfi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bookfi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "booksc.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".booksc.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "booksc.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".booksc.me"
+  },
+  {
+    "Type": 0,
+    "Value": "booksc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".booksc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "booksc.xyz"
+  },
+  {
+    "Type": 1,
+    "Value": ".booksc.xyz"
+  },
+  {
+    "Type": 0,
+    "Value": "bookshome.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".bookshome.info"
+  },
+  {
+    "Type": 0,
+    "Value": "bookshome.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bookshome.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bookshome.world"
+  },
+  {
+    "Type": 1,
+    "Value": ".bookshome.world"
+  },
+  {
+    "Type": 0,
+    "Value": "de1lib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".de1lib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hk1lib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".hk1lib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "libsolutions.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".libsolutions.app"
+  },
+  {
+    "Type": 0,
+    "Value": "libsolutions.domains"
+  },
+  {
+    "Type": 1,
+    "Value": ".libsolutions.domains"
+  },
+  {
+    "Type": 0,
+    "Value": "libsolutions.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".libsolutions.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ma1lib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ma1lib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "sg1lib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sg1lib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "singlelogin.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".singlelogin.app"
+  },
+  {
+    "Type": 0,
+    "Value": "singlelogin.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".singlelogin.me"
+  },
+  {
+    "Type": 0,
+    "Value": "singlelogin.re"
+  },
+  {
+    "Type": 1,
+    "Value": ".singlelogin.re"
+  },
+  {
+    "Type": 0,
+    "Value": "singlelogin.site"
+  },
+  {
+    "Type": 1,
+    "Value": ".singlelogin.site"
+  },
+  {
+    "Type": 0,
+    "Value": "z-lib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".z-lib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "z-library.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".z-library.se"
+  },
+  {
+    "Type": 0,
+    "Value": "zlib.life"
+  },
+  {
+    "Type": 1,
+    "Value": ".zlib.life"
+  },
+  {
+    "Type": 0,
+    "Value": "zlibcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zlibcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zlibcdn2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zlibcdn2.com"
+  }
+]

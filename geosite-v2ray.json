@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "v2ray.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".v2ray.com"
+  },
+  {
+    "Type": 0,
+    "Value": "v2ray.cool"
+  },
+  {
+    "Type": 1,
+    "Value": ".v2ray.cool"
+  },
+  {
+    "Type": 0,
+    "Value": "v2fly.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".v2fly.org"
+  }
+]

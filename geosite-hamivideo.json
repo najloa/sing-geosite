@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "apl-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hamivideo.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mobilelive-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pvr-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "scc.ott.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "static-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tvcastlive-hamivideo.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "weblive-hamivideo.cdn.hinet.net"
+  }
+]

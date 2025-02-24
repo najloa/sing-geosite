@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "snapcraft.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapcraft.io"
+  },
+  {
+    "Type": 0,
+    "Value": "snapstore.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapstore.io"
+  }
+]

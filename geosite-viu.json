@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 0,
+    "Value": "api.viu.now.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dfp6rglgjqszk.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d1k2us671qcoau.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "d2anahhhmp1ffz.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "viu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".viu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "viu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".viu.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^ewcdn[0-9]{2}\\.nowe\\.com$"
+  }
+]

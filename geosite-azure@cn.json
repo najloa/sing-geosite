@@ -1,0 +1,458 @@
+[
+  {
+    "Type": 0,
+    "Value": "21vbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbluecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbluecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbluecloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbluecloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aadrm.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aadrm.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aggresmart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aggresmart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apihub-internal.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apihub-internal.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appserviceenvironment.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appserviceenvironment.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azcrmc-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azcrmc-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azcrmc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azcrmc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azk8s.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azk8s.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aznbcontent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aznbcontent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aztask.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aztask.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-api.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-api.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-apihub.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-apihub.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-automation.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-automation.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-connectedvehicles-stage.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-connectedvehicles-stage.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-connectedvehicles.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-connectedvehicles.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecr-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurehdinsight.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurehdinsight.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azureiotsuite.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureiotsuite.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azuremresolver.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuremresolver.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azureprivatedns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureprivatedns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurerms.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurerms.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azuresandbox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuresandbox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "b2clogin.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".b2clogin.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "b3itech.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".b3itech.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "blueaggrestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blueaggrestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluecloudprod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluecloudprod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cegid-cloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cegid-cloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloud-mobile.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloud-mobile.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudapp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudapp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudsites.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudsites.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hdinsightservices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdinsightservices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mcchcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcchcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mgmt-azure-api.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgmt-azure-api.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftazurestatus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftazurestatus.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftmetrics.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftmetrics.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mncmsidlab1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mncmsidlab1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msappproxy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msappproxy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mschcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mschcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msftcloudes.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftcloudes.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msidentity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msidentity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msidlabpbmc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msidlabpbmc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trafficmanager.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trafficmanager.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trustcenter.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustcenter.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unity3dcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unity3dcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsazure.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsazure.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsazurestatus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsazurestatus.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.azchcdn[a-s]\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-dns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-dns.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.azure-dns-([1-9]|10)\\.cn$"
+  }
+]

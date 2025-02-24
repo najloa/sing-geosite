@@ -1,0 +1,1958 @@
+[
+  {
+    "Type": 0,
+    "Value": "venmo.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "account-paypal.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".account-paypal.info"
+  },
+  {
+    "Type": 0,
+    "Value": "account-paypal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".account-paypal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "account-paypal.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".account-paypal.org"
+  },
+  {
+    "Type": 0,
+    "Value": "accountpaypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".accountpaypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "accountpaypal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".accountpaypal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "accountpaypal.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".accountpaypal.org"
+  },
+  {
+    "Type": 0,
+    "Value": "anfutong.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anfutong.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beibao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beibao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bill-safe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bill-safe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "billmelater.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".billmelater.com"
+  },
+  {
+    "Type": 0,
+    "Value": "billmelater.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".billmelater.info"
+  },
+  {
+    "Type": 0,
+    "Value": "billmelater.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".billmelater.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bml.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".bml.info"
+  },
+  {
+    "Type": 0,
+    "Value": "buyfast-paysmart.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".buyfast-paysmart.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cashify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cashify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devtools-paypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".devtools-paypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "experiencebillmelater.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".experiencebillmelater.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fundpaypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fundpaypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gmoney.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gmoney.org"
+  },
+  {
+    "Type": 0,
+    "Value": "i-o-u.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".i-o-u.info"
+  },
+  {
+    "Type": 0,
+    "Value": "login-paypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".login-paypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "login-paypal.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".login-paypal.info"
+  },
+  {
+    "Type": 0,
+    "Value": "mywaytopay.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".mywaytopay.info"
+  },
+  {
+    "Type": 0,
+    "Value": "mywaytopay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mywaytopay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pa9pal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pa9pal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paaypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paaypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paily.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paily.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paily.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paily.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paipal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paipal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pavpal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pavpal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paydiant.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paydiant.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paylike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paylike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypa1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypa1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypa1.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypa1.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypaal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypaal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-activate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-activate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-activate.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-activate.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-activate.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-activate.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-apac.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-apac.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-apps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-apps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-biz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-biz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-brandcentral.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-brandcentral.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-business.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-business.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-business.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-business.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-business.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-business.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-cardcash.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-cardcash.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-cash.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-cash.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-center.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-center.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-center.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-center.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-center.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-center.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-center.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-center.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-communication.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-communication.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-communications.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-communications.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-communications.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-communications.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-community.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-community.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-community.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-community.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-comunidad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-comunidad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-corp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-corp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-database.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-database.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-database.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-database.us"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-donations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-donations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-dynamic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-dynamic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-engineering.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-engineering.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-europe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-europe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-excelinvoicing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-excelinvoicing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-exchanges.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-exchanges.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-forward.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-forward.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-galactic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-galactic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-gift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-gift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-gifts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-gifts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-gpplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-gpplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-here.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-here.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-hrsystem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-hrsystem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-innovationlab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-innovationlab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-integration.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-integration.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-japan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-japan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-knowledge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-knowledge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-labs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-labs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-latam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-latam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-learning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-learning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-login.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-login.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-login.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-login.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-login.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-login.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-login.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-login.us"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-luxury.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-luxury.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-mainstreet.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-mainstreet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-marketing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-marketing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-media.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-media.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-merchantloyalty.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-merchantloyalty.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-mobilemoney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-mobilemoney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-network.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-network.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-notice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-notice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-notify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-notify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-online.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-online.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-online.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-online.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-online.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-online.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-optimizer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-optimizer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-pages.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-pages.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-photocard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-photocard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-plaza.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-plaza.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-portal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-portal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-prepagata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-prepagata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-prepagata.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-prepagata.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-prepaid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-prepaid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-profile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-profile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-proserv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-proserv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-qrshopping.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-qrshopping.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-recargacelular.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-recargacelular.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-redeem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-redeem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-referral.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-referral.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-retail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-retail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-scoop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-scoop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-search.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-search.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-secure.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-secure.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-secure.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-secure.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-security.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-security.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-security.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-security.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-service.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-service.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-signin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-signin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-signin.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-signin.us"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-special.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-special.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-specialoffers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-specialoffers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-sptam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-sptam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-support.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-support.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-survey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-survey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-survey.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-survey.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-status.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-status.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-team.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-team.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal-viewpoints.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal-viewpoints.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.me"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.so"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.so"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.us"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalbeacon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalbeacon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalbenefits.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalbenefits.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalbrasil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalbrasil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalcommunity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalcommunity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalcommunity.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalcommunity.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalcommunity.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalcommunity.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalcorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalcorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalcredit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalcredit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalcreditcard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalcreditcard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalgivingfund.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalgivingfund.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalhere.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalhere.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalhere.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalhere.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalhere.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalhere.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalhere.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalhere.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "paypali.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypali.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalindia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalindia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalinsuranceservices.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalinsuranceservices.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypallabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypallabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalnet.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalnet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalnet.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalnet.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalnetwork.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalnetwork.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalnetwork.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalnetwork.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalnetwork.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalnetwork.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalobjects.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalobjects.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalonline.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalonline.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalonline.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalonline.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalprepagata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalprepagata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalprepagata.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalprepagata.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalservice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalshopping.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalshopping.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalshopping.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalshopping.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalsurvey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalsurvey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypaly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypaly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "payppal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".payppal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "payypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".payypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pdncommunity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pdncommunity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pp-soc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pp-soc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ppaypal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ppaypal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pppds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pppds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pypl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pypl.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypl.info"
+  },
+  {
+    "Type": 0,
+    "Value": "pypl.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypl.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pypl.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypl.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "secure-paypal.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".secure-paypal.info"
+  },
+  {
+    "Type": 0,
+    "Value": "securepaypal.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".securepaypal.info"
+  },
+  {
+    "Type": 0,
+    "Value": "sslpaypal.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sslpaypal.org"
+  },
+  {
+    "Type": 0,
+    "Value": "thepaypalshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thepaypalshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theshoppingexpresslane.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".theshoppingexpresslane.net"
+  },
+  {
+    "Type": 0,
+    "Value": "www-paypal.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".www-paypal.info"
+  },
+  {
+    "Type": 0,
+    "Value": "www-paypal.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".www-paypal.us"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreegateway.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreegateway.com"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreegateway.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreegateway.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreepayments.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreepayments.com"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreepayments.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreepayments.info"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreepayments.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreepayments.org"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreepayments.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreepayments.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreepaymentsolutions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreepaymentsolutions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "braintreeps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".braintreeps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "briantreepayments.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".briantreepayments.net"
+  },
+  {
+    "Type": 0,
+    "Value": "briantreepayments.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".briantreepayments.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "card.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".card.io"
+  },
+  {
+    "Type": 0,
+    "Value": "getbraintree.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getbraintree.com"
+  },
+  {
+    "Type": 0,
+    "Value": "krakenjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".krakenjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "loanbuilder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".loanbuilder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftcapital.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftcapital.com"
+  },
+  {
+    "Type": 0,
+    "Value": "simility.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".simility.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cashify.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cashify.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftbank.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftbank.info"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftbank.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftbank.us"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftfinancial.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftfinancial.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftfinancial.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftfinancial.info"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftfinancial.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftfinancial.net"
+  },
+  {
+    "Type": 0,
+    "Value": "venmo-touch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".venmo-touch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "venmo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".venmo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "venmo.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".venmo.info"
+  },
+  {
+    "Type": 0,
+    "Value": "venmo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".venmo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "venmo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".venmo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cash2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cash2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "filipino-music.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".filipino-music.net"
+  },
+  {
+    "Type": 0,
+    "Value": "s-xoom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-xoom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webmoneyinfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webmoneyinfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiremoneytoirelandwithxoomeasierandcheaper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiremoneytoirelandwithxoomeasierandcheaper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwxoom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwxoom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xoom-experience.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoom-experience.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xoom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xoom.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoom.io"
+  },
+  {
+    "Type": 0,
+    "Value": "xoom.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoom.us"
+  },
+  {
+    "Type": 0,
+    "Value": "xoomcom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoomcom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "anfutong.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".anfutong.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "anfutong.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".anfutong.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beibao.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beibao.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beibao.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beibao.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "paypal.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypal.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalcommunity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalcommunity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalhere.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalhere.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "paypalhere.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".paypalhere.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--bnq297cix3a.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--bnq297cix3a.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xoom.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoom.net.cn"
+  }
+]

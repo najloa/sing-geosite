@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "botstop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".botstop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hcaptcha.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hcaptcha.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hcaptchastatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hcaptchastatus.com"
+  }
+]

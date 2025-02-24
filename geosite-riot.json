@@ -1,0 +1,430 @@
+[
+  {
+    "Type": 0,
+    "Value": "lolstatic-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riot-games.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riot-games.com"
+  },
+  {
+    "Type": 0,
+    "Value": "historyofdota.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".historyofdota.org"
+  },
+  {
+    "Type": 0,
+    "Value": "instituteofwar.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".instituteofwar.org"
+  },
+  {
+    "Type": 0,
+    "Value": "molesports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".molesports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rgpub.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".rgpub.io"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.info"
+  },
+  {
+    "Type": 0,
+    "Value": "riot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riot.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".riot.net"
+  },
+  {
+    "Type": 0,
+    "Value": "riotcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.info"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.net"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "riotpin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotpin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riotpoints.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotpoints.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rstatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".rstatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "historyofdota.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".historyofdota.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supremacy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".supremacy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "championshipseriesleague.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".championshipseriesleague.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lcsmerch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lcsmerch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leaguehighschool.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leaguehighschool.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "supremacy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supremacy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "historyofdota.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".historyofdota.net"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.net"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.org"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegendsscripts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegendsscripts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leaguesharp.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".leaguesharp.info"
+  },
+  {
+    "Type": 0,
+    "Value": "leaguoflegends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".leaguoflegends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "learnwithleague.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".learnwithleague.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lol-europe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lol-europe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolclub.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolclub.org"
+  },
+  {
+    "Type": 0,
+    "Value": "lolespor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolespor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolesports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolesports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolfanart.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolfanart.net"
+  },
+  {
+    "Type": 0,
+    "Value": "lolpcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolpcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lolusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "convrgencegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".convrgencegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pvp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pvp.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvp.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ulol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ulol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playvalorant.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playvalorant.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riotforgegames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotforgegames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ruinedking.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ruinedking.com"
+  },
+  {
+    "Type": 0,
+    "Value": "riotgames.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".riotgames.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "lolshop.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".lolshop.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lpl.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lpl.com.cn"
+  }
+]

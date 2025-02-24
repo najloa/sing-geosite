@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "pugpig-dev.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pugpig-dev.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pugpig-stage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pugpig-stage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pugpig.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pugpig.com"
+  }
+]

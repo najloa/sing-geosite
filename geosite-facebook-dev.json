@@ -1,0 +1,350 @@
+[
+  {
+    "Type": 0,
+    "Value": "developers.facebook.com"
+  },
+  {
+    "Type": 0,
+    "Value": "accountkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".accountkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atscaleconference.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atscaleconference.com"
+  },
+  {
+    "Type": 0,
+    "Value": "botorch.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".botorch.org"
+  },
+  {
+    "Type": 0,
+    "Value": "buck.build"
+  },
+  {
+    "Type": 1,
+    "Value": ".buck.build"
+  },
+  {
+    "Type": 0,
+    "Value": "buckbuild.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buckbuild.com"
+  },
+  {
+    "Type": 0,
+    "Value": "componentkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".componentkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "draftjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".draftjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "f8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".f8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookappcenter.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookappcenter.info"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookappcenter.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookappcenter.net"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookappcenter.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookappcenter.org"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookconnect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookconnect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookdevelopergarage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookdevelopergarage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "faciometrics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".faciometrics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fasttext.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".fasttext.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "fbf8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbf8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fbinfer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbinfer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fblitho.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fblitho.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fbredex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbredex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fbrell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbrell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flow.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".flow.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "flow.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".flow.org"
+  },
+  {
+    "Type": 0,
+    "Value": "flowtype.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".flowtype.org"
+  },
+  {
+    "Type": 0,
+    "Value": "frescolib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".frescolib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hacklang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".hacklang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hhvm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hhvm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makeitopen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".makeitopen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mcrouter.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcrouter.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mcrouter.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcrouter.org"
+  },
+  {
+    "Type": 0,
+    "Value": "messengerdevelopers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".messengerdevelopers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ogp.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".ogp.me"
+  },
+  {
+    "Type": 0,
+    "Value": "opengraphprotocol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".opengraphprotocol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opengraphprotocol.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opengraphprotocol.org"
+  },
+  {
+    "Type": 0,
+    "Value": "parse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".parse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pyrobot.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pyrobot.org"
+  },
+  {
+    "Type": 0,
+    "Value": "react.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".react.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reactjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reactjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "recoiljs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".recoiljs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rocksdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocksdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rocksdb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocksdb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rocksdb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocksdb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "yogalayout.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yogalayout.com"
+  }
+]

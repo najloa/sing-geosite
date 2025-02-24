@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "consul.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".consul.io"
+  },
+  {
+    "Type": 0,
+    "Value": "hashicorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hashicorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nomadproject.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".nomadproject.io"
+  },
+  {
+    "Type": 0,
+    "Value": "packer.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".packer.io"
+  },
+  {
+    "Type": 0,
+    "Value": "terraform.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".terraform.io"
+  },
+  {
+    "Type": 0,
+    "Value": "vagrantcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vagrantcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vagrantup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vagrantup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vaultproject.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vaultproject.io"
+  }
+]

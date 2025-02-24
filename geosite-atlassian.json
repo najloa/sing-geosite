@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "atlassian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atlassian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atlassian.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".atlassian.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bitbucket.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitbucket.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bitbucket.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitbucket.org"
+  },
+  {
+    "Type": 0,
+    "Value": "statuspage.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".statuspage.io"
+  },
+  {
+    "Type": 0,
+    "Value": "trello.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trello.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trellocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trellocdn.com"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "Type": 0,
+    "Value": "ntp.nict.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.nict.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.wakwak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.wakwak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.wakwak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.wakwak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp-tk01.ocn.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp-tk01.ocn.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.tohoku.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.tohoku.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.tohoku.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.tohoku.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ats1.e-timing.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ats1.e-timing.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.tut.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.tut.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.tohoku.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.tohoku.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp-tk02.ocn.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp-tk02.ocn.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp-os01.ocn.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp-os01.ocn.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.plala.or.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.plala.or.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.plala.or.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.plala.or.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp0.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp0.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp3.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp3.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "s2csntp.miz.nao.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".s2csntp.miz.nao.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.t.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.t.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.dnsbalance.ring.gr.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.dnsbalance.ring.gr.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.nc.u-tokyo.ac.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.nc.u-tokyo.ac.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.v6.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp3.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp3.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp2.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp2.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp1.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp1.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.jst.mfeed.ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.jst.mfeed.ad.jp"
+  }
+]

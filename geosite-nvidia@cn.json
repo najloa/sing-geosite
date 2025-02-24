@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "geforce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".geforce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.download.nvidia.com"
+  }
+]

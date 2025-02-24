@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "nikke-de.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-de.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-en.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-en.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-fr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-fr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-jp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-jp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-kr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-kr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikke-sea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikke-sea.com"
+  }
+]

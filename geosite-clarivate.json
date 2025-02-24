@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "clarivate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".clarivate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webofknowledge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webofknowledge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webofscience.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webofscience.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newisiknowledge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newisiknowledge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "isiknowledge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".isiknowledge.com"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "Type": 0,
+    "Value": "yahoo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "certs-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "certs.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crl-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp2-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp2.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sslcom.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sslcom.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-goog.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "i.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "o.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "crls.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "www.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alphassl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alphassl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easy-signing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easy-signing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsigncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsigncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.globalsigncdn.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "oemssl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trust-provider.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trust-provider.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dcocsp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcocsp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert.cn"
+  }
+]

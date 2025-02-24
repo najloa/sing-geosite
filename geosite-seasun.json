@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "seasungames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".seasungames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xishanju.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xishanju.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xoyo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoyo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xoyocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xoyocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbjq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbjq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "testplus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".testplus.cn"
+  }
+]

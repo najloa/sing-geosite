@@ -1,0 +1,162 @@
+[
+  {
+    "Type": 0,
+    "Value": "huaweicloud-dns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-dns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "huaweicloud-dns.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".huaweicloud-dns.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ae-ad-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ae-ad-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "af-north-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".af-north-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "af-south-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".af-south-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-3.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-southeast-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-southeast-4.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-west-0.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-west-0.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-west-101.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-west-101.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "la-north-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".la-north-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "la-south-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".la-south-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "me-east-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".me-east-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my-kualalumpur-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my-kualalumpur-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-mexico-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-mexico-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ru-moscow-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ru-moscow-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ru-northwest-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ru-northwest-2.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sa-brazil-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sa-brazil-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tr-west-1.myhuaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tr-west-1.myhuaweicloud.com"
+  }
+]

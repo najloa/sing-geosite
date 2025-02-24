@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "sourceforge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sourceforge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sourceforge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sourceforge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sf.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sf.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fsdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fsdn.com"
+  }
+]

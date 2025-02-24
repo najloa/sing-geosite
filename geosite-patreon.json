@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "live-patreon-marketing.pantheonsite.io"
+  },
+  {
+    "Type": 0,
+    "Value": "patreon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".patreon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "patreoncommunity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".patreoncommunity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "patreonusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".patreonusercontent.com"
+  }
+]

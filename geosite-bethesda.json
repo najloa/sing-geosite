@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "beth.games"
+  },
+  {
+    "Type": 1,
+    "Value": ".beth.games"
+  },
+  {
+    "Type": 0,
+    "Value": "bethesda.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethesda.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bethesdagamestudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethesdagamestudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bethsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elderscrolls.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elderscrolls.com"
+  }
+]

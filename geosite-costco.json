@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "costco-static.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".costco-static.com"
+  },
+  {
+    "Type": 0,
+    "Value": "costco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".costco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "costcobusinessdelivery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".costcobusinessdelivery.com"
+  }
+]

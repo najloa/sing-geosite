@@ -1,0 +1,970 @@
+[
+  {
+    "Type": 0,
+    "Value": "sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xhscdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "adimages.sina.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "game.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".game.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbapp.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "t.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gracg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alitui.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coolapkmarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coolapkmarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cre.dp.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pay.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tjs.sjs.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hupucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weibo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.kjava.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sinaimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.apps.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "click.uve.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".count.video.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "d00.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dandanvoice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weibo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adbox.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adimg.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appgift.sinaapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sdkclick.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "slog.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbapp.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tieba.com"
+  },
+  {
+    "Type": 0,
+    "Value": "97973.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weibocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhihu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dwstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duowan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appsupdate.sinaapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dandan818.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "atm.sina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".game.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pfp.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".slog.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinaapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tieba.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doubanio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "procg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "contentrecommend-out.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sinajs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zhihu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".douban.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbimg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".counter.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".woocall.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xhaiwai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".u1.img.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "interest.mix.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".s.img.mix.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "staticadm.leju.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbpctips.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".t.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "biz.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".contentrecommend-out.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oascentral.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "saxn.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tjs.sjs.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcyimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hupu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tieba.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adimg.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "click.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.mix.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wapwbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xiaohongshu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adimg.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".d00.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wcdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".atm.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".picself.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "p4p.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".promote.biz.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sdkapp.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "douban.com"
+  },
+  {
+    "Type": 0,
+    "Value": "douban.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "dandanvoice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cre.dp.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "newspush.sinajs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trends.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xhscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adm.leju.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "palmnews.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "s.img.mix.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trends.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".coolapk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bcyimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hupucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sinaapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xhscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appgift.sinaapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".p4p.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sax.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sdkapp.uve.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hupu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinaimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cre-dp.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".int.dpool.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bcy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".adimages.sina.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".adm.leju.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dmp.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sbeacon.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdkclick.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dcads.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".97973.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wcdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lf-rc1.yhgfb-cn-static.com"
+  },
+  {
+    "Type": 0,
+    "Value": "woocall.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".douban.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sinaimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xhaiwai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "picself.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".slog.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "count.video.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sapi.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "coolapk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oascentral.sina.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "wapwbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".newspush.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".widget.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdkapp.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "coolapkmarket.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".lf-rc1.yhgfb-cn-static.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adimg.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmp.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dp.im.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gw6.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinajs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rs.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticadm.leju.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xhscdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sax.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sbeacon.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbpctips.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.uve.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".interest.mix.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sinajs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biz.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pfp.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sdkapp.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sina.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gw5.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mg.games.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "promote.biz.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videoself.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pfpip.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".saxn.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "saxs.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appsupdate.sinaapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dp.im.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cre-dp.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".palmnews.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "rm.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbapp.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duowan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adbox.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcads.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbclick.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".2016.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sapi.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alitui.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oascentral.sina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oascentral.sina.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pfpip.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "widget.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinaimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "api.apps.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gw5.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "log.mix.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pay.mobile.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dandan818.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "2016.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.uve.weibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "counter.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "int.dpool.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".rm.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoopchina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beacon.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "game.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zhimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.sina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".saxs.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".videoself.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wbimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sinaedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coolapkmarket.net"
+  },
+  {
+    "Type": 0,
+    "Value": "wbimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiaohongshu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.sina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "u1.img.mobile.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dwstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hoopchina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.kjava.sina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gw6.push.mcp.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".rs.sinajs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sax.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".doubanio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.sina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beacon.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinaedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slog.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbapp.uve.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gracg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sina.net"
+  },
+  {
+    "Type": 0,
+    "Value": "shihuo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".weibocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zymo.mps.weibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".procg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".shihuo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tieba.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mg.games.sina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sax.sina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zymo.mps.weibo.com"
+  }
+]

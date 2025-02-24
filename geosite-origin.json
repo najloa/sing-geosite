@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "cloudsync-prod.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rtm.tnt-ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl-lvlt.cdn.ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dawngate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dawngate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eastore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eastore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lordofultima.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lordofultima.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".origin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".origin.tv"
+  }
+]

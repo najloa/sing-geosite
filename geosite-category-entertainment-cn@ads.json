@@ -1,0 +1,402 @@
+[
+  {
+    "Type": 0,
+    "Value": "adbkwai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adbkwai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adkwai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adkwai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adukwai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adukwai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e.kuaishou.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".e.kuaishou.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "e.kuaishou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e.kuaishou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log-sdk.gifshow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wlog.kuaishou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "click.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "da.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".da.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "da.mgtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".da.mgtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.v2.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.v2.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "res.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".res.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apilog-web.acfun.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ads3-normal-hl.zijieapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ads5-normal-hl.zijieapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log3-applog-hl.fqnovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log5-applog-hl.fqnovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p3-ad-sign.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p6-ad-sign.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "p9-ad-sign.byteimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rtlog3-applog-hl.fqnovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rtlog5-applog-hl.fqnovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a.ckm.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".a.ckm.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.m.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.m.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "afp.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".afp.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.uaa.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".c.uaa.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudpush.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudpush.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cm.passport.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cm.passport.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cupid.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cupid.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "emoticon.sns.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".emoticon.sns.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gamecenter.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamecenter.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotchat-im.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotchat-im.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ifacelog.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifacelog.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mbdlog.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mbdlog.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msg.71.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".msg.71.am"
+  },
+  {
+    "Type": 0,
+    "Value": "msg.video.qiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msg.video.qiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msg2.video.qiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msg2.video.qiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "policy.video.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".policy.video.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuedu.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuedu.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.service.kugou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.service.kugou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adserviceretry.kglink.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adserviceretry.kglink.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adserviceretry.kugou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adserviceretry.kugou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api.game.letvstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.game.letvstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ark.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ark.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dc.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dc.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fz.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fz.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g3.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".g3.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "letv.allyes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".letv.allyes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minisite.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisite.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msg.m.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msg.m.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "n.mark.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".n.mark.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pro.hoye.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pro.hoye.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pro.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pro.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stat.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stat.letv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "static.app.m.letv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".static.app.m.letv.com"
+  }
+]

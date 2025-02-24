@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "cambridge.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cambridge.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cambridgeschoolshakespeare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cambridgeschoolshakespeare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cambridgedigital.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cambridgedigital.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cambridgemaths.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cambridgemaths.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cam.ac.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".cam.ac.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "dlib.eastview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dlib.eastview.com"
+  }
+]

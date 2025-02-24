@@ -1,0 +1,266 @@
+[
+  {
+    "Type": 0,
+    "Value": "verisign.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.net"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.es"
+  },
+  {
+    "Type": 0,
+    "Value": "verisigninc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisigninc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.us"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.name"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.name"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.se"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.de"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.pro"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.pro"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.org"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.asia"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.asia"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.in"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.info"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.jobs"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.jobs"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.co.uk"
+  }
+]

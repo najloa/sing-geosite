@@ -1,0 +1,78 @@
+[
+  {
+    "Type": 0,
+    "Value": "connect.rom.miui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msftconnecttest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftconnecttest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msftncsi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftncsi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ping.archlinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ping.archlinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "captive.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".captive.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "connectivitycheck.gstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectivitycheck.gstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cp.cloudflare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cp.cloudflare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "network-test.debian.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".network-test.debian.org"
+  },
+  {
+    "Type": 0,
+    "Value": "detectportal.firefox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".detectportal.firefox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "networkcheck.kde.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".networkcheck.kde.org"
+  }
+]

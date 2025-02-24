@@ -1,0 +1,386 @@
+[
+  {
+    "Type": 0,
+    "Value": "amerikaninsesi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikaninsesi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikaninsesi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikaninsesi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikaovozi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikaovozi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikayidzayn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikayidzayn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikiskhma.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikiskhma.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbg.gov"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbg.gov"
+  },
+  {
+    "Type": 0,
+    "Value": "dandalinvoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dandalinvoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "darivoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".darivoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dengeamerika.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dengeamerika.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dengiamerika.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dengiamerika.com"
+  },
+  {
+    "Type": 0,
+    "Value": "glasamerike.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".glasamerike.net"
+  },
+  {
+    "Type": 0,
+    "Value": "golos-ameriki.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".golos-ameriki.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "golosameriki.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".golosameriki.com"
+  },
+  {
+    "Type": 0,
+    "Value": "insidevoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insidevoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pashtovoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pashtovoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "persagg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".persagg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "radiyoyacuvoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".radiyoyacuvoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "urduvoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".urduvoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voa.gov"
+  },
+  {
+    "Type": 1,
+    "Value": ".voa.gov"
+  },
+  {
+    "Type": 0,
+    "Value": "voaafaanoromoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaafaanoromoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaafrique.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaafrique.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voabambara.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voabambara.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voabangla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voabangla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voacambodia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voacambodia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voacantonese.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voacantonese.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voachinese.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voachinese.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voadeewanews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voadeewanews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voadeewaradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voadeewaradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voahausa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voahausa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaindonesia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaindonesia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voakorea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voakorea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voalingala.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voalingala.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voandebele.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voandebele.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voanews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voanews.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanews.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "voanoticias.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanoticias.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voanouvel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanouvel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaportugues.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaportugues.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voashona.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voashona.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voasomali.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voasomali.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaswahili.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaswahili.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voathai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voathai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatibetan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatibetan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatibetanenglish.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatibetanenglish.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatiengviet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatiengviet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voazimbabwe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voazimbabwe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeriamerikes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeriamerikes.com"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "now.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".now.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nowe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nowe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nowe.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nowe.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "now-tv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".now-tv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "now-ashare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".now-ashare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "now.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".now.com.hk"
+  }
+]

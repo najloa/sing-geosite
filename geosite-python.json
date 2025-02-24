@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "pycon.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pycon.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pypa.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypa.io"
+  },
+  {
+    "Type": 0,
+    "Value": "pypi.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypi.io"
+  },
+  {
+    "Type": 0,
+    "Value": "pypi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "python.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".python.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pythonhosted.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pythonhosted.org"
+  }
+]

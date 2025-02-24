@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "dazn-api.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dazn-api.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dazn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dazn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dazndn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dazndn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "indazn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".indazn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "indaznlab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".indaznlab.com"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "id6.me"
+  },
+  {
+    "Type": 0,
+    "Value": "opencloud.wostore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hs.wosms.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "enrichgw.10010.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hap.10010.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cmpassport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cmpassport.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^nis.+\\.10010\\.com$"
+  }
+]

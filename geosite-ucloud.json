@@ -1,0 +1,434 @@
+[
+  {
+    "Type": 0,
+    "Value": "apimkt.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".apimkt.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdndo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdndo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clk1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".clk1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "clk1.top"
+  },
+  {
+    "Type": 1,
+    "Value": ".clk1.top"
+  },
+  {
+    "Type": 0,
+    "Value": "ecloud-gdu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecloud-gdu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fshark.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fshark.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "globalrdp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalrdp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "globalssh.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalssh.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "iprdp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iprdp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ipssh.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipssh.net"
+  },
+  {
+    "Type": 0,
+    "Value": "me1.ltd"
+  },
+  {
+    "Type": 1,
+    "Value": ".me1.ltd"
+  },
+  {
+    "Type": 0,
+    "Value": "slk1.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".slk1.net"
+  },
+  {
+    "Type": 0,
+    "Value": "u-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".u-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ucgslb.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucgslb.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ucgslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucgslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucgslb.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucgslb.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ucgslb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucgslb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ucgslb.top"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucgslb.top"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloud-edm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloud-edm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloud365.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloud365.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudadmin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudadmin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudgda.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudgda.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudnaming.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudnaming.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudnaming.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudnaming.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudnaming.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudnaming.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudnaming.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudnaming.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudoss.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudoss.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudstack.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudstack.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudstack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudstack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudstack.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudstack.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudstor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudstor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloudufile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloudufile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucnaming.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucnaming.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ucnaming.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucnaming.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ucnaming.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucnaming.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ucnaming.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucnaming.net"
+  },
+  {
+    "Type": 0,
+    "Value": "uewaf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uewaf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ufileos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ufileos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ugslb.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugslb.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ugslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ugslb.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugslb.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ugslb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugslb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ugslb.top"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugslb.top"
+  },
+  {
+    "Type": 0,
+    "Value": "ugslb2.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugslb2.net"
+  },
+  {
+    "Type": 0,
+    "Value": "uhasadmin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uhasadmin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unaming.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unaming.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unaming.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".unaming.info"
+  },
+  {
+    "Type": 0,
+    "Value": "unaming.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".unaming.net"
+  },
+  {
+    "Type": 0,
+    "Value": "uslk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".uslk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "uucl.vip"
+  },
+  {
+    "Type": 1,
+    "Value": ".uucl.vip"
+  },
+  {
+    "Type": 0,
+    "Value": "ucloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ucloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "urtc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".urtc.com.cn"
+  }
+]

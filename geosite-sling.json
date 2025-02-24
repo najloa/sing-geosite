@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "dishworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dishworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slinginternational.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slinginternational.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sling.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movenetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movenetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movetv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movetv.com"
+  }
+]

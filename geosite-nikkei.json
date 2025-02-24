@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "nikkei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei4946.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei4946.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei-cnbc.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei-cnbc.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkeibp.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkeibp.co.jp"
+  }
+]

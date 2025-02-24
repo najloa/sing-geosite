@@ -1,0 +1,11038 @@
+[
+  {
+    "Type": 0,
+    "Value": "asahishimbun.sc.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "zeenews-fonts.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aod-pod-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "as-dash-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "as-hls-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ve-dash-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ve-uhd-push-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-dash-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-dash-ww-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-hls-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-sub-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-thumb-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-thumb-ww-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-cmaf-push-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-cmaf-pushb-ww-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-hls-push-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-hls-pushb-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsi.live.ott.irdeto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsplaylistserver.aws.syncbak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsservice.aws.syncbak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "link.theplatform.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsplayer-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "deutschewelle.h-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "himalaya-exchange.zendesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg"
+  },
+  {
+    "Type": 1,
+    "Value": ".theguardian"
+  },
+  {
+    "Type": 1,
+    "Value": ".sky"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox"
+  },
+  {
+    "Type": 1,
+    "Value": ".showtime"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbs"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc"
+  },
+  {
+    "Type": 0,
+    "Value": "foxandfriends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxandfriends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mi9cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mi9cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeriamerikes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeriamerikes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chinadigitaltimes.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinadigitaltimes.net"
+  },
+  {
+    "Type": 0,
+    "Value": "chinaeconomicreview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinaeconomicreview.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voazimbabwe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voazimbabwe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatiengviet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatiengviet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatibetanenglish.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatibetanenglish.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnyes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnyes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voatibetan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voatibetan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voathai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voathai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaswahili.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaswahili.com"
+  },
+  {
+    "Type": 0,
+    "Value": "d100.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".d100.net"
+  },
+  {
+    "Type": 0,
+    "Value": "voasomali.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voasomali.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ettoday.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ettoday.net"
+  },
+  {
+    "Type": 0,
+    "Value": "eventsinfocus.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".eventsinfocus.org"
+  },
+  {
+    "Type": 0,
+    "Value": "factwire.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".factwire.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fortuneinsight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fortuneinsight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freebeacon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freebeacon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gbnews.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".gbnews.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "hk01.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hk01.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkcitizenmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkcitizenmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkcnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkcnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkej.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkej.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkgpao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkgpao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hongkongfp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hongkongfp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inmediahk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".inmediahk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "voashona.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voashona.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jfengtime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jfengtime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "landofhope.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".landofhope.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "limedia.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".limedia.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "localpresshk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".localpresshk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaportugues.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaportugues.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mdnkids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mdnkids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voanouvel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanouvel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrormedia.mg"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrormedia.mg"
+  },
+  {
+    "Type": 0,
+    "Value": "voanoticias.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanoticias.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my-formosa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my-formosa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newtalk.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".newtalk.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "newyorker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newyorker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextapple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextapple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nownews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nownews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "npr.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".npr.org"
+  },
+  {
+    "Type": 0,
+    "Value": "on.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".on.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "passiontimes.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".passiontimes.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "peoplenews.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".peoplenews.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "post852.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".post852.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qmap.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".qmap.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "realvision.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realvision.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rfa.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rfa.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rfi.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".rfi.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "rsf.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rsf.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rtings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rtings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shuziyimin.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".shuziyimin.org"
+  },
+  {
+    "Type": 0,
+    "Value": "voanews.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanews.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "sinoinsider.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinoinsider.com"
+  },
+  {
+    "Type": 0,
+    "Value": "socrec.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".socrec.org"
+  },
+  {
+    "Type": 0,
+    "Value": "storm.mg"
+  },
+  {
+    "Type": 1,
+    "Value": ".storm.mg"
+  },
+  {
+    "Type": 0,
+    "Value": "taipeitimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".taipeitimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voanews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voanews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theaffairs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theaffairs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theatlantic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theatlantic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thegatewaypundit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thegatewaypundit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thenationalpulse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thenationalpulse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thenewslens.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thenewslens.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thestandnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thestandnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tnntoday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tnntoday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voandebele.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voandebele.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voalingala.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voalingala.com"
+  },
+  {
+    "Type": 0,
+    "Value": "twgreatnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".twgreatnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unwire.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".unwire.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "upmedia.mg"
+  },
+  {
+    "Type": 1,
+    "Value": ".upmedia.mg"
+  },
+  {
+    "Type": 0,
+    "Value": "voakorea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voakorea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "warroom.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".warroom.org"
+  },
+  {
+    "Type": 0,
+    "Value": "washingtonpost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".washingtonpost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaindonesia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaindonesia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weiyuksj.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weiyuksj.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wenzhao.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".wenzhao.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "wired.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wired.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voahausa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voahausa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yibaochina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yibaochina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "youlucky.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".youlucky.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zerohedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zerohedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zoomingin.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".zoomingin.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "aiasahi.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".aiasahi.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "asagaku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asagaku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "asahi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asahi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "asahicom.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".asahicom.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkansports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkansports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voadeewaradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voadeewaradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dreamworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dreamworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnbcfm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnbcfm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msnbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msnbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbc.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbc.co"
+  },
+  {
+    "Type": 0,
+    "Value": "nbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbcnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbcnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbcolympics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbcolympics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbcsports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbcsports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbcuni.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbcuni.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbcuniversal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbcuniversal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s-nbcnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-nbcnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "peacocktv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".peacocktv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "universalorlando.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".universalorlando.com"
+  },
+  {
+    "Type": 0,
+    "Value": "universalpictures.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".universalpictures.com"
+  },
+  {
+    "Type": 0,
+    "Value": "universalpicturesinternational.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".universalpicturesinternational.com"
+  },
+  {
+    "Type": 0,
+    "Value": "universalstudioshollywood.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".universalstudioshollywood.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "reuters.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reuters.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "legaltracker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".legaltracker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reuters.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".reuters.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "reutersagency.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reutersagency.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "reut.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".reut.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tmsnrt.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmsnrt.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreutersmexico.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreutersmexico.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aranzadi.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".aranzadi.es"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reutersmedia.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".reutersmedia.net"
+  },
+  {
+    "Type": 0,
+    "Value": "corepublishingsolutions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".corepublishingsolutions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.in"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.es"
+  },
+  {
+    "Type": 0,
+    "Value": "voadeewanews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voadeewanews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voachinese.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voachinese.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voacantonese.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voacantonese.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voacambodia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voacambodia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voabangla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voabangla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voabambara.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voabambara.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaafrique.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaafrique.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voaafaanoromoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voaafaanoromoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voa.gov"
+  },
+  {
+    "Type": 1,
+    "Value": ".voa.gov"
+  },
+  {
+    "Type": 0,
+    "Value": "urduvoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".urduvoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "radiyoyacuvoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".radiyoyacuvoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "persagg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".persagg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pashtovoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pashtovoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "insidevoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insidevoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chuokoron.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".chuokoron.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "fujinkoron.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".fujinkoron.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hochi.news"
+  },
+  {
+    "Type": 1,
+    "Value": ".hochi.news"
+  },
+  {
+    "Type": 0,
+    "Value": "yomilogi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomilogi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "the-japan-news.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".the-japan-news.com"
+  },
+  {
+    "Type": 0,
+    "Value": "golosameriki.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".golosameriki.com"
+  },
+  {
+    "Type": 0,
+    "Value": "golos-ameriki.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".golos-ameriki.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "glasamerike.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".glasamerike.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dengiamerika.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dengiamerika.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dengeamerika.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dengeamerika.com"
+  },
+  {
+    "Type": 0,
+    "Value": "darivoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".darivoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dandalinvoa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dandalinvoa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbg.gov"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbg.gov"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikiskhma.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikiskhma.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aweencore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aweencore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awetv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awetv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "herringnetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".herringnetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oanencore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oanencore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oann.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oann.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bgr.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".bgr.in"
+  },
+  {
+    "Type": 0,
+    "Value": "bollywoodlife.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bollywoodlife.com"
+  },
+  {
+    "Type": 0,
+    "Value": "careerfundas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".careerfundas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cricketcountry.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cricketcountry.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnai.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnai.in"
+  },
+  {
+    "Type": 0,
+    "Value": "dnaindia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnaindia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "earngeek.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".earngeek.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ekhindi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ekhindi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ind.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".ind.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "india.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".india.com"
+  },
+  {
+    "Type": 0,
+    "Value": "indiancolleges.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".indiancolleges.com"
+  },
+  {
+    "Type": 0,
+    "Value": "itripto.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".itripto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oncars.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".oncars.in"
+  },
+  {
+    "Type": 0,
+    "Value": "prepsure.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".prepsure.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thehealthsite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thehealthsite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wionews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wionews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yo1health.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yo1health.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeebiz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeebiz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeeentertainment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeeentertainment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeenews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeenews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wantblogger.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wantblogger.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chinatimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinatimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "loveparents.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".loveparents.org"
+  },
+  {
+    "Type": 0,
+    "Value": "want-media.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".want-media.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ctwant.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ctwant.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lecoin.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".lecoin.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "benliton.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".benliton.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zwtvusa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zwtvusa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikayidzayn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikayidzayn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikaovozi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikaovozi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikaninsesi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikaninsesi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "amerikaninsesi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amerikaninsesi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "infowarsmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".infowarsmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "infowars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".infowars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mailonsunday.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".mailonsunday.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "dailym.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailym.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "mailhealth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mailhealth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dailymail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailymail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thismon.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".thismon.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "dailymail.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailymail.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "dailymailonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailymailonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mailonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mailonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mol.im"
+  },
+  {
+    "Type": 1,
+    "Value": ".mol.im"
+  },
+  {
+    "Type": 0,
+    "Value": "foxbusiness.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxbusiness.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "fantv.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".fantv.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "hkopentv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkopentv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yiqiedoushiganggangkaishi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".yiqiedoushiganggangkaishi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rolsociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rolsociety.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rolfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rolfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rexcha.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rexcha.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nfscofficial.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nfscofficial.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalvoices.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalvoices.org"
+  },
+  {
+    "Type": 0,
+    "Value": "globalvoicesonline.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalvoicesonline.org"
+  },
+  {
+    "Type": 0,
+    "Value": "medium.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".medium.com"
+  },
+  {
+    "Type": 0,
+    "Value": "medium.systems"
+  },
+  {
+    "Type": 1,
+    "Value": ".medium.systems"
+  },
+  {
+    "Type": 0,
+    "Value": "realclear.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclear.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearbooks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearbooks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realcleardefense.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realcleardefense.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realcleareducation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realcleareducation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearenergy.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearenergy.org"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearhealth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearhealth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearhistory.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearhistory.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearinvestigations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearinvestigations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearlife.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearlife.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearmarkets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearmarkets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearpolicy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearpolicy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearpolitics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearpolitics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearpublicaffairs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearpublicaffairs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearreligion.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearreligion.org"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearscience.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearscience.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realclearworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realclearworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "udn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".udn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "udndata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".udndata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "udnfunlife.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".udnfunlife.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nfscdict.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nfscdict.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myradio.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".myradio.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nfsc.global"
+  },
+  {
+    "Type": 1,
+    "Value": ".nfsc.global"
+  },
+  {
+    "Type": 0,
+    "Value": "now.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".now.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nowe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nowe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nowe.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nowe.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "now-tv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".now-tv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "now-ashare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".now-ashare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hpayshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hpayshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "privilege.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".privilege.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "atnext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atnext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tomonews.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tomonews.net"
+  },
+  {
+    "Type": 0,
+    "Value": "appledaily.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".appledaily.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "appledaily.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appledaily.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sharpdaily.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".sharpdaily.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "twnextdigital.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".twnextdigital.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestmallawards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestmallawards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "applefruity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".applefruity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "privilege.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".privilege.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "next.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".next.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "omoplanet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".omoplanet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextwork.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextwork.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nextwork.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextwork.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nextmgz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextmgz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "himalaya.exchange"
+  },
+  {
+    "Type": 1,
+    "Value": ".himalaya.exchange"
+  },
+  {
+    "Type": 0,
+    "Value": "gwins.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gwins.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gwiki.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gwiki.net"
+  },
+  {
+    "Type": 0,
+    "Value": "guo.media"
+  },
+  {
+    "Type": 1,
+    "Value": ".guo.media"
+  },
+  {
+    "Type": 0,
+    "Value": "gtvmediagroupfairfund.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtvmediagroupfairfund.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtv1.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtv1.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gtv.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtv.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gnews.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gnews.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gfashion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gfashion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gettr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gettr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gclubs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gclubs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g-tvapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".g-tvapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thebankerdatabase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thebankerdatabase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thebanker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thebanker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pwmnet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pwmnet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pensions-expert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pensions-expert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "boxun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".boxun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bowenpress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bowenpress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nbcudigitaladops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nbcudigitaladops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "economist.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".economist.com"
+  },
+  {
+    "Type": 0,
+    "Value": "economistgroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".economistgroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "economistgroupcareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".economistgroupcareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eiu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eiu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.es"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.in"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "huffpostbrasil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffpostbrasil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.de"
+  },
+  {
+    "Type": 0,
+    "Value": "huffpost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffpost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huffpostmaghreb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffpostmaghreb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huffpostarabi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffpostarabi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.it"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "mandatewire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mandatewire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "agendaweek.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".agendaweek.com"
+  },
+  {
+    "Type": 0,
+    "Value": "igniteseurope.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".igniteseurope.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ignitesasia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ignitesasia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.my"
+  },
+  {
+    "Type": 0,
+    "Value": "insiderintelligence.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insiderintelligence.com"
+  },
+  {
+    "Type": 0,
+    "Value": "insider.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insider.com"
+  },
+  {
+    "Type": 0,
+    "Value": "insider-intelligence.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insider-intelligence.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.es"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.de"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.in"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ftiecla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ftiecla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "excedo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".excedo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thenextweb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thenextweb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "scmp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".scmp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "i-scmp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".i-scmp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ajplus.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ajplus.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aljazeera.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aljazeera.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aljazeera.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".aljazeera.net"
+  },
+  {
+    "Type": 0,
+    "Value": "palestineremix.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".palestineremix.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sarajevopodopsadom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sarajevopodopsadom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "srebrenica360.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".srebrenica360.com"
+  },
+  {
+    "Type": 0,
+    "Value": "syhacked.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".syhacked.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chinadecoding.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinadecoding.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbgevent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbgevent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbhub.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbhub.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bbthat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbthat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bgov.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bgov.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergarcade.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergarcade.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbna.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbna.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbreakaway.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbreakaway.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbriefs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbriefs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergenvironment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergenvironment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergforeducation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergforeducation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberggovernment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberggovernment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergindices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergindices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergindustry.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergindustry.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglaw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglaw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergnext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergnext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergpolarlake.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergpolarlake.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergprep.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergprep.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergquint.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergquint.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergsef.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergsef.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergspace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergspace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergstatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergsurvey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergsurvey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtax1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtax1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtaxtech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtaxtech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtradingchallenge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtradingchallenge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtv.mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtv.mn"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergvault.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergvault.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergview.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blpcareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blpcareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blpevents.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blpevents.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blpprofessional.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blpprofessional.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bmia.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bmia.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bnef.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bnef.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businessweek.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessweek.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businessweekmag.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessweekmag.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bwbx.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bwbx.io"
+  },
+  {
+    "Type": 0,
+    "Value": "citylab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".citylab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gotraffic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gotraffic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "londonmithraeum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".londonmithraeum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "neweconomyforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".neweconomyforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newenergyfinance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newenergyfinance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quicktake.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".quicktake.video"
+  },
+  {
+    "Type": 0,
+    "Value": "techatbloomberg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techatbloomberg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tictoc.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".tictoc.video"
+  },
+  {
+    "Type": 0,
+    "Value": "fundfire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fundfire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ignites.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ignites.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ftchinese.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ftchinese.com"
+  },
+  {
+    "Type": 0,
+    "Value": "47gyosei.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".47gyosei.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "47news.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".47news.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kyodo-d.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyodo-d.info"
+  },
+  {
+    "Type": 0,
+    "Value": "kyodo-d.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyodo-d.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kyodoimages.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyodoimages.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kyodonews.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyodonews.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kyodonews.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyodonews.net"
+  },
+  {
+    "Type": 0,
+    "Value": "newsmart.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsmart.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nna.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nna.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "gendai.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gendai.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkan-gendai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkan-gendai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkheadline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkheadline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "singtao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".singtao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "singtaonewscorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".singtaonewscorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my-magazine.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".my-magazine.me"
+  },
+  {
+    "Type": 0,
+    "Value": "singtaola.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".singtaola.com"
+  },
+  {
+    "Type": 0,
+    "Value": "singtaousa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".singtaousa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stheadline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stheadline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "singtaoopo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".singtaoopo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "headlinejobs.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".headlinejobs.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "sing68.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sing68.com"
+  },
+  {
+    "Type": 0,
+    "Value": "singtaobooks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".singtaobooks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eduplus.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".eduplus.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "bastillepost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bastillepost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ftadviser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ftadviser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "financialadvisoriq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".financialadvisoriq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fdiintelligence.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fdiintelligence.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalriskregulator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalriskregulator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "caijinglengyan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".caijinglengyan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc-reporting-api.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc-reporting-api.app"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcverticals.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcverticals.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.in"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcpersian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcpersian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "exec-appointments.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".exec-appointments.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gisplanning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gisplanning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c-spanvideo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".c-spanvideo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "c-span.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".c-span.org"
+  },
+  {
+    "Type": 0,
+    "Value": "voxops.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".voxops.net"
+  },
+  {
+    "Type": 0,
+    "Value": "voxmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voxmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "voxfieldguide.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voxfieldguide.com"
+  },
+  {
+    "Type": 0,
+    "Value": "4gtv.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".4gtv.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "voxcreative.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".voxcreative.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "manoto1.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".manoto1.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "manototv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".manototv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rumah123.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rumah123.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nypost.help"
+  },
+  {
+    "Type": 1,
+    "Value": ".nypost.help"
+  },
+  {
+    "Type": 0,
+    "Value": "adhelpnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adhelpnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api.news"
+  },
+  {
+    "Type": 1,
+    "Value": ".api.news"
+  },
+  {
+    "Type": 0,
+    "Value": "timesmembership.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timesmembership.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bigcharts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bigcharts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thetimes.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".thetimes.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "thesun.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesun.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "talksport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".talksport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "page3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".page3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dreamteamfc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dreamteamfc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "barrons.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".barrons.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rea.global"
+  },
+  {
+    "Type": 1,
+    "Value": ".rea.global"
+  },
+  {
+    "Type": 0,
+    "Value": "rea.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".rea.design"
+  },
+  {
+    "Type": 0,
+    "Value": "fnlondon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fnlondon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rea-group.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rea-group.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ippstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ippstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rea.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".rea.tech"
+  },
+  {
+    "Type": 0,
+    "Value": "huanyuju.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huanyuju.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thinkofliving.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thinkofliving.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mansionglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mansionglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marketwatch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketwatch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "moveaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".moveaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "move.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".move.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makaan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".makaan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rea.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".rea.io"
+  },
+  {
+    "Type": 0,
+    "Value": "iproperty.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iproperty.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rea-asia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rea-asia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsamerica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsamerica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "smartexpos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".smartexpos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "housingcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".housingcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "housing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".housing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "proptiger.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".proptiger.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reastatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".reastatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "newscorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newscorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newscorpaustralia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newscorpaustralia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realtor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realtor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nypostreprints.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nypostreprints.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dowjones.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dowjones.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newssyndication.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newssyndication.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsukadops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsukadops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nypost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nypost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nlm.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".nlm.io"
+  },
+  {
+    "Type": 0,
+    "Value": "djreprints.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".djreprints.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollinsadvantage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollinsadvantage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollinschristian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollinschristian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "storyful.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".storyful.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollins.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollins.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollinsspeakersbureau.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollinsspeakersbureau.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shelfstuff.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shelfstuff.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bookclubgirl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bookclubgirl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harperapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harperapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harperacademic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harperacademic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epicreads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicreads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hcpdts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hcpdts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wsjbarrons.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsjbarrons.com"
+  },
+  {
+    "Type": 0,
+    "Value": "collins.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".collins.in"
+  },
+  {
+    "Type": 0,
+    "Value": "wireless.radio"
+  },
+  {
+    "Type": 1,
+    "Value": ".wireless.radio"
+  },
+  {
+    "Type": 0,
+    "Value": "librarylovefest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".librarylovefest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "careerjournal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".careerjournal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "collegejournal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".collegejournal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opinionjournal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".opinionjournal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realestatejournal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realestatejournal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "startupjournal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".startupjournal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wsj.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsj.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wsj.jobs"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsj.jobs"
+  },
+  {
+    "Type": 0,
+    "Value": "wsj.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsj.net"
+  },
+  {
+    "Type": 0,
+    "Value": "wsjmediakit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsjmediakit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wsjplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsjplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wsjshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsjshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wsjwine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wsjwine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "barrons-advisor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".barrons-advisor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "barrons-conferences.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".barrons-conferences.com"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollins.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollins.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dowjoneson.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dowjoneson.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dowjones.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".dowjones.io"
+  },
+  {
+    "Type": 0,
+    "Value": "vox-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vox-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theverge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theverge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sbnation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sbnation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "recode.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".recode.net"
+  },
+  {
+    "Type": 0,
+    "Value": "racked.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".racked.com"
+  },
+  {
+    "Type": 0,
+    "Value": "polygon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".polygon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meridian.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".meridian.net"
+  },
+  {
+    "Type": 0,
+    "Value": "funnyordie.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".funnyordie.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eater.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eater.com"
+  },
+  {
+    "Type": 0,
+    "Value": "curbed.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".curbed.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cstatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cstatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vanithaveedu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanithaveedu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vanitha.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanitha.in"
+  },
+  {
+    "Type": 0,
+    "Value": "vanitaonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanitaonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theweek.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".theweek.in"
+  },
+  {
+    "Type": 0,
+    "Value": "theman.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".theman.in"
+  },
+  {
+    "Type": 0,
+    "Value": "radiomango.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".radiomango.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "onmanorama.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onmanorama.com"
+  },
+  {
+    "Type": 0,
+    "Value": "manoramayearbook.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".manoramayearbook.in"
+  },
+  {
+    "Type": 0,
+    "Value": "manoramaonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".manoramaonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "manoramanews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".manoramanews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "manorama.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".manorama.com"
+  },
+  {
+    "Type": 0,
+    "Value": "malayalamanorama.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".malayalamanorama.com"
+  },
+  {
+    "Type": 0,
+    "Value": "londonreal.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".londonreal.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "freedomplatform.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".freedomplatform.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "apnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap.org"
+  },
+  {
+    "Type": 0,
+    "Value": "thetype.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thetype.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "electrek.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".electrek.co"
+  },
+  {
+    "Type": 0,
+    "Value": "dronedj.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dronedj.com"
+  },
+  {
+    "Type": 0,
+    "Value": "androidauthority.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".androidauthority.com"
+  },
+  {
+    "Type": 0,
+    "Value": "9to5terminal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".9to5terminal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "9to5mac.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".9to5mac.com"
+  },
+  {
+    "Type": 0,
+    "Value": "9to5google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".9to5google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tomsguide.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tomsguide.com"
+  },
+  {
+    "Type": 0,
+    "Value": "startupschool.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".startupschool.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ycombinator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ycombinator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "androidpolice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".androidpolice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "typeisbeautiful.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".typeisbeautiful.com"
+  },
+  {
+    "Type": 0,
+    "Value": "techradar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techradar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "technews.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".technews.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "slashdot.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".slashdot.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macrumors.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".macrumors.com"
+  },
+  {
+    "Type": 0,
+    "Value": "engadget.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".engadget.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digitaltrends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digitaltrends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appleinsider.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appleinsider.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spaceexplored.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spaceexplored.com"
+  },
+  {
+    "Type": 0,
+    "Value": "9to5toys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".9to5toys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mpweekly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mpweekly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mpfinance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mpfinance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mingwatch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingwatch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mingshengbao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingshengbao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sinchew.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinchew.my"
+  },
+  {
+    "Type": 0,
+    "Value": "omghk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".omghk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mings.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".mings.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yzzk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yzzk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcanvasroom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcanvasroom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mingpao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingpao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mings-fashion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mings-fashion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mysinchew.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysinchew.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enanyang.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".enanyang.my"
+  },
+  {
+    "Type": 0,
+    "Value": "mingpaotor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingpaotor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mingpaovan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingpaovan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mediachinese.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mediachinese.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mingpaocanada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingpaocanada.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mingpaomonthly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingpaomonthly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "waa.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".waa.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "watchout.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".watchout.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankeibiz.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankeibiz.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-tours.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-tours.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-shougakukai.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-shougakukai.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nyt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nyt.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyt.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nytchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nytcn.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytcn.me"
+  },
+  {
+    "Type": 0,
+    "Value": "nytco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nyti.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyti.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "nytimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nytstyle.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytstyle.com"
+  },
+  {
+    "Type": 0,
+    "Value": "timestalks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timestalks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei4946.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei4946.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-kurashi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-kurashi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankeishop.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankeishop.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sanspo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sanspo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "setn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".setn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seasidestory.tokyo"
+  },
+  {
+    "Type": 1,
+    "Value": ".seasidestory.tokyo"
+  },
+  {
+    "Type": 0,
+    "Value": "i-cable.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".i-cable.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-call.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-call.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "businessfocus.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessfocus.io"
+  },
+  {
+    "Type": 0,
+    "Value": "breitbart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".breitbart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbscorporation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbscorporation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsi.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsi.video"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsiam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsiam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsig.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsig.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsimg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsimg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsinteractive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsinteractive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsistatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsistatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsivideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsivideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbspressexpress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbspressexpress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbssports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbssports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cbssvideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbssvideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "viacbs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".viacbs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "viacom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".viacom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "viacomcbs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".viacomcbs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "viacomcbspressexpress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".viacomcbspressexpress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paramount.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paramount.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amlg.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".amlg.io"
+  },
+  {
+    "Type": 0,
+    "Value": "cbsaavideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbsaavideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mtvnservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mtvnservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paramountplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paramountplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pplusstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pplusstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "forbes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forbes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "forbesimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forbesimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbgwatch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbgwatch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsoccerplus.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsoccerplus.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fox5storm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox5storm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "fox10.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox10.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "fox10news.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox10news.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox10phoenix.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox10phoenix.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox11.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox11.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox13memphis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox13memphis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox13news.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox13news.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox23.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox23.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox23maine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox23maine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox247.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox247.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox247.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox247.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "fox26.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox26.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox26houston.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox26houston.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox28media.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox28media.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox29.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox29.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox2detroit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox2detroit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox2news.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox2news.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox32.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox32.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox32chicago.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox32chicago.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox35orlando.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox35orlando.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox38corpuschristi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox38corpuschristi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox42kptm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox42kptm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox46.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox46.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox46charlotte.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox46charlotte.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox47.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox47.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox49.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox49.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "fox4news.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox4news.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox51tns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox51tns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fox5atlanta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox5atlanta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsoccerplus.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsoccerplus.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "fox5ny.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox5ny.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsoccershop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsoccershop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox6now.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox6now.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox7austin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox7austin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxacrossamerica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxacrossamerica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxaffiliateportal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxaffiliateportal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "881903.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".881903.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxbet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxbet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxbusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxbusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "banned.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".banned.video"
+  },
+  {
+    "Type": 0,
+    "Value": "metropolitana.tokyo"
+  },
+  {
+    "Type": 1,
+    "Value": ".metropolitana.tokyo"
+  },
+  {
+    "Type": 0,
+    "Value": "ign.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ign.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcharlotte.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcharlotte.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcincy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcincy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcincy.jobs"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcincy.jobs"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcincy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcincy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcollegesports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcollegesports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcorporation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcorporation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcreativeuniversity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcreativeuniversity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcredit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcredit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxcredit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxcredit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "foxd.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxd.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "foxdcg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxdcg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxdeportes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxdeportes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxdeportes.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxdeportes.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxdeportes.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxdeportes.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "foxdigitalmovies.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxdigitalmovies.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxdoua.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxdoua.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxentertainment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxentertainment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxfaq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxfaq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxfdm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxfdm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxfiles.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxfiles.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxkansas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxkansas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxla.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxla.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "foxlexington.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxlexington.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxmediacloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxmediacloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnebraska.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnebraska.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxneo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxneo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxneodigital.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxneodigital.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnetworks.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnetworks.info"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnetworksinfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnetworksinfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnews.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnews.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnews.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnews.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnews.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnews.org"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnews.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnews.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsaffiliates.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsaffiliates.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsaroundtheworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsaroundtheworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsb2b.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsb2b.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewschannel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewschannel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsgo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsgo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsgo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsgo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsgo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsgo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewshealth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewshealth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewslatino.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewslatino.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsmagazine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsmagazine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsnetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsnetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsopinion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsopinion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewspodcasts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewspodcasts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewspolitics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewspolitics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewsrundown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewsrundown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxnewssunday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxnewssunday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxphiladelphia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxphiladelphia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxpoker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxpoker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxrad.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxrad.io"
+  },
+  {
+    "Type": 0,
+    "Value": "foxredeem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxredeem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxrelease.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxrelease.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxrichmond.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxrichmond.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxrobots.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxrobots.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsmallbusinesscenter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsmallbusinesscenter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsmallbusinesscenter.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsmallbusinesscenter.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsmallbusinesscenter.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsmallbusinesscenter.org"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsoccer.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsoccer.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsoccer.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsoccer.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsoccermatchpass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsoccermatchpass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsoccerplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsoccerplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox-corporation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox-corporation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox5dc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox5dc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fox-news.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox-news.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsflorida.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsflorida.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports-newyork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports-newyork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports-world.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports-world.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.co"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.info"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "wogx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wogx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "woflthenewsstation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".woflthenewsstation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wofl.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".wofl.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "whosthehost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whosthehost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whatthefox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whatthefox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thegeorgiascene.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thegeorgiascene.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thefoxnation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thefoxnation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theclasshroom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theclasshroom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "testonfox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".testonfox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teenchoice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teenchoice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "speedxtra.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedxtra.com"
+  },
+  {
+    "Type": 0,
+    "Value": "speedracegear.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedracegear.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports-chicago.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports-chicago.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsnetmilwaukee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsnetmilwaukee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsneworleans.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsneworleans.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsracing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsracing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportssupports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportssupports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsuniversity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsuniversity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsportsworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsportsworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxstudiolot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxstudiolot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsuper6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsuper6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxtel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxtel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "speedfantasybid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedfantasybid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "speeddreamride.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speeddreamride.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxtelevisionstations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxtelevisionstations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxtvdvd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxtvdvd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxuv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxuv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foxweatherwatch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxweatherwatch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fssta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fssta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fxn.ws"
+  },
+  {
+    "Type": 1,
+    "Value": ".fxn.ws"
+  },
+  {
+    "Type": 0,
+    "Value": "fxnetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fxnetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fxnetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fxnetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bentobox.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bentobox.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "kicu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".kicu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ktvu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ktvu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxsanfran.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxsanfran.com"
+  },
+  {
+    "Type": 0,
+    "Value": "afewmomentswith.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".afewmomentswith.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anidom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anidom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "casoneexchange.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".casoneexchange.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coronavirusnow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coronavirusnow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fse.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".fse.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "geraldoatlarge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geraldoatlarge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gooddaychicago.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gooddaychicago.com"
+  },
+  {
+    "Type": 0,
+    "Value": "joeswall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".joeswall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kilmeadeandfriends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kilmeadeandfriends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maskedsingerfox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maskedsingerfox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my13la.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my13la.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my20dc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my20dc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my20houston.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my20houston.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my29tv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my29tv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my45.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my45.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my9nj.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my9nj.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxatlanta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxatlanta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxaustin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxaustin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxboston.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxboston.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxcharlotte.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxcharlotte.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxchicago.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxchicago.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxdc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxdc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxdetroit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxdetroit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxdfw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxdfw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxhouston.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxhouston.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxhurricane.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxhurricane.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxlosangeles.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxlosangeles.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxlubbock.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxlubbock.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxmaine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxmaine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxny.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxny.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxorlando.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxorlando.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxphilly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxphilly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxphoenix.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxphoenix.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxtampa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxtampa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxtampabay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxtampabay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxtwincities.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxtwincities.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myfoxzone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myfoxzone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myq2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myq2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsnowfox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsnowfox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "orlandohurricane.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".orlandohurricane.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paradisehotelquizfox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paradisehotelquizfox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "q13.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".q13.com"
+  },
+  {
+    "Type": 0,
+    "Value": "q13fox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".q13fox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realamericanstories.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realamericanstories.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realamericanstories.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".realamericanstories.info"
+  },
+  {
+    "Type": 0,
+    "Value": "realamericanstories.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".realamericanstories.net"
+  },
+  {
+    "Type": 0,
+    "Value": "realamericanstories.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".realamericanstories.org"
+  },
+  {
+    "Type": 0,
+    "Value": "realamericanstories.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".realamericanstories.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "realmilwaukeenow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realmilwaukeenow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rprimelab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rprimelab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopspeedtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopspeedtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "soccermatchpass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".soccermatchpass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mostly.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mostly.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "seiron-sankei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".seiron-sankei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "business-i.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".business-i.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "keiba.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".keiba.net"
+  },
+  {
+    "Type": 0,
+    "Value": "japan-forward.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".japan-forward.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tvnaviweb.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvnaviweb.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ironna.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ironna.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-ad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-ad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "innovations-i.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".innovations-i.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-ad-info.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-ad-info.com"
+  },
+  {
+    "Type": 0,
+    "Value": "usatodaynetworkservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".usatodaynetworkservice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "usatoday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".usatoday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gannettdigital.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gannettdigital.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gannett.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gannett.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gannett-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gannett-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "neow.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".neow.in"
+  },
+  {
+    "Type": 0,
+    "Value": "neowin.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".neowin.net"
+  },
+  {
+    "Type": 0,
+    "Value": "matters.news"
+  },
+  {
+    "Type": 1,
+    "Value": ".matters.news"
+  },
+  {
+    "Type": 0,
+    "Value": "matters.one"
+  },
+  {
+    "Type": 1,
+    "Value": ".matters.one"
+  },
+  {
+    "Type": 0,
+    "Value": "matters.town"
+  },
+  {
+    "Type": 1,
+    "Value": ".matters.town"
+  },
+  {
+    "Type": 0,
+    "Value": "mattersprotocol.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".mattersprotocol.io"
+  },
+  {
+    "Type": 0,
+    "Value": "rferl.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rferl.org"
+  },
+  {
+    "Type": 0,
+    "Value": "azadiradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azadiradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azadliq.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".azadliq.org"
+  },
+  {
+    "Type": 0,
+    "Value": "azathabar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azathabar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azatliq.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".azatliq.org"
+  },
+  {
+    "Type": 0,
+    "Value": "azattyk.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".azattyk.org"
+  },
+  {
+    "Type": 0,
+    "Value": "azattyq.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".azattyq.org"
+  },
+  {
+    "Type": 0,
+    "Value": "azatutyun.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".azatutyun.am"
+  },
+  {
+    "Type": 0,
+    "Value": "currenttime.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".currenttime.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ekhokavkaza.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ekhokavkaza.com"
+  },
+  {
+    "Type": 0,
+    "Value": "europalibera.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".europalibera.org"
+  },
+  {
+    "Type": 0,
+    "Value": "evropaelire.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".evropaelire.org"
+  },
+  {
+    "Type": 0,
+    "Value": "factograph.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".factograph.info"
+  },
+  {
+    "Type": 0,
+    "Value": "idelreal.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".idelreal.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kavkazr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kavkazr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "krymr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".krymr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mashaalradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mashaalradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ozodi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ozodi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ozodlik.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ozodlik.org"
+  },
+  {
+    "Type": 0,
+    "Value": "radiofarda.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".radiofarda.com"
+  },
+  {
+    "Type": 0,
+    "Value": "radiomarsho.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".radiomarsho.com"
+  },
+  {
+    "Type": 0,
+    "Value": "radiosvoboda.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".radiosvoboda.org"
+  },
+  {
+    "Type": 0,
+    "Value": "radiotavisupleba.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".radiotavisupleba.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "severreal.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".severreal.org"
+  },
+  {
+    "Type": 0,
+    "Value": "sibreal.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sibreal.org"
+  },
+  {
+    "Type": 0,
+    "Value": "slobodnaevropa.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".slobodnaevropa.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "svaboda.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".svaboda.org"
+  },
+  {
+    "Type": 0,
+    "Value": "svoboda.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".svoboda.org"
+  },
+  {
+    "Type": 0,
+    "Value": "svobodnaevropa.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".svobodnaevropa.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "szabadeuropa.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".szabadeuropa.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "etvonline.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".etvonline.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "rthk.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".rthk.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "axios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".axios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sky.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sky.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skyassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skyassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skymansion.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".skymansion.net"
+  },
+  {
+    "Type": 0,
+    "Value": "skyoceanrescue.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skyoceanrescue.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skyoceanrescue.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".skyoceanrescue.de"
+  },
+  {
+    "Type": 0,
+    "Value": "skyoceanrescue.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".skyoceanrescue.it"
+  },
+  {
+    "Type": 0,
+    "Value": "skysports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skysports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skysports.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".skysports.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "skysports.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".skysports.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "skysportsonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skysportsonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skysportsracing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skysportsracing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theinitium.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theinitium.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init.shop"
+  },
+  {
+    "Type": 1,
+    "Value": ".init.shop"
+  },
+  {
+    "Type": 0,
+    "Value": "tospo-keiba.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tospo-keiba.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "cnbetacdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnbetacdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "6park.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".6park.com"
+  },
+  {
+    "Type": 0,
+    "Value": "6parkbbs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".6parkbbs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "6parknews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".6parknews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cool18.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cool18.com"
+  },
+  {
+    "Type": 0,
+    "Value": "popo8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".popo8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "parkvv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".parkvv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xwbo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xwbo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wanokokorosoh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wanokokorosoh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ozvoice.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ozvoice.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bannedbook.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bannedbook.org"
+  },
+  {
+    "Type": 0,
+    "Value": "broadpressinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".broadpressinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chinaaffairs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinaaffairs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dafahao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dafahao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "donatecarsoh.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".donatecarsoh.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dongtaiwang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dongtaiwang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "falundafa.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".falundafa.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "falundafamuseum.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".falundafamuseum.org"
+  },
+  {
+    "Type": 0,
+    "Value": "falungong.club"
+  },
+  {
+    "Type": 1,
+    "Value": ".falungong.club"
+  },
+  {
+    "Type": 0,
+    "Value": "faluninfo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".faluninfo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fawanghuihui.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fawanghuihui.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fayuanbooks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fayuanbooks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fgmtv.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fgmtv.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ganjing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ganjing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ganjing.world"
+  },
+  {
+    "Type": 1,
+    "Value": ".ganjing.world"
+  },
+  {
+    "Type": 0,
+    "Value": "ganjingworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ganjingworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guangming.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".guangming.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mhradio.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mhradio.org"
+  },
+  {
+    "Type": 0,
+    "Value": "persianepochtimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".persianepochtimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starp2p.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starp2p.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiandixing.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiandixing.org"
+  },
+  {
+    "Type": 0,
+    "Value": "tiantibooks.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiantibooks.org"
+  },
+  {
+    "Type": 0,
+    "Value": "tuidang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tuidang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "upholdjustice.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".upholdjustice.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wujieliulan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wujieliulan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xinsheng.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".xinsheng.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yuanming.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuanming.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "zhengjian.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhengjian.org"
+  },
+  {
+    "Type": 0,
+    "Value": "zhengwunet.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhengwunet.org"
+  },
+  {
+    "Type": 0,
+    "Value": "zhenxiang.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhenxiang.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "zhuichaguoji.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhuichaguoji.org"
+  },
+  {
+    "Type": 0,
+    "Value": "shenyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shenyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shenyun.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".shenyun.org"
+  },
+  {
+    "Type": 0,
+    "Value": "shenyuncreations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shenyuncreations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shenyunperformingarts.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".shenyunperformingarts.org"
+  },
+  {
+    "Type": 0,
+    "Value": "es-visiontimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".es-visiontimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kannewyork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kannewyork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kanzhongguo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kanzhongguo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kanzhongguo.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".kanzhongguo.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "secretchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".secretchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trithucvn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".trithucvn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trithucvn.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".trithucvn.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vct.news"
+  },
+  {
+    "Type": 1,
+    "Value": ".vct.news"
+  },
+  {
+    "Type": 0,
+    "Value": "visiontimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visiontimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visiontimes.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".visiontimes.de"
+  },
+  {
+    "Type": 0,
+    "Value": "visiontimes.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".visiontimes.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "visiontimes.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".visiontimes.it"
+  },
+  {
+    "Type": 0,
+    "Value": "visiontimes.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".visiontimes.net"
+  },
+  {
+    "Type": 0,
+    "Value": "visiontimesjp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visiontimesjp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vtvan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vtvan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "watchinese.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".watchinese.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bayvoice.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bayvoice.net"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.se"
+  },
+  {
+    "Type": 0,
+    "Value": "sohcradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sohcradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sohfrance.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sohfrance.org"
+  },
+  {
+    "Type": 0,
+    "Value": "soundofhope.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".soundofhope.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "soundofhope.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".soundofhope.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "soundofhope.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".soundofhope.org"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.it"
+  },
+  {
+    "Type": 0,
+    "Value": "bannedbook.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bannedbook.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ninecommentaries.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ninecommentaries.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edninfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".edninfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epoch.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".epoch.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "epochbase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochbase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochcar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochcar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochhk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochhk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochmall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochmall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochmediagroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochmediagroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dajiyuan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dajiyuan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochstories.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochstories.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes-bg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes-bg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes-romania.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes-romania.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.de"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "velkaepocha.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".velkaepocha.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "theepochtimessubscribe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theepochtimessubscribe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "renminbao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".renminbao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdvn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdvn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "aboluowang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboluowang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "theepochtimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theepochtimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dajiyuan.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".dajiyuan.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "epochshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimeshk.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimeshk.org"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimestr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimestr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochweek.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochweek.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epochweekly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochweekly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "erabaru.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".erabaru.net"
+  },
+  {
+    "Type": 0,
+    "Value": "etviet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".etviet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lagranepoca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lagranepoca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minghui.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".minghui.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ntd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntd.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntd.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtvla.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtvla.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv-dc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv-dc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnbeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnbeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "afpforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".afpforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "afp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".afp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tver.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tver.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "screens-lab.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".screens-lab.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "gorin.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".gorin.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "dogatch.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".dogatch.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "newsmaxtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsmaxtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newsmax.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsmax.in"
+  },
+  {
+    "Type": 0,
+    "Value": "newsmax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsmax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "andysparis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".andysparis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnpolitics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnpolitics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "machigoto.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".machigoto.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mainichi-athletepartners.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mainichi-athletepartners.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mainichi.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mainichi.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mainichibooks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mainichibooks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meijinsen.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".meijinsen.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mirailab.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirailab.tech"
+  },
+  {
+    "Type": 0,
+    "Value": "mottainai.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".mottainai.info"
+  },
+  {
+    "Type": 0,
+    "Value": "newsgawakaru.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsgawakaru.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weekly-economist.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weekly-economist.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnmoneystream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnmoneystream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "americasvoice.news"
+  },
+  {
+    "Type": 1,
+    "Value": ".americasvoice.news"
+  },
+  {
+    "Type": 0,
+    "Value": "dev-guardianapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dev-guardianapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dev-theguardian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dev-theguardian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gu-web.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gu-web.net"
+  },
+  {
+    "Type": 0,
+    "Value": "guardianapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".guardianapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theguardian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theguardian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theguardiandns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theguardiandns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnmoney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnmoney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnmoney.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnmoney.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnlabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnlabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbweekly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbweekly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bigbigshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bigbigshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "encoretvb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".encoretvb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tvb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbanywhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbanywhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbusa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbusa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mytvsuper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mytvsuper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnarabic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnarabic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnn.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnn.it"
+  },
+  {
+    "Type": 0,
+    "Value": "cnn.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnn.io"
+  },
+  {
+    "Type": 0,
+    "Value": "cnn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zaobao.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".zaobao.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "9cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".9cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxbusinessgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxbusinessgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zaobao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zaobao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hketgroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hketgroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "etwealth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".etwealth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "etpress.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".etpress.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "umagazine.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".umagazine.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nineentertainment.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".nineentertainment.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "newsprinters.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsprinters.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "ninemediaroom.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ninemediaroom.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ninemsn.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ninemsn.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "static9.net.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".static9.net.au"
+  },
+  {
+    "Type": 0,
+    "Value": "yourtv.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".yourtv.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "mi9.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".mi9.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "freeviewplus.net.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".freeviewplus.net.au"
+  },
+  {
+    "Type": 0,
+    "Value": "9news.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".9news.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "apexprint.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".apexprint.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "eprc.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".eprc.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "etbc.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".etbc.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "etnet.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".etnet.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "newslicensing.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".newslicensing.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "ettrade.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ettrade.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "9nation.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".9nation.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "udn.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".udn.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "9now.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".9now.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "tvmedia.net.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvmedia.net.au"
+  },
+  {
+    "Type": 0,
+    "Value": "zaobao.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".zaobao.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "bigbigchannel.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bigbigchannel.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbeventpower.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbeventpower.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbanywhere.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbanywhere.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "tvb.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvb.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "guimcode.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".guimcode.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "guim.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".guim.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "guardianapps.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".guardianapps.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "sponichi.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sponichi.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "epoch.org.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".epoch.org.il"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "yuming.qxbbs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuming.qxbbs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "tver.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tver.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ntdtv.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntdtv.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "falundafa.org.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".falundafa.org.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "epochtimes.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".epochtimes.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "tokyo-sports.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tokyo-sports.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "cnbeta.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnbeta.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "yes123.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yes123.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ltn.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ltn.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "zdnet.redvideo.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdnet.redvideo.io"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.net.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.net.br"
+  },
+  {
+    "Type": 0,
+    "Value": "foxtel.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxtel.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.com.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.com.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "couriermail.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".couriermail.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "am730.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".am730.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "cabletv.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".cabletv.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "settv.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".settv.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkeibp.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkeibp.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikkei-cnbc.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikkei-cnbc.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "thetimes.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thetimes.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "thesundaytimes.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesundaytimes.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "the-tls.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".the-tls.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "sportswomenoftheyear.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".sportswomenoftheyear.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "knowswho.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".knowswho.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-kaihatsu.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-kaihatsu.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-eiga.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-eiga.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-digital.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-digital.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sankei-books.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankei-books.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "iza.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".iza.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "zakzak.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".zakzak.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sportswomanoftheyear.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".sportswomanoftheyear.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "mytimesplus.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".mytimesplus.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "driving.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".driving.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bestrecipes.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestrecipes.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "bodyandsoul.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".bodyandsoul.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "thesun.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesun.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "thescottishsun.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thescottishsun.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "sunbingo.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".sunbingo.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bridge-studio.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bridge-studio.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "cairnspost.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".cairnspost.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "cnivogue.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnivogue.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "property.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".property.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "squarefoot.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".squarefoot.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "hometrack.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".hometrack.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "smartline.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".smartline.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "inventorship.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".inventorship.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "iproperty.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".iproperty.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "dailytelegraph.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailytelegraph.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "flatmates.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".flatmates.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "chinapress.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinapress.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "soccerfanz.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".soccerfanz.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "sinchew.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".sinchew.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "guangming.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".guangming.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "realestate.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".realestate.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "realcommercial.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".realcommercial.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "hackday.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".hackday.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "spacely.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".spacely.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "delicious.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".delicious.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "escape.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".escape.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "geelongadvertiser.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".geelongadvertiser.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "goldcoastbulletin.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".goldcoastbulletin.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "heraldsun.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".heraldsun.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "intheknow.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".intheknow.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "kidspot.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".kidspot.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "nativeincolour.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".nativeincolour.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "newcastlenewslocal.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".newcastlenewslocal.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "news.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".news.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "news.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".news.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "1degree.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".1degree.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "news.net.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".news.net.au"
+  },
+  {
+    "Type": 0,
+    "Value": "newsadds.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsadds.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "newsapi.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsapi.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "newscareers.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".newscareers.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "newscdn.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".newscdn.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "newscommercial.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".newscommercial.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "newsconcierge.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsconcierge.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "foxsports.co.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxsports.co.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "ulifestyle.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ulifestyle.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nine.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".nine.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "nineentertainmentco.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".nineentertainmentco.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "newsxtend.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsxtend.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ntnews.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntnews.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "natgeokidsbooks.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".natgeokidsbooks.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollins.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollins.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "egmontbooks.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".egmontbooks.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "collins.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".collins.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollins.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollins.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollinschildrensbooks.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollinschildrensbooks.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "placemyad.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".placemyad.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "savvyshopper.net.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".savvyshopper.net.au"
+  },
+  {
+    "Type": 0,
+    "Value": "supercoach.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercoach.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "taste.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".taste.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "theaustralian.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".theaustralian.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "thechronicle.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".thechronicle.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "themercury.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".themercury.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "themessengeradelaide.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".themessengeradelaide.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "townsvillebulletin.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".townsvillebulletin.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "weeklytimesnow.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".weeklytimesnow.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "whimn.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".whimn.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "wirelessgroup.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".wirelessgroup.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "iproperty.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".iproperty.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "whereilive.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".whereilive.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "harpercollins.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".harpercollins.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "newsprestigenetwork.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".newsprestigenetwork.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ftvnews.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ftvnews.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ftv.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ftv.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "bnext.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".bnext.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "bidi.net.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bidi.net.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.mp-pxcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.mp-pxcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcmedia.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcmedia.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbci.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbci.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.net.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.net.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "thestandard.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thestandard.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "eastweek.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".eastweek.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "jobmarket.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".jobmarket.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "pcmarket.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pcmarket.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "easttouch.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".easttouch.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.com.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.com.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "businessinsider.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessinsider.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "huffingtonpost.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".huffingtonpost.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "appledaily.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".appledaily.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "appledaily.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".appledaily.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "applehealth.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".applehealth.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "deluxe.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".deluxe.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "investorschronicle.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".investorschronicle.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "eracom.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".eracom.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nextdigital.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextdigital.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nxtdig.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nxtdig.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nxtdig.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nxtdig.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nextdigital.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextdigital.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nextfilm.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextfilm.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nextwork.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextwork.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nextwork.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextwork.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nexttv.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexttv.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nextplus.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextplus.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nextmag.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextmag.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nextmedia.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextmedia.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "now.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".now.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "myradio.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".myradio.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "adelaidenow.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".adelaidenow.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "mailonline.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".mailonline.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "thisismoney.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thisismoney.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "dailymail.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailymail.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "metro.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".metro.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "anm.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".anm.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "mailonsunday.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".mailonsunday.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "dmgmediaprivacy.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmgmediaprivacy.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "dailymail.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailymail.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "superstation.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".superstation.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "chinatimes.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinatimes.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ctee.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ctee.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ctv.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ctv.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ctitv.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ctitv.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "infotimes.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".infotimes.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "yomiuri.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomiuri.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yomiuri-systec.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomiuri-systec.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yomiuri-shimbun.pressreader.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomiuri-shimbun.pressreader.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yomiuri-ryokou.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomiuri-ryokou.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yomiuri-johkai.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomiuri-johkai.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ryokoyomiuri.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ryokoyomiuri.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ync.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ync.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yomikyo.or.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yomikyo.or.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "livrariart.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".livrariart.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "sweetandmaxwell.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".sweetandmaxwell.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "thomsonreuters.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".thomsonreuters.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "asakonet.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".asakonet.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ydn.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ydn.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "wealth.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".wealth.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "vjmedia.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vjmedia.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "tvmost.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvmost.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbs.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbs.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "taiwannews.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".taiwannews.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "singpao.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".singpao.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "money-link.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".money-link.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrormedia.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrormedia.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ltsports.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ltsports.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "inside.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".inside.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ebc.net.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebc.net.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "cw.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".cw.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "cup.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".cup.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "coolloud.org.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".coolloud.org.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "cna.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".cna.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "cmmedia.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".cmmedia.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "businessweekly.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessweekly.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "businesstoday.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".businesstoday.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcfmt.s.llnwi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcfmt.s.llnwi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-cdn1.skymansion.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn-cdn1.skymansion.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tvbc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvbc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "etnet.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".etnet.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "etnetchina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".etnetchina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "thetype.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".thetype.cloud"
+  }
+]

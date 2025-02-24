@@ -1,0 +1,4734 @@
+[
+  {
+    "Type": 0,
+    "Value": "img-prod-cms-rt-microsoft-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "img-s-msn-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mwf-service.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "officecdn-microsoft-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "statics-marketingsites-eas-ms-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "statics-marketingsites-eus-ms-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "statics-marketingsites-wcus-ms-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "github-cloud.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "az764295.vo.msecnd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bingsettingssearch.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "default.exp-tas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.visualstudio.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtlgalleryint.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "poshtestgallery.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "psg-int-centralus.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "psg-int-eastus.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rink.hockeyapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-sync-insiders.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-sync.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.blob.core.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.search.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vsmarketplacebadge.apphb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mscrl.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oneocsp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azure.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azuremarketplace.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "location.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotmail"
+  },
+  {
+    "Type": 1,
+    "Value": ".office"
+  },
+  {
+    "Type": 1,
+    "Value": ".skype"
+  },
+  {
+    "Type": 1,
+    "Value": ".windows"
+  },
+  {
+    "Type": 1,
+    "Value": ".bing"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox"
+  },
+  {
+    "Type": 0,
+    "Value": "windowssearch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowssearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skypeassets.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".skypeassets.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.de"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.es"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.io"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.is"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.it"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.md"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.red"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.red"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.se"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.si"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.uz"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.uz"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "femalefounderscomp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".femalefounderscomp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m12.vc"
+  },
+  {
+    "Type": 1,
+    "Value": ".m12.vc"
+  },
+  {
+    "Type": 0,
+    "Value": "a-msedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".a-msedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aka.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".aka.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "ankarazirvesi2018.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ankarazirvesi2018.com"
+  },
+  {
+    "Type": 0,
+    "Value": "applicationinsights.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".applicationinsights.io"
+  },
+  {
+    "Type": 0,
+    "Value": "applicationinsights.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".applicationinsights.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aria.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".aria.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "asp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".asp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aspnetcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aspnetcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "binads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".binads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluehatil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluehatil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "boswp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".boswp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "brazilpartneruniversity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".brazilpartneruniversity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "breakdown.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".breakdown.me"
+  },
+  {
+    "Type": 0,
+    "Value": "centralvalidation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".centralvalidation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ch9.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".ch9.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "charticulator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".charticulator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudapp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudappsecurity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudappsecurity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cortanaanalytics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cortanaanalytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cortanaskills.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cortanaskills.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crmdynint-gcc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crmdynint-gcc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crmdynint.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crmdynint.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crossborderexpansion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crossborderexpansion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "docs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".docs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dynamics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dynamics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edgesuite.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgesuite.net"
+  },
+  {
+    "Type": 0,
+    "Value": "efproject.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".efproject.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fasttrackreadysupport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fasttrackreadysupport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fluidpreview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fluidpreview.com"
+  },
+  {
+    "Type": 0,
+    "Value": "footprintdns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".footprintdns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gameuxmasterguide.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameuxmasterguide.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gears5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gears5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gearspop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gearspop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gearstactics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gearstactics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gfx.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".gfx.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "gigjam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gigjam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hololens.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hololens.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotmail.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotmail.co"
+  },
+  {
+    "Type": 0,
+    "Value": "hotmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotmail.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotmail.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "hotmail.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotmail.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hotmail.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotmail.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hummingbird.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".hummingbird.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "ie8.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".ie8.co"
+  },
+  {
+    "Type": 0,
+    "Value": "ie9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ie9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ie10.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ie10.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ie11.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ie11.com"
+  },
+  {
+    "Type": 0,
+    "Value": "internetexplorer.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".internetexplorer.co"
+  },
+  {
+    "Type": 0,
+    "Value": "internetexplorer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".internetexplorer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imaginecup.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".imaginecup.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ingads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intunewiki.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intunewiki.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iotinactionevents.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iotinactionevents.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kidgrid.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".kidgrid.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "kumo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kumo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "latampartneruniversity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".latampartneruniversity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "live.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".live.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sprinklesapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sprinklesapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "live.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".live.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "live.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".live.net"
+  },
+  {
+    "Type": 0,
+    "Value": "livingyourambition.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".livingyourambition.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makecode.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".makecode.org"
+  },
+  {
+    "Type": 0,
+    "Value": "managedmeetingrooms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".managedmeetingrooms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meetfasttrack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meetfasttrack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meetyourdevices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meetyourdevices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mepn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mepn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-falcon.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-falcon.io"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-int.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-int.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-ppe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-ppe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-sap-events.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-sap-events.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-sbs-domains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-sbs-domains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft365.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft365.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftaccountguard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftaccountguard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftadvertising.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftadvertising.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftadvertisingregionalawards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftadvertisingregionalawards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftaffiliates.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftaffiliates.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftapp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftcloudworkshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftcloudworkshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftcommunitytraining.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftcommunitytraining.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsofthouse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsofthouse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsofthouse.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsofthouse.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftinternetsafety.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftinternetsafety.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftlatamaitour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftlatamaitour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftlinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftlinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftpartnercommunity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftpartnercommunity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftready.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftready.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsiteselection.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsiteselection.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "renovacionoffice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".renovacionoffice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftstream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftstream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftteams.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftteams.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsofttradein.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsofttradein.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsofttranslator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsofttranslator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftuwp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftuwp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "momentumms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".momentumms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "morphcharts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".morphcharts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mpnevolution.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mpnevolution.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ms-studiosmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ms-studiosmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ms365surfaceoffer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ms365surfaceoffer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msads.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msads.net"
+  },
+  {
+    "Type": 0,
+    "Value": "msauth.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msauth.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mschallenge2018.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mschallenge2018.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msecnd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msecnd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "msedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "msft.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".msft.info"
+  },
+  {
+    "Type": 0,
+    "Value": "msft.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msft.net"
+  },
+  {
+    "Type": 0,
+    "Value": "msftauth.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftauth.net"
+  },
+  {
+    "Type": 0,
+    "Value": "msfteducation.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".msfteducation.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "msftnet.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftnet.org"
+  },
+  {
+    "Type": 0,
+    "Value": "msgamesresearch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msgamesresearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msturing.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".msturing.org"
+  },
+  {
+    "Type": 0,
+    "Value": "msudalosti.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msudalosti.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mymicrosoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mymicrosoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextechafrica.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextechafrica.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nxta.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nxta.org"
+  },
+  {
+    "Type": 0,
+    "Value": "o365weve-dev.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".o365weve-dev.com"
+  },
+  {
+    "Type": 0,
+    "Value": "o365weve-ppe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".o365weve-ppe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "o365weve.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".o365weve.com"
+  },
+  {
+    "Type": 0,
+    "Value": "office.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".office.com"
+  },
+  {
+    "Type": 0,
+    "Value": "office.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "office365.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".office365.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onenote.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onenote.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onenote.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".onenote.net"
+  },
+  {
+    "Type": 0,
+    "Value": "onestore.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".onestore.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "opticsforthecloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".opticsforthecloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "outingsapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".outingsapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "outlook.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".outlook.com"
+  },
+  {
+    "Type": 0,
+    "Value": "passport.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".passport.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pixapp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "powerappscdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerappscdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "powerautomate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerautomate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "powerbi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerbi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "powershellgallery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".powershellgallery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "projectmurphy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".projectmurphy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "projectsangam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".projectsangam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pxt.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".pxt.io"
+  },
+  {
+    "Type": 0,
+    "Value": "s-dc-msedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-dc-msedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "s-microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s-msedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-msedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "s-msft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-msft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s-msn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".s-msn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sfbassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sfbassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sfbassets.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sfbassets.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sfx.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".sfx.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "sharepoint.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sharepoint.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sharepointonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sharepointonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "signalr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".signalr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "skype.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skype.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skype.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".skype.net"
+  },
+  {
+    "Type": 0,
+    "Value": "skypeassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skypeassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "office365tw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".office365tw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "staffhub.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".staffhub.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "successwithteams.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".successwithteams.com"
+  },
+  {
+    "Type": 0,
+    "Value": "surface.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".surface.com"
+  },
+  {
+    "Type": 0,
+    "Value": "svc.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".svc.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "sway-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sway-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sway.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sway.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sysinternals.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sysinternals.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tailwindtraders.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tailwindtraders.com"
+  },
+  {
+    "Type": 0,
+    "Value": "techhub.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".techhub.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "tfsallin.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tfsallin.net"
+  },
+  {
+    "Type": 0,
+    "Value": "translatetheweb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".translatetheweb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unlocklimitlesslearning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unlocklimitlesslearning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "userpxt.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".userpxt.io"
+  },
+  {
+    "Type": 0,
+    "Value": "videobreakdown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videobreakdown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videoindexer.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".videoindexer.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "virtualearth.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".virtualearth.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vsallin.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vsallin.net"
+  },
+  {
+    "Type": 0,
+    "Value": "wbd.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".wbd.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "what-fan.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".what-fan.net"
+  },
+  {
+    "Type": 0,
+    "Value": "windows-int.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".windows-int.net"
+  },
+  {
+    "Type": 0,
+    "Value": "windows.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windows.com"
+  },
+  {
+    "Type": 0,
+    "Value": "windows.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "windows.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".windows.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "windows8.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".windows8.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "windowscommunity.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowscommunity.net"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsmarketplace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsmarketplace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsphone-int.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsphone-int.com"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsphone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsphone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsupdate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsupdate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "winhec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".winhec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "winhec.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".winhec.net"
+  },
+  {
+    "Type": 0,
+    "Value": "repo.new"
+  },
+  {
+    "Type": 1,
+    "Value": ".repo.new"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnewskids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnewskids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "office365love.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".office365love.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubhackathon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubhackathon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ghcr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ghcr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubnext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubnext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubpreview.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubpreview.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "github.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "github.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.com"
+  },
+  {
+    "Type": 0,
+    "Value": "github.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.community"
+  },
+  {
+    "Type": 0,
+    "Value": "github.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "github.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubcopilot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubcopilot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dependabot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dependabot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "git.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".git.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubstatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubuniverse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubuniverse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myoctocat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myoctocat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opensource.guide"
+  },
+  {
+    "Type": 1,
+    "Value": ".opensource.guide"
+  },
+  {
+    "Type": 0,
+    "Value": "yammer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yammer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thegithubshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thegithubshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atom.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".atom.io"
+  },
+  {
+    "Type": 0,
+    "Value": "npm.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".npm.community"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msunlimitedcloudsummit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msunlimitedcloudsummit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adaptivecards.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".adaptivecards.io"
+  },
+  {
+    "Type": 0,
+    "Value": "api-extractor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api-extractor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apisof.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".apisof.net"
+  },
+  {
+    "Type": 0,
+    "Value": "appcenter.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".appcenter.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "blazor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".blazor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "botframework.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".botframework.com"
+  },
+  {
+    "Type": 0,
+    "Value": "codethemicrobit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".codethemicrobit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devopsassessment.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".devopsassessment.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dot.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dot.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamesstack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamesstack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "graphengine.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".graphengine.io"
+  },
+  {
+    "Type": 0,
+    "Value": "insiderdevtour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insiderdevtour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jwt.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwt.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "microbit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microbit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftadc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftadc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftgamestack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftgamestack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftiotinsiderlabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftiotinsiderlabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.info"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsqlserver.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsqlserver.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mmdnn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mmdnn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mono-project.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mono-project.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msinnovationchallenge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msinnovationchallenge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mspairlift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mspairlift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msropendata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msropendata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nuget.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nuget.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nugettest.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nugettest.org"
+  },
+  {
+    "Type": 0,
+    "Value": "opentranslatorstothings.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opentranslatorstothings.org"
+  },
+  {
+    "Type": 0,
+    "Value": "poshtestgallery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".poshtestgallery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pwabuilder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pwabuilder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankie.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankie.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sqlserveronlinux.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sqlserveronlinux.com"
+  },
+  {
+    "Type": 0,
+    "Value": "timelinestoryteller.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timelinestoryteller.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uwpcommunitytoolkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uwpcommunitytoolkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio-staging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio-staging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.co"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsforgit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsforgit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsforgit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsforgit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vsassets.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vsassets.io"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-unpkg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode-unpkg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "xamarin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xamarin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftpartnersolutions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftpartnersolutions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msocsp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msocsp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnews.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnews.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnews.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnews.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnews.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnews.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnewsforkids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnewsforkids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnewsforkids.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnewsforkids.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnewsforkids.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnewsforkids.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftmxfilantropia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftmxfilantropia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnewskids.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnewskids.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnewskids.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnewskids.org"
+  },
+  {
+    "Type": 0,
+    "Value": "msn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msnewskids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msnewskids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msnewskids.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msnewskids.net"
+  },
+  {
+    "Type": 0,
+    "Value": "msnewskids.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".msnewskids.org"
+  },
+  {
+    "Type": 0,
+    "Value": "msnkids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msnkids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftstart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftstart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "start.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".start.com"
+  },
+  {
+    "Type": 0,
+    "Value": "1drv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".1drv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "1drv.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".1drv.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "livefilestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".livefilestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onedrive.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".onedrive.co"
+  },
+  {
+    "Type": 0,
+    "Value": "onedrive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onedrive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onedrive.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".onedrive.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "onedrive.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".onedrive.net"
+  },
+  {
+    "Type": 0,
+    "Value": "onedrive.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".onedrive.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftlatamholiday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftlatamholiday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftdiplomados.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftdiplomados.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftcloudsummit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftcloudsummit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.by"
+  },
+  {
+    "Type": 0,
+    "Value": "forzamotorsport.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".forzamotorsport.net"
+  },
+  {
+    "Type": 0,
+    "Value": "forzaracingchampionship.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forzaracingchampionship.com"
+  },
+  {
+    "Type": 0,
+    "Value": "forzarc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forzarc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gamepass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamepass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "orithegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".orithegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "renovacionxboxlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".renovacionxboxlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tellmewhygame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tellmewhygame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.co"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox.org"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.co"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "xbox360.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox360.org"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxgamepass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxgamepass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxgamestudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxgamestudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxone.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxone.co"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxone.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxone.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxplayanywhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxplayanywhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxstudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxstudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xbx.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbx.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "beth.games"
+  },
+  {
+    "Type": 1,
+    "Value": ".beth.games"
+  },
+  {
+    "Type": 0,
+    "Value": "bethesda.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethesda.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bethesdagamestudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethesdagamestudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bethsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bethsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elderscrolls.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elderscrolls.com"
+  },
+  {
+    "Type": 0,
+    "Value": "callersbane.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".callersbane.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraft.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraft.net"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraftservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraftservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraftshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraftshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mojang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mojang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.be"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices-int.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices-int.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-mobile.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-mobile.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-sphere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-sphere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-test.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-test.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azure.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azure.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecomcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecomcdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecomm.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecomm.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecontainer.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecontainer.io"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecosmos.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecosmos.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecosmosdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecosmosdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecosmosdb.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecosmosdb.info"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecosmosdb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecosmosdb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azuredatabricks.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuredatabricks.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azuredevopslaunch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuredevopslaunch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azuredigitaltwin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuredigitaltwin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azuredigitaltwins.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuredigitaltwins.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azuredigitaltwins.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuredigitaltwins.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azuredns-prd.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuredns-prd.info"
+  },
+  {
+    "Type": 0,
+    "Value": "azuredns-prd.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuredns-prd.org"
+  },
+  {
+    "Type": 0,
+    "Value": "azureedge-test.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureedge-test.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azureedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azurefd.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurefd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azureiotcentral.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureiotcentral.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azureiotsolutions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureiotsolutions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azureiotsuite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureiotsuite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azureplanetscale.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureplanetscale.info"
+  },
+  {
+    "Type": 0,
+    "Value": "azureplanetscale.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureplanetscale.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azureserviceprofiler.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureserviceprofiler.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azuresmartspaces.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuresmartspaces.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azurestackvalidation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurestackvalidation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azurewebsites.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurewebsites.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cosmosdb.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".cosmosdb.info"
+  },
+  {
+    "Type": 0,
+    "Value": "cosmosdb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cosmosdb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "devopsms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".devopsms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gotcosmos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gotcosmos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices-int.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices-int.net"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftazuresponsorships.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftazuresponsorships.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsofteca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsofteca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftiotcentral.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftiotcentral.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".msn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "serverlesslibrary.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".serverlesslibrary.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trafficmanager.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tryfunctions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tryfunctions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsazure.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsazure.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-dns.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-dns.info"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-dns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-dns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-dns.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-dns.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft.az"
+  },
+  {
+    "Type": 0,
+    "Value": "bing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bing.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bing.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bing123.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bing123.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingagencyawards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingagencyawards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingapistatistics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingapistatistics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingparachute.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingparachute.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingsandbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingsandbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingvisualsearch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingvisualsearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bingworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluehatnights.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluehatnights.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dictate.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".dictate.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "flipwithsurface.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flipwithsurface.com"
+  },
+  {
+    "Type": 0,
+    "Value": "masalladeloslimites.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".masalladeloslimites.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-give.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-give.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onedrive.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".onedrive.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "skype-edf.akadns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".skype-edf.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "skypedata.akadns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".skypedata.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftstore.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftstore.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "live.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".live.com.au"
+  },
+  {
+    "Type": 3,
+    "Value": "^github-production-release-asset-[0-9a-zA-Z]{6}\\.s3\\.amazonaws\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "dcg.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcg.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dynamics.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dynamics.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "engkoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".engkoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lync.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lync.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-smb.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-smb.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-i.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-i.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-m-i.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-m-i.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-m.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-m.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p-i.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p-i.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p-i.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p-i.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsofttranslator-int.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsofttranslator-int.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msauth.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msauth.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msauthimages.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msauthimages.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msftauth.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftauth.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msftauthimages.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftauthimages.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mspil.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mspil.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msra.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msra.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "o365cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".o365cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "o365files.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".o365files.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "office365-net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".office365-net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "office365.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".office365.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "officewebapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".officewebapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "onmschina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".onmschina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "outlook.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".outlook.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pbiwebcontent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pbiwebcontent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerappsportals.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerappsportals.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerautomate.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerautomate.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerbi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerbi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sharepoint.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sharepoint.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.delivery.mp.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.delivery.mp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.windowsupdate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".download.windowsupdate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "b.c2r.ts.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bg.v4.a.dl.ws.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bg4.v4.a.dl.ws.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "build.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.marketplaceimages.windowsphone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.windowssearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ctldl.windowsupdate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devblogs.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "docs.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "f.c2r.ts.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fs.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "learn.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msgr.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msgruser.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myvs.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oemsoc.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "officecdn.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qh.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "res-1.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "res.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sdx.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shell.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "silverlight.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slupdate.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "software.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "statics.teams.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "storeedgefd.dsx.mp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "surface.downloads.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vz.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wl.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wscont1.apps.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wscont2.apps.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xb.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "reactorms.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactorms.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "www.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnews.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnews.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxlive.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxlive.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbluecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbluecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbluecloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbluecloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aadrm.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aadrm.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aggresmart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aggresmart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apihub-internal.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apihub-internal.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appserviceenvironment.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appserviceenvironment.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azcrmc-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azcrmc-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azcrmc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azcrmc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azk8s.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azk8s.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aznbcontent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aznbcontent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aztask.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aztask.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-api.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-api.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-apihub.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-apihub.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-automation.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-automation.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-connectedvehicles-stage.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-connectedvehicles-stage.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-connectedvehicles.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-connectedvehicles.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecr-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurehdinsight.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurehdinsight.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azureiotsuite.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureiotsuite.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azuremresolver.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuremresolver.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azureprivatedns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureprivatedns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurerms.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurerms.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azuresandbox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuresandbox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "b2clogin.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".b2clogin.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "b3itech.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".b3itech.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "blueaggrestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blueaggrestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluecloudprod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluecloudprod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cegid-cloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cegid-cloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloud-mobile.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloud-mobile.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudapp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudapp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudsites.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudsites.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hdinsightservices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdinsightservices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mcchcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcchcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mgmt-azure-api.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgmt-azure-api.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftazurestatus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftazurestatus.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftmetrics.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftmetrics.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mncmsidlab1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mncmsidlab1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msappproxy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msappproxy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mschcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mschcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msftcloudes.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftcloudes.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msidentity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msidentity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msidlabpbmc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msidlabpbmc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trafficmanager.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trafficmanager.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trustcenter.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustcenter.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unity3dcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unity3dcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsazure.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsazure.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsazurestatus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsazurestatus.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.azchcdn[a-s]\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-dns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-dns.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.azure-dns-([1-9]|10)\\.cn$"
+  },
+  {
+    "Type": 0,
+    "Value": "bing.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bing.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.bing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.bing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.bing.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.bing.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.mm.bing.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.mm.bing.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ditu.live.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ditu.live.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bj1.api.bing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "emoi-cncdn.bing.com"
+  }
+]

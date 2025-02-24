@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "fastly-edge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastly-edge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fastly-terrarium.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastly-terrarium.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fastly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fastly.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastly.io"
+  },
+  {
+    "Type": 0,
+    "Value": "fastly.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fastlylabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastlylabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fastlylb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastlylb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "zencdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".zencdn.net"
+  }
+]

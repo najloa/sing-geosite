@@ -1,0 +1,3230 @@
+[
+  {
+    "Type": 0,
+    "Value": "cdn.js7k.com"
+  },
+  {
+    "Type": 0,
+    "Value": "publicca.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "preprod-publicca.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clients1.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pki.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mscrl.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oneocsp.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo"
+  },
+  {
+    "Type": 1,
+    "Value": ".godaddy"
+  },
+  {
+    "Type": 1,
+    "Value": ".flickr"
+  },
+  {
+    "Type": 0,
+    "Value": "secomtrust.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".secomtrust.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ps"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ps"
+  },
+  {
+    "Type": 0,
+    "Value": "e-tugra.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e-tugra.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firmaprofesional.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firmaprofesional.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fnmt.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".fnmt.es"
+  },
+  {
+    "Type": 0,
+    "Value": "harica.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".harica.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "infocert.digital"
+  },
+  {
+    "Type": 1,
+    "Value": ".infocert.digital"
+  },
+  {
+    "Type": 0,
+    "Value": "infocert.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".infocert.it"
+  },
+  {
+    "Type": 0,
+    "Value": "netlock.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".netlock.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "trustcor.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustcor.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "trustcor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustcor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trustisfps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustisfps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vodafone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodafone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vodafone.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodafone.de"
+  },
+  {
+    "Type": 0,
+    "Value": "vodafone.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodafone.it"
+  },
+  {
+    "Type": 0,
+    "Value": "x.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".x.co"
+  },
+  {
+    "Type": 0,
+    "Value": "godaddy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".godaddy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "camerfirma.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".camerfirma.com"
+  },
+  {
+    "Type": 0,
+    "Value": "public-trust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".public-trust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quovadisglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".quovadisglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "actalis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".actalis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "actalis.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".actalis.it"
+  },
+  {
+    "Type": 0,
+    "Value": "buypass-ssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass-ssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buypass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buypass.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass.no"
+  },
+  {
+    "Type": 0,
+    "Value": "buypass.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass.se"
+  },
+  {
+    "Type": 0,
+    "Value": "minid.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".minid.no"
+  },
+  {
+    "Type": 0,
+    "Value": "telekom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".telekom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "telekom.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".telekom.de"
+  },
+  {
+    "Type": 0,
+    "Value": "telesec.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".telesec.de"
+  },
+  {
+    "Type": 0,
+    "Value": "trustwave.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustwave.com"
+  },
+  {
+    "Type": 0,
+    "Value": "certum.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".certum.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp-certum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ocsp-certum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp-responder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ocsp-responder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thawte.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".thawte.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "d-trust.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".d-trust.net"
+  },
+  {
+    "Type": 0,
+    "Value": "certsign.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".certsign.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "oath.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".oath.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "oath.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oath.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ouroath.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ouroath.com"
+  },
+  {
+    "Type": 0,
+    "Value": "static-verizon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".static-verizon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uplynk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uplynk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verizon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verizon.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizon.net"
+  },
+  {
+    "Type": 0,
+    "Value": "verizonbusinessfios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizonbusinessfios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verizondigitalmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizondigitalmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verizonenterprise.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizonenterprise.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verizonfios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizonfios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verizonmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizonmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verizonwireless.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verizonwireless.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vzw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vzw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "omniroot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".omniroot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thawte.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".thawte.de"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.at"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.az"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ba"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.be"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bs"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bs"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.bt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.bt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.by"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cd"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cd"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cm"
+  },
+  {
+    "Type": 0,
+    "Value": "staticflickr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticflickr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flickr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".flickr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "flickr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flickr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flic.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".flic.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "yusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ymail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ymail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yimg.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yimg.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yho.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yho.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoosportsbook.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoosportsbook.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoosandbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoosandbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoomusic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoomusic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoohealth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoohealth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoofinance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoofinance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoodns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoodns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yahooapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahooapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "techcrunch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techcrunch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myguide.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".myguide.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "maktoob.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maktoob.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ws"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ws"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.vg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.vg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.as"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.as"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.de"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.tg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.tg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.st"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.st"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.so"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.so"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.is"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.si"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.dj"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.dj"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.se"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.rw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.rw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.am"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.pn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.pn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.nu"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.nu"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.no"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.mw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.mw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.me"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.md"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.la"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.je"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.je"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.it"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.dm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.dm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.es"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gl"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gm"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gp"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.gy"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.gy"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.im"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.im"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.in"
+  },
+  {
+    "Type": 0,
+    "Value": "thawte.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thawte.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rapidssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rapidssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geotrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geotrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freessl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freessl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digitalcertvalidation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digitalcertvalidation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert-validation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert-validation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "comodo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.jobs"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.jobs"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.info"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.in"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.asia"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.asia"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.org"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.pro"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.pro"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.de"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.se"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.name"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.name"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.us"
+  },
+  {
+    "Type": 0,
+    "Value": "wisecoin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wisecoin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "e-szigno.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".e-szigno.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verisigninc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisigninc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.es"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.net"
+  },
+  {
+    "Type": 0,
+    "Value": "starfieldtech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starfieldtech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netsolssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netsolssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "incommon-rsa.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".incommon-rsa.org"
+  },
+  {
+    "Type": 0,
+    "Value": "catcert.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".catcert.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "aoc.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".aoc.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "usertrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".usertrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trust-provider.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trust-provider.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "positivessl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".positivessl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "optimumssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".optimumssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "instantssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".instantssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hackerguardian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hackerguardian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enterprisessl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enterprisessl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "letsencrypt.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".letsencrypt.org"
+  },
+  {
+    "Type": 0,
+    "Value": "letsencrypt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".letsencrypt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lencr.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lencr.org"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.be"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.net"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign-media.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign-media.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digital-id.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".digital-id.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "digitalid.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".digitalid.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "managed-pki.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".managed-pki.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "managed-pki.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".managed-pki.de"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-post.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pki-post.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-posta.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pki-posta.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-poste.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".pki-poste.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "root-signing.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".root-signing.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "rootsigning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rootsigning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl-certificate.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssl-certificate.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swissid.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissid.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swissign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swissign.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissign.li"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign-group.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign-group.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign-group.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign-group.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign-group.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign-group.li"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.li"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssign.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssign.org"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigner.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigner.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigner.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigner.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigngroup.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigngroup.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisssigngroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisssigngroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swissstick.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swissstick.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swisstsa.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisstsa.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "swisstsa.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".swisstsa.li"
+  },
+  {
+    "Type": 0,
+    "Value": "trustdoc.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustdoc.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "trustsign.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustsign.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "zert.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".zert.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "managedpki.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".managedpki.com"
+  },
+  {
+    "Type": 0,
+    "Value": "symantec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".symantec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "symcb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".symcb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "symcd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".symcd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.es"
+  },
+  {
+    "Type": 0,
+    "Value": "ss2.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".ss2.us"
+  },
+  {
+    "Type": 0,
+    "Value": "awstrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awstrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazontrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazontrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "accv.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".accv.es"
+  },
+  {
+    "Type": 0,
+    "Value": "wiseid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiseid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wisekey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wisekey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msocsp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msocsp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "certinomis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".certinomis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "certinomis.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".certinomis.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "entrust.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".entrust.net"
+  },
+  {
+    "Type": 0,
+    "Value": "entrustdatacard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".entrustdatacard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "affirmtrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".affirmtrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atos.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".atos.net"
+  },
+  {
+    "Type": 0,
+    "Value": "myatos.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".myatos.net"
+  },
+  {
+    "Type": 0,
+    "Value": "certificat2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".certificat2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trendmicro.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trendmicro.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gandi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gandi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pki.goog"
+  },
+  {
+    "Type": 1,
+    "Value": ".pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "identrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".identrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "identrust.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".identrust.net"
+  },
+  {
+    "Type": 0,
+    "Value": "eca.hinet.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".eca.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "secom.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".secom.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "cybertrust.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".cybertrust.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "cybertrust.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".cybertrust.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "managedpki.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".managedpki.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ecert.gov.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecert.gov.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "hongkongpost.gov.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hongkongpost.gov.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "myvodafone.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".myvodafone.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.ao"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.ao"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.bw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.bw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.ck"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.ck"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.mz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.mz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.tz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.tz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.uz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.uz"
+  },
+  {
+    "Type": 0,
+    "Value": "identrust.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".identrust.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.vi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.vi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo-news.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo-news.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.af"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.af"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ag"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ag"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.do"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "wisekey.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".wisekey.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.co.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.co.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.lb"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.lb"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.na"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.na"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.nf"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.nf"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.om"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pa"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.gi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.gi"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "verisign.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sb"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sb"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.tj"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.tj"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.vc"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.vc"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.bz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.bz"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.fj"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.fj"
+  },
+  {
+    "Type": 0,
+    "Value": "twca.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".twca.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "vodafone.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodafone.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "vodafone.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodafone.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "vodafone.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodafone.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "myvodafone.com.ws"
+  },
+  {
+    "Type": 1,
+    "Value": ".myvodafone.com.ws"
+  },
+  {
+    "Type": 0,
+    "Value": "gtlsca.nat.gov.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtlsca.nat.gov.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yahoo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gemini.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemini.yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ysm.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ysm.yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "certs-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "certs.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crl-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp2-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp2.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sslcom.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sslcom.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pki-goog.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "i.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "o.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "crls.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "www.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alphassl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alphassl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easy-signing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easy-signing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsigncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsigncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.globalsigncdn.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "oemssl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trust-provider.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trust-provider.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dcocsp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcocsp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert.cn"
+  }
+]

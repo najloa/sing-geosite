@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "tapimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tapimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tapimg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tapimg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "taptap.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".taptap.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "taptap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".taptap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "taptap.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".taptap.io"
+  },
+  {
+    "Type": 0,
+    "Value": "taptapdada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".taptapdada.com"
+  }
+]

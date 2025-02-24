@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "go-lang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-lang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go-lang.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-lang.net"
+  },
+  {
+    "Type": 0,
+    "Value": "go-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "go.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".go.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "godoc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".godoc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "golang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".golang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "golang.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".golang.net"
+  },
+  {
+    "Type": 0,
+    "Value": "golang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".golang.org"
+  }
+]

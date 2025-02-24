@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 0,
+    "Value": "a.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "assets.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "c.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "osu.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "m1.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "lazer.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "notify.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "spectator.ppy.sh"
+  }
+]

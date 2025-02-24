@@ -1,0 +1,14 @@
+[
+  {
+    "Type": 1,
+    "Value": ".exit"
+  },
+  {
+    "Type": 1,
+    "Value": ".onion"
+  },
+  {
+    "Type": 1,
+    "Value": ".tor"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "douban.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".douban.com"
+  },
+  {
+    "Type": 0,
+    "Value": "douban.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".douban.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "doubanio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doubanio.com"
+  }
+]

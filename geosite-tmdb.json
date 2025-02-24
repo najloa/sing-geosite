@@ -1,0 +1,22 @@
+[
+  {
+    "Type": 0,
+    "Value": "tmdb-image-prod.b-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "themoviedb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".themoviedb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "tmdb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tmdb.org"
+  }
+]

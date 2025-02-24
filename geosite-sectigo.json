@@ -1,0 +1,138 @@
+[
+  {
+    "Type": 0,
+    "Value": "enterprisessl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enterprisessl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hackerguardian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hackerguardian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "instantssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".instantssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "optimumssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".optimumssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "positivessl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".positivessl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trust-provider.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trust-provider.com"
+  },
+  {
+    "Type": 0,
+    "Value": "usertrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".usertrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aoc.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".aoc.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "catcert.cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".catcert.cat"
+  },
+  {
+    "Type": 0,
+    "Value": "incommon-rsa.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".incommon-rsa.org"
+  },
+  {
+    "Type": 0,
+    "Value": "netsolssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netsolssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oemssl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trust-provider.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trust-provider.cn"
+  }
+]

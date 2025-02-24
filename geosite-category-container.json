@@ -1,0 +1,78 @@
+[
+  {
+    "Type": 0,
+    "Value": "azurecr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "docker.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".docker.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ecr.aws"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecr.aws"
+  },
+  {
+    "Type": 0,
+    "Value": "gcr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ghcr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ghcr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "quay.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".quay.io"
+  },
+  {
+    "Type": 0,
+    "Value": "mcr.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcr.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "registry.gitlab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".registry.gitlab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "registry.k8s.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".registry.k8s.io"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$"
+  }
+]

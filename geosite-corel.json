@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "corel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".corel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "corel.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".corel.net"
+  },
+  {
+    "Type": 0,
+    "Value": "coreldraw.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".coreldraw.app"
+  },
+  {
+    "Type": 0,
+    "Value": "coreldraw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coreldraw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "corelstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".corelstore.com"
+  }
+]

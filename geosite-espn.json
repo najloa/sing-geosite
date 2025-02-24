@@ -1,0 +1,78 @@
+[
+  {
+    "Type": 0,
+    "Value": "espn.api.edge.bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.hb.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "espndotcom.tt.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dtci.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtci.co"
+  },
+  {
+    "Type": 0,
+    "Value": "dtci.technology"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtci.technology"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "espncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espnqa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espnqa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "watchespn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".watchespn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.co.uk"
+  }
+]

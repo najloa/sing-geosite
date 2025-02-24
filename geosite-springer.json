@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "apress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "springer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".springer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "springerlink.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".springerlink.com"
+  },
+  {
+    "Type": 0,
+    "Value": "springernature.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".springernature.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wkap.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".wkap.nl"
+  }
+]

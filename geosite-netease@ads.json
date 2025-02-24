@@ -1,0 +1,98 @@
+[
+  {
+    "Type": 0,
+    "Value": "a.youdao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".a.youdao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "admusicpic.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".admusicpic.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "analytics.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".analytics.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crash.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crash.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crashlytics.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crashlytics.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "g.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".g.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmat.nosdn.127.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmat.nosdn.127.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmatapk.nosdn.127.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmatapk.nosdn.127.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmusicmat.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmusicmat.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "iadmusicmatvideo.music.126.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadmusicmatvideo.music.126.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.music.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sentry.music.163.com"
+  }
+]

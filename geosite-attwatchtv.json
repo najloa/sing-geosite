@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "att.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".att.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "atttvnow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atttvnow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "attwatchtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".attwatchtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "directv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".directv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtvce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtvce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nettyinternet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nettyinternet.com"
+  }
+]

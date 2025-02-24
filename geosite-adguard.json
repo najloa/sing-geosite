@@ -1,0 +1,106 @@
+[
+  {
+    "Type": 0,
+    "Value": "adguard.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard.app"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard.info"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard.io"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard.org"
+  },
+  {
+    "Type": 0,
+    "Value": "adtidy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".adtidy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "adtidy.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".adtidy.org"
+  },
+  {
+    "Type": 0,
+    "Value": "agrd.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".agrd.io"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard-dns.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard-dns.io"
+  },
+  {
+    "Type": 0,
+    "Value": "adguardvpn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguardvpn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard-vpn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard-vpn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adguard-vpn.online"
+  },
+  {
+    "Type": 1,
+    "Value": ".adguard-vpn.online"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 0,
+    "Value": "tesla.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tesla.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tesla.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tesla.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "teslamotors.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".teslamotors.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "teslamotors.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".teslamotors.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tesla-cdn.thron.cn"
+  }
+]

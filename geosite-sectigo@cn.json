@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "oemssl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".oemssl.cn.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sectigochina.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trust-provider.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trust-provider.cn"
+  }
+]

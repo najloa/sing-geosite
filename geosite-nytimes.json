@@ -1,0 +1,74 @@
+[
+  {
+    "Type": 0,
+    "Value": "nyt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nyt.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyt.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nytchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nytcn.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytcn.me"
+  },
+  {
+    "Type": 0,
+    "Value": "nytco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nyti.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyti.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "nytimes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytimes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nytstyle.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nytstyle.com"
+  },
+  {
+    "Type": 0,
+    "Value": "timestalks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timestalks.com"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "alibabacloud.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".alibabacloud.com.tw"
+  }
+]

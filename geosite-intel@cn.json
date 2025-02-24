@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "intel.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "intelrealsense.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelrealsense.cn"
+  }
+]

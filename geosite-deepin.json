@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "deepin.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "deepin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deepin.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.io"
+  },
+  {
+    "Type": 0,
+    "Value": "deepin.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepin.org"
+  },
+  {
+    "Type": 0,
+    "Value": "chinauos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinauos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uniontech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uniontech.com"
+  }
+]

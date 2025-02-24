@@ -1,0 +1,114 @@
+[
+  {
+    "Type": 0,
+    "Value": "cell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clinicalkey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".clinicalkey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "els-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".els-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elsevier-ae.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elsevier-ae.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elsevier.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elsevier.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elsevier.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".elsevier.io"
+  },
+  {
+    "Type": 0,
+    "Value": "engineeringvillage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".engineeringvillage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "evise.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".evise.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fundinginstitutional.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fundinginstitutional.com"
+  },
+  {
+    "Type": 0,
+    "Value": "knovel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".knovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mendeley.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mendeley.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reaxys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reaxys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "scival.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".scival.com"
+  },
+  {
+    "Type": 0,
+    "Value": "scopus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".scopus.com"
+  }
+]

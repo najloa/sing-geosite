@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "prd-priconne-redive.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "priconne-redive.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".priconne-redive.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "api-priconne-redive.cygames.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".api-priconne-redive.cygames.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "omotenashi.cygames.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".omotenashi.cygames.jp"
+  }
+]

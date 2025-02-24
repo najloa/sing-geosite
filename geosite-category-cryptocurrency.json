@@ -1,0 +1,1290 @@
+[
+  {
+    "Type": 0,
+    "Value": "deribit.cdn.prismic.io"
+  },
+  {
+    "Type": 0,
+    "Value": "onekey.zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bybit-exchange.github.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bybit.ada.support"
+  },
+  {
+    "Type": 0,
+    "Value": "onekey.so"
+  },
+  {
+    "Type": 1,
+    "Value": ".onekey.so"
+  },
+  {
+    "Type": 0,
+    "Value": "theblock.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".theblock.co"
+  },
+  {
+    "Type": 0,
+    "Value": "bitbank.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitbank.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "redotpay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redotpay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitfinex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitfinex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitget.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitget.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitmex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitmex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitquick.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitquick.co"
+  },
+  {
+    "Type": 0,
+    "Value": "bitstamp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitstamp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bittrex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bittrex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blockfrost.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".blockfrost.io"
+  },
+  {
+    "Type": 0,
+    "Value": "cex.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".cex.io"
+  },
+  {
+    "Type": 0,
+    "Value": "clearpool.finance"
+  },
+  {
+    "Type": 1,
+    "Value": ".clearpool.finance"
+  },
+  {
+    "Type": 0,
+    "Value": "coinalyze.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinalyze.net"
+  },
+  {
+    "Type": 0,
+    "Value": "coinbase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinbase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coindesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coindesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coingecko.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coingecko.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coinglass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinglass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coinmap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinmap.org"
+  },
+  {
+    "Type": 0,
+    "Value": "coinmarketcap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinmarketcap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crypto.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crypto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "1inch.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".1inch.io"
+  },
+  {
+    "Type": 0,
+    "Value": "curve.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".curve.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "cyberx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyberx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "debank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".debank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dogecoin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dogecoin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dydx.exchange"
+  },
+  {
+    "Type": 1,
+    "Value": ".dydx.exchange"
+  },
+  {
+    "Type": 0,
+    "Value": "fundingrates.xyz"
+  },
+  {
+    "Type": 1,
+    "Value": ".fundingrates.xyz"
+  },
+  {
+    "Type": 0,
+    "Value": "gemini.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemini.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hashflow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hashflow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "infura.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".infura.io"
+  },
+  {
+    "Type": 0,
+    "Value": "invity.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".invity.io"
+  },
+  {
+    "Type": 0,
+    "Value": "maple.finance"
+  },
+  {
+    "Type": 1,
+    "Value": ".maple.finance"
+  },
+  {
+    "Type": 0,
+    "Value": "metalpha.finance"
+  },
+  {
+    "Type": 1,
+    "Value": ".metalpha.finance"
+  },
+  {
+    "Type": 0,
+    "Value": "mexc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mexc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mexcsensors.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mexcsensors.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mytokenapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mytokenapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opensea.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".opensea.io"
+  },
+  {
+    "Type": 0,
+    "Value": "osl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".osl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paxful.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paxful.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ripple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ripple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "satoshilabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".satoshilabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onekeycn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onekeycn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trezor.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".trezor.io"
+  },
+  {
+    "Type": 0,
+    "Value": "truefi.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".truefi.io"
+  },
+  {
+    "Type": 0,
+    "Value": "unisat.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".unisat.io"
+  },
+  {
+    "Type": 0,
+    "Value": "uniswap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".uniswap.org"
+  },
+  {
+    "Type": 0,
+    "Value": "walletconnect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".walletconnect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wintermute.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wintermute.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zapper.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".zapper.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "kucoin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kucoin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kucoin.plus"
+  },
+  {
+    "Type": 1,
+    "Value": ".kucoin.plus"
+  },
+  {
+    "Type": 0,
+    "Value": "asproex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asproex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "asproexapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asproexapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bisq.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bisq.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bisq.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".bisq.network"
+  },
+  {
+    "Type": 0,
+    "Value": "bitsquare.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitsquare.io"
+  },
+  {
+    "Type": 0,
+    "Value": "deribit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deribit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devcon.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".devcon.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ethereum.foundation"
+  },
+  {
+    "Type": 1,
+    "Value": ".ethereum.foundation"
+  },
+  {
+    "Type": 0,
+    "Value": "ethereum.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ethereum.org"
+  },
+  {
+    "Type": 0,
+    "Value": "etherscan.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".etherscan.io"
+  },
+  {
+    "Type": 0,
+    "Value": "kraken.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kraken.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kraken.onl"
+  },
+  {
+    "Type": 1,
+    "Value": ".kraken.onl"
+  },
+  {
+    "Type": 0,
+    "Value": "zb.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.app"
+  },
+  {
+    "Type": 0,
+    "Value": "zb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zb.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.io"
+  },
+  {
+    "Type": 0,
+    "Value": "zb.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.live"
+  },
+  {
+    "Type": 0,
+    "Value": "localbitcoins.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".localbitcoins.com"
+  },
+  {
+    "Type": 0,
+    "Value": "localbitcoinschain.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".localbitcoinschain.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexo.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexo.io"
+  },
+  {
+    "Type": 0,
+    "Value": "okex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx-dns1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx-dns1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "okx-dns2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okx-dns2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onekey-asset.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onekey-asset.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cryptocompare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cryptocompare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aave.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aave.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitcoin.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitcoin.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bitflyer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitflyer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitflyer.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitflyer.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "coinonecore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinonecore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coinonecorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinonecorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huobitoken.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huobitoken.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huobigroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huobigroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huobiasia.vip"
+  },
+  {
+    "Type": 1,
+    "Value": ".huobiasia.vip"
+  },
+  {
+    "Type": 0,
+    "Value": "huobi.sc"
+  },
+  {
+    "Type": 1,
+    "Value": ".huobi.sc"
+  },
+  {
+    "Type": 0,
+    "Value": "huobi.pro"
+  },
+  {
+    "Type": 1,
+    "Value": ".huobi.pro"
+  },
+  {
+    "Type": 0,
+    "Value": "gate.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gate.io"
+  },
+  {
+    "Type": 0,
+    "Value": "gatedata.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gatedata.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gateimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gateio.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateio.live"
+  },
+  {
+    "Type": 0,
+    "Value": "gateio.services"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateio.services"
+  },
+  {
+    "Type": 0,
+    "Value": "wisecoin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wisecoin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wiseid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiseid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wisekey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wisekey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huobi.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".huobi.me"
+  },
+  {
+    "Type": 0,
+    "Value": "wyndlabs.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".wyndlabs.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "wynd.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".wynd.network"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.charity"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.charity"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.co"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.info"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.me"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.net"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.org"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.us"
+  },
+  {
+    "Type": 0,
+    "Value": "binance.vision"
+  },
+  {
+    "Type": 1,
+    "Value": ".binance.vision"
+  },
+  {
+    "Type": 0,
+    "Value": "binancecnt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancecnt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.be"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.co"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.info"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.ink"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.ink"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.kim"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.kim"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.link"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.live"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.net"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.pro"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.pro"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "binancezh.top"
+  },
+  {
+    "Type": 1,
+    "Value": ".binancezh.top"
+  },
+  {
+    "Type": 0,
+    "Value": "binanceapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".binanceapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bnbstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bnbstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "saasexch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".saasexch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "saasexch.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".saasexch.io"
+  },
+  {
+    "Type": 0,
+    "Value": "appsflayer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appsflayer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bybit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bybit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bycsi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bycsi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bytick.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bytick.com"
+  },
+  {
+    "Type": 0,
+    "Value": "byapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bycbe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bycbe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bymj.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bymj.io"
+  },
+  {
+    "Type": 0,
+    "Value": "byabcde.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byabcde.com"
+  },
+  {
+    "Type": 0,
+    "Value": "byapps.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".byapps.net"
+  },
+  {
+    "Type": 0,
+    "Value": "byd3c3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byd3c3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bybit.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".bybit.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "bybdc6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bybdc6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bybit-global.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bybit-global.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bybit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".bybit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "bybitglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bybitglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "htx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".htx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbabit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbabit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hbfile.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbfile.net"
+  },
+  {
+    "Type": 0,
+    "Value": "huobi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huobi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wisekey.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".wisekey.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "coinone.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".coinone.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "xhpjc6-cdn-settings.appsflyersdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xhpjc6-cdn-settings.appsflyersdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pod-15-sunco-ws.zendesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pod-15-sunco-ws.zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redotpay.zendesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redotpay.zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "btcbox.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".btcbox.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "rp-static-apne1.s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rp-static-apne1.s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oklink.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oklink.com"
+  }
+]

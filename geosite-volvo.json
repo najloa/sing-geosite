@@ -1,0 +1,1686 @@
+[
+  {
+    "Type": 1,
+    "Value": ".volvo"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.se"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.es"
+  },
+  {
+    "Type": 0,
+    "Value": "independentoperatorcn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".independentoperatorcn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "road-crew.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".road-crew.com"
+  },
+  {
+    "Type": 0,
+    "Value": "udfs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".udfs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.at"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.be"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.de"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "udtrucksmeena.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".udtrucksmeena.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.es"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "dynafleetonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dynafleetonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.in"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.it"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.no"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.se"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.us"
+  },
+  {
+    "Type": 0,
+    "Value": "vgcareers.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vgcareers.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volvo-truck.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvo-truck.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "volvo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvo.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvo.se"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobrandshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobrandshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.at"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.be"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.co"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckrental.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckrental.be"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.se"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.no"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.kz"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.kz"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.it"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.es"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotruckcenter.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotruckcenter.be"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.de"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.es"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.in"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.it"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.my"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.no"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.om"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.se"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.us"
+  },
+  {
+    "Type": 0,
+    "Value": "volvoce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvoce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvodefense.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvodefense.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.be"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.tm"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.tm"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.de"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvo.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvo.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvomerchandise.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvomerchandise.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.si"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.de"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.es"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.it"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.se"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.us"
+  },
+  {
+    "Type": 0,
+    "Value": "volvosaatio.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvosaatio.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "volvospares.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvospares.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.al"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.al"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.am"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.at"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.az"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ba"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.be"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.by"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.se"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ps"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ps"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.no"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.net"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.my"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.mn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogrouptruckcenter.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogrouptruckcenter.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.md"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.de"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "escandinavia-arg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".escandinavia-arg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.id"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.in"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.it"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.kg"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.kg"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.kz"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.kz"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.bn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.bn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.zw"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.zw"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.zm"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.zm"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.na"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.na"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.mz"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.mz"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.bw"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.bw"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "volvopenta.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvopenta.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "volvobuses.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvobuses.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.co.ao"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.co.ao"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsco.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsco.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvogroup.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvogroup.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "volvotrucks.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvotrucks.com.cn"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "googleplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".googleplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--ngstr-lra8j.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--ngstr-lra8j.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play-fe.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".play-fe.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play-games.googleusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".play-games.googleusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play-lh.googleusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".play-lh.googleusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".play.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".play.googleapis.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "redirector.c.play.google.com"
+  }
+]

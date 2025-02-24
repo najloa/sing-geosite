@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "4cdn.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4cdn.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4chan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4chan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4channel.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4channel.org"
+  }
+]

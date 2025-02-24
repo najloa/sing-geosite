@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "mongodb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mongodb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mongodb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mongodb.org"
+  }
+]

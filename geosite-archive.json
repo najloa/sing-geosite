@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "archive-it.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive-it.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archive.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archive.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "archive.today"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive.today"
+  },
+  {
+    "Type": 0,
+    "Value": "openlibrary.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openlibrary.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4pcdn.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4pcdn.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4plebs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4plebs.org"
+  }
+]

@@ -1,0 +1,3654 @@
+[
+  {
+    "Type": 0,
+    "Value": "nurofensk-prod-env.eu-west-1.elasticbeanstalk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.se"
+  },
+  {
+    "Type": 0,
+    "Value": "rb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".rb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rbbusinessshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbbusinessshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbdigitalab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbdigitalab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbdigitallab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbdigitallab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbeuroinfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbeuroinfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbgrads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbgrads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbgraduates.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbgraduates.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbmavericks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbmavericks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbnainternational.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbnainternational.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbplc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbplc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbrandlibrary.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbrandlibrary.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rbspeakup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rbspeakup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reckitt.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".reckitt.net"
+  },
+  {
+    "Type": 0,
+    "Value": "reckittbenckiser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reckittbenckiser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reckittbenckiser.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".reckittbenckiser.net"
+  },
+  {
+    "Type": 0,
+    "Value": "reckittbenckiser.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".reckittbenckiser.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "reckittprofessional.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reckittprofessional.com"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.it"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.at"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.de"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.es"
+  },
+  {
+    "Type": 0,
+    "Value": "calgonit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgonit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "calgoncarbon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgoncarbon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.be"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "calgoncarbon-china.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgoncarbon-china.com"
+  },
+  {
+    "Type": 0,
+    "Value": "schiffvitamins.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".schiffvitamins.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movefreerewards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movefreerewards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clearasil.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".clearasil.us"
+  },
+  {
+    "Type": 0,
+    "Value": "enfagrow4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfagrow4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nutramigen.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nutramigen.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "nutramigen.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nutramigen.net"
+  },
+  {
+    "Type": 0,
+    "Value": "enfaaplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfaaplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enfababy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfababy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enspireformula.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enspireformula.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enfasmart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfasmart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enfamil.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfamil.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "enfamil.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfamil.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "enfamil.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfamil.es"
+  },
+  {
+    "Type": 0,
+    "Value": "enfamil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfamil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enfamil.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfamil.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "movefreeoffers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movefreeoffers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movefrees.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movefrees.com"
+  },
+  {
+    "Type": 0,
+    "Value": "move-free.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".move-free.net"
+  },
+  {
+    "Type": 0,
+    "Value": "keepmovingwithmovefree.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".keepmovingwithmovefree.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pifpafarabia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pifpafarabia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "morteincam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".morteincam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.net"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.no"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.it"
+  },
+  {
+    "Type": 0,
+    "Value": "aerogardcn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aerogardcn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol-prize.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol-prize.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "dettolthailand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettolthailand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dettolcleannaija.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettolcleannaija.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dettolarabia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettolarabia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.be"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.at"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "dewitwithdurex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dewitwithdurex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.be"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.de"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.es"
+  },
+  {
+    "Type": 0,
+    "Value": "dotherex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dotherex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.se"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.us"
+  },
+  {
+    "Type": 0,
+    "Value": "durexcam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexcam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durexcanada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexcanada.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durexchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.no"
+  },
+  {
+    "Type": 0,
+    "Value": "yarininsuyu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yarininsuyu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.at"
+  },
+  {
+    "Type": 0,
+    "Value": "finishkilpailu.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishkilpailu.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.se"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "finisharabia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".finisharabia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.de"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.es"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.si"
+  },
+  {
+    "Type": 0,
+    "Value": "finishwin.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishwin.be"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "finishdishwashing.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishdishwashing.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "finishdishwashing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishdishwashing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.be"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.it"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "durexindia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexindia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durexloveclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexloveclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durexukraine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexukraine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durexusa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexusa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lovesexdurex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lovesexdurex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playbydurex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playbydurex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopdurex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopdurex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trydurex.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".trydurex.net"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trydurex.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".trydurex.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "woolite.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".woolite.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "woolite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".woolite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "woolite.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".woolite.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "woolite.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".woolite.us"
+  },
+  {
+    "Type": 0,
+    "Value": "woolitecarpet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".woolitecarpet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinex.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinex.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinex.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinex.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinex.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinex.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinex.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinex.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinexprofessional.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinexprofessional.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.at"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.at"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofengel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofengel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.de"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.es"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.it"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.no"
+  },
+  {
+    "Type": 0,
+    "Value": "durex-slovenia.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex-slovenia.si"
+  },
+  {
+    "Type": 0,
+    "Value": "durex-shopline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex-shopline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "durex-shop.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex-shop.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.es"
+  },
+  {
+    "Type": 0,
+    "Value": "dobendan.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".dobendan.de"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsilsarabia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsilsarabia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "repsils.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".repsils.no"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.at"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "cepacol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cepacol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cepacol.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".cepacol.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.net"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.si"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.us"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.be"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.no"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.net"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.it"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.se"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.es"
+  },
+  {
+    "Type": 0,
+    "Value": "powerofresolve.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerofresolve.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spraynwash.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spraynwash.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.at"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.be"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "vanishstains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanishstains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vanishinfo.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanishinfo.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "vanishcentroamerica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanishcentroamerica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vanisharabia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanisharabia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "powerofresolve.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerofresolve.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.no"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.it"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.de"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.si"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.si"
+  },
+  {
+    "Type": 0,
+    "Value": "airwickarabia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwickarabia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.es"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.de"
+  },
+  {
+    "Type": 0,
+    "Value": "digital-rb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digital-rb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "rb-crisis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rb-crisis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.com"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.us"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.at"
+  },
+  {
+    "Type": 0,
+    "Value": "vipoo.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".vipoo.es"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.se"
+  },
+  {
+    "Type": 0,
+    "Value": "veetclub.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".veetclub.it"
+  },
+  {
+    "Type": 0,
+    "Value": "veetcentroamerica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veetcentroamerica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "veetarabia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veetarabia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.us"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.at"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.be"
+  },
+  {
+    "Type": 0,
+    "Value": "veetbangladesh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".veetbangladesh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.no"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.es"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.de"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.com.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.com.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "finishbrasil.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishbrasil.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "vanishstains.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanishstains.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "vanishbancaseulook.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanishbancaseulook.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "o2action.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".o2action.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "graneodin.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".graneodin.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinex.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinex.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mucinex.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".mucinex.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.com.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.com.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "finishinfo.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".finishinfo.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "espadoldettol.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".espadoldettol.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "dettolsitishield.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettolsitishield.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.co.ke"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.co.ke"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "aerogard.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".aerogard.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "enfa.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfa.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "enfa.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfa.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com.do"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "bebepremium3.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".bebepremium3.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "enfamama.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfamama.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "enfamama.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfamama.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "lizol.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".lizol.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.co.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.co.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe3.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe3.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "enfagrow.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfagrow.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "enfagrow.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfagrow.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.com.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.com.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "enfagrow.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfagrow.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "enfagrow.com.bn"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfagrow.com.bn"
+  },
+  {
+    "Type": 0,
+    "Value": "enfabebe.com.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfabebe.com.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "enfagrow.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfagrow.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "reckittbenckiser.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reckittbenckiser.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "reckittbenckiser.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reckittbenckiser.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "calgon.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".calgon.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "clearasil.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".clearasil.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "clearasil.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".clearasil.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aerogard.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aerogard.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dettol.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dettol.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dishwashingexpert.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dishwashingexpert.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "finish.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".finish.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "enfinitas.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfinitas.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "woolite.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".woolite.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "woolite.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".woolite.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nurofen.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nurofen.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "strepsils.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".strepsils.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "vanish.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanish.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "veet.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".veet.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "airwick.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwick.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "durex.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".durex.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "durexchina.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".durexchina.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lovesexdurex.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lovesexdurex.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lysol.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lysol.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mortein.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mortein.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "movefree.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".movefree.cn"
+  }
+]

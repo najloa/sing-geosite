@@ -1,0 +1,3302 @@
+[
+  {
+    "Type": 1,
+    "Value": ".gov"
+  },
+  {
+    "Type": 1,
+    "Value": ".mil"
+  },
+  {
+    "Type": 1,
+    "Value": ".edu"
+  },
+  {
+    "Type": 1,
+    "Value": ".ac"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad"
+  },
+  {
+    "Type": 1,
+    "Value": ".ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".af"
+  },
+  {
+    "Type": 1,
+    "Value": ".ag"
+  },
+  {
+    "Type": 1,
+    "Value": ".ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".al"
+  },
+  {
+    "Type": 1,
+    "Value": ".am"
+  },
+  {
+    "Type": 1,
+    "Value": ".ao"
+  },
+  {
+    "Type": 1,
+    "Value": ".aq"
+  },
+  {
+    "Type": 1,
+    "Value": ".ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".as"
+  },
+  {
+    "Type": 1,
+    "Value": ".at"
+  },
+  {
+    "Type": 1,
+    "Value": ".au"
+  },
+  {
+    "Type": 1,
+    "Value": ".aw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ax"
+  },
+  {
+    "Type": 1,
+    "Value": ".az"
+  },
+  {
+    "Type": 1,
+    "Value": ".ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".bb"
+  },
+  {
+    "Type": 1,
+    "Value": ".bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".be"
+  },
+  {
+    "Type": 1,
+    "Value": ".bf"
+  },
+  {
+    "Type": 1,
+    "Value": ".bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".bi"
+  },
+  {
+    "Type": 1,
+    "Value": ".bj"
+  },
+  {
+    "Type": 1,
+    "Value": ".bm"
+  },
+  {
+    "Type": 1,
+    "Value": ".bn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".br"
+  },
+  {
+    "Type": 1,
+    "Value": ".bs"
+  },
+  {
+    "Type": 1,
+    "Value": ".bt"
+  },
+  {
+    "Type": 1,
+    "Value": ".bv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bw"
+  },
+  {
+    "Type": 1,
+    "Value": ".by"
+  },
+  {
+    "Type": 1,
+    "Value": ".bz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".cd"
+  },
+  {
+    "Type": 1,
+    "Value": ".cf"
+  },
+  {
+    "Type": 1,
+    "Value": ".cg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".ci"
+  },
+  {
+    "Type": 1,
+    "Value": ".ck"
+  },
+  {
+    "Type": 1,
+    "Value": ".cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".cm"
+  },
+  {
+    "Type": 1,
+    "Value": ".cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".cu"
+  },
+  {
+    "Type": 1,
+    "Value": ".cv"
+  },
+  {
+    "Type": 1,
+    "Value": ".cw"
+  },
+  {
+    "Type": 1,
+    "Value": ".cx"
+  },
+  {
+    "Type": 1,
+    "Value": ".cy"
+  },
+  {
+    "Type": 1,
+    "Value": ".cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".de"
+  },
+  {
+    "Type": 1,
+    "Value": ".dj"
+  },
+  {
+    "Type": 1,
+    "Value": ".dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dm"
+  },
+  {
+    "Type": 1,
+    "Value": ".do"
+  },
+  {
+    "Type": 1,
+    "Value": ".dz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".er"
+  },
+  {
+    "Type": 1,
+    "Value": ".es"
+  },
+  {
+    "Type": 1,
+    "Value": ".et"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".fj"
+  },
+  {
+    "Type": 1,
+    "Value": ".fk"
+  },
+  {
+    "Type": 1,
+    "Value": ".fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".fo"
+  },
+  {
+    "Type": 1,
+    "Value": ".fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ga"
+  },
+  {
+    "Type": 1,
+    "Value": ".gb"
+  },
+  {
+    "Type": 1,
+    "Value": ".gd"
+  },
+  {
+    "Type": 1,
+    "Value": ".ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".gf"
+  },
+  {
+    "Type": 1,
+    "Value": ".gg"
+  },
+  {
+    "Type": 1,
+    "Value": ".gh"
+  },
+  {
+    "Type": 1,
+    "Value": ".gi"
+  },
+  {
+    "Type": 1,
+    "Value": ".gl"
+  },
+  {
+    "Type": 1,
+    "Value": ".gm"
+  },
+  {
+    "Type": 1,
+    "Value": ".gn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gp"
+  },
+  {
+    "Type": 1,
+    "Value": ".gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".gs"
+  },
+  {
+    "Type": 1,
+    "Value": ".gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".gu"
+  },
+  {
+    "Type": 1,
+    "Value": ".gw"
+  },
+  {
+    "Type": 1,
+    "Value": ".gy"
+  },
+  {
+    "Type": 1,
+    "Value": ".hm"
+  },
+  {
+    "Type": 1,
+    "Value": ".hn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ht"
+  },
+  {
+    "Type": 1,
+    "Value": ".hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".id"
+  },
+  {
+    "Type": 1,
+    "Value": ".ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".il"
+  },
+  {
+    "Type": 1,
+    "Value": ".im"
+  },
+  {
+    "Type": 1,
+    "Value": ".in"
+  },
+  {
+    "Type": 1,
+    "Value": ".io"
+  },
+  {
+    "Type": 1,
+    "Value": ".iq"
+  },
+  {
+    "Type": 1,
+    "Value": ".ir"
+  },
+  {
+    "Type": 1,
+    "Value": ".is"
+  },
+  {
+    "Type": 1,
+    "Value": ".it"
+  },
+  {
+    "Type": 1,
+    "Value": ".je"
+  },
+  {
+    "Type": 1,
+    "Value": ".jm"
+  },
+  {
+    "Type": 1,
+    "Value": ".jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ke"
+  },
+  {
+    "Type": 1,
+    "Value": ".kg"
+  },
+  {
+    "Type": 1,
+    "Value": ".kh"
+  },
+  {
+    "Type": 1,
+    "Value": ".ki"
+  },
+  {
+    "Type": 1,
+    "Value": ".km"
+  },
+  {
+    "Type": 1,
+    "Value": ".kn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ky"
+  },
+  {
+    "Type": 1,
+    "Value": ".kz"
+  },
+  {
+    "Type": 1,
+    "Value": ".la"
+  },
+  {
+    "Type": 1,
+    "Value": ".lb"
+  },
+  {
+    "Type": 1,
+    "Value": ".lc"
+  },
+  {
+    "Type": 1,
+    "Value": ".li"
+  },
+  {
+    "Type": 1,
+    "Value": ".lk"
+  },
+  {
+    "Type": 1,
+    "Value": ".lr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ls"
+  },
+  {
+    "Type": 1,
+    "Value": ".lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".mc"
+  },
+  {
+    "Type": 1,
+    "Value": ".md"
+  },
+  {
+    "Type": 1,
+    "Value": ".mg"
+  },
+  {
+    "Type": 1,
+    "Value": ".mh"
+  },
+  {
+    "Type": 1,
+    "Value": ".mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ml"
+  },
+  {
+    "Type": 1,
+    "Value": ".mm"
+  },
+  {
+    "Type": 1,
+    "Value": ".mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mo"
+  },
+  {
+    "Type": 1,
+    "Value": ".mp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mq"
+  },
+  {
+    "Type": 1,
+    "Value": ".mr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".mu"
+  },
+  {
+    "Type": 1,
+    "Value": ".mv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mw"
+  },
+  {
+    "Type": 1,
+    "Value": ".mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".my"
+  },
+  {
+    "Type": 1,
+    "Value": ".mz"
+  },
+  {
+    "Type": 1,
+    "Value": ".na"
+  },
+  {
+    "Type": 1,
+    "Value": ".nc"
+  },
+  {
+    "Type": 1,
+    "Value": ".ne"
+  },
+  {
+    "Type": 1,
+    "Value": ".nf"
+  },
+  {
+    "Type": 1,
+    "Value": ".ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".ni"
+  },
+  {
+    "Type": 1,
+    "Value": ".nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".no"
+  },
+  {
+    "Type": 1,
+    "Value": ".np"
+  },
+  {
+    "Type": 1,
+    "Value": ".nr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nu"
+  },
+  {
+    "Type": 1,
+    "Value": ".nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".om"
+  },
+  {
+    "Type": 1,
+    "Value": ".pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".pf"
+  },
+  {
+    "Type": 1,
+    "Value": ".pg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pm"
+  },
+  {
+    "Type": 1,
+    "Value": ".pn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ps"
+  },
+  {
+    "Type": 1,
+    "Value": ".pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".py"
+  },
+  {
+    "Type": 1,
+    "Value": ".qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".re"
+  },
+  {
+    "Type": 1,
+    "Value": ".ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".rw"
+  },
+  {
+    "Type": 1,
+    "Value": ".sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".sb"
+  },
+  {
+    "Type": 1,
+    "Value": ".sc"
+  },
+  {
+    "Type": 1,
+    "Value": ".sd"
+  },
+  {
+    "Type": 1,
+    "Value": ".se"
+  },
+  {
+    "Type": 1,
+    "Value": ".sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".si"
+  },
+  {
+    "Type": 1,
+    "Value": ".sj"
+  },
+  {
+    "Type": 1,
+    "Value": ".sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".sl"
+  },
+  {
+    "Type": 1,
+    "Value": ".sm"
+  },
+  {
+    "Type": 1,
+    "Value": ".sn"
+  },
+  {
+    "Type": 1,
+    "Value": ".so"
+  },
+  {
+    "Type": 1,
+    "Value": ".sr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ss"
+  },
+  {
+    "Type": 1,
+    "Value": ".st"
+  },
+  {
+    "Type": 1,
+    "Value": ".su"
+  },
+  {
+    "Type": 1,
+    "Value": ".sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".sx"
+  },
+  {
+    "Type": 1,
+    "Value": ".sy"
+  },
+  {
+    "Type": 1,
+    "Value": ".sz"
+  },
+  {
+    "Type": 1,
+    "Value": ".tc"
+  },
+  {
+    "Type": 1,
+    "Value": ".td"
+  },
+  {
+    "Type": 1,
+    "Value": ".tf"
+  },
+  {
+    "Type": 1,
+    "Value": ".tg"
+  },
+  {
+    "Type": 1,
+    "Value": ".th"
+  },
+  {
+    "Type": 1,
+    "Value": ".tj"
+  },
+  {
+    "Type": 1,
+    "Value": ".tk"
+  },
+  {
+    "Type": 1,
+    "Value": ".tl"
+  },
+  {
+    "Type": 1,
+    "Value": ".tm"
+  },
+  {
+    "Type": 1,
+    "Value": ".tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".to"
+  },
+  {
+    "Type": 1,
+    "Value": ".tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".tt"
+  },
+  {
+    "Type": 1,
+    "Value": ".tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".tz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".ug"
+  },
+  {
+    "Type": 1,
+    "Value": ".uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".us"
+  },
+  {
+    "Type": 1,
+    "Value": ".uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".uz"
+  },
+  {
+    "Type": 1,
+    "Value": ".va"
+  },
+  {
+    "Type": 1,
+    "Value": ".vc"
+  },
+  {
+    "Type": 1,
+    "Value": ".ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".vg"
+  },
+  {
+    "Type": 1,
+    "Value": ".vi"
+  },
+  {
+    "Type": 1,
+    "Value": ".vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".vu"
+  },
+  {
+    "Type": 1,
+    "Value": ".wf"
+  },
+  {
+    "Type": 1,
+    "Value": ".ws"
+  },
+  {
+    "Type": 1,
+    "Value": ".ye"
+  },
+  {
+    "Type": 1,
+    "Value": ".yt"
+  },
+  {
+    "Type": 1,
+    "Value": ".za"
+  },
+  {
+    "Type": 1,
+    "Value": ".zm"
+  },
+  {
+    "Type": 1,
+    "Value": ".zw"
+  },
+  {
+    "Type": 1,
+    "Value": ".afl"
+  },
+  {
+    "Type": 1,
+    "Value": ".mlb"
+  },
+  {
+    "Type": 1,
+    "Value": ".nba"
+  },
+  {
+    "Type": 1,
+    "Value": ".nfl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nra"
+  },
+  {
+    "Type": 1,
+    "Value": ".crs"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnp"
+  },
+  {
+    "Type": 1,
+    "Value": ".dvag"
+  },
+  {
+    "Type": 1,
+    "Value": ".erni"
+  },
+  {
+    "Type": 1,
+    "Value": ".ice"
+  },
+  {
+    "Type": 1,
+    "Value": ".locus"
+  },
+  {
+    "Type": 1,
+    "Value": ".mckinsey"
+  },
+  {
+    "Type": 1,
+    "Value": ".olayangroup"
+  },
+  {
+    "Type": 1,
+    "Value": ".olayan"
+  },
+  {
+    "Type": 1,
+    "Value": ".praxi"
+  },
+  {
+    "Type": 1,
+    "Value": ".sap"
+  },
+  {
+    "Type": 1,
+    "Value": ".seek"
+  },
+  {
+    "Type": 1,
+    "Value": ".wtc"
+  },
+  {
+    "Type": 1,
+    "Value": ".xerox"
+  },
+  {
+    "Type": 1,
+    "Value": ".athleta"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg"
+  },
+  {
+    "Type": 1,
+    "Value": ".calvinklein"
+  },
+  {
+    "Type": 1,
+    "Value": ".gap"
+  },
+  {
+    "Type": 1,
+    "Value": ".gucci"
+  },
+  {
+    "Type": 1,
+    "Value": ".hermes"
+  },
+  {
+    "Type": 1,
+    "Value": ".lancaster"
+  },
+  {
+    "Type": 1,
+    "Value": ".lipsy"
+  },
+  {
+    "Type": 1,
+    "Value": ".mango"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextdirect"
+  },
+  {
+    "Type": 1,
+    "Value": ".next"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike"
+  },
+  {
+    "Type": 1,
+    "Value": ".omega"
+  },
+  {
+    "Type": 1,
+    "Value": ".redstone"
+  },
+  {
+    "Type": 1,
+    "Value": ".swatch"
+  },
+  {
+    "Type": 1,
+    "Value": ".africa"
+  },
+  {
+    "Type": 1,
+    "Value": ".capetown"
+  },
+  {
+    "Type": 1,
+    "Value": ".durban"
+  },
+  {
+    "Type": 1,
+    "Value": ".joburg"
+  },
+  {
+    "Type": 1,
+    "Value": ".abudhabi"
+  },
+  {
+    "Type": 1,
+    "Value": ".arab"
+  },
+  {
+    "Type": 1,
+    "Value": ".dubai"
+  },
+  {
+    "Type": 1,
+    "Value": ".krd"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyoto"
+  },
+  {
+    "Type": 1,
+    "Value": ".nagoya"
+  },
+  {
+    "Type": 1,
+    "Value": ".okinawa"
+  },
+  {
+    "Type": 1,
+    "Value": ".osaka"
+  },
+  {
+    "Type": 1,
+    "Value": ".ryukyu"
+  },
+  {
+    "Type": 1,
+    "Value": ".taipei"
+  },
+  {
+    "Type": 1,
+    "Value": ".tatar"
+  },
+  {
+    "Type": 1,
+    "Value": ".tokyo"
+  },
+  {
+    "Type": 1,
+    "Value": ".yokohama"
+  },
+  {
+    "Type": 1,
+    "Value": ".alsace"
+  },
+  {
+    "Type": 1,
+    "Value": ".amsterdam"
+  },
+  {
+    "Type": 1,
+    "Value": ".bar"
+  },
+  {
+    "Type": 1,
+    "Value": ".barcelona"
+  },
+  {
+    "Type": 1,
+    "Value": ".bayern"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcn"
+  },
+  {
+    "Type": 1,
+    "Value": ".berlin"
+  },
+  {
+    "Type": 1,
+    "Value": ".brussels"
+  },
+  {
+    "Type": 1,
+    "Value": ".bzh"
+  },
+  {
+    "Type": 1,
+    "Value": ".cat"
+  },
+  {
+    "Type": 1,
+    "Value": ".corsica"
+  },
+  {
+    "Type": 1,
+    "Value": ".cymru"
+  },
+  {
+    "Type": 1,
+    "Value": ".eus"
+  },
+  {
+    "Type": 1,
+    "Value": ".frl"
+  },
+  {
+    "Type": 1,
+    "Value": ".gal"
+  },
+  {
+    "Type": 1,
+    "Value": ".gent"
+  },
+  {
+    "Type": 1,
+    "Value": ".hamburg"
+  },
+  {
+    "Type": 1,
+    "Value": ".helsinki"
+  },
+  {
+    "Type": 1,
+    "Value": ".irish"
+  },
+  {
+    "Type": 1,
+    "Value": ".ist"
+  },
+  {
+    "Type": 1,
+    "Value": ".istanbul"
+  },
+  {
+    "Type": 1,
+    "Value": ".koeln"
+  },
+  {
+    "Type": 1,
+    "Value": ".london"
+  },
+  {
+    "Type": 1,
+    "Value": ".madrid"
+  },
+  {
+    "Type": 1,
+    "Value": ".moscow"
+  },
+  {
+    "Type": 1,
+    "Value": ".nrw"
+  },
+  {
+    "Type": 1,
+    "Value": ".paris"
+  },
+  {
+    "Type": 1,
+    "Value": ".ruhr"
+  },
+  {
+    "Type": 1,
+    "Value": ".saarland"
+  },
+  {
+    "Type": 1,
+    "Value": ".scot"
+  },
+  {
+    "Type": 1,
+    "Value": ".stockholm"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiss"
+  },
+  {
+    "Type": 1,
+    "Value": ".tirol"
+  },
+  {
+    "Type": 1,
+    "Value": ".vlaanderen"
+  },
+  {
+    "Type": 1,
+    "Value": ".wales"
+  },
+  {
+    "Type": 1,
+    "Value": ".wien"
+  },
+  {
+    "Type": 1,
+    "Value": ".zuerich"
+  },
+  {
+    "Type": 1,
+    "Value": ".boston"
+  },
+  {
+    "Type": 1,
+    "Value": ".miami"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyc"
+  },
+  {
+    "Type": 1,
+    "Value": ".quebec"
+  },
+  {
+    "Type": 1,
+    "Value": ".vegas"
+  },
+  {
+    "Type": 1,
+    "Value": ".kiwi"
+  },
+  {
+    "Type": 1,
+    "Value": ".melbourne"
+  },
+  {
+    "Type": 1,
+    "Value": ".sydney"
+  },
+  {
+    "Type": 1,
+    "Value": ".lat"
+  },
+  {
+    "Type": 1,
+    "Value": ".rio"
+  },
+  {
+    "Type": 1,
+    "Value": ".aarp"
+  },
+  {
+    "Type": 1,
+    "Value": ".abbott"
+  },
+  {
+    "Type": 1,
+    "Value": ".abbvie"
+  },
+  {
+    "Type": 1,
+    "Value": ".aetna"
+  },
+  {
+    "Type": 1,
+    "Value": ".bms"
+  },
+  {
+    "Type": 1,
+    "Value": ".boehringer"
+  },
+  {
+    "Type": 1,
+    "Value": ".dabur"
+  },
+  {
+    "Type": 1,
+    "Value": ".fresenius"
+  },
+  {
+    "Type": 1,
+    "Value": ".jnj"
+  },
+  {
+    "Type": 1,
+    "Value": ".sanofi"
+  },
+  {
+    "Type": 1,
+    "Value": ".aeg"
+  },
+  {
+    "Type": 1,
+    "Value": ".airbus"
+  },
+  {
+    "Type": 1,
+    "Value": ".alstom"
+  },
+  {
+    "Type": 1,
+    "Value": ".aramco"
+  },
+  {
+    "Type": 1,
+    "Value": ".bosch"
+  },
+  {
+    "Type": 1,
+    "Value": ".bostik"
+  },
+  {
+    "Type": 1,
+    "Value": ".crown"
+  },
+  {
+    "Type": 1,
+    "Value": ".dupont"
+  },
+  {
+    "Type": 1,
+    "Value": ".flir"
+  },
+  {
+    "Type": 1,
+    "Value": ".grainger"
+  },
+  {
+    "Type": 1,
+    "Value": ".hitachi"
+  },
+  {
+    "Type": 1,
+    "Value": ".ifm"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipiranga"
+  },
+  {
+    "Type": 1,
+    "Value": ".jio"
+  },
+  {
+    "Type": 1,
+    "Value": ".komatsu"
+  },
+  {
+    "Type": 1,
+    "Value": ".kuokgroup"
+  },
+  {
+    "Type": 1,
+    "Value": ".leclerc"
+  },
+  {
+    "Type": 1,
+    "Value": ".lidl"
+  },
+  {
+    "Type": 1,
+    "Value": ".lotte"
+  },
+  {
+    "Type": 1,
+    "Value": ".man"
+  },
+  {
+    "Type": 1,
+    "Value": ".mtr"
+  },
+  {
+    "Type": 1,
+    "Value": ".reliance"
+  },
+  {
+    "Type": 1,
+    "Value": ".rexroth"
+  },
+  {
+    "Type": 1,
+    "Value": ".ril"
+  },
+  {
+    "Type": 1,
+    "Value": ".rwe"
+  },
+  {
+    "Type": 1,
+    "Value": ".sandvikcoromant"
+  },
+  {
+    "Type": 1,
+    "Value": ".sandvik"
+  },
+  {
+    "Type": 1,
+    "Value": ".schaeffler"
+  },
+  {
+    "Type": 1,
+    "Value": ".schmidt"
+  },
+  {
+    "Type": 1,
+    "Value": ".schwarz"
+  },
+  {
+    "Type": 1,
+    "Value": ".sener"
+  },
+  {
+    "Type": 1,
+    "Value": ".sew"
+  },
+  {
+    "Type": 1,
+    "Value": ".sncf"
+  },
+  {
+    "Type": 1,
+    "Value": ".total"
+  },
+  {
+    "Type": 1,
+    "Value": ".walter"
+  },
+  {
+    "Type": 1,
+    "Value": ".weber"
+  },
+  {
+    "Type": 1,
+    "Value": ".weir"
+  },
+  {
+    "Type": 1,
+    "Value": ".woodside"
+  },
+  {
+    "Type": 1,
+    "Value": ".zara"
+  },
+  {
+    "Type": 1,
+    "Value": ".africamagic"
+  },
+  {
+    "Type": 1,
+    "Value": ".agakhan"
+  },
+  {
+    "Type": 1,
+    "Value": ".akdn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bharti"
+  },
+  {
+    "Type": 1,
+    "Value": ".bingo"
+  },
+  {
+    "Type": 1,
+    "Value": ".casa"
+  },
+  {
+    "Type": 1,
+    "Value": ".casino"
+  },
+  {
+    "Type": 1,
+    "Value": ".dating"
+  },
+  {
+    "Type": 1,
+    "Value": ".domains"
+  },
+  {
+    "Type": 1,
+    "Value": ".extraspace"
+  },
+  {
+    "Type": 1,
+    "Value": ".gay"
+  },
+  {
+    "Type": 1,
+    "Value": ".genting"
+  },
+  {
+    "Type": 1,
+    "Value": ".hot"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikano"
+  },
+  {
+    "Type": 1,
+    "Value": ".imamat"
+  },
+  {
+    "Type": 1,
+    "Value": ".lgbt"
+  },
+  {
+    "Type": 1,
+    "Value": ".maif"
+  },
+  {
+    "Type": 1,
+    "Value": ".mattel"
+  },
+  {
+    "Type": 1,
+    "Value": ".moe"
+  },
+  {
+    "Type": 1,
+    "Value": ".sas"
+  },
+  {
+    "Type": 1,
+    "Value": ".shell"
+  },
+  {
+    "Type": 1,
+    "Value": ".shia"
+  },
+  {
+    "Type": 1,
+    "Value": ".style"
+  },
+  {
+    "Type": 1,
+    "Value": ".sucks"
+  },
+  {
+    "Type": 1,
+    "Value": ".tattoo"
+  },
+  {
+    "Type": 1,
+    "Value": ".vana"
+  },
+  {
+    "Type": 1,
+    "Value": ".virgin"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodka"
+  },
+  {
+    "Type": 1,
+    "Value": ".wine"
+  },
+  {
+    "Type": 1,
+    "Value": ".wme"
+  },
+  {
+    "Type": 1,
+    "Value": ".wtf"
+  },
+  {
+    "Type": 1,
+    "Value": ".bible"
+  },
+  {
+    "Type": 1,
+    "Value": ".catholic"
+  },
+  {
+    "Type": 1,
+    "Value": ".ismaili"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbi4ecexp"
+  },
+  {
+    "Type": 1,
+    "Value": ".cern"
+  },
+  {
+    "Type": 1,
+    "Value": ".emerck"
+  },
+  {
+    "Type": 1,
+    "Value": ".hisamitsu"
+  },
+  {
+    "Type": 1,
+    "Value": ".lilly"
+  },
+  {
+    "Type": 1,
+    "Value": ".lundbeck"
+  },
+  {
+    "Type": 1,
+    "Value": ".merckmsd"
+  },
+  {
+    "Type": 1,
+    "Value": ".msd"
+  },
+  {
+    "Type": 1,
+    "Value": ".otsuka"
+  },
+  {
+    "Type": 1,
+    "Value": ".pfizer"
+  },
+  {
+    "Type": 1,
+    "Value": ".stada"
+  },
+  {
+    "Type": 1,
+    "Value": ".teva"
+  },
+  {
+    "Type": 1,
+    "Value": ".toray"
+  },
+  {
+    "Type": 1,
+    "Value": ".weather"
+  },
+  {
+    "Type": 1,
+    "Value": ".adult"
+  },
+  {
+    "Type": 1,
+    "Value": ".porn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sex"
+  },
+  {
+    "Type": 1,
+    "Value": ".sexy"
+  },
+  {
+    "Type": 1,
+    "Value": ".xxx"
+  },
+  {
+    "Type": 1,
+    "Value": ".auspost"
+  },
+  {
+    "Type": 1,
+    "Value": ".dhl"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedex"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--lgbbat1ad8j"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--y9a3aq"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbcpq6gpa1a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--54b7fta0cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--90ais"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--90ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--wgbh1c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--e1a4c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--qxa6a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--node"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--qxam"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--4dbrk0ce"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--h2brj9c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbbh1a71e"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--fpcrj9c3d"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--gecrj9c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--s9brj9c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--45brj9c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--xkc2dl3a5ee0h"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--2scrj9c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--rvc1e0am3e"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--45br5cyl"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--3hcrj9c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbbh1a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--h2breg3eve"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--h2brj9c8c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbgu82a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgba3a4f16a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgba3a4fra"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbtx2b"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbayh7gpa"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--80ao21a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--3e0b707e"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--q7ce6a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mix891f"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mix082f"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--d1alf"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbx4cd0ab"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbah1a3hjkrd"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--l1acc"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbc0a9azcg"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgb9awbf"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbai9azgqp6j"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbai9a5eva00b"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--ygbi2ammx"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--wgbl6a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--p1ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgberp4a5d4ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgberp4a5d4a87g"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbqly7c0a67fbc"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbqly7cvafr"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--90a3ac"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--yfro4i67o"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--fzc2c9e2c"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbpl2fh"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--ogbpf8fl"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbtf8fl"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--kpry57d"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--kprw13d"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--nnx388a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--o3cw4h"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--pgbs0dh"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--j1amh"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgbaam7a8h"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgb2ddes"
+  },
+  {
+    "Type": 1,
+    "Value": ".aaa"
+  },
+  {
+    "Type": 1,
+    "Value": ".audi"
+  },
+  {
+    "Type": 1,
+    "Value": ".bentley"
+  },
+  {
+    "Type": 1,
+    "Value": ".bmw"
+  },
+  {
+    "Type": 1,
+    "Value": ".bridgestone"
+  },
+  {
+    "Type": 1,
+    "Value": ".case"
+  },
+  {
+    "Type": 1,
+    "Value": ".datsun"
+  },
+  {
+    "Type": 1,
+    "Value": ".dunlop"
+  },
+  {
+    "Type": 1,
+    "Value": ".ferrari"
+  },
+  {
+    "Type": 1,
+    "Value": ".firestone"
+  },
+  {
+    "Type": 1,
+    "Value": ".ford"
+  },
+  {
+    "Type": 1,
+    "Value": ".goodyear"
+  },
+  {
+    "Type": 1,
+    "Value": ".honda"
+  },
+  {
+    "Type": 1,
+    "Value": ".hyundai"
+  },
+  {
+    "Type": 1,
+    "Value": ".infiniti"
+  },
+  {
+    "Type": 1,
+    "Value": ".jaguar"
+  },
+  {
+    "Type": 1,
+    "Value": ".jeep"
+  },
+  {
+    "Type": 1,
+    "Value": ".kia"
+  },
+  {
+    "Type": 1,
+    "Value": ".lamborghini"
+  },
+  {
+    "Type": 1,
+    "Value": ".landrover"
+  },
+  {
+    "Type": 1,
+    "Value": ".lexus"
+  },
+  {
+    "Type": 1,
+    "Value": ".lincoln"
+  },
+  {
+    "Type": 1,
+    "Value": ".mini"
+  },
+  {
+    "Type": 1,
+    "Value": ".mitsubishi"
+  },
+  {
+    "Type": 1,
+    "Value": ".nissan"
+  },
+  {
+    "Type": 1,
+    "Value": ".seat"
+  },
+  {
+    "Type": 1,
+    "Value": ".suzuki"
+  },
+  {
+    "Type": 1,
+    "Value": ".tatamotors"
+  },
+  {
+    "Type": 1,
+    "Value": ".toyota"
+  },
+  {
+    "Type": 1,
+    "Value": ".tvs"
+  },
+  {
+    "Type": 1,
+    "Value": ".volvo"
+  },
+  {
+    "Type": 1,
+    "Value": ".android"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy"
+  },
+  {
+    "Type": 1,
+    "Value": ".brother"
+  },
+  {
+    "Type": 1,
+    "Value": ".canon"
+  },
+  {
+    "Type": 1,
+    "Value": ".dell"
+  },
+  {
+    "Type": 1,
+    "Value": ".fujitsu"
+  },
+  {
+    "Type": 1,
+    "Value": ".goldpoint"
+  },
+  {
+    "Type": 1,
+    "Value": ".ibm"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikon"
+  },
+  {
+    "Type": 1,
+    "Value": ".nokia"
+  },
+  {
+    "Type": 1,
+    "Value": ".panasonic"
+  },
+  {
+    "Type": 1,
+    "Value": ".philips"
+  },
+  {
+    "Type": 1,
+    "Value": ".pioneer"
+  },
+  {
+    "Type": 1,
+    "Value": ".samsung"
+  },
+  {
+    "Type": 1,
+    "Value": ".sharp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sony"
+  },
+  {
+    "Type": 1,
+    "Value": ".toshiba"
+  },
+  {
+    "Type": 1,
+    "Value": ".yodobashi"
+  },
+  {
+    "Type": 1,
+    "Value": ".allfinanz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ally"
+  },
+  {
+    "Type": 1,
+    "Value": ".americanexpress"
+  },
+  {
+    "Type": 1,
+    "Value": ".amex"
+  },
+  {
+    "Type": 1,
+    "Value": ".anz"
+  },
+  {
+    "Type": 1,
+    "Value": ".banamex"
+  },
+  {
+    "Type": 1,
+    "Value": ".barclaycard"
+  },
+  {
+    "Type": 1,
+    "Value": ".barclays"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbt"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbva"
+  },
+  {
+    "Type": 1,
+    "Value": ".bnpparibas"
+  },
+  {
+    "Type": 1,
+    "Value": ".bofa"
+  },
+  {
+    "Type": 1,
+    "Value": ".bradesco"
+  },
+  {
+    "Type": 1,
+    "Value": ".capitalone"
+  },
+  {
+    "Type": 1,
+    "Value": ".cba"
+  },
+  {
+    "Type": 1,
+    "Value": ".cfa"
+  },
+  {
+    "Type": 1,
+    "Value": ".citadel"
+  },
+  {
+    "Type": 1,
+    "Value": ".citi"
+  },
+  {
+    "Type": 1,
+    "Value": ".commbank"
+  },
+  {
+    "Type": 1,
+    "Value": ".deloitte"
+  },
+  {
+    "Type": 1,
+    "Value": ".discover"
+  },
+  {
+    "Type": 1,
+    "Value": ".fidelity"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdfcbank"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdfc"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc"
+  },
+  {
+    "Type": 1,
+    "Value": ".itau"
+  },
+  {
+    "Type": 1,
+    "Value": ".jcb"
+  },
+  {
+    "Type": 1,
+    "Value": ".jll"
+  },
+  {
+    "Type": 1,
+    "Value": ".kfh"
+  },
+  {
+    "Type": 1,
+    "Value": ".kpmg"
+  },
+  {
+    "Type": 1,
+    "Value": ".lacaixa"
+  },
+  {
+    "Type": 1,
+    "Value": ".lasalle"
+  },
+  {
+    "Type": 1,
+    "Value": ".lplfinancial"
+  },
+  {
+    "Type": 1,
+    "Value": ".lpl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nab"
+  },
+  {
+    "Type": 1,
+    "Value": ".netbank"
+  },
+  {
+    "Type": 1,
+    "Value": ".open"
+  },
+  {
+    "Type": 1,
+    "Value": ".pictet"
+  },
+  {
+    "Type": 1,
+    "Value": ".pnc"
+  },
+  {
+    "Type": 1,
+    "Value": ".pohl"
+  },
+  {
+    "Type": 1,
+    "Value": ".pramerica"
+  },
+  {
+    "Type": 1,
+    "Value": ".prudential"
+  },
+  {
+    "Type": 1,
+    "Value": ".pru"
+  },
+  {
+    "Type": 1,
+    "Value": ".pwc"
+  },
+  {
+    "Type": 1,
+    "Value": ".sbi"
+  },
+  {
+    "Type": 1,
+    "Value": ".scb"
+  },
+  {
+    "Type": 1,
+    "Value": ".softbank"
+  },
+  {
+    "Type": 1,
+    "Value": ".statebank"
+  },
+  {
+    "Type": 1,
+    "Value": ".temasek"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubank"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubs"
+  },
+  {
+    "Type": 1,
+    "Value": ".vanguard"
+  },
+  {
+    "Type": 1,
+    "Value": ".visa"
+  },
+  {
+    "Type": 1,
+    "Value": ".wolterskluwer"
+  },
+  {
+    "Type": 1,
+    "Value": ".aquarelle"
+  },
+  {
+    "Type": 1,
+    "Value": ".diy"
+  },
+  {
+    "Type": 1,
+    "Value": ".homedepot"
+  },
+  {
+    "Type": 1,
+    "Value": ".homegoods"
+  },
+  {
+    "Type": 1,
+    "Value": ".aig"
+  },
+  {
+    "Type": 1,
+    "Value": ".allstate"
+  },
+  {
+    "Type": 1,
+    "Value": ".americanfamily"
+  },
+  {
+    "Type": 1,
+    "Value": ".amfam"
+  },
+  {
+    "Type": 1,
+    "Value": ".amica"
+  },
+  {
+    "Type": 1,
+    "Value": ".axa"
+  },
+  {
+    "Type": 1,
+    "Value": ".farmers"
+  },
+  {
+    "Type": 1,
+    "Value": ".mma"
+  },
+  {
+    "Type": 1,
+    "Value": ".nissay"
+  },
+  {
+    "Type": 1,
+    "Value": ".progressive"
+  },
+  {
+    "Type": 1,
+    "Value": ".redumbrella"
+  },
+  {
+    "Type": 1,
+    "Value": ".statefarm"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiaa"
+  },
+  {
+    "Type": 1,
+    "Value": ".travelersinsurance"
+  },
+  {
+    "Type": 1,
+    "Value": ".travelers"
+  },
+  {
+    "Type": 1,
+    "Value": ".trv"
+  },
+  {
+    "Type": 1,
+    "Value": ".vig"
+  },
+  {
+    "Type": 1,
+    "Value": ".beats"
+  },
+  {
+    "Type": 1,
+    "Value": ".blockbuster"
+  },
+  {
+    "Type": 1,
+    "Value": ".netflix"
+  },
+  {
+    "Type": 1,
+    "Value": ".playstation"
+  },
+  {
+    "Type": 1,
+    "Value": ".tab"
+  },
+  {
+    "Type": 1,
+    "Value": ".williamhill"
+  },
+  {
+    "Type": 1,
+    "Value": ".xbox"
+  },
+  {
+    "Type": 1,
+    "Value": ".asda"
+  },
+  {
+    "Type": 1,
+    "Value": ".george"
+  },
+  {
+    "Type": 1,
+    "Value": ".homesense"
+  },
+  {
+    "Type": 1,
+    "Value": ".lego"
+  },
+  {
+    "Type": 1,
+    "Value": ".marshalls"
+  },
+  {
+    "Type": 1,
+    "Value": ".obi"
+  },
+  {
+    "Type": 1,
+    "Value": ".samsclub"
+  },
+  {
+    "Type": 1,
+    "Value": ".staples"
+  },
+  {
+    "Type": 1,
+    "Value": ".target"
+  },
+  {
+    "Type": 1,
+    "Value": ".thd"
+  },
+  {
+    "Type": 1,
+    "Value": ".tjmaxx"
+  },
+  {
+    "Type": 1,
+    "Value": ".tjx"
+  },
+  {
+    "Type": 1,
+    "Value": ".tkmaxx"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmart"
+  },
+  {
+    "Type": 1,
+    "Value": ".abb"
+  },
+  {
+    "Type": 1,
+    "Value": ".accenture"
+  },
+  {
+    "Type": 1,
+    "Value": ".aco"
+  },
+  {
+    "Type": 1,
+    "Value": ".airtel"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon"
+  },
+  {
+    "Type": 1,
+    "Value": ".aol"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure"
+  },
+  {
+    "Type": 1,
+    "Value": ".chrome"
+  },
+  {
+    "Type": 1,
+    "Value": ".cisco"
+  },
+  {
+    "Type": 1,
+    "Value": ".dclk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dish"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtv"
+  },
+  {
+    "Type": 1,
+    "Value": ".epson"
+  },
+  {
+    "Type": 1,
+    "Value": ".ericsson"
+  },
+  {
+    "Type": 1,
+    "Value": ".fairwinds"
+  },
+  {
+    "Type": 1,
+    "Value": ".fido"
+  },
+  {
+    "Type": 1,
+    "Value": ".flickr"
+  },
+  {
+    "Type": 1,
+    "Value": ".frogans"
+  },
+  {
+    "Type": 1,
+    "Value": ".frontier"
+  },
+  {
+    "Type": 1,
+    "Value": ".ftr"
+  },
+  {
+    "Type": 1,
+    "Value": ".gbiz"
+  },
+  {
+    "Type": 1,
+    "Value": ".gea"
+  },
+  {
+    "Type": 1,
+    "Value": ".ggee"
+  },
+  {
+    "Type": 1,
+    "Value": ".gle"
+  },
+  {
+    "Type": 1,
+    "Value": ".gmail"
+  },
+  {
+    "Type": 1,
+    "Value": ".gmo"
+  },
+  {
+    "Type": 1,
+    "Value": ".gmx"
+  },
+  {
+    "Type": 1,
+    "Value": ".godaddy"
+  },
+  {
+    "Type": 1,
+    "Value": ".goog"
+  },
+  {
+    "Type": 1,
+    "Value": ".google"
+  },
+  {
+    "Type": 1,
+    "Value": ".goo"
+  },
+  {
+    "Type": 1,
+    "Value": ".guge"
+  },
+  {
+    "Type": 1,
+    "Value": ".hangout"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkt"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotmail"
+  },
+  {
+    "Type": 1,
+    "Value": ".hughes"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee"
+  },
+  {
+    "Type": 1,
+    "Value": ".intuit"
+  },
+  {
+    "Type": 1,
+    "Value": ".java"
+  },
+  {
+    "Type": 1,
+    "Value": ".jmp"
+  },
+  {
+    "Type": 1,
+    "Value": ".jprs"
+  },
+  {
+    "Type": 1,
+    "Value": ".juniper"
+  },
+  {
+    "Type": 1,
+    "Value": ".kddi"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle"
+  },
+  {
+    "Type": 1,
+    "Value": ".kpn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lanxess"
+  },
+  {
+    "Type": 1,
+    "Value": ".locker"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft"
+  },
+  {
+    "Type": 1,
+    "Value": ".mint"
+  },
+  {
+    "Type": 1,
+    "Value": ".mit"
+  },
+  {
+    "Type": 1,
+    "Value": ".mtn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nec"
+  },
+  {
+    "Type": 1,
+    "Value": ".neustar"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexus"
+  },
+  {
+    "Type": 1,
+    "Value": ".nico"
+  },
+  {
+    "Type": 1,
+    "Value": ".norton"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntt"
+  },
+  {
+    "Type": 1,
+    "Value": ".office"
+  },
+  {
+    "Type": 1,
+    "Value": ".ollo"
+  },
+  {
+    "Type": 1,
+    "Value": ".oracle"
+  },
+  {
+    "Type": 1,
+    "Value": ".orange"
+  },
+  {
+    "Type": 1,
+    "Value": ".ovh"
+  },
+  {
+    "Type": 1,
+    "Value": ".pccw"
+  },
+  {
+    "Type": 1,
+    "Value": ".richardli"
+  },
+  {
+    "Type": 1,
+    "Value": ".ricoh"
+  },
+  {
+    "Type": 1,
+    "Value": ".rogers"
+  },
+  {
+    "Type": 1,
+    "Value": ".sakura"
+  },
+  {
+    "Type": 1,
+    "Value": ".sfr"
+  },
+  {
+    "Type": 1,
+    "Value": ".shaw"
+  },
+  {
+    "Type": 1,
+    "Value": ".skype"
+  },
+  {
+    "Type": 1,
+    "Value": ".sling"
+  },
+  {
+    "Type": 1,
+    "Value": ".smart"
+  },
+  {
+    "Type": 1,
+    "Value": ".stcgroup"
+  },
+  {
+    "Type": 1,
+    "Value": ".stc"
+  },
+  {
+    "Type": 1,
+    "Value": ".tci"
+  },
+  {
+    "Type": 1,
+    "Value": ".tdk"
+  },
+  {
+    "Type": 1,
+    "Value": ".uol"
+  },
+  {
+    "Type": 1,
+    "Value": ".verisign"
+  },
+  {
+    "Type": 1,
+    "Value": ".viva"
+  },
+  {
+    "Type": 1,
+    "Value": ".vivo"
+  },
+  {
+    "Type": 1,
+    "Value": ".windows"
+  },
+  {
+    "Type": 1,
+    "Value": ".yahoo"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamaxun"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex"
+  },
+  {
+    "Type": 1,
+    "Value": ".youtube"
+  },
+  {
+    "Type": 1,
+    "Value": ".zappos"
+  },
+  {
+    "Type": 1,
+    "Value": ".chanel"
+  },
+  {
+    "Type": 1,
+    "Value": ".clinique"
+  },
+  {
+    "Type": 1,
+    "Value": ".lamer"
+  },
+  {
+    "Type": 1,
+    "Value": ".natura"
+  },
+  {
+    "Type": 1,
+    "Value": ".origins"
+  },
+  {
+    "Type": 1,
+    "Value": ".barefoot"
+  },
+  {
+    "Type": 1,
+    "Value": ".cuisinella"
+  },
+  {
+    "Type": 1,
+    "Value": ".edeka"
+  },
+  {
+    "Type": 1,
+    "Value": ".fage"
+  },
+  {
+    "Type": 1,
+    "Value": ".ferrero"
+  },
+  {
+    "Type": 1,
+    "Value": ".food"
+  },
+  {
+    "Type": 1,
+    "Value": ".gallo"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--5su34j936bgsg"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--b4w605ferd"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--cckwcxetd"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--cg4bki"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--flw351e"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--fzys8d69uvgm"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--jlq480n2rg"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--kcrx77d1x4a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgba3a3ejt"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mgba7c0bbn0a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--ngbe9e0a"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--qcka1pmc"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--w4r85el8fhu5dnra"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--w4rs40l"
+  },
+  {
+    "Type": 1,
+    "Value": ".caravan"
+  },
+  {
+    "Type": 1,
+    "Value": ".cipriani"
+  },
+  {
+    "Type": 1,
+    "Value": ".clubmed"
+  },
+  {
+    "Type": 1,
+    "Value": ".delta"
+  },
+  {
+    "Type": 1,
+    "Value": ".firmdale"
+  },
+  {
+    "Type": 1,
+    "Value": ".hyatt"
+  },
+  {
+    "Type": 1,
+    "Value": ".kerryhotels"
+  },
+  {
+    "Type": 1,
+    "Value": ".kerryproperties"
+  },
+  {
+    "Type": 1,
+    "Value": ".marriott"
+  },
+  {
+    "Type": 1,
+    "Value": ".shangrila"
+  },
+  {
+    "Type": 1,
+    "Value": ".tui"
+  },
+  {
+    "Type": 1,
+    "Value": ".viking"
+  },
+  {
+    "Type": 1,
+    "Value": ".able"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbre"
+  },
+  {
+    "Type": 1,
+    "Value": ".chintai"
+  },
+  {
+    "Type": 1,
+    "Value": ".lefrak"
+  },
+  {
+    "Type": 1,
+    "Value": ".abc"
+  },
+  {
+    "Type": 1,
+    "Value": ".arte"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc"
+  },
+  {
+    "Type": 1,
+    "Value": ".cbn"
+  },
+  {
+    "Type": 1,
+    "Value": ".eurovision"
+  },
+  {
+    "Type": 1,
+    "Value": ".fox"
+  },
+  {
+    "Type": 1,
+    "Value": ".gallup"
+  },
+  {
+    "Type": 1,
+    "Value": ".globo"
+  },
+  {
+    "Type": 1,
+    "Value": ".hbo"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb"
+  },
+  {
+    "Type": 1,
+    "Value": ".itv"
+  },
+  {
+    "Type": 1,
+    "Value": ".nhk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nowtv"
+  },
+  {
+    "Type": 1,
+    "Value": ".sbs"
+  },
+  {
+    "Type": 1,
+    "Value": ".seven"
+  },
+  {
+    "Type": 1,
+    "Value": ".sky"
+  },
+  {
+    "Type": 1,
+    "Value": ".weatherchannel"
+  },
+  {
+    "Type": 1,
+    "Value": ".bauhaus"
+  },
+  {
+    "Type": 1,
+    "Value": ".latrobe"
+  },
+  {
+    "Type": 1,
+    "Value": ".monash"
+  },
+  {
+    "Type": 1,
+    "Value": ".meme"
+  },
+  {
+    "Type": 1,
+    "Value": ".ing"
+  },
+  {
+    "Type": 1,
+    "Value": ".foo"
+  },
+  {
+    "Type": 1,
+    "Value": ".zip"
+  },
+  {
+    "Type": 1,
+    "Value": ".mov"
+  },
+  {
+    "Type": 1,
+    "Value": ".dad"
+  },
+  {
+    "Type": 1,
+    "Value": ".phd"
+  },
+  {
+    "Type": 1,
+    "Value": ".prof"
+  },
+  {
+    "Type": 1,
+    "Value": ".esq"
+  },
+  {
+    "Type": 1,
+    "Value": ".rsvp"
+  },
+  {
+    "Type": 1,
+    "Value": ".boo"
+  },
+  {
+    "Type": 1,
+    "Value": ".day"
+  },
+  {
+    "Type": 1,
+    "Value": ".new"
+  },
+  {
+    "Type": 1,
+    "Value": ".dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".page"
+  },
+  {
+    "Type": 1,
+    "Value": ".app"
+  },
+  {
+    "Type": 1,
+    "Value": ".how"
+  },
+  {
+    "Type": 1,
+    "Value": ".soy"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--q9jyb4c"
+  }
+]

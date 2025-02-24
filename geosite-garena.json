@@ -1,0 +1,114 @@
+[
+  {
+    "Type": 0,
+    "Value": "avatargarenanow-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdngarenanow-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dlgarenanow-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dlmobilegarena-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.com"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.live"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.my"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "garenanow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".garenanow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seagroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".seagroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "garena.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".garena.co.th"
+  }
+]

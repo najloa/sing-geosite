@@ -1,0 +1,98 @@
+[
+  {
+    "Type": 0,
+    "Value": "intellij.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellij.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intellij.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellij.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intellij.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellij.org"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.net"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.space"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.space"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.team"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.team"
+  },
+  {
+    "Type": 0,
+    "Value": "datalore.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".datalore.io"
+  },
+  {
+    "Type": 0,
+    "Value": "kotlinlang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".kotlinlang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "jb.gg"
+  },
+  {
+    "Type": 1,
+    "Value": ".jb.gg"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.jetbrains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn.jetbrains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download-cdn.jetbrains.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".download-cdn.jetbrains.com.cn"
+  }
+]

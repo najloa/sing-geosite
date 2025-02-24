@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "fandango.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fandango.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mgo-images.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgo-images.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ravm.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ravm.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "roku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rokutime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rokutime.com"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "ubisoft-uplay-savegames.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubisoft-orbit-savegames.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubistatic3-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ubi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubisoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubisoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubisoftconnect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubisoftconnect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uplaypc-s-ubisoft.cdn.ubi.com"
+  }
+]

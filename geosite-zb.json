@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "zb.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.app"
+  },
+  {
+    "Type": 0,
+    "Value": "zb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zb.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.io"
+  },
+  {
+    "Type": 0,
+    "Value": "zb.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".zb.live"
+  }
+]

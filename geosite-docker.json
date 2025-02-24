@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "compose-spec.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".compose-spec.io"
+  },
+  {
+    "Type": 0,
+    "Value": "docker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".docker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "docker.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".docker.io"
+  }
+]

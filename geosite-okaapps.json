@@ -1,0 +1,14 @@
+[
+  {
+    "Type": 0,
+    "Value": "okaapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".okaapps.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^(.+\\.)*zh\\.okaapps\\.com$"
+  }
+]

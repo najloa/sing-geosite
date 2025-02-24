@@ -1,0 +1,130 @@
+[
+  {
+    "Type": 0,
+    "Value": "amp.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "lfai.foundation"
+  },
+  {
+    "Type": 1,
+    "Value": ".lfai.foundation"
+  },
+  {
+    "Type": 0,
+    "Value": "linuxfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".linuxfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kernel.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".kernel.org"
+  },
+  {
+    "Type": 0,
+    "Value": "linux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".linux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openjsf.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openjsf.org"
+  },
+  {
+    "Type": 0,
+    "Value": "amp.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".amp.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "electronjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".electronjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "jquery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jquery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jquerymobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jquerymobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jqueryui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jqueryui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mochajs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mochajs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nodejs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nodejs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.ampproject.org"
+  }
+]

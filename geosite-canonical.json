@@ -1,0 +1,98 @@
+[
+  {
+    "Type": 0,
+    "Value": "canonical.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".canonical.com"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadcontent.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadcontent.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.org"
+  },
+  {
+    "Type": 0,
+    "Value": "snapcraft.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapcraft.io"
+  },
+  {
+    "Type": 0,
+    "Value": "snapstore.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapstore.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntu.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntu.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntuforums.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntuforums.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntu-touch.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntu-touch.io"
+  }
+]

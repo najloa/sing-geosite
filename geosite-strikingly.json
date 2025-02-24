@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "mystrikingly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mystrikingly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "strikingly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".strikingly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "strikinglycdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".strikinglycdn.com"
+  }
+]

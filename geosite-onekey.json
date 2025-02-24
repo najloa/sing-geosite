@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "onekey.zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onekey-asset.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onekey-asset.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onekey.so"
+  },
+  {
+    "Type": 1,
+    "Value": ".onekey.so"
+  },
+  {
+    "Type": 0,
+    "Value": "onekeycn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onekeycn.com"
+  }
+]

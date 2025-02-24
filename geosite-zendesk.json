@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "outbound.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".outbound.io"
+  },
+  {
+    "Type": 0,
+    "Value": "zdassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zdusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zdusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zendesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zendesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zndsk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zndsk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zopim.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zopim.com"
+  }
+]

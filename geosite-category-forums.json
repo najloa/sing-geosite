@@ -1,0 +1,566 @@
+[
+  {
+    "Type": 0,
+    "Value": "reddit.map.fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "18p2p.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".18p2p.com"
+  },
+  {
+    "Type": 0,
+    "Value": "avsforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".avsforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disp.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".disp.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "doom9.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".doom9.org"
+  },
+  {
+    "Type": 0,
+    "Value": "eyny.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eyny.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hydrogenaud.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".hydrogenaud.io"
+  },
+  {
+    "Type": 0,
+    "Value": "mewe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mewe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "parler.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".parler.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pincong.rocks"
+  },
+  {
+    "Type": 1,
+    "Value": ".pincong.rocks"
+  },
+  {
+    "Type": 0,
+    "Value": "safechat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".safechat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sis001.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sis001.com"
+  },
+  {
+    "Type": 0,
+    "Value": "v2ex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".v2ex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redd.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".redd.it"
+  },
+  {
+    "Type": 0,
+    "Value": "reddit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reddit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reddithelp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reddithelp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditspace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditspace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redditstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redditstatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "6park.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".6park.com"
+  },
+  {
+    "Type": 0,
+    "Value": "6parkbbs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".6parkbbs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "6parknews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".6parknews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cool18.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cool18.com"
+  },
+  {
+    "Type": 0,
+    "Value": "popo8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".popo8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "parkvv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".parkvv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xwbo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xwbo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkgolden.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkgolden.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkgolden.media"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkgolden.media"
+  },
+  {
+    "Type": 0,
+    "Value": "lih.kg"
+  },
+  {
+    "Type": 1,
+    "Value": ".lih.kg"
+  },
+  {
+    "Type": 0,
+    "Value": "lihkg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lihkg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pimg.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pimg.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "pixanalytics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixanalytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pixfs.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixfs.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pixnet.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixnet.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "pixnet.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixnet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pixnet.pro"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixnet.pro"
+  },
+  {
+    "Type": 0,
+    "Value": "pixnet.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixnet.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "pixplug.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixplug.in"
+  },
+  {
+    "Type": 0,
+    "Value": "dcard.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcard.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "dcard.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcard.io"
+  },
+  {
+    "Type": 0,
+    "Value": "dcard.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcard.link"
+  },
+  {
+    "Type": 0,
+    "Value": "dcard.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcard.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "broadbandreports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".broadbandreports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dslr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dslr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dslreports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dslreports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qr.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".qr.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "quora.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".quora.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quoracdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".quoracdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "poe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".poe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "poecdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".poecdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "4cdn.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4cdn.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4chan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4chan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4channel.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4channel.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ck101.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ck101.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ckcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ckcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ckck.fun"
+  },
+  {
+    "Type": 1,
+    "Value": ".ckck.fun"
+  },
+  {
+    "Type": 0,
+    "Value": "yamibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "2ch.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".2ch.net"
+  },
+  {
+    "Type": 0,
+    "Value": "5ch.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".5ch.net"
+  },
+  {
+    "Type": 0,
+    "Value": "5i01.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".5i01.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mobile01.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobile01.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ptt.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".ptt.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "ptt2.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".ptt2.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "ptt3.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".ptt3.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "reddit.app.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".reddit.app.link"
+  },
+  {
+    "Type": 0,
+    "Value": "pixinsight.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pixinsight.com.tw"
+  }
+]

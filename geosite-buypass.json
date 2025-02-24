@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "buypass-ssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass-ssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buypass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buypass.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass.no"
+  },
+  {
+    "Type": 0,
+    "Value": "buypass.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".buypass.se"
+  },
+  {
+    "Type": 0,
+    "Value": "minid.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".minid.no"
+  }
+]

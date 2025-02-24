@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "ads.service.kugou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.service.kugou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adserviceretry.kglink.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adserviceretry.kglink.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adserviceretry.kugou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adserviceretry.kugou.com"
+  }
+]

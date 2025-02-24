@@ -1,0 +1,1242 @@
+[
+  {
+    "Type": 0,
+    "Value": "espn.api.edge.bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.hb.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "espndotcom.tt.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "thestationbymaker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thestationbymaker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "babble.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".babble.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmomentsme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmomentsme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "themarvelexperiencetour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".themarvelexperiencetour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelsuperwar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelsuperwar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelsuperheroseptember.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelsuperheroseptember.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelspotlightplays.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelspotlightplays.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelsdoubleagent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelsdoubleagent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelpinball.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelpinball.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvelparty.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvelparty.net"
+  },
+  {
+    "Type": 0,
+    "Value": "marveldimensionofheroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marveldimensionofheroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvel10thanniversary.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvel10thanniversary.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marvel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marvel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.de"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.es"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.it"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.id"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.in"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.io"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.it"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.my"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.no"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.se"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstarext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstarext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar-labs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar-labs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "20thcenturystudios.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".20thcenturystudios.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "adventuresbydisney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adventuresbydisney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "babyzone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".babyzone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bamgrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dilcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dilcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-asia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-asia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-discount.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-discount.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-plus.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-plus.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-studio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-studio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-studio.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-studio.net"
+  },
+  {
+    "Type": 0,
+    "Value": "watchespn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".watchespn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyadsales.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyadsales.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyarena.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyarena.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyaulani.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyaulani.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneybaby.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneybaby.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneycareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneycareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneychannelonstage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneychannelonstage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneychannelroadtrip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneychannelroadtrip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneycruisebrasil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneycruisebrasil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyenconcert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyenconcert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyiejobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyiejobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyinflight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyinflight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyinternational.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyinternational.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyinternationalhd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyinternationalhd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyjunior.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyjunior.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyjuniortreataday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyjuniortreataday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneylatino.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneylatino.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espnqa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espnqa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espncdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espncdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.de"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.es"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.be"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymeetingsandevents.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymeetingsandevents.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymovieinsiders.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymovieinsiders.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymusicpromotion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymusicpromotion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneynewseries.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneynewseries.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneynow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneynow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneypeoplesurveys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneypeoplesurveys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtci.technology"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtci.technology"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtci.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".dtci.co"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyredirects.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyredirects.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneysrivieraresort.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneysrivieraresort.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneystore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneystore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneystreaming.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneystreaming.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneysubscription.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneysubscription.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dmed.technology"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmed.technology"
+  },
+  {
+    "Type": 0,
+    "Value": "disneytvajobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneytvajobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyworld-go.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyworld-go.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dssott.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dssott.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go-disneyworldgo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-disneyworldgo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".go.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mickey.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mickey.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "moviesanywhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".moviesanywhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nomadlandmovie.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".nomadlandmovie.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "playmation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playmation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopdisney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopdisney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shops-disney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shops-disney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sorcerersarena.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sorcerersarena.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spaindisney.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spaindisney.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star-brasil.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star-brasil.com"
+  },
+  {
+    "Type": 0,
+    "Value": "star-latam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".star-latam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsgalacticstarcruiser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsgalacticstarcruiser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarskids.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarskids.com"
+  },
+  {
+    "Type": 0,
+    "Value": "streamingdisney.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".streamingdisney.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.asia"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.asia"
+  },
+  {
+    "Type": 0,
+    "Value": "thisispolaris.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thisispolaris.com"
+  },
+  {
+    "Type": 0,
+    "Value": "watchdisneyfe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".watchdisneyfe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "natgeomaps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".natgeomaps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nationalgeographic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nationalgeographic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nationalgeographicpartners.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nationalgeographicpartners.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ngeo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ngeo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starott.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starott.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edgedatg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgedatg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "abc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "abc-studios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".abc-studios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyturkiye.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyturkiye.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "espn.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".espn.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "beautyandthebeastmusical.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".beautyandthebeastmusical.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disneytickets.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneytickets.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyplus.bn5x.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyplus.bn5x.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.gen.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.gen.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "20thcenturystudios.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".20thcenturystudios.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "disneymagicmoments.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneymagicmoments.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "20thcenturystudios.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".20thcenturystudios.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "hsprepack.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsprepack.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "disney-portal.my.onetrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney-portal.my.onetrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "disney.my.sentry.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".disney.my.sentry.io"
+  },
+  {
+    "Type": 0,
+    "Value": "disneyplus.com.ssl.sc.omtrdc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".disneyplus.com.ssl.sc.omtrdc.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^hses[1-7]?\\.akamaized\\.net$"
+  }
+]

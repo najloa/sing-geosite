@@ -1,0 +1,82 @@
+[
+  {
+    "Type": 0,
+    "Value": "cdn.ampproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.jetbrains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn.jetbrains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download-cdn.jetbrains.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".download-cdn.jetbrains.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase-settings.crashlytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "reactorms.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactorms.com.cn"
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "Type": 1,
+    "Value": ".bloomberg"
+  },
+  {
+    "Type": 0,
+    "Value": "bbgevent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbgevent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbhub.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbhub.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bbthat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbthat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bgov.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bgov.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.fm"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.fm"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergarcade.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergarcade.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbna.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbna.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbreakaway.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbreakaway.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergbriefs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergbriefs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergenvironment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergenvironment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergforeducation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergforeducation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberggovernment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberggovernment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergindices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergindices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergindustry.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergindustry.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglaw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglaw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberglp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberglp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergmedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergnext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergnext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergpolarlake.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergpolarlake.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergprep.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergprep.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergquint.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergquint.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergsef.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergsef.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergspace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergspace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergstatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergsurvey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergsurvey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtax1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtax1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtaxtech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtaxtech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtradingchallenge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtradingchallenge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergtv.mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergtv.mn"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergvault.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergvault.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bloombergview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloombergview.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blpcareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blpcareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blpevents.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blpevents.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blpprofessional.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blpprofessional.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bmia.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bmia.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bnef.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bnef.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businessweek.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessweek.com"
+  },
+  {
+    "Type": 0,
+    "Value": "businessweekmag.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".businessweekmag.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bwbx.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bwbx.io"
+  },
+  {
+    "Type": 0,
+    "Value": "citylab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".citylab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gotraffic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gotraffic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "londonmithraeum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".londonmithraeum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "neweconomyforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".neweconomyforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "newenergyfinance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".newenergyfinance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quicktake.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".quicktake.video"
+  },
+  {
+    "Type": 0,
+    "Value": "techatbloomberg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techatbloomberg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tictoc.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".tictoc.video"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "bloomberg.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".bloomberg.com.br"
+  }
+]

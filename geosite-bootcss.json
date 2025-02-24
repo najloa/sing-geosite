@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "bootcss.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bootcss.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bootcdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bootcdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "phpcomposer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".phpcomposer.com"
+  }
+]

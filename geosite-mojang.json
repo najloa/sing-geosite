@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "callersbane.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".callersbane.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraft.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraft.net"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraftservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraftservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minecraftshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minecraftshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mojang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mojang.com"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "kubernetes.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".kubernetes.io"
+  },
+  {
+    "Type": 0,
+    "Value": "k8s.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".k8s.io"
+  }
+]

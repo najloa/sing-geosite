@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "bili2.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".bili2.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "bili888.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bili888.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bili999.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bili999.com"
+  },
+  {
+    "Type": 3,
+    "Value": "(^|\\.)bilibili3(0[1-9]|1[0-2])\\.xyz$"
+  }
+]

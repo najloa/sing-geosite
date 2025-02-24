@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "d29vzk4ow07wi7.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "jfrog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jfrog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jfrog.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".jfrog.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bintray.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bintray.com"
+  }
+]

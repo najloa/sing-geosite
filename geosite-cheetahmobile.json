@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "cmcm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cmcm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cmcmcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cmcmcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "liebao.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".liebao.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "duba.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".duba.com"
+  },
+  {
+    "Type": 0,
+    "Value": "duba.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".duba.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ijinshan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ijinshan.com"
+  }
+]

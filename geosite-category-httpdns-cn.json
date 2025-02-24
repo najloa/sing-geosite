@@ -1,0 +1,386 @@
+[
+  {
+    "Type": 0,
+    "Value": "httpdns-api.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns-api.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns-sc.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns-sc.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.alicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.alicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.baidubce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.baidubce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.bcelive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.bcelive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.n.shifen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.n.shifen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpsdns.baidu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpsdns.baidu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns-browser.platform.dbankcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns-browser.platform.dbankcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.c.cdnhwc2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.c.cdnhwc2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.huaweicloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.huaweicloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.platform.dbankcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.platform.dbankcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.platform.dbankcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.platform.dbankcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns1.cc.cdnhwc5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns1.cc.cdnhwc5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.qiyipic.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.qiyipic.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doh.iqiyi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doh.iqiyi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hdns.ksyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdns.ksyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kuaishou.httpdns.pro"
+  },
+  {
+    "Type": 1,
+    "Value": ".kuaishou.httpdns.pro"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.meituan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.meituan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdnsvip.meituan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdnsvip.meituan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns-sdk.n.netease.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns-sdk.n.netease.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.music.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.music.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.n.netease.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.n.netease.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lofter.httpdns.c.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lofter.httpdns.c.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "music.httpdns.c.163.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".music.httpdns.c.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.push.oppomobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.push.oppomobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.ocloud.oppomobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.ocloud.oppomobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.weixin.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.weixin.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.weixin.qq.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.weixin.qq.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.kg.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.kg.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.ocloud.heytapmobi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.ocloud.heytapmobi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.push.heytapmobi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.push.heytapmobi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apidns.kwd.inkuai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apidns.kwd.inkuai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.jd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.jd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.weibo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.weibo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "doh.ptqy.gitv.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".doh.ptqy.gitv.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "dotserver.douyucdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dotserver.douyucdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.bilivideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.bilivideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.browser.miui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.browser.miui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.cctv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.cctv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.danuoyi.tbcache.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.danuoyi.tbcache.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.gslb.yy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.gslb.yy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.kwd.inkuai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.kwd.inkuai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.pro"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.pro"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.volcengineapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.volcengineapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.yunxindns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.yunxindns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "httpdns.zybang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".httpdns.zybang.com"
+  }
+]

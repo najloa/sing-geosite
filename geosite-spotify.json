@@ -1,0 +1,146 @@
+[
+  {
+    "Type": 0,
+    "Value": "audio-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "audio4-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-spotify-experiments.conductrics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heads-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "heads4-ak-spotify-com.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.com.edgesuite.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.map.fastly.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.map.fastlylb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "byspotify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byspotify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pscdn.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".pscdn.co"
+  },
+  {
+    "Type": 0,
+    "Value": "scdn.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".scdn.co"
+  },
+  {
+    "Type": 0,
+    "Value": "spoti.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".spoti.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify-everywhere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify-everywhere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify.design"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycharts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycharts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifycodes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifycodes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifyforbrands.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifyforbrands.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotifyjobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotifyjobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spotify.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".spotify.link"
+  }
+]

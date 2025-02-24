@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "myqnapcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".myqnapcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qlinkto.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qlinkto.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qnap.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qnap.com.cn"
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "Type": 0,
+    "Value": "nvidia.tt.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidiaforhp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidiaforhp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geforce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geforce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tegrazone.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".tegrazone.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "tegrazone.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tegrazone.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tegrazone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tegrazone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tegrazone.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".tegrazone.co"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.in"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.asia"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.asia"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.at"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.be"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "shotwithgeforce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shotwithgeforce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidiagrid.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidiagrid.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.se"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.no"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.it"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.in"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.de"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.es"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.co.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.co.at"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "geforce.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".geforce.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "geforce.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".geforce.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "tegrazone.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".tegrazone.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.com.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.com.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "geforce.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".geforce.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "geforce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".geforce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gputechconf.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gputechconf.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nvidia.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nvidia.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.download.nvidia.com"
+  }
+]

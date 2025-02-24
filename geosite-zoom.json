@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "zoom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zoom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zoom.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".zoom.us"
+  },
+  {
+    "Type": 0,
+    "Value": "zoom.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".zoom.com.cn"
+  }
+]

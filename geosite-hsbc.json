@@ -1,0 +1,374 @@
+[
+  {
+    "Type": 1,
+    "Value": ".hsbc"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcinnovationbanking.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcinnovationbanking.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcnet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcnet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcprivatebank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcprivatebank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.am"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.bm"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.bm"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbctrinkaus.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbctrinkaus.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.lk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.lk"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc-zertifikate.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc-zertifikate.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc-transactionservices.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc-transactionservices.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc-alternatives.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc-alternatives.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.mo"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.mo"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcamanah.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcamanah.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.bd"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.bd"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.mu"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.mu"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcqh.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcqh.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hsbcinsurance.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsbcinsurance.com.cn"
+  }
+]

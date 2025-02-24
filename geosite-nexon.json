@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "nexon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexon.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexon.io"
+  },
+  {
+    "Type": 0,
+    "Value": "nexon.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexon.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nexoncdn.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexoncdn.co.kr"
+  }
+]

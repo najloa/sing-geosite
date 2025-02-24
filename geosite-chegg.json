@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "chegg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chegg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cheggcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cheggcdn.com"
+  }
+]

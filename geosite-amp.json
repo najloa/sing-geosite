@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "amp.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amp.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".amp.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.ampproject.org"
+  }
+]

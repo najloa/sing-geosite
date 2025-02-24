@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "doservice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doservice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ele.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".ele.me"
+  },
+  {
+    "Type": 0,
+    "Value": "ele.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".ele.to"
+  },
+  {
+    "Type": 0,
+    "Value": "eleme.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".eleme.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "eleme.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".eleme.io"
+  },
+  {
+    "Type": 0,
+    "Value": "elemecdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".elemecdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "elemecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elemecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "elenet.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".elenet.me"
+  }
+]

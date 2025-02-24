@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "pubmatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubmatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pubmatic.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubmatic.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.pubmatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.pubmatic.com"
+  }
+]

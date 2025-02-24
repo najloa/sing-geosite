@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "bmw.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bmw.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alphabet.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alphabet.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alphabet.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alphabet.net.cn"
+  }
+]

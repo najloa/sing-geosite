@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "clubhouse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".clubhouse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clubhouseapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".clubhouseapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "joinclubhouse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".joinclubhouse.com"
+  }
+]

@@ -1,0 +1,1154 @@
+[
+  {
+    "Type": 0,
+    "Value": "bilibiligame.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.co"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.net"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.co"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sl916.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sl916.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mhystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mhystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mhyurl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mhyurl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mihayo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihayo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihayou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihayou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyocg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyocg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyogift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyogift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyomall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyomall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miyoushe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miyoushe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "benghuai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".benghuai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bh3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bh3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bhsr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bhsr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "themisweeps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".themisweeps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuanshen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuanshen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "juequling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".juequling.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^.+-mihayo\\.akamaized\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "kurogames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kurogames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aki-game.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aki-game.com"
+  },
+  {
+    "Type": 0,
+    "Value": "leagueoflegends.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".leagueoflegends.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "lpl.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lpl.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "csgo.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".csgo.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dota2.wmsj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dota2.wmsj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wmsjsteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmsjsteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.clngaa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.clngaa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.steam.ksyna.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.steam.ksyna.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.bscstorage.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.bscstorage.net"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.eccdnx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.eccdnx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".st.dl.pinyuncloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampipe.steamcontent.tnkjmec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steampowered.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steampowered.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamstatic.com.8686c.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xz.pphimalayanrt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steamchina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steamchina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uplaypc-s-ubisoft.cdn.ubi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluearchive-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluearchive-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gog.qtlglb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gogalaxy.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "menu-static.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "productcard.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "static-login.gog-statics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www4-static.gog-statics.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^cdn-akamai-.+\\.gog-services\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^gog-cdn-.+\\.footprint\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^images(-\\d)?\\.gog-statics\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "legendofzelda.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".legendofzelda.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "legendofzelda.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".legendofzelda.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "miitomo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".miitomo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendolabo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendolabo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nintendoswitch.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nintendoswitch.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supersmashbros.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersmashbros.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supersmashbros.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supersmashbros.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--mts47c3w9b1qr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--mts47c3w9b1qr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mariokart.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariokart.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supermariobros.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supermariobros.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "battlecare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlecare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gameitop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameitop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gameloop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameloop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcstest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcstest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcstestonly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcstestonly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gclouddolphin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gclouddolphin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudsdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudsdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gdtimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gdtimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.org"
+  },
+  {
+    "Type": 0,
+    "Value": "happyhlddz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".happyhlddz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hdyxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdyxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkgcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkgcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ihappystudio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ihappystudio.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ihappystudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ihappystudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "in.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".in.th"
+  },
+  {
+    "Type": 0,
+    "Value": "ludosuperstar.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ludosuperstar.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ludoworld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ludoworld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongai.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongai.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.net"
+  },
+  {
+    "Type": 0,
+    "Value": "metalrevolution.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".metalrevolution.com"
+  },
+  {
+    "Type": 0,
+    "Value": "midasbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".midasbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nagcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nagcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "proximabeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".proximabeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pubghelper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubghelper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pubgno1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubgno1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pubgtool.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubgtool.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qqgameapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqgameapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rmwxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rmwxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skydweller.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".skydweller.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "syxlgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".syxlgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-gcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-gcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentstart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentstart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.net"
+  },
+  {
+    "Type": 0,
+    "Value": "timibase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timibase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videoxiaoyouxi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videoxiaoyouxi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wcbygame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wcbygame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yxdmgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yxdmgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yximg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yximg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yxwsgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yxwsgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yzyxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yzyxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zcjbgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zcjbgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zhuoyuegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhuoyuegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--owtw8cc49ajfl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--owtw8cc49ajfl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "roblox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".roblox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "roblox.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roblox.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "robloxdev.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".robloxdev.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nextstudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextstudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextworkshop.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextworkshop.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamebonfire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamebonfire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gouhuo.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gouhuo.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ffbuddy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ffbuddy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gotolink.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gotolink.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gtgres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtgres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realcybertron.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realcybertron.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegame.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegame.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wegameplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegameplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "werepository.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".werepository.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "brawlstars.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".brawlstars.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "haydaypop.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".haydaypop.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "labycore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".labycore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sccreator.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sccreator.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sccreators.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sccreators.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scescdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scescdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scid.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scid.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scsentry.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scsentry.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supercellcommunity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercellcommunity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supercellsupport.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercellsupport.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "codm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".codm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bcfmglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcfmglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcfmglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcfmglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anticheatexpert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anticheatexpert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "17roco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".17roco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "roco.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roco.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxlive.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxlive.cn"
+  }
+]

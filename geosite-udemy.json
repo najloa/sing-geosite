@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "udemy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".udemy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "udemycdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".udemycdn.com"
+  }
+]

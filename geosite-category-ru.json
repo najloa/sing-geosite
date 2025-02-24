@@ -1,0 +1,478 @@
+[
+  {
+    "Type": 1,
+    "Value": ".ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".su"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--p1ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex"
+  },
+  {
+    "Type": 1,
+    "Value": ".psk"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.az"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.by"
+  },
+  {
+    "Type": 0,
+    "Value": "yastatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yastatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yandexcloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandexcloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.uz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.uz"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.tm"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.tm"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.tj"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.tj"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.de"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.aero"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.aero"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.kg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.kg"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.kz"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.kz"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.md"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.jobs"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.jobs"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.st"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.st"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.sx"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.sx"
+  },
+  {
+    "Type": 0,
+    "Value": "emias.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".emias.info"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mycdn.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".mycdn.me"
+  },
+  {
+    "Type": 0,
+    "Value": "mvk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mvk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "userapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".userapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vk-apps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk-apps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vk-cdn.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk-cdn.me"
+  },
+  {
+    "Type": 0,
+    "Value": "vk-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vk-portal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk-portal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vk.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "vk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vk.company"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk.company"
+  },
+  {
+    "Type": 0,
+    "Value": "vk.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk.design"
+  },
+  {
+    "Type": 0,
+    "Value": "vk.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk.link"
+  },
+  {
+    "Type": 0,
+    "Value": "vk.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk.me"
+  },
+  {
+    "Type": 0,
+    "Value": "vk.team"
+  },
+  {
+    "Type": 1,
+    "Value": ".vk.team"
+  },
+  {
+    "Type": 0,
+    "Value": "vkcache.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkcache.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vkgo.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkgo.app"
+  },
+  {
+    "Type": 0,
+    "Value": "vklive.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".vklive.app"
+  },
+  {
+    "Type": 0,
+    "Value": "vkmessenger.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkmessenger.app"
+  },
+  {
+    "Type": 0,
+    "Value": "vkmessenger.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkmessenger.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vkuser.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkuser.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vkuseraudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkuseraudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vkuseraudio.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkuseraudio.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vkuserlive.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkuserlive.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vkuservideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkuservideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vkuservideo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vkuservideo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.com.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.com.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.com.am"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.com.am"
+  },
+  {
+    "Type": 0,
+    "Value": "yandex.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".yandex.co.il"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Type": 0,
+    "Value": "cf-ns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cf-ns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cf-ns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cf-ns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cf-ns.site"
+  },
+  {
+    "Type": 1,
+    "Value": ".cf-ns.site"
+  },
+  {
+    "Type": 0,
+    "Value": "cf-ns.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".cf-ns.tech"
+  },
+  {
+    "Type": 0,
+    "Value": "cftest5.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cftest5.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cftest6.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cftest6.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cftest7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cftest7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cftest8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cftest8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflare-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflare-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflareanycast.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflareanycast.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflarechina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflarechina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflarecn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflarecn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflareglobal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflareglobal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflareinsights-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflareinsights-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflareperf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflareperf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflareprod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflareprod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflarestaging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflarestaging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflarestoragegw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflarestoragegw.com"
+  }
+]

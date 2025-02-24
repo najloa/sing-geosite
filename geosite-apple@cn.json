@@ -1,0 +1,1382 @@
+[
+  {
+    "Type": 0,
+    "Value": "apple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-store.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-store.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applestore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applestore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applestore.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applestore.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-appstore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-appstore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appleappstore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appleappstore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appstoreapple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appstoreapple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "iphone-8.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".iphone-8.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ipod.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipod.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "macbookair.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".macbookair.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "macbookair.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".macbookair.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applepaycash.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applepaycash.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applepaycash.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applepaycash.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applepaysupplies.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applepaysupplies.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applepaysupplies.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applepaysupplies.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appletv4.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appletv4.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appletv4.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appletv4.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-dns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-dns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-dns.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-dns.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-ibooks.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-ibooks.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-maps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-maps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applecenter.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applecenter.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applecenter.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applecenter.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applecomputer.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applecomputer.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applecomputer.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applecomputer.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appledns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appledns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appledns.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appledns.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "applesiri.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".applesiri.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ecgapp.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecgapp.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "faceshift.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".faceshift.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "homepod.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".homepod.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "insidear.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".insidear.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "livephotos.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".livephotos.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "livephotos.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".livephotos.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--czrs0t4phtr3a.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--czrs0t4phtr3a.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--fiqs8sxootzz.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--fiqs8sxootzz.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--ohq11k7pl25iyo8a.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--ohq11k7pl25iyo8a.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api-edge-lb-cn.itunes-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api-edge-lb.itunes-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api-edge.apps.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api-search-edge.apps.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api.apps.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api.music.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aod.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api-edge.apps.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apptrailers.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "auth.music.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bag.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bookkeeper.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "client-api.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cma.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "communities.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "discussionschinese.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "downloaddispatch.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fides-pol.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe11-2-cn-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe12-cn-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe85-cn-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inappcheck-cn.itunes-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "inappcheck-lb.itunes-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "inappcheck.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init.gc-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "init.gc.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iosapps.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "js-cdn.music.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "km.support.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maps.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "misc-assets.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myapp.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "np-edge.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "osxapps.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pd-nk.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pd.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play.music.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "se-edge.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "se2.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "search.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sf-api-token-service.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sp.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "streamingaudio.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "su.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sync.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tf-feedback.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "upp.itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.support.apple.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^a[1-5]\\.mzstatic\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^cdn(-cn)?[1-4]?\\.apple-mapkit\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^cl[1-5]-cdn\\.origin-apple\\.com\\.akadns\\.net$"
+  },
+  {
+    "Type": 3,
+    "Value": "^cl[1-5]\\.apple\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^is[1-5](-ssl)?\\.mzstatic\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^s[1-5]?\\.mzstatic\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "a1.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a2.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a3.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a4.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a5.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adcdownload.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adcdownload.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amp-api.media.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api-p-ap-c.smoot.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api-p-ap-d.smoot.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api-p-ap-e.smoot.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "app-site-association.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appldnld.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appldnld.g.aaplimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appleid.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apps.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-cn1.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-cn2.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-cn3.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-cn4.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn1.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn2.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn3.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn4.apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cds-cdn.v.aaplimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cds.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cds.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdsassets.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cl1-cdn.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cl1.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cl2-cn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cl2.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cl3-cdn.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cl3.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cl4-cdn.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cl4-cn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cl4.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cl5-cdn.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cl5.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clientflow.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clientflow.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cn-smp-paymentservices.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "configuration.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "configuration.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cstat.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cstat.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dd-cdn.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dejavu.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.developer.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "experiments.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gs-loc-cn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gs-loc.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp10-ssl-cn.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp12-cn.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp13-cn.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp4-cn.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp4-cn.ls.apple.com.edgekey.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp5-cn.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsp85-cn-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe19-2-cn-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe19-cn-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe19-cn.ls-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe19-cn.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe21-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe21.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe35-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gspe79-cn-ssl.ls.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guzzoni-apple-com.v.aaplimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guzzoni.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guzzoni.smoot.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud-cdn.icloud.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "images.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "images.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "images.apple.com.edgekey.net.globalredir.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "init-kt.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init-p01md-lb.push-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "init-p01md.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init-p01st-lb.push-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "init-p01st.push.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init-s01st-lb.push-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "init-s01st.push.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "init.ess.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iosapps.itunes.g.aaplimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ipcdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iphone-ld.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iphone-ld.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "is1-ssl.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is1.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is2-ssl.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is2.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is3-ssl.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is3.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is4-ssl.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is4.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is5-ssl.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "is5.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "itunes-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "itunes.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "itunesconnect.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mesu-cdn.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mesu-china.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mesu.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ml.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "music.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp2-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp2.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oscdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oscdn.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "osxapps.itunes.g.aaplimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pancake.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pancake.cdn-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pba0.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "probe.siri.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "prod-support.apple-support.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "publicassets.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reserve-prime.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "s.mzstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seed-sequoia.siri.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seed-swallow.siri.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seed.siri.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sequoia.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sh-pod2-smp-device.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shazam-insights.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "smp-device-content.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "static.gc.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stocks-sparkline-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "stocks-sparkline.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "store.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "store.apple.com.edgekey.net"
+  },
+  {
+    "Type": 0,
+    "Value": "store.apple.com.edgekey.net.globalredir.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "store.storeimages.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "store.storeimages.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "support-china.apple-support.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "support.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swallow-apple-com.v.aaplimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swallow.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swcatalog-cdn.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swcatalog.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swcdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swcdn.g.aaplimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swdist.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swdist.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swscan-cdn.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swscan.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sylvan.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tj-pod1-smp-device.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "updates-http.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "updates-http.cdn-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "updates.cdn-apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "valid.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "valid.origin-apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "weather-data.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weather-data.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "weather-map.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weather-map2.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weatherkit.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.apple.com.edgekey.net"
+  },
+  {
+    "Type": 0,
+    "Value": "www.apple.com.edgekey.net.globalredir.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "xp.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "certs-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "certs.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crl-lb.apple.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beats1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beats1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beats1.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beats1.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beats2.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beats2.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beats4.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beats4.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beatsbydre.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beatsbydre.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beatsbydre.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beatsbydre.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "beatsep.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".beatsep.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-icloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-icloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appleicloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appleicloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud-apple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud-apple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudapple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudapple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-itunes.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-itunes.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunes-apple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunes-apple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunesapple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunesapple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunesradio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunesradio.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunesradio.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunesradio.com.cn"
+  }
+]

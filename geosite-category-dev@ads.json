@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "ads.unitychina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.unitychina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "splash-ads.cdn.unity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".splash-ads.cdn.unity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "splash-ads.unitychina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".splash-ads.unitychina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unityads.unity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unityads.unity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unityads.unity3d.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unityads.unity3d.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unityads.unitychina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unityads.unitychina.cn"
+  }
+]

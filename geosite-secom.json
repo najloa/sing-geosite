@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "secomtrust.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".secomtrust.net"
+  },
+  {
+    "Type": 0,
+    "Value": "secom.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".secom.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "cybertrust.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".cybertrust.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "cybertrust.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".cybertrust.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "managedpki.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".managedpki.ne.jp"
+  }
+]

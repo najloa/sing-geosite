@@ -1,0 +1,3714 @@
+[
+  {
+    "Type": 0,
+    "Value": "starlakelab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starlakelab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "acimg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".acimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "apcdns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".apcdns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "foxmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtimg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gtimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "idqqimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".idqqimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imqq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imqq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qlogo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qlogo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qpic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qpic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qq.wang"
+  },
+  {
+    "Type": 1,
+    "Value": ".qq.wang"
+  },
+  {
+    "Type": 0,
+    "Value": "xxsy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".xxsy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "xs8.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xs8.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "webnovel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webnovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qqmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qzone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qzone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tingbook.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tingbook.com"
+  },
+  {
+    "Type": 0,
+    "Value": "readnovel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".readnovel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "servicewechat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".servicewechat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qidian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qidian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qdmm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qdmm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentmusic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentmusic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tenpay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tenpay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tfogc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tfogc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wechat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wechat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wechatpay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wechatpay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "weiyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weiyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wxlivecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wxlivecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alloyteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alloyteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imweb.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".imweb.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ivweb.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ivweb.io"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds0.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds0.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fyeds9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fyeds9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymall0.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymall0.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymall1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymall1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymall4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymall4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymall7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymall7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymall9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymall9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymallqa0.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymallqa0.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymallqa1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymallqa1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymallqa2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymallqa2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymallqa3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymallqa3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymallqa4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymallqa4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymallqa7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymallqa7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fymallqa9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fymallqa9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudhw.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudhw.net"
+  },
+  {
+    "Type": 0,
+    "Value": "essurl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".essurl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aitransfy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aitransfy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apaas-zone-test.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apaas-zone-test.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apigwtencent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apigwtencent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bkapigw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bkapigw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bkapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bkapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bkclouds.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".bkclouds.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "bktencent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bktencent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "build9s.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".build9s.io"
+  },
+  {
+    "Type": 0,
+    "Value": "byodonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".byodonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-go.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn-go.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdndoctor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdndoctor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdngot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdngot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdntip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdntip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdntips.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdntips.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdntips.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdntips.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnv1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnv1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnv2.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnv2.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnv3.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnv3.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloud-industry-delivery.site"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloud-industry-delivery.site"
+  },
+  {
+    "Type": 0,
+    "Value": "qq.xn--fiqs8s"
+  },
+  {
+    "Type": 1,
+    "Value": ".qq.xn--fiqs8s"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudbase.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudbase.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudidaas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudidaas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudsite.vip"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudsite.vip"
+  },
+  {
+    "Type": 0,
+    "Value": "cncqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cncqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "computeinit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".computeinit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coolsite.vip"
+  },
+  {
+    "Type": 1,
+    "Value": ".coolsite.vip"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dothework.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dothework.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ectencent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ectencent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "edgeonedy1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".edgeonedy1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "acctdns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acctdns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "exmailgz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".exmailgz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fsphere.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fsphere.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gaapqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gaapqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitdrone.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitdrone.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gmedev.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gmedev.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "govqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".govqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gsadds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gsadds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gtm.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtm.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "hr-welink.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hr-welink.com"
+  },
+  {
+    "Type": 0,
+    "Value": "idcgcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".idcgcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iemiq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iemiq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "igtm.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".igtm.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "isd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".isd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ispqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ispqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "itopsdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".itopsdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "my-qcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".my-qcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myelasticsearch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myelasticsearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doh.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".doh.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "onexmail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onexmail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openapp.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".openapp.run"
+  },
+  {
+    "Type": 0,
+    "Value": "ovscdns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ovscdns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ovscdns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ovscdns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pn1waq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pn1waq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloud-edumall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloud-edumall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloud.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloud.la"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudcdntest.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudcdntest.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudclass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudclass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudcos.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudcos.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudcos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudcos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qclouder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qclouder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudgme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudgme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudipv6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudipv6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudmarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudmarket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudsmartiot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudsmartiot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudtcic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudtcic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudtiw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudtiw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudtrip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudtrip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudtt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudtt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudwaf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudwaf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qdwebim.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qdwebim.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qeodns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qeodns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qeodns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".qeodns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "qqmra.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqmra.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qqmra.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqmra.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qyunapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qyunapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "serverlesscloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".serverlesscloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "smtcdns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".smtcdns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "smtcdns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".smtcdns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "spcdntip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spcdntip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spcdntipbak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spcdntipbak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spcloudhw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spcloudhw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spcloudhw.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".spcloudhw.net"
+  },
+  {
+    "Type": 0,
+    "Value": "srmkp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".srmkp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudbase.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudbase.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--r70as2s.xn--fiqs8s"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--r70as2s.xn--fiqs8s"
+  },
+  {
+    "Type": 0,
+    "Value": "tourismshow.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tourismshow.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnhw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnhw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnkcbak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnkcbak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnlivebak1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnlivebak1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnlivebak2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnlivebak2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnos.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnos.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdntip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdntip.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnvod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnvod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcdnvodbak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcdnvodbak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudbase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudbase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudbase.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudbase.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudbaseapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudbaseapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudbi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudbi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tclouddrive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tclouddrive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tamaegis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tamaegis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudscdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudscdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "acctdns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".acctdns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudscdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudhw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudhw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tdnsx1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tdnsx1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "techo.chat"
+  },
+  {
+    "Type": 1,
+    "Value": ".techo.chat"
+  },
+  {
+    "Type": 0,
+    "Value": "tefscloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tefscloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tefscloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tefscloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tenant-zone-dev.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tenant-zone-dev.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencdns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencdns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-cloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-cloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-cloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-cloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentbyod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentbyod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcdb.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcdb.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentclb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentclb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloud-aiot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloud-aiot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloudapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloudapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloudclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloudclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloudcr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloudcr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloudmarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloudmarket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloudns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloudns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloudsec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloudsec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloudses.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloudses.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcos.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcos.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentdayu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentdayu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentdevices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentdevices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentdigitalassistant.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentdigitalassistant.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentdms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentdms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencenteiam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencenteiam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentelasticsearch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentelasticsearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentidentity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentidentity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentproxy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentproxy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentrio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentrio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencenttid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencenttid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentwemeet.club"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentwemeet.club"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentwepark.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentwepark.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentyun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentyun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tendbcluster.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tendbcluster.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tendis.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tendis.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "testmeet.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".testmeet.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "testwaf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".testwaf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tgovcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tgovcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tidaas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidaas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dot.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".dot.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "timmerse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timmerse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tlivecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tlivecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tlivepush.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tlivepush.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tlivesource.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tlivesource.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tapd.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tapd.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tourismuser.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tourismuser.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tsparkling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tsparkling.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tx-exhibition.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tx-exhibition.com"
+  },
+  {
+    "Type": 0,
+    "Value": "txbyod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".txbyod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "txidc.wang"
+  },
+  {
+    "Type": 1,
+    "Value": ".txidc.wang"
+  },
+  {
+    "Type": 0,
+    "Value": "txlivecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".txlivecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "txtyxg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".txtyxg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "txyscdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".txyscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "txyscdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".txyscdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "uncnn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".uncnn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "vcloudstc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vcloudstc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vcloudstc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vcloudstc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vcloudvod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vcloudvod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vodtcbk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vodtcbk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vxo7tu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vxo7tu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wework-studio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wework-studio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xqymuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xqymuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yufuid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yufuid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yufuid.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yufuid.net"
+  },
+  {
+    "Type": 0,
+    "Value": "yunjitele.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yunjitele.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.net"
+  },
+  {
+    "Type": 0,
+    "Value": "discuz.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".discuz.org"
+  },
+  {
+    "Type": 0,
+    "Value": "discuz.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".discuz.net"
+  },
+  {
+    "Type": 0,
+    "Value": "comsenz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comsenz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ym.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".ym.run"
+  },
+  {
+    "Type": 0,
+    "Value": "um.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".um.run"
+  },
+  {
+    "Type": 0,
+    "Value": "tcloudedu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcloudedu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ma.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".ma.run"
+  },
+  {
+    "Type": 0,
+    "Value": "oracle-tencent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oracle-tencent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oracle-tencent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oracle-tencent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "m9.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".m9.run"
+  },
+  {
+    "Type": 0,
+    "Value": "oracle-tencent.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".oracle-tencent.net"
+  },
+  {
+    "Type": 0,
+    "Value": "m6.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".m6.run"
+  },
+  {
+    "Type": 0,
+    "Value": "m1.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".m1.run"
+  },
+  {
+    "Type": 0,
+    "Value": "lrts.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".lrts.me"
+  },
+  {
+    "Type": 0,
+    "Value": "hongxiu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hongxiu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuewen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuewen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weixinbridge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weixinbridge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegamedeveloper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegamedeveloper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tjstats.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tjstats.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.design"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-cloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-cloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qqgamedesign.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqgamedesign.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qq.design"
+  },
+  {
+    "Type": 1,
+    "Value": ".qq.design"
+  },
+  {
+    "Type": 0,
+    "Value": "openmidas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openmidas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcdb.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcdb.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ectencent.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ectencent.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentcos.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentcos.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "jrzk.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".jrzk.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "timatrix.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".timatrix.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gtimg.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtimg.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qq.cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qq.cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yufuid.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yufuid.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "rtx.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".rtx.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qcloudcos.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qcloudcos.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "foxmail.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".foxmail.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oracle-tencent.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oracle-tencent.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "qq.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".qq.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv1.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv1.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "oracle-tencent.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oracle-tencent.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "testjrzk.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".testjrzk.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.com.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.dnse[0-5]\\.(cn|com)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.tdnsv([1-9]|1[0-5])\\.(com|net)$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-beijing(-.+)?\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-nanjing(-.+)?\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-shanghai(-.+)?\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-guangzhou(-.+)?\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-chengdu(-.+)?\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-chongqing(-.+)?\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-shenzhen(-.+)?\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-beijing(-.+)?\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-nanjing(-.+)?\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-shanghai(-.+)?\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-guangzhou(-.+)?\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-chengdu(-.+)?\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-chongqing(-.+)?\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": "\\.(.+-)?ap-shenzhen(-.+)?\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "wetv.vip"
+  },
+  {
+    "Type": 1,
+    "Value": ".wetv.vip"
+  },
+  {
+    "Type": 0,
+    "Value": "wetvinfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wetvinfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wetv.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intltencentcos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intltencentcos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-hongkong.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-hongkong.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-singapore.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-singapore.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-mumbai.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-mumbai.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-jakarta.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-jakarta.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-seoul.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-seoul.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-bangkok.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-bangkok.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-tokyo.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-tokyo.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-siliconvalley.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-siliconvalley.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-ashburn.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-ashburn.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-toronto.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-toronto.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sa-saopaulo.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sa-saopaulo.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-frankfurt.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-frankfurt.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-moscow.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-moscow.myqcloud.com"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-hongkong\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-singapore\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-mumbai\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-jakarta\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-seoul\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-bangkok\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-tokyo\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.na-siliconvalley\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.na-ashburn\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.na-toronto\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.sa-saopaulo\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.eu-frankfurt\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.eu-moscow\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 0,
+    "Value": "coshk.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coshk.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cossgp.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cossgp.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cosca.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cosca.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cosger.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cosger.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hk.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hk.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sgp.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sgp.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ca.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ca.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ger.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ger.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.qun.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.qun.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adfilter.imtt.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adfilter.imtt.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adping.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adping.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adpm.app.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adpm.app.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsclick.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsclick.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsfile.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsfile.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adshmmsg.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adshmmsg.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adslvfile.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adslvfile.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adslvseed.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adslvseed.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsmind.apdcdn.tc.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsmind.apdcdn.tc.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsqqclick.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsqqclick.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adstestview.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adstestview.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsview.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsview.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsview2.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsview2.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adv.app.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adv.app.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adver.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adver.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beacon.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beacon.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beaconcdn.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beaconcdn.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "btrace.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".btrace.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gdt.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gdt.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "isdspeed.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".isdspeed.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.tbs.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.tbs.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mpush.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mpush.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mtrace.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mtrace.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pgdt.gtimg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pgdt.gtimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pingjs.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pingjs.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "push.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".push.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sngmta.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sngmta.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stat.y.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stat.y.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tajs.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tajs.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcss.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcss.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trace.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trace.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ugdtimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugdtimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wit.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wit.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weui.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".weui.io"
+  },
+  {
+    "Type": 0,
+    "Value": "battlecare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlecare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gameitop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameitop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gameloop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameloop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcstest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcstest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudcstestonly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudcstestonly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gclouddolphin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gclouddolphin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gcloudsdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcloudsdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gdtimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gdtimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "goto-game.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".goto-game.org"
+  },
+  {
+    "Type": 0,
+    "Value": "happyhlddz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".happyhlddz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hdyxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdyxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hkgcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hkgcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ihappystudio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ihappystudio.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ihappystudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ihappystudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "in.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".in.th"
+  },
+  {
+    "Type": 0,
+    "Value": "ludosuperstar.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ludosuperstar.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ludoworld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ludoworld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongai.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongai.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mahjongcup.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mahjongcup.net"
+  },
+  {
+    "Type": 0,
+    "Value": "metalrevolution.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".metalrevolution.com"
+  },
+  {
+    "Type": 0,
+    "Value": "midasbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".midasbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nagcloudcs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nagcloudcs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "proximabeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".proximabeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pubghelper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubghelper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pubgno1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubgno1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pubgtool.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pubgtool.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qqgameapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qqgameapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rmwxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rmwxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skydweller.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".skydweller.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "syxlgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".syxlgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent-gcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent-gcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tencentstart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencentstart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "texasholdemcup.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".texasholdemcup.net"
+  },
+  {
+    "Type": 0,
+    "Value": "timibase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timibase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videoxiaoyouxi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videoxiaoyouxi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wcbygame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wcbygame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yxdmgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yxdmgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yximg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yximg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yxwsgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yxwsgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yzyxgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yzyxgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zcjbgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zcjbgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zhuoyuegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhuoyuegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--owtw8cc49ajfl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--owtw8cc49ajfl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "roblox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".roblox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "roblox.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roblox.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "robloxdev.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".robloxdev.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nextstudios.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextstudios.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextworkshop.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextworkshop.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mszdld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mszdld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamebonfire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamebonfire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gouhuo.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gouhuo.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ffbuddy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ffbuddy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gotolink.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gotolink.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gtgres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gtgres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "realcybertron.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".realcybertron.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wegame.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegame.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "wegameplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wegameplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "werepository.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".werepository.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "brawlstars.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".brawlstars.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "haydaypop.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".haydaypop.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "labycore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".labycore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sccreator.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sccreator.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sccreators.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sccreators.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scescdn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scescdn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scid.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scid.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "scsentry.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".scsentry.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supercell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supercellcommunity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercellcommunity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "supercellsupport.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercellsupport.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "codm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".codm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bcfmglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bcfmglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcfmglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcfmglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anticheatexpert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anticheatexpert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "17roco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".17roco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "roco.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".roco.qq.com"
+  }
+]

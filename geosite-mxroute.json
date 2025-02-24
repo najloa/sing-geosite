@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "mxlogin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mxlogin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mxroute.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mxroute.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mxroutedocs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mxroutedocs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mxroutehelp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mxroutehelp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mxrouting.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mxrouting.net"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "Type": 0,
+    "Value": "tencent.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "tencent.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".tencent.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "wetv.vip"
+  },
+  {
+    "Type": 1,
+    "Value": ".wetv.vip"
+  },
+  {
+    "Type": 0,
+    "Value": "wetvinfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wetvinfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wetv.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intltencentcos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intltencentcos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-hongkong.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-hongkong.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-singapore.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-singapore.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-mumbai.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-mumbai.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-jakarta.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-jakarta.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-seoul.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-seoul.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-bangkok.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-bangkok.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ap-tokyo.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ap-tokyo.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-siliconvalley.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-siliconvalley.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-ashburn.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-ashburn.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "na-toronto.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".na-toronto.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sa-saopaulo.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sa-saopaulo.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-frankfurt.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-frankfurt.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-moscow.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-moscow.myqcloud.com"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-hongkong\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-singapore\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-mumbai\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-jakarta\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-seoul\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-bangkok\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.ap-tokyo\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.na-siliconvalley\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.na-ashburn\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.na-toronto\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.sa-saopaulo\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.eu-frankfurt\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.eu-moscow\\.tencentcos\\.(cn|com(\\.cn)?)$"
+  },
+  {
+    "Type": 0,
+    "Value": "coshk.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coshk.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cossgp.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cossgp.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cosca.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cosca.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cosger.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cosger.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hk.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hk.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sgp.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sgp.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ca.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ca.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ger.file.myqcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ger.file.myqcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supercell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.com"
+  }
+]

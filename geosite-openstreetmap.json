@@ -1,0 +1,74 @@
+[
+  {
+    "Type": 0,
+    "Value": "openmaps.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openmaps.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmap.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmap.net"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmap.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmaps.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmaps.org"
+  },
+  {
+    "Type": 0,
+    "Value": "osm.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".osm.org"
+  },
+  {
+    "Type": 0,
+    "Value": "osmfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".osmfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "stateofthemap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stateofthemap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stateofthemap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".stateofthemap.org"
+  }
+]

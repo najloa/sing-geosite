@@ -1,0 +1,54 @@
+[
+  {
+    "Type": 0,
+    "Value": "impala-media-production.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sc-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sc-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "snap-dev.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".snap-dev.net"
+  },
+  {
+    "Type": 0,
+    "Value": "snap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".snap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "snapchat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapchat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "snapkit.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapkit.co"
+  },
+  {
+    "Type": 0,
+    "Value": "snapads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapads.com"
+  }
+]

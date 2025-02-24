@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "amc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amcn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amcn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amcnetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amcnetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amcplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amcplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com"
+  }
+]

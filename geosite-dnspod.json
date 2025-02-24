@@ -1,0 +1,114 @@
+[
+  {
+    "Type": 0,
+    "Value": "dnspod.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dot.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".dot.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.mobi"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.mobi"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dns.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".dns.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dnsv5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnsv5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "doh.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".doh.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "dnspod.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dnspod.com.cn"
+  }
+]

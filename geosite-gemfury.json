@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "fury.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.co"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.help"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.help"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.io"
+  },
+  {
+    "Type": 0,
+    "Value": "gemfury.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemfury.com"
+  }
+]

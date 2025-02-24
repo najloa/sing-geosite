@@ -1,0 +1,154 @@
+[
+  {
+    "Type": 0,
+    "Value": "cdn-telegram.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn-telegram.org"
+  },
+  {
+    "Type": 0,
+    "Value": "comments.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".comments.app"
+  },
+  {
+    "Type": 0,
+    "Value": "contest.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".contest.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fragment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fragment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "graph.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".graph.org"
+  },
+  {
+    "Type": 0,
+    "Value": "quiz.directory"
+  },
+  {
+    "Type": 1,
+    "Value": ".quiz.directory"
+  },
+  {
+    "Type": 0,
+    "Value": "t.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".t.me"
+  },
+  {
+    "Type": 0,
+    "Value": "tdesktop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tdesktop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "telega.one"
+  },
+  {
+    "Type": 1,
+    "Value": ".telega.one"
+  },
+  {
+    "Type": 0,
+    "Value": "telegra.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".telegra.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "telegram-cdn.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".telegram-cdn.org"
+  },
+  {
+    "Type": 0,
+    "Value": "telegram.dog"
+  },
+  {
+    "Type": 1,
+    "Value": ".telegram.dog"
+  },
+  {
+    "Type": 0,
+    "Value": "telegram.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".telegram.me"
+  },
+  {
+    "Type": 0,
+    "Value": "telegram.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".telegram.org"
+  },
+  {
+    "Type": 0,
+    "Value": "telegram.space"
+  },
+  {
+    "Type": 1,
+    "Value": ".telegram.space"
+  },
+  {
+    "Type": 0,
+    "Value": "telesco.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".telesco.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "tg.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".tg.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "tx.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".tx.me"
+  },
+  {
+    "Type": 0,
+    "Value": "usercontent.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".usercontent.dev"
+  }
+]

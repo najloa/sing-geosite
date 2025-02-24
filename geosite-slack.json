@@ -1,0 +1,90 @@
+[
+  {
+    "Type": 0,
+    "Value": "slack-core.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slack-core.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slack-edge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slack-edge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slack-files.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slack-files.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slack-imgs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slack-imgs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slack-msgs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slack-msgs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slack-redir.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".slack-redir.net"
+  },
+  {
+    "Type": 0,
+    "Value": "slack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slackb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slackb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slackcertified.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slackcertified.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slackdemo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slackdemo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slackhq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".slackhq.com"
+  }
+]

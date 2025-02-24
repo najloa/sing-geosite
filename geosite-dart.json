@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "dart.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".dart.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "dartlang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dartlang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dartpad.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".dartpad.dev"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Type": 0,
+    "Value": "mediawiki.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mediawiki.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikibooks.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikibooks.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikidata.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikidata.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikimediafoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikimediafoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikimedia.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikimedia.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikinews.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikinews.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikipedia.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikipedia.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikiquote.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikiquote.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikisource.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikisource.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikiversity.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikiversity.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikivoyage.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikivoyage.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wiktionary.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wiktionary.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wmfusercontent.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmfusercontent.org"
+  },
+  {
+    "Type": 0,
+    "Value": "w.wiki"
+  },
+  {
+    "Type": 1,
+    "Value": ".w.wiki"
+  },
+  {
+    "Type": 0,
+    "Value": "toolforge.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".toolforge.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikimediacloud.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikimediacloud.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wmcloud.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmcloud.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wmflabs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmflabs.org"
+  }
+]

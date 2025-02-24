@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "tailscale.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tailscale.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tailscale.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".tailscale.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ts.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ts.net"
+  }
+]

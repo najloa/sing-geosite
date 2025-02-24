@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "jwpcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwpcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jwplatform.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwplatform.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jwplayer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwplayer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jwpltx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwpltx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jwpsrv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwpsrv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "longtailvideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".longtailvideo.com"
+  }
+]

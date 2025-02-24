@@ -1,0 +1,290 @@
+[
+  {
+    "Type": 0,
+    "Value": "ad.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.qun.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.qun.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adfilter.imtt.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adfilter.imtt.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adping.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adping.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adpm.app.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adpm.app.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsclick.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsclick.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsfile.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsfile.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adshmmsg.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adshmmsg.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adslvfile.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adslvfile.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adslvseed.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adslvseed.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsmind.apdcdn.tc.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsmind.apdcdn.tc.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsqqclick.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsqqclick.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adstestview.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adstestview.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsview.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsview.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adsview2.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adsview2.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adv.app.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adv.app.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adver.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adver.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beacon.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beacon.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beaconcdn.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beaconcdn.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "btrace.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".btrace.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gdt.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gdt.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "isdspeed.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".isdspeed.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.tbs.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.tbs.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mpush.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mpush.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mtrace.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mtrace.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pgdt.gtimg.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pgdt.gtimg.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pingjs.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pingjs.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "push.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".push.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sngmta.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sngmta.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stat.y.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stat.y.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tajs.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tajs.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tcss.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tcss.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trace.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trace.qq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ugdtimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ugdtimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wit.qq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wit.qq.com"
+  }
+]

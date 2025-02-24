@@ -1,0 +1,114 @@
+[
+  {
+    "Type": 0,
+    "Value": "openaiapi-site.azureedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "openaicomproductionae4b.blob.core.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "production-openaicom-storage.azureedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "chatgpt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chatgpt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oaistatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oaistatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oaiusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oaiusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sora.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sora.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chatgpt.livekit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".chatgpt.livekit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "host.livekit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".host.livekit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "turn.livekit.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".turn.livekit.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "openai.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".openai.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "o33249.ingest.sentry.io"
+  },
+  {
+    "Type": 0,
+    "Value": "openaicom.imgix.net"
+  },
+  {
+    "Type": 0,
+    "Value": "browser-intake-datadoghq.com"
+  }
+]

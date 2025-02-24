@@ -1,0 +1,126 @@
+[
+  {
+    "Type": 0,
+    "Value": "mhystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mhystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mhyurl.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mhyurl.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mihayo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihayo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihayou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihayou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyocg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyocg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyogift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyogift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mihoyomall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mihoyomall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miyoushe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miyoushe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "benghuai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".benghuai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bh3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bh3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bhsr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bhsr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "themisweeps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".themisweeps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuanshen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuanshen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "juequling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".juequling.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^.+-mihayo\\.akamaized\\.net$"
+  }
+]

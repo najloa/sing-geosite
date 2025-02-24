@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "getfedora.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".getfedora.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedoraforum.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedoraforum.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedorapeople.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedorapeople.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedoraproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedoraproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedoramagazine.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedoramagazine.org"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "crl.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mscrl.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oneocsp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msocsp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msocsp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "www.microsoft.com"
+  }
+]

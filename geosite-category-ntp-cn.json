@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 3,
+    "Value": "^ntp([1-7])?\\.aliyun\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "time.izatcloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "time.xtracloud.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^ntp([1-5])?\\.tencent\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.pool.ntp.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.pool.ntp.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.neu.edu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.neu.edu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.ntsc.ac.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.ntsc.ac.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ntp.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntp.org.cn"
+  }
+]

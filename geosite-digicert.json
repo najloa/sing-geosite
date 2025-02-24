@@ -1,0 +1,114 @@
+[
+  {
+    "Type": 0,
+    "Value": "digicert-cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert-cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert-validation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert-validation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert.com"
+  },
+  {
+    "Type": 0,
+    "Value": "digitalcertvalidation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".digitalcertvalidation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freessl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freessl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geotrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geotrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rapidssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rapidssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thawte.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thawte.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thawte.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".thawte.de"
+  },
+  {
+    "Type": 0,
+    "Value": "thawte.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".thawte.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "quovadisglobal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".quovadisglobal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "public-trust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".public-trust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dcocsp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcocsp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "digicert.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".digicert.cn"
+  }
+]

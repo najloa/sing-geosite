@@ -1,0 +1,90 @@
+[
+  {
+    "Type": 0,
+    "Value": "01.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".01.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hyperscan.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".hyperscan.io"
+  },
+  {
+    "Type": 0,
+    "Value": "intellinuxgraphics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellinuxgraphics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intellinuxgraphics.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellinuxgraphics.net"
+  },
+  {
+    "Type": 0,
+    "Value": "oneapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oneapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openvinotoolkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openvinotoolkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "snap-telemetry.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snap-telemetry.io"
+  },
+  {
+    "Type": 0,
+    "Value": "acpica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acpica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clearlinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".clearlinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ospray.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ospray.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ospray.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ospray.org"
+  }
+]

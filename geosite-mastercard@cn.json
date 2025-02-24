@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "mastercard.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mastercard.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mastercard.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mastercard.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "priceless.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".priceless.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pricelessbeijing.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pricelessbeijing.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pricelessbeijing.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pricelessbeijing.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "travelex.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".travelex.com.cn"
+  }
+]

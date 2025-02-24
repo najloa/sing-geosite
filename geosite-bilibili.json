@@ -1,0 +1,394 @@
+[
+  {
+    "Type": 0,
+    "Value": "manga.bilibili.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilicomic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilicomic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilicomics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilicomics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "acg.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".acg.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "acgvideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acgvideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "animetamashi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".animetamashi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "animetamashi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".animetamashi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anitama.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".anitama.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "anitama.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".anitama.net"
+  },
+  {
+    "Type": 0,
+    "Value": "b23.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".b23.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "bigfun.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bigfun.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bigfunapp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bigfunapp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bili22.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bili22.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bili2233.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bili2233.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bili23.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bili23.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bili33.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bili33.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "biliapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biliapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biliapi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".biliapi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibili.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibili.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibili.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibili.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibili.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibili.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibili.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibili.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibilipay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibilipay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibilipay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibilipay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilicdn1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilicdn1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilicdn2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilicdn2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilicdn3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilicdn3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilicdn4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilicdn4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilicdn5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilicdn5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biligo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biliimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biliimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilivideo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilivideo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bilivideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilivideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilivideo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilivideo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hdslb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdslb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hdslb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdslb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "im9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".im9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maoercdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maoercdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mincdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mincdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yo9.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yo9.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibili.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibili.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "biliintl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biliintl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dreamcast.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dreamcast.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "upos-hz-mirrorakam.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.co"
+  },
+  {
+    "Type": 0,
+    "Value": "bilibiligame.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibiligame.net"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.co"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biligame.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".biligame.net"
+  }
+]

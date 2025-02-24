@@ -1,0 +1,7326 @@
+[
+  {
+    "Type": 0,
+    "Value": "ebay-25-assets.s3-us-west-1.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "api-p.videomarket.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ecapi-pchome.cdn.hinet.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pchomeonline.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".target"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmart"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike"
+  },
+  {
+    "Type": 1,
+    "Value": ".gucci"
+  },
+  {
+    "Type": 0,
+    "Value": "nikegadgets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikegadgets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuten.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuten.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coupangcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coupangcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "adcommerce.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".adcommerce.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "appsonebay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".appsonebay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "asebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baazee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baazee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bidbay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bidbay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bidorbuyindia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bidorbuyindia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "billpoint.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".billpoint.com"
+  },
+  {
+    "Type": 0,
+    "Value": "billpoint.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".billpoint.info"
+  },
+  {
+    "Type": 0,
+    "Value": "billpoint.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".billpoint.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "billpoint.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".billpoint.us"
+  },
+  {
+    "Type": 0,
+    "Value": "billpointnewzealand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".billpointnewzealand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blogebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bookclubcorner.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bookclubcorner.com"
+  },
+  {
+    "Type": 0,
+    "Value": "builtfromebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".builtfromebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buyitnow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buyitnow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buyitnow.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".buyitnow.net"
+  },
+  {
+    "Type": 0,
+    "Value": "buyitnow.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".buyitnow.org"
+  },
+  {
+    "Type": 0,
+    "Value": "buyitnow.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".buyitnow.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "buyitnowshop.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".buyitnowshop.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cafr.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".cafr.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "carebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".carebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cargigileads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cargigileads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "collective99.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".collective99.com"
+  },
+  {
+    "Type": 0,
+    "Value": "commerceos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".commerceos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.info"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "connectedcommerce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectedcommerce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "connectedcommerce.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectedcommerce.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "crececonebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crececonebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "creditcardsbay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".creditcardsbay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.info"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dba.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dba.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "dealbay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dealbay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dealtime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dealtime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "didce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".didce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "douya.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".douya.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dreamtoplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dreamtoplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e-bay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".e-bay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "e-bay.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".e-bay.it"
+  },
+  {
+    "Type": 0,
+    "Value": "e-bay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".e-bay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "21centuryaccess.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".21centuryaccess.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eachpay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".eachpay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebahy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebahy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-authenticate.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-authenticate.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-confirm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-confirm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-course.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-course.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-cz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-cz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-delivery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-delivery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-discoveries.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-discoveries.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-fashion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-fashion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-inc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-inc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-inc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-inc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-inc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-inc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-online.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-online.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-sales.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-sales.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-stories.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-stories.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-us.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-us.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay-vacation.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay-vacation.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.at"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.be"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.de"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.es"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayjob.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayjob.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wrenchead.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wrenchead.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whisolutions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whisolutions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "renchead.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".renchead.com"
+  },
+  {
+    "Type": 0,
+    "Value": "costcobusinessdelivery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".costcobusinessdelivery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexpart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexpart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexcat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexcat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thebayuk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thebayuk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "terrapeak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".terrapeak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.in"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.it"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.mn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayjewelry.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayjewelry.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.us"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay25.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay25.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay68.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay68.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaya.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaya.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayads.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayads.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayadvertising.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayadvertising.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayanunsios.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayanunsios.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayauction.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayauction.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayaustralia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayaustralia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teraperk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teraperk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.info"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaybags.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaybags.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaybank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaybank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaybenefits.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaybenefits.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayboutique.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayboutique.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayca.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayca.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycafe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycafe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaychina.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaychina.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifiedsgroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifiedsgroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifiedsgroup.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifiedsgroup.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifiedsgroup.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifiedsgroup.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifies.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifies.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycoins.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycoins.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycommercenetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycommercenetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycourse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycourse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayde.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayde.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydlassifieds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydlassifieds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayedu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayedu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayeletro.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayeletro.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayetc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayetc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayexpress.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayexpress.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayfashion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayfashion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayfashion.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayfashion.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayforcharity.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayforcharity.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayforeclosure.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayforeclosure.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayfrance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayfrance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayglobalshipping.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayglobalshipping.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaygroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaygroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayhabit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayhabit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayheels.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayheels.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayhots.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayhots.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayinc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayinc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayinc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayinc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayincconnectedcommerce.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayincconnectedcommerce.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayinkblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayinkblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayinternetsalestax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayinternetsalestax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eachpay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eachpay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "4ebaytraders.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".4ebaytraders.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayla.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayla.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaylisting.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaylisting.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaylocal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaylocal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaylocationsdevacances.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaylocationsdevacances.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymag.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymag.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymainstreet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymainstreet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymarketplace.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymarketplace.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotorsblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotorsblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaynow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaynow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaynyc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaynyc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayon.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayon.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayoncampus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayoncampus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayopen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayopen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayopensource.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayopensource.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayopensource.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayopensource.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypakistan.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypakistan.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypark.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypark.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayparts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayparts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayprivacycenter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayprivacycenter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayqq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayqq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayradio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayradio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayrtm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayrtm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayseller.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayseller.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshoesstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshoesstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshop111.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshop111.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshopping.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshopping.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaysocial.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaysocial.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaysocial.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaysocial.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaysoho.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaysoho.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaysohos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaysohos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystore77.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystore77.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystyle.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystyle.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaysweden.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaysweden.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaytechblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaytechblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaytopratedseller.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaytopratedseller.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaytrading.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaytrading.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaytradingassistant.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaytradingassistant.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaytv.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaytv.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayuae.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayuae.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayvakantiehuizen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayvakantiehuizen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayvalet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayvalet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayvietnam.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayvietnam.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayworlds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayworlds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edisebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".edisebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "epinions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epinions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eu-consumer-empowerment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eu-consumer-empowerment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "expertmaker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".expertmaker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fairmarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fairmarket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fragrancebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fragrancebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "francemail.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".francemail.com"
+  },
+  {
+    "Type": 0,
+    "Value": "half.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".half.com"
+  },
+  {
+    "Type": 0,
+    "Value": "half.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".half.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "halfcanada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".halfcanada.com"
+  },
+  {
+    "Type": 0,
+    "Value": "halfjapan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".halfjapan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "handbagsoutletebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".handbagsoutletebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "irribay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".irribay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "itsbetterwhenyouwinit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".itsbetterwhenyouwinit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "liketwice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".liketwice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "liveauction.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".liveauction.com"
+  },
+  {
+    "Type": 0,
+    "Value": "milofetch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".milofetch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "musicbay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".musicbay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "myconstructionworld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".myconstructionworld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "myebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nebay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nebay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "paisapay.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".paisapay.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "paisapay.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".paisapay.info"
+  },
+  {
+    "Type": 0,
+    "Value": "paisapay.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".paisapay.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "premobay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".premobay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "privatemarketplaces.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".privatemarketplaces.net"
+  },
+  {
+    "Type": 0,
+    "Value": "privatemarketplaces.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".privatemarketplaces.us"
+  },
+  {
+    "Type": 0,
+    "Value": "prostores.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".prostores.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rethink.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".rethink.net"
+  },
+  {
+    "Type": 0,
+    "Value": "shopibay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopibay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "shoping.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shoping.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tearapeak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tearapeak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sourcingforebay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sourcingforebay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sourcingforebay.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".sourcingforebay.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "speybay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speybay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "storesense.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".storesense.com"
+  },
+  {
+    "Type": 0,
+    "Value": "svpply.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".svpply.com"
+  },
+  {
+    "Type": 0,
+    "Value": "telebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".telebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "telesell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".telesell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "texttobuy.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".texttobuy.org"
+  },
+  {
+    "Type": 0,
+    "Value": "theebayshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theebayshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theopportunityproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".theopportunityproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "towerauction.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".towerauction.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vendu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vendu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weareebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weareebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "watch-ebay.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".watch-ebay.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwdecide.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwdecide.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwebay.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwebay.net"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwwebay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwwebay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xindelu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xindelu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--3et96bj49ahpq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--3et96bj49ahpq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--4vq475g.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--4vq475g.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--4vq477m.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--4vq477m.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--7hv594h.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--7hv594h.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--hb4aw0g.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--hb4aw0g.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--q41am8x.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--q41am8x.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--qoq462m.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--qoq462m.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--tkry91n.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--tkry91n.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--ubt498knmf.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--ubt498knmf.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--xsq421m.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--xsq421m.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--xsq605n.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--xsq605n.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--xsq959n.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--xsq959n.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--yf1at58a.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--yf1at58a.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xxbay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xxbay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yibei.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".yibei.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gittigidiyor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gittigidiyor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gittigidiyorsikayet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gittigidiyorsikayet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gumtree.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".gumtree.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "jijiji.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".jijiji.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kiji.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kiji.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijii.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijii.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijij.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijij.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijiji.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijiji.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijiauto.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijiauto.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijiautos.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijiautos.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijiforbusiness.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijiforbusiness.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijii.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijii.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijiraps.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijiraps.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijji.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijji.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "kijjiji.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijjiji.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "automobile.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".automobile.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "mobile.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobile.de"
+  },
+  {
+    "Type": 0,
+    "Value": "mobileinternational.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobileinternational.com"
+  },
+  {
+    "Type": 0,
+    "Value": "q10.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".q10.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "qoo10.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".qoo10.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "achievementanalytics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".achievementanalytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn-terapeak.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn-terapeak.com"
+  },
+  {
+    "Type": 0,
+    "Value": "listinganalytics.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".listinganalytics.net"
+  },
+  {
+    "Type": 0,
+    "Value": "marketexecutive.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketexecutive.net"
+  },
+  {
+    "Type": 0,
+    "Value": "costco.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".costco.com"
+  },
+  {
+    "Type": 0,
+    "Value": "costco-static.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".costco-static.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wish.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wish.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wmt.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".wmt.co"
+  },
+  {
+    "Type": 0,
+    "Value": "walmartimages.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmartimages.com"
+  },
+  {
+    "Type": 0,
+    "Value": "walmart.pharmacy"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmart.pharmacy"
+  },
+  {
+    "Type": 0,
+    "Value": "walmart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "walmart-content.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmart-content.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wal.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".wal.co"
+  },
+  {
+    "Type": 0,
+    "Value": "wal-mart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wal-mart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "w-mt.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".w-mt.co"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.id"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.in"
+  },
+  {
+    "Type": 0,
+    "Value": "shp.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".shp.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "nordstrom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nordstrom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nordstrommedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nordstrommedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "booking.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".booking.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "craigslist.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".craigslist.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.be"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "ingkacentres.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingkacentres.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.us"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.si"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.de"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.qa"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.qa"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.om"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.no"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.my"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.at"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.it"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.is"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.in"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.do"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.es"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.hr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.hr"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "shopeemobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopeemobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.es"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.io"
+  },
+  {
+    "Type": 0,
+    "Value": "nikegenealogy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikegenealogy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "womensnikeshox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".womensnikeshox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "verygoodnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".verygoodnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thedailysnkr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thedailysnkr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swoosh.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".swoosh.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "swoosh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swoosh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swoo.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".swoo.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "static-nike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".static-nike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sale-nikeshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sale-nikeshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "runningnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".runningnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "runnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".runnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "outletnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".outletnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nexpart.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".nexpart.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "coupang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coupang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nke6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nke6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikezoom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikezoom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikewear.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikewear.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeusa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeusa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niketraining.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niketraining.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niketrainers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niketrainers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niketrainer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niketrainer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niketradeweb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niketradeweb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niketracking.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niketracking.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niketaiwan.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".niketaiwan.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeswim.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeswim.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redino.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".redino.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "target.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".target.com"
+  },
+  {
+    "Type": 0,
+    "Value": "targetimg1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".targetimg1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.de"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.se"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.be"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.be"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.at"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.it"
+  },
+  {
+    "Type": 0,
+    "Value": "nikestyles.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikestyles.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikestares.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikestares.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikesportswear.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikesportswear.com"
+  },
+  {
+    "Type": 0,
+    "Value": "r10s.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".r10s.com"
+  },
+  {
+    "Type": 0,
+    "Value": "r10s.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".r10s.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuten-static.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuten-static.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuten.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuten.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "nikesoccercleats.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikesoccercleats.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuten.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuten.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "rclon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rclon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rebates.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".rebates.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nikesnowboarding.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikesnowboarding.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikesku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikesku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoxsale.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoxsale.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bby.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bby.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycastatic.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycastatic.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbycontent.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbycontent.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bbyintl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbyintl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbyurl.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbyurl.us"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbhy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbhy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-audio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-audio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-communityrelations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-communityrelations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-giftcard.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-giftcard.info"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-int.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-int.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy-jobs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy-jobs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.info"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy24x7solutions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy24x7solutions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuybusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuybusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuybusinessadvantageaccount.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuybusinessadvantageaccount.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycanada.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycanada.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycanada.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycanada.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycanadaltd.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycanadaltd.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycharityclassic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycharityclassic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuycoffeemakers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuycoffeemakers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyethics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyethics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyforbusiness.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyforbusiness.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuygsm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuygsm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyideax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyideax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyphotoworkshoptours.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyphotoworkshoptours.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyrewards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyrewards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyrewardzone.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyrewardzone.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuysgeeksquad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuysgeeksquad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuysolutions.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuysolutions.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuystores.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuystores.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuytradein.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuytradein.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuyus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuyus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "besztbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".besztbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bextbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bextbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bienvenuechezbestbuy.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".bienvenuechezbestbuy.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "cowboom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cowboom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "futureshop.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".futureshop.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "initproducts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".initproducts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mybestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mybestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mybestbuyclaims.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mybestbuyclaims.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myrewardzone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myrewardzone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myrz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myrz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pacifickitchenandhome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pacifickitchenandhome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiendabestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiendabestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unbrandedproducts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unbrandedproducts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "welcometobestbuy.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".welcometobestbuy.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "wolfatbestbuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wolfatbestbuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wolfatbestbuy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".wolfatbestbuy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "www-bestbuystores.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".www-bestbuystores.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squad-support.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squad-support.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squad.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squad.org"
+  },
+  {
+    "Type": 0,
+    "Value": "geek-squads.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".geek-squads.net"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquad.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquad.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadcares.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadcares.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadcentral.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadcentral.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadforums.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadforums.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadprotectionplan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadprotectionplan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadservices.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadservices.org"
+  },
+  {
+    "Type": 0,
+    "Value": "geeksquadwebroot.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".geeksquadwebroot.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gscanada.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".gscanada.info"
+  },
+  {
+    "Type": 0,
+    "Value": "gsccdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gsccdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gslink.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".gslink.us"
+  },
+  {
+    "Type": 0,
+    "Value": "onlinegeeksquad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".onlinegeeksquad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rocketfishproducts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocketfishproducts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dealtree.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dealtree.org"
+  },
+  {
+    "Type": 0,
+    "Value": "techliquidators.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techliquidators.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoponline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoponline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "momo.dm"
+  },
+  {
+    "Type": 1,
+    "Value": ".momo.dm"
+  },
+  {
+    "Type": 0,
+    "Value": "momo5188.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".momo5188.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoeswon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoeswon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoesretro.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoesretro.com"
+  },
+  {
+    "Type": 0,
+    "Value": "suruga-ya.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".suruga-ya.com"
+  },
+  {
+    "Type": 0,
+    "Value": "suruga-ya.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".suruga-ya.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "homedepot-static.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".homedepot-static.com"
+  },
+  {
+    "Type": 0,
+    "Value": "homedepot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".homedepot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dmm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dmm-extension.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmm-extension.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dmmapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmmapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dmmrex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmmrex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoesmarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoesmarket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch-apps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch-apps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch-contents.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch-contents.com"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoesinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoesinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fflnk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".fflnk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ecimg.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecimg.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "pchomeec.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pchomeec.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "pcloud.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pcloud.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoesgroup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoesgroup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoescity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoescity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoes4u.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoes4u.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoes21.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoes21.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoes-store.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoes-store.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeshoemarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeshoemarket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikesellorder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikesellorder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeselling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeselling.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeseason.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeseason.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikesbdunks.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikesbdunks.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nikesb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikesb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunningshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunningshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.com"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.net"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.us"
+  },
+  {
+    "Type": 0,
+    "Value": "mujikorea.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mujikorea.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunner.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunner.com"
+  },
+  {
+    "Type": 0,
+    "Value": "readmoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".readmoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chimeforchange.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".chimeforchange.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gucci.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gucci.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guccimuseo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".guccimuseo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guccitimeless.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".guccitimeless.com"
+  },
+  {
+    "Type": 0,
+    "Value": "regiongold.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".regiongold.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.pk"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.pk"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso-np.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso-np.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso-nz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso-nz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.by"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.co"
+  },
+  {
+    "Type": 0,
+    "Value": "myminiso.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myminiso.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minisokorea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisokorea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso-bh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso-bh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso-au.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso-au.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minisovietam.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisovietam.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "minisojordan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisojordan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "minisoindia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisoindia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.uz"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.uz"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.my"
+  },
+  {
+    "Type": 0,
+    "Value": "minisothailand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisothailand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikereuseashoe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikereuseashoe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeresponsibility.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeresponsibility.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikepromax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikepromax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeproduct.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeproduct.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeprice.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeprice.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikepress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikepress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeplus.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeplus.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikepioneer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikepioneer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeoutletstores.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeoutletstores.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pornhubapparel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pornhubapparel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeoutletstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeoutletstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeasia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeasia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "beijingnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beijingnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "betternike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".betternike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buynikechina.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buynikechina.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cheap-nike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cheap-nike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cheapnikedunks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cheapnikedunks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cheapnikeoutlet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cheapnikeoutlet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "classicnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".classicnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnnikebrand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnnikebrand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "customnikeshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".customnikeshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easynike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easynike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eenike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eenike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fashionnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fashionnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "finenike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".finenike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foampositeshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".foampositeshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "goldnikeclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".goldnikeclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gonike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gonike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "handbags-nike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".handbags-nike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hightopnikes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hightopnikes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "idnike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".idnike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inikesneakers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".inikesneakers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "justdoit.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".justdoit.us"
+  },
+  {
+    "Type": 0,
+    "Value": "kicksnike1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kicksnike1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kidsnikeshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kidsnikeshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mynike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mynike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-air-max.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-air-max.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-dunksb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-dunksb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-fr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-fr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-org.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-org.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-uk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-uk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-us.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-us.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-usa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-usa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.ci"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.ci"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.gy"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.gy"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefuelband.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefuelband.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.shop"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.shop"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.us"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.xn--hxt814e"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.xn--hxt814e"
+  },
+  {
+    "Type": 0,
+    "Value": "nike0594.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike0594.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike23.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike23.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeadidas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeadidas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeairhuarache.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeairhuarache.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeairmax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeairmax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeairmaxs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeairmaxs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeairmaxshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeairmaxshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeairrift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeairrift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "air-nike-shoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".air-nike-shoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeaustralia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeaustralia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeaw77.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeaw77.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebbn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebbn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetrue.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetrue.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.info"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebiz.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebiz.info"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebuy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebuy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeby.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeby.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikecdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikecompany.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikecompany.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeconfluence.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeconfluence.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikechosen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikechosen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikecraft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikecraft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikedawn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikedawn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikedunks.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikedunks.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nikedunksshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikedunksshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeelite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeelite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefactorystore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefactorystore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefind.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefind.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefirm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefirm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefoamposites.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefoamposites.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefoampositeshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefoampositeshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefootballcleats.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefootballcleats.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefootballgloves.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefootballgloves.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefootballjersey.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefootballjersey.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefrance.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefrance.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefree.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefree.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikefreeshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikefreeshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.host"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.host"
+  },
+  {
+    "Type": 0,
+    "Value": "airmax360.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".airmax360.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--74q035i.xn--hxt814e"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--74q035i.xn--hxt814e"
+  },
+  {
+    "Type": 0,
+    "Value": "nikegolf.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikegolf.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "nikegrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikegrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikehelp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikehelp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikehightops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikehightops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikehyperdunk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikehyperdunk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeidshoes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeidshoes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeinc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeinc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeincchemistry.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeincchemistry.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeinstock.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeinstock.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeitalia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeitalia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeitaly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeitaly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikekd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikekd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikekid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikekid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikelink.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikelink.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeliuxiang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeliuxiang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikelives.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikelives.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikelunarglide.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikelunarglide.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikemarketing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikemarketing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikenews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikenews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niken7.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niken7.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeonlinestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeonlinestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "tagapie.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".tagapie.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.co.tz"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.co.tz"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.com.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.com.es"
+  },
+  {
+    "Type": 0,
+    "Value": "minisolife.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisolife.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.com.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.com.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.com.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.com.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "books.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".books.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "book.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".book.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ruten.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ruten.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "rimg.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".rimg.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "toget.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".toget.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuya.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuya.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "piapp.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".piapp.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "pchomepay.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pchomepay.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pchomeonline.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "pchome.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pchome.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "dmm.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmm.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "momoshop.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".momoshop.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuten.ne.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuten.ne.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuten.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuten.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "axbdoll.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".axbdoll.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.de"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.com.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.com.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.co.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.co.in"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.at"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.de"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.om"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "momomall.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".momomall.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "loveminiso.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".loveminiso.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "rakuten.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".rakuten.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "pcstore.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".pcstore.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.kw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.kw"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.co.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.co.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.lv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.lv"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.om"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.om"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.pt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.pt"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "nikestore.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikestore.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.cy"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.cy"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.in"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.co.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.co.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.co.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.co.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.co.th"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.co.th"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "i69.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".i69.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaycbt.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaycbt.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "sourcingforebay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sourcingforebay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayauthenticate.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayauthenticate.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.com.do"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.com.do"
+  },
+  {
+    "Type": 0,
+    "Value": "adcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appforebay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appforebay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectcommerce.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectcommerce.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "connectedcommerce.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".connectedcommerce.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cyber-bay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cyber-bay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.yn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.yn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebay.zj.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebay.zj.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayadvertising.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayadvertising.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayclassifieds.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayclassifieds.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydesc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydesc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydesc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydesc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaydns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaydns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayenterprise.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayenterprise.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaymotors.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaymotors.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypedia.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypedia.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaypedia.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaypedia.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshopping.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshopping.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebayshopping.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebayshopping.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ebaystores.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebaystores.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "half.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".half.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "prostores.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".prostores.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "prostores.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".prostores.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--7hvy28f.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--7hvy28f.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijidns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijidns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kijijidns.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kijijidns.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mobileinternational.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobileinternational.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "terapeak.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".terapeak.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "booking.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".booking.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ikea.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-dt.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-dt.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-internal.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-internal.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-system.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-system.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "adidas.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".adidas.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "bestbuy.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bestbuy.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "magnoliaav.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".magnoliaav.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.games.dmm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.games.dmm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluekai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluekai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fout.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".fout.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "gmossp-sp.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".gmossp-sp.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "i-mobile.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".i-mobile.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "im-apps.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".im-apps.net"
+  },
+  {
+    "Type": 0,
+    "Value": "impact-ad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".impact-ad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ladsp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ladsp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microad.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".microad.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "microad.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".microad.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "socdm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".socdm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "farfetch.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".farfetch.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "muji.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".muji.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "gucci.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".gucci.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hm.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hm.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "miniso.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".miniso.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "minisohome.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".minisohome.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "minsio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".minsio.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "just-do-it.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".just-do-it.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nike-shox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike-shox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nike.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nike.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikebetterworld.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikebetterworld.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikechina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikechina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikegolf.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikegolf.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeid.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeid.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeid.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeid.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeinc.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeinc.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikelab.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikelab.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikelab.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikelab.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeliuxiang.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeliuxiang.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikeliuxiang.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikeliuxiang.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikemall.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikemall.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikemall.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikemall.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunclub.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunclub.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunclub.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunclub.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikerunning.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikerunning.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nikestore.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nikestore.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "shopee.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopee.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "shopeesz.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopeesz.com"
+  },
+  {
+    "Type": 0,
+    "Value": "walmart.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".walmart.cn"
+  }
+]

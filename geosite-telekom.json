@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "telekom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".telekom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "telekom.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".telekom.de"
+  },
+  {
+    "Type": 0,
+    "Value": "telesec.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".telesec.de"
+  }
+]

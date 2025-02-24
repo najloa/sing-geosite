@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "click.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".click.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "da.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".da.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "da.mgtv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".da.mgtv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "log.v2.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".log.v2.hunantv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "res.hunantv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".res.hunantv.com"
+  }
+]

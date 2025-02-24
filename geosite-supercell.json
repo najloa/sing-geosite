@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "supercell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "supercell.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.net"
+  },
+  {
+    "Type": 0,
+    "Value": "supercell.helpshift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".supercell.helpshift.com"
+  }
+]

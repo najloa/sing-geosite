@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "frontwize.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".frontwize.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qingcache.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingcache.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qingcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qingstor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qingstor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "routewize.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".routewize.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yunify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yunify.com"
+  }
+]

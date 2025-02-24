@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "apple-icloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-icloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appleicloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appleicloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud-apple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud-apple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloud.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloud.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icloudapple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icloudapple.cn"
+  }
+]

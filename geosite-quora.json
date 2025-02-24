@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "qr.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".qr.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "quora.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".quora.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quoracdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".quoracdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "poe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".poe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "poecdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".poecdn.net"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": 1,
+    "Value": ".theguardian"
+  },
+  {
+    "Type": 0,
+    "Value": "dev-guardianapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dev-guardianapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dev-theguardian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dev-theguardian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gu-web.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gu-web.net"
+  },
+  {
+    "Type": 0,
+    "Value": "guardianapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".guardianapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theguardian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theguardian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "theguardiandns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theguardiandns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "guardianapps.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".guardianapps.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "guim.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".guim.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "guimcode.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".guimcode.co.uk"
+  }
+]

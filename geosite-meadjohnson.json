@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.net"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "enfinitas.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".enfinitas.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "meadjohnson.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".meadjohnson.com.cn"
+  }
+]

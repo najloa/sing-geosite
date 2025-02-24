@@ -1,0 +1,82 @@
+[
+  {
+    "Type": 0,
+    "Value": "qbox.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".qbox.me"
+  },
+  {
+    "Type": 0,
+    "Value": "qiniu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qiniu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qiniucdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qiniucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qiniudn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qiniudn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qiniudns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qiniudns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qiniup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qiniup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qnsdk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qnsdk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qnssl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qnssl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "staticfile.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticfile.net"
+  },
+  {
+    "Type": 0,
+    "Value": "staticfile.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticfile.org"
+  }
+]

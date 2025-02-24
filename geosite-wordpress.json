@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "videopress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videopress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "w.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".w.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wordpress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wordpress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wordpress.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wordpress.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wordpress.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".wordpress.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "wp-themes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wp-themes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wpvip.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wpvip.com"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "firefox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firefox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firefoxusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firefoxusercontent.com"
+  }
+]

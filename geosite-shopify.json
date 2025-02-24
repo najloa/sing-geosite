@@ -1,0 +1,66 @@
+[
+  {
+    "Type": 0,
+    "Value": "myshopify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myshopify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shop.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".shop.app"
+  },
+  {
+    "Type": 0,
+    "Value": "shopify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopify.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopify.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "shopifycdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopifycdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopifycloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopifycloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopifystatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopifystatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shopifysvc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shopifysvc.com"
+  }
+]

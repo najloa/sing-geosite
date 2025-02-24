@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 1,
+    "Value": ".imdb"
+  },
+  {
+    "Type": 0,
+    "Value": "boxofficemojo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".boxofficemojo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imdb.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb.to"
+  },
+  {
+    "Type": 0,
+    "Value": "media-imdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".media-imdb.com"
+  }
+]

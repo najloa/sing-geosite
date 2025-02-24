@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "pki-goog.l.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "c.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "i.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "o.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "crl.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "crls.pki.goog"
+  },
+  {
+    "Type": 0,
+    "Value": "ocsp.pki.goog"
+  }
+]

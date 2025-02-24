@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "nypost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nypost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nypost.help"
+  },
+  {
+    "Type": 1,
+    "Value": ".nypost.help"
+  },
+  {
+    "Type": 0,
+    "Value": "nypostreprints.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nypostreprints.com"
+  }
+]

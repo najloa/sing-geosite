@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "signal.art"
+  },
+  {
+    "Type": 1,
+    "Value": ".signal.art"
+  },
+  {
+    "Type": 0,
+    "Value": "signal.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".signal.org"
+  },
+  {
+    "Type": 0,
+    "Value": "signalusers.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".signalusers.org"
+  },
+  {
+    "Type": 0,
+    "Value": "whispersystems.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".whispersystems.org"
+  }
+]

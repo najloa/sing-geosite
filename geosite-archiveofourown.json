@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "ao3.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ao3.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archiveofourown.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archiveofourown.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archiveofourown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".archiveofourown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "archiveofourown.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".archiveofourown.net"
+  }
+]

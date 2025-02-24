@@ -1,0 +1,122 @@
+[
+  {
+    "Type": 0,
+    "Value": "oss-ap-northeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-northeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-northeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-northeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-south-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-south-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-2.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-3.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-3.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-5.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-5.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-6.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-6.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-ap-southeast-7.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-ap-southeast-7.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-eu-central-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-eu-central-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-eu-west-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-eu-west-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-me-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-me-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-us-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-us-east-1.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oss-us-west-1.aliyuncs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oss-us-west-1.aliyuncs.com"
+  }
+]

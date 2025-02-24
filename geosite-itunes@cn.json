@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "apple-itunes.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-itunes.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunes-apple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunes-apple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunesapple.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunesapple.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunesradio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunesradio.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "itunesradio.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".itunesradio.com.cn"
+  }
+]

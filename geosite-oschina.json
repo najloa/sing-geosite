@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "oschina.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".oschina.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gitee.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitee.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitee.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitee.io"
+  }
+]

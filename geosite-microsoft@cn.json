@@ -1,0 +1,986 @@
+[
+  {
+    "Type": 0,
+    "Value": "dcg.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dcg.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dynamics.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dynamics.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "engkoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".engkoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lync.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".lync.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoft-smb.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoft-smb.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-i.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-i.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-m-i.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-m-i.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-m.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-m.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p-i.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p-i.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p-i.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p-i.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline-p.net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline-p.net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftonline.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftonline.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsofttranslator-int.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsofttranslator-int.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msauth.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msauth.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msauthimages.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msauthimages.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msftauth.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftauth.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msftauthimages.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftauthimages.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mspil.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mspil.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msra.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msra.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "o365cn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".o365cn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "o365files.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".o365files.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "office365-net.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".office365-net.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "office365.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".office365.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "officewebapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".officewebapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "onmschina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".onmschina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "outlook.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".outlook.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pbiwebcontent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pbiwebcontent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerappsportals.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerappsportals.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerautomate.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerautomate.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "powerbi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".powerbi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sharepoint.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sharepoint.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dl.delivery.mp.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dl.delivery.mp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.windowsupdate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".download.windowsupdate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "b.c2r.ts.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bg.v4.a.dl.ws.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bg4.v4.a.dl.ws.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "build.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.marketplaceimages.windowsphone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.windowssearch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ctldl.windowsupdate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devblogs.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "docs.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.visualstudio.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "f.c2r.ts.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "fs.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "learn.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msgr.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msgruser.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myvs.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oemsoc.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "officecdn.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qh.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "res-1.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "res.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sdx.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shell.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "silverlight.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "slupdate.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "software.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "statics.teams.cdn.office.net"
+  },
+  {
+    "Type": 0,
+    "Value": "storeedgefd.dsx.mp.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "surface.downloads.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vz.download.prss.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wl.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wscont1.apps.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wscont2.apps.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xb.dlservice.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "reactorms.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactorms.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "www.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftnews.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftnews.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msn.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msn.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xboxlive.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xboxlive.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbluecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbluecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "21vbluecloud.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".21vbluecloud.net"
+  },
+  {
+    "Type": 0,
+    "Value": "aadrm.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aadrm.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aggresmart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aggresmart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apihub-internal.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".apihub-internal.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "appserviceenvironment.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".appserviceenvironment.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azcrmc-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azcrmc-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azcrmc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azcrmc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azk8s.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azk8s.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aznbcontent.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aznbcontent.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aztask.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aztask.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-api.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-api.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-apihub.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-apihub.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-automation.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-automation.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-connectedvehicles-stage.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-connectedvehicles-stage.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-connectedvehicles.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-connectedvehicles.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-devices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-devices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azure.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecr-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecr.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurehdinsight.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurehdinsight.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azureiotsuite.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureiotsuite.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azuremresolver.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuremresolver.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azureprivatedns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azureprivatedns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azurerms.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurerms.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "azuresandbox.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azuresandbox.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "b2clogin.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".b2clogin.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "b3itech.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".b3itech.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "blueaggrestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blueaggrestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bluecloudprod.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bluecloudprod.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cegid-cloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cegid-cloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloud-mobile.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloud-mobile.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudapi.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudapi.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudapp.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudapp.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinacloudsites.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinacloudsites.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hdinsightservices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hdinsightservices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices-provisioning.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "management-azure-devices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".management-azure-devices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mcchcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcchcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mgmt-azure-api.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mgmt-azure-api.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftazurestatus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftazurestatus.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftmetrics.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftmetrics.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mncmsidlab1.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mncmsidlab1.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msappproxy.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msappproxy.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mschcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mschcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msftcloudes.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msftcloudes.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msidentity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msidentity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "msidlabpbmc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".msidlabpbmc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trafficmanager.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trafficmanager.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "trustcenter.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustcenter.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unity3dcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unity3dcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsazure.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsazure.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsazurestatus.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsazurestatus.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.azchcdn[a-s]\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "azure-dns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".azure-dns.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.azure-dns-([1-9]|10)\\.cn$"
+  },
+  {
+    "Type": 0,
+    "Value": "bing.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bing.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.bing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.bing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.bing.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.bing.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.mm.bing.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.mm.bing.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ditu.live.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ditu.live.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bj1.api.bing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "emoi-cncdn.bing.com"
+  }
+]

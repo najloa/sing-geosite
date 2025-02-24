@@ -1,0 +1,38 @@
+[
+  {
+    "Type": 0,
+    "Value": "d33wubrfki0l68.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bitballoon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitballoon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netlify.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".netlify.app"
+  },
+  {
+    "Type": 0,
+    "Value": "netlify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netlify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "netlifystatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".netlifystatus.com"
+  }
+]

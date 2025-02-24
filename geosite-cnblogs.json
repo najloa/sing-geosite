@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "blogjava.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogjava.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cnblogs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnblogs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnitblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnitblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cnweblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnweblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cppblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cppblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "phpweblog.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".phpweblog.net"
+  },
+  {
+    "Type": 0,
+    "Value": "teachblog.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".teachblog.net"
+  }
+]

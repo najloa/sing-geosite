@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "dailymotion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dailymotion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dm-event.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dm-event.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dmcdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dmcdn.net"
+  }
+]

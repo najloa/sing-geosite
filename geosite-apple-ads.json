@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "api-adservices.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api-adservices.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iadsdk.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iadsdk.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iad.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iad.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "qwapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".qwapi.com"
+  }
+]

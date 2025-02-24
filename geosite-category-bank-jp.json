@@ -1,0 +1,554 @@
+[
+  {
+    "Type": 0,
+    "Value": "a-bank.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".a-bank.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "114bank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".114bank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "77bank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".77bank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "82bank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".82bank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "akita-bank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".akita-bank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ashikagabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ashikagabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "awabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".awabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "bk.mufg.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".bk.mufg.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "boj.or.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".boj.or.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "chibabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".chibabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "chibakogyo-bank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".chibakogyo-bank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "chikubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".chikubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "chugokubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".chugokubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "daiichibank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".daiichibank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "fukuibank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".fukuibank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "fukuokabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".fukuokabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "gunmabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".gunmabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "higobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".higobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hiroshimabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiroshimabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hokkoku.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hokkoku.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hokuetsubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hokuetsubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hokutobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hokutobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hokuyobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hokuyobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hyakugo.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hyakugo.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ikedashinsen.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikedashinsen.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "iwatebank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".iwatebank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "iyobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".iyobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "joyobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".joyobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "juhachibank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".juhachibank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "juroku.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".juroku.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kagobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kagobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kinki.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kinki.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kitakyushubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kitakyushubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kiyobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kiyobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kyotobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kyotobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "michinokubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".michinokubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mie.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mie.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "miyazakibank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".miyazakibank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mizuhobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mizuhobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "musashinobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".musashinobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nantobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nantobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "nishinipponbank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nishinipponbank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ogakikyoritsu.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ogakikyoritsu.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "oitabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".oitabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "okinawabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".okinawabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "resonabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".resonabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "ryukyubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".ryukyubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "sagabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".sagabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "saitama-resona.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".saitama-resona.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "saninbank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".saninbank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "shigagin.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".shigagin.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "shikokubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".shikokubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "shimizubank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".shimizubank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "shinwabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".shinwabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "shizuokabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".shizuokabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "shonai.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".shonai.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "smbc.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".smbc.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "surugabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".surugabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "tajimabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tajimabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "tohobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tohobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "tohoku-bank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tohoku-bank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "tomibank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tomibank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "tottoribank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tottoribank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "toyobank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".toyobank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "tsukubabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".tsukubabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yamagatabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamagatabank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yamaguchibank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamaguchibank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yamanashibank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamanashibank.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "yokohamabank.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".yokohamabank.co.jp"
+  }
+]

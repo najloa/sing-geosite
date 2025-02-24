@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "ads-api.duolingo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads-api.duolingo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "metrics.duolingo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".metrics.duolingo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "analytics.vpc.duolingo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".analytics.vpc.duolingo.com"
+  }
+]

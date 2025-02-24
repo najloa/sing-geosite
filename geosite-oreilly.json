@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "oreil.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".oreil.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "oreilly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oreilly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oreilly.review"
+  },
+  {
+    "Type": 1,
+    "Value": ".oreilly.review"
+  },
+  {
+    "Type": 0,
+    "Value": "oreillystatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oreillystatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "orl.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".orl.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "oreilly.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".oreilly.com.cn"
+  }
+]

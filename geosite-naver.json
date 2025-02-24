@@ -1,0 +1,394 @@
+[
+  {
+    "Type": 0,
+    "Value": "naver.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".naver.com"
+  },
+  {
+    "Type": 0,
+    "Value": "naver.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".naver.me"
+  },
+  {
+    "Type": 0,
+    "Value": "naver.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".naver.net"
+  },
+  {
+    "Type": 0,
+    "Value": "navercorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".navercorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nheos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nheos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pstatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pstatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "clova.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".clova.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "navercloudcorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".navercloudcorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "naverncp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".naverncp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ncloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ncloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "worksmobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".worksmobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "naverfincorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".naverfincorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "snow.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".snow.me"
+  },
+  {
+    "Type": 0,
+    "Value": "snowcorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".snowcorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vday.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vday.io"
+  },
+  {
+    "Type": 0,
+    "Value": "studiolico.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".studiolico.com"
+  },
+  {
+    "Type": 0,
+    "Value": "studioncorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".studioncorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wattpad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wattpad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webtoons.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webtoons.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webtoonscorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webtoonscorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "band.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".band.us"
+  },
+  {
+    "Type": 0,
+    "Value": "grafolio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".grafolio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "modoo.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".modoo.at"
+  },
+  {
+    "Type": 0,
+    "Value": "naver.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".naver.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "naverads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".naverads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "naverlabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".naverlabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "plug.game"
+  },
+  {
+    "Type": 1,
+    "Value": ".plug.game"
+  },
+  {
+    "Type": 0,
+    "Value": "prismlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".prismlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "linemobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".linemobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lineshoppingseller.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lineshoppingseller.com"
+  },
+  {
+    "Type": 0,
+    "Value": "line-apps-beta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".line-apps-beta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "line-apps-rc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".line-apps-rc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "line-apps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".line-apps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "line-beta.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".line-beta.me"
+  },
+  {
+    "Type": 0,
+    "Value": "line-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".line-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "line.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".line.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "nhncorp.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".nhncorp.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "lin.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".lin.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "line-scdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".line-scdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "linecorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".linecorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "linefriends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".linefriends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "linetv.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".linetv.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "linegame.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".linegame.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "gcld-line.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcld-line.com"
+  },
+  {
+    "Type": 0,
+    "Value": "linemyshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".linemyshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "line.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".line.me"
+  },
+  {
+    "Type": 0,
+    "Value": "linefriends.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".linefriends.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "naver.com.akadns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".naver.com.akadns.net"
+  },
+  {
+    "Type": 0,
+    "Value": "naverads.com.akadns.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".naverads.com.akadns.net"
+  }
+]

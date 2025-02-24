@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "deps.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".deps.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "deps.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".deps.info"
+  },
+  {
+    "Type": 0,
+    "Value": "opensourceinsight.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".opensourceinsight.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "opensourceinsights.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".opensourceinsights.dev"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "Type": 0,
+    "Value": "hotstar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstar-labs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstar-labs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hotstarext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hotstarext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hsprepack.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".hsprepack.akamaized.net"
+  },
+  {
+    "Type": 3,
+    "Value": "^hses[1-7]?\\.akamaized\\.net$"
+  }
+]

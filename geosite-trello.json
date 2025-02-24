@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "trello.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trello.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trellocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trellocdn.com"
+  }
+]

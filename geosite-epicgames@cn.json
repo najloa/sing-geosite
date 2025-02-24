@@ -1,0 +1,10 @@
+[
+  {
+    "Type": 3,
+    "Value": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  }
+]

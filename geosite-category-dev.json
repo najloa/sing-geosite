@@ -1,0 +1,3866 @@
+[
+  {
+    "Type": 0,
+    "Value": "d29vzk4ow07wi7.cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "homebrew.bintray.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amp.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gitlab-assets.oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.jsdelivr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "developers.facebook.com"
+  },
+  {
+    "Type": 0,
+    "Value": "github-cloud.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseappcheck.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebasedynamiclinks-ipv4.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebasedynamiclinks-ipv6.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebasedynamiclinks.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseinappmessaging.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseinstallations.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaselogging-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaselogging.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseperusertopics-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseremoteconfig.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "notary-submissions-prod.s3-accelerate.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "notary-submissions-prod.s3.us-west-2.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appleworldwidedeveloper.hb-api.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "appleworldwidedeveloper.sc.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "p-events-delivery.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "az764295.vo.msecnd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bingsettingssearch.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "default.exp-tas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download.visualstudio.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dtlgalleryint.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "poshtestgallery.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "psg-int-centralus.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "psg-int-eastus.cloudapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rink.hockeyapp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-sync-insiders.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-sync.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.blob.core.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.search.windows.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vsmarketplacebadge.apphb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".java"
+  },
+  {
+    "Type": 0,
+    "Value": "termux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".termux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gitbook.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitbook.io"
+  },
+  {
+    "Type": 0,
+    "Value": "artixlinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".artixlinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "atom.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".atom.io"
+  },
+  {
+    "Type": 0,
+    "Value": "badgen.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".badgen.net"
+  },
+  {
+    "Type": 0,
+    "Value": "bitvise.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitvise.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdnjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdnjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "centos.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".centos.org"
+  },
+  {
+    "Type": 0,
+    "Value": "chocolatey.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".chocolatey.org"
+  },
+  {
+    "Type": 0,
+    "Value": "clojure.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".clojure.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cnpmjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnpmjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cygwin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cygwin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cython.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cython.org"
+  },
+  {
+    "Type": 0,
+    "Value": "deno.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deno.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deno.land"
+  },
+  {
+    "Type": 1,
+    "Value": ".deno.land"
+  },
+  {
+    "Type": 0,
+    "Value": "dev.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".dev.to"
+  },
+  {
+    "Type": 0,
+    "Value": "elixir-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".elixir-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "elrepo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".elrepo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "erlang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".erlang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ffmpeg.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ffmpeg.org"
+  },
+  {
+    "Type": 0,
+    "Value": "freebsd.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".freebsd.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gentoo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gentoo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "getcomposer.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".getcomposer.org"
+  },
+  {
+    "Type": 0,
+    "Value": "getzola.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".getzola.org"
+  },
+  {
+    "Type": 0,
+    "Value": "git-scm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".git-scm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gnu.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gnu.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hex.pm"
+  },
+  {
+    "Type": 1,
+    "Value": ".hex.pm"
+  },
+  {
+    "Type": 0,
+    "Value": "hexdocs.pm"
+  },
+  {
+    "Type": 1,
+    "Value": ".hexdocs.pm"
+  },
+  {
+    "Type": 0,
+    "Value": "ius.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ius.io"
+  },
+  {
+    "Type": 0,
+    "Value": "jenkins.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".jenkins.io"
+  },
+  {
+    "Type": 0,
+    "Value": "js.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".js.org"
+  },
+  {
+    "Type": 0,
+    "Value": "jupyter.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".jupyter.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kali.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".kali.org"
+  },
+  {
+    "Type": 0,
+    "Value": "linuxfromscratch.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".linuxfromscratch.org"
+  },
+  {
+    "Type": 0,
+    "Value": "linuxmint.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".linuxmint.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lua.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lua.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macports.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".macports.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mariadb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mariadb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mingw.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mingw.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mobatek.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mobatek.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mysql.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysql.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nixos.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nixos.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nodesource.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nodesource.com"
+  },
+  {
+    "Type": 0,
+    "Value": "notepad-plus-plus.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".notepad-plus-plus.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openresty.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openresty.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openssl.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openssl.org"
+  },
+  {
+    "Type": 0,
+    "Value": "opensuse.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opensuse.org"
+  },
+  {
+    "Type": 0,
+    "Value": "packagist.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".packagist.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pcre.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pcre.org"
+  },
+  {
+    "Type": 0,
+    "Value": "phantomjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".phantomjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "php.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".php.net"
+  },
+  {
+    "Type": 0,
+    "Value": "putty.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".putty.org"
+  },
+  {
+    "Type": 0,
+    "Value": "postgresql.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".postgresql.org"
+  },
+  {
+    "Type": 0,
+    "Value": "r-project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".r-project.org"
+  },
+  {
+    "Type": 0,
+    "Value": "raspberrypi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".raspberrypi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "raspbian.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".raspbian.org"
+  },
+  {
+    "Type": 0,
+    "Value": "regex101.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".regex101.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rpmfusion.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rpmfusion.org"
+  },
+  {
+    "Type": 0,
+    "Value": "scientificlinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".scientificlinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "scoop.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".scoop.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "shellcheck.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".shellcheck.net"
+  },
+  {
+    "Type": 0,
+    "Value": "shields.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".shields.io"
+  },
+  {
+    "Type": 0,
+    "Value": "sqlite.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sqlite.org"
+  },
+  {
+    "Type": 0,
+    "Value": "sublimetext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sublimetext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "termius.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".termius.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unpkg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unpkg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videojs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".videojs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "videolan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".videolan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wapm.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".wapm.io"
+  },
+  {
+    "Type": 0,
+    "Value": "wasmer.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".wasmer.io"
+  },
+  {
+    "Type": 0,
+    "Value": "wireshark.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wireshark.org"
+  },
+  {
+    "Type": 0,
+    "Value": "x.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".x.org"
+  },
+  {
+    "Type": 0,
+    "Value": "xposed.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".xposed.info"
+  },
+  {
+    "Type": 0,
+    "Value": "yarnpkg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yarnpkg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zsh.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".zsh.org"
+  },
+  {
+    "Type": 0,
+    "Value": "huggingface.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".huggingface.co"
+  },
+  {
+    "Type": 0,
+    "Value": "askubuntu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".askubuntu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blogoverflow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogoverflow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "codeforaliving.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeforaliving.io"
+  },
+  {
+    "Type": 0,
+    "Value": "mathoverflow.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mathoverflow.net"
+  },
+  {
+    "Type": 0,
+    "Value": "serverfault.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".serverfault.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sstatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sstatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "stackapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackauth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackauth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackexchange.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackexchange.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackmod.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackmod.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.co"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.email"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.email"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflowbusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflowbusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflowcareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflowcareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stacksnippets.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".stacksnippets.net"
+  },
+  {
+    "Type": 0,
+    "Value": "superuser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".superuser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tex-talk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tex-talk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "thesffblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesffblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "canonical.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".canonical.com"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpad.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpad.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadcontent.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadcontent.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.net"
+  },
+  {
+    "Type": 0,
+    "Value": "launchpadlibrarian.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".launchpadlibrarian.org"
+  },
+  {
+    "Type": 0,
+    "Value": "snapcraft.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapcraft.io"
+  },
+  {
+    "Type": 0,
+    "Value": "snapstore.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapstore.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntu.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntu.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntuforums.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntuforums.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ubuntu-touch.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ubuntu-touch.io"
+  },
+  {
+    "Type": 0,
+    "Value": "jfrog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jfrog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jfrog.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".jfrog.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bintray.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bintray.com"
+  },
+  {
+    "Type": 0,
+    "Value": "osdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".osdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "redis.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".redis.io"
+  },
+  {
+    "Type": 0,
+    "Value": "redislabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redislabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sourcehut.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sourcehut.org"
+  },
+  {
+    "Type": 0,
+    "Value": "sr.ht"
+  },
+  {
+    "Type": 1,
+    "Value": ".sr.ht"
+  },
+  {
+    "Type": 0,
+    "Value": "dart.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".dart.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "dartlang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dartlang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dartpad.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".dartpad.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "debian.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".debian.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dotdeb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".dotdeb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "brew.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".brew.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "haskell.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".haskell.org"
+  },
+  {
+    "Type": 0,
+    "Value": "haskellstack.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".haskellstack.org"
+  },
+  {
+    "Type": 0,
+    "Value": "stackage.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackage.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openwrt.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openwrt.org"
+  },
+  {
+    "Type": 0,
+    "Value": "lede-project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lede-project.org"
+  },
+  {
+    "Type": 0,
+    "Value": "lfai.foundation"
+  },
+  {
+    "Type": 1,
+    "Value": ".lfai.foundation"
+  },
+  {
+    "Type": 0,
+    "Value": "linuxfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".linuxfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kernel.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".kernel.org"
+  },
+  {
+    "Type": 0,
+    "Value": "linux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".linux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openjsf.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openjsf.org"
+  },
+  {
+    "Type": 0,
+    "Value": "amp.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".amp.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ampproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ampproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "electronjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".electronjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "jquery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jquery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jquerymobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jquerymobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jqueryui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jqueryui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mochajs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mochajs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nodejs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nodejs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "unity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unity3d.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unity3d.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vim.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".vim.org"
+  },
+  {
+    "Type": 0,
+    "Value": "anaconda.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".anaconda.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "anaconda.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anaconda.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anaconda.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".anaconda.org"
+  },
+  {
+    "Type": 0,
+    "Value": "conda.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".conda.io"
+  },
+  {
+    "Type": 0,
+    "Value": "android.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".android.com"
+  },
+  {
+    "Type": 0,
+    "Value": "androidify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".androidify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fontawesome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fontawesome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fortawesome.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fortawesome.com"
+  },
+  {
+    "Type": 0,
+    "Value": "consul.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".consul.io"
+  },
+  {
+    "Type": 0,
+    "Value": "hashicorp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hashicorp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nomadproject.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".nomadproject.io"
+  },
+  {
+    "Type": 0,
+    "Value": "packer.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".packer.io"
+  },
+  {
+    "Type": 0,
+    "Value": "terraform.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".terraform.io"
+  },
+  {
+    "Type": 0,
+    "Value": "vagrantcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vagrantcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vagrantup.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vagrantup.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vaultproject.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vaultproject.io"
+  },
+  {
+    "Type": 0,
+    "Value": "pycon.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pycon.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pypa.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypa.io"
+  },
+  {
+    "Type": 0,
+    "Value": "pypi.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypi.io"
+  },
+  {
+    "Type": 0,
+    "Value": "pypi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pypi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "python.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".python.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pythonhosted.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pythonhosted.org"
+  },
+  {
+    "Type": 0,
+    "Value": "v8.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".v8.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "v8project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".v8project.org"
+  },
+  {
+    "Type": 0,
+    "Value": "intellij.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellij.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intellij.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellij.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intellij.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellij.org"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.net"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.space"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.space"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.team"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.team"
+  },
+  {
+    "Type": 0,
+    "Value": "datalore.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".datalore.io"
+  },
+  {
+    "Type": 0,
+    "Value": "kotlinlang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".kotlinlang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "jb.gg"
+  },
+  {
+    "Type": 1,
+    "Value": ".jb.gg"
+  },
+  {
+    "Type": 0,
+    "Value": "piwheels.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".piwheels.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rust-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rust-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rustup.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".rustup.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "crates.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".crates.io"
+  },
+  {
+    "Type": 0,
+    "Value": "docs.rs"
+  },
+  {
+    "Type": 1,
+    "Value": ".docs.rs"
+  },
+  {
+    "Type": 0,
+    "Value": "polymer-project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".polymer-project.org"
+  },
+  {
+    "Type": 0,
+    "Value": "polymerproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".polymerproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "remirepo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".remirepo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "redhat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".redhat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "redhat.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".redhat.org"
+  },
+  {
+    "Type": 0,
+    "Value": "flutter.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".flutter.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "flutterapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flutterapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pub.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".pub.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "gitbook.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitbook.com"
+  },
+  {
+    "Type": 0,
+    "Value": "docker.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".docker.io"
+  },
+  {
+    "Type": 0,
+    "Value": "mongodb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mongodb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mongodb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mongodb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gitlab.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitlab.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitlab.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitlab.io"
+  },
+  {
+    "Type": 0,
+    "Value": "gitlab.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitlab.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gitlab-static.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitlab-static.net"
+  },
+  {
+    "Type": 0,
+    "Value": "01.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".01.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hyperscan.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".hyperscan.io"
+  },
+  {
+    "Type": 0,
+    "Value": "intellinuxgraphics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellinuxgraphics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intellinuxgraphics.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellinuxgraphics.net"
+  },
+  {
+    "Type": 0,
+    "Value": "oneapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oneapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openvinotoolkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openvinotoolkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "snap-telemetry.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snap-telemetry.io"
+  },
+  {
+    "Type": 0,
+    "Value": "acpica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acpica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clearlinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".clearlinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ospray.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ospray.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ospray.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ospray.org"
+  },
+  {
+    "Type": 0,
+    "Value": "topcoder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".topcoder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "grazie.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".grazie.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "jsdelivr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jsdelivr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jsdelivr.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jsdelivr.net"
+  },
+  {
+    "Type": 0,
+    "Value": "esm.run"
+  },
+  {
+    "Type": 1,
+    "Value": ".esm.run"
+  },
+  {
+    "Type": 0,
+    "Value": "perl.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".perl.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cpan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "metacpan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".metacpan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "modperl.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".modperl.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "ruby-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ruby-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rubygems.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rubygems.org"
+  },
+  {
+    "Type": 0,
+    "Value": "termux.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".termux.com"
+  },
+  {
+    "Type": 0,
+    "Value": "termux.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".termux.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "adventofcode.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adventofcode.com"
+  },
+  {
+    "Type": 0,
+    "Value": "faciometrics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".faciometrics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apache.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".apache.org"
+  },
+  {
+    "Type": 0,
+    "Value": "playerjs.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".playerjs.io"
+  },
+  {
+    "Type": 0,
+    "Value": "gcr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gcr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ghcr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ghcr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "quay.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".quay.io"
+  },
+  {
+    "Type": 0,
+    "Value": "qt-project.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".qt-project.org"
+  },
+  {
+    "Type": 0,
+    "Value": "qt.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".qt.io"
+  },
+  {
+    "Type": 0,
+    "Value": "codeberg.page"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeberg.page"
+  },
+  {
+    "Type": 0,
+    "Value": "codeberg.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeberg.org"
+  },
+  {
+    "Type": 0,
+    "Value": "strikinglycdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".strikinglycdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "accountkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".accountkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "atscaleconference.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".atscaleconference.com"
+  },
+  {
+    "Type": 0,
+    "Value": "botorch.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".botorch.org"
+  },
+  {
+    "Type": 0,
+    "Value": "buck.build"
+  },
+  {
+    "Type": 1,
+    "Value": ".buck.build"
+  },
+  {
+    "Type": 0,
+    "Value": "buckbuild.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buckbuild.com"
+  },
+  {
+    "Type": 0,
+    "Value": "componentkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".componentkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "draftjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".draftjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "f8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".f8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookappcenter.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookappcenter.info"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookappcenter.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookappcenter.net"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookappcenter.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookappcenter.org"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookconnect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookconnect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "facebookdevelopergarage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".facebookdevelopergarage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "azurecr.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".azurecr.io"
+  },
+  {
+    "Type": 0,
+    "Value": "fasttext.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".fasttext.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "fbf8.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbf8.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fbinfer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbinfer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fblitho.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fblitho.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fbredex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbredex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fbrell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbrell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flow.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".flow.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "flow.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".flow.org"
+  },
+  {
+    "Type": 0,
+    "Value": "flowtype.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".flowtype.org"
+  },
+  {
+    "Type": 0,
+    "Value": "frescolib.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".frescolib.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hacklang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".hacklang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "hhvm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hhvm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makeitopen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".makeitopen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mcrouter.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcrouter.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mcrouter.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcrouter.org"
+  },
+  {
+    "Type": 0,
+    "Value": "messengerdevelopers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".messengerdevelopers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ogp.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".ogp.me"
+  },
+  {
+    "Type": 0,
+    "Value": "opengraphprotocol.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".opengraphprotocol.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opengraphprotocol.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opengraphprotocol.org"
+  },
+  {
+    "Type": 0,
+    "Value": "parse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".parse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pyrobot.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pyrobot.org"
+  },
+  {
+    "Type": 0,
+    "Value": "react.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".react.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reactjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reactjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "recoiljs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".recoiljs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rocksdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocksdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rocksdb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocksdb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rocksdb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rocksdb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "yogalayout.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yogalayout.com"
+  },
+  {
+    "Type": 0,
+    "Value": "flathub.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".flathub.org"
+  },
+  {
+    "Type": 0,
+    "Value": "flatpak.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".flatpak.org"
+  },
+  {
+    "Type": 0,
+    "Value": "scala-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".scala-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "scala-sbt.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".scala-sbt.org"
+  },
+  {
+    "Type": 0,
+    "Value": "xda-cdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xda-cdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xda-developers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xda-developers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xdaforums.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xdaforums.com"
+  },
+  {
+    "Type": 0,
+    "Value": "archlinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archlinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archlinuxarm.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archlinuxarm.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bootstrapcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bootstrapcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "getbootstrap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getbootstrap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fastlane.ci"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastlane.ci"
+  },
+  {
+    "Type": 0,
+    "Value": "fastlane.tools"
+  },
+  {
+    "Type": 1,
+    "Value": ".fastlane.tools"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.co"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.help"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.help"
+  },
+  {
+    "Type": 0,
+    "Value": "fury.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".fury.io"
+  },
+  {
+    "Type": 0,
+    "Value": "gemfury.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemfury.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go-lang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-lang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "go-lang.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-lang.net"
+  },
+  {
+    "Type": 0,
+    "Value": "go-lang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".go-lang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "go.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".go.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "godoc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".godoc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "golang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".golang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "golang.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".golang.net"
+  },
+  {
+    "Type": 0,
+    "Value": "golang.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".golang.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kubernetes.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".kubernetes.io"
+  },
+  {
+    "Type": 0,
+    "Value": "k8s.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".k8s.io"
+  },
+  {
+    "Type": 0,
+    "Value": "readthedocs-hosted.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".readthedocs-hosted.com"
+  },
+  {
+    "Type": 0,
+    "Value": "readthedocs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".readthedocs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "readthedocs.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".readthedocs.io"
+  },
+  {
+    "Type": 0,
+    "Value": "readthedocs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".readthedocs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "embed.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".embed.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "embedly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".embedly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ecr.aws"
+  },
+  {
+    "Type": 1,
+    "Value": ".ecr.aws"
+  },
+  {
+    "Type": 0,
+    "Value": "getfedora.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".getfedora.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedoraforum.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedoraforum.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedorapeople.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedorapeople.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedoraproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedoraproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fedoramagazine.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fedoramagazine.org"
+  },
+  {
+    "Type": 0,
+    "Value": "githubhackathon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubhackathon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubnext.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubnext.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubpreview.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubpreview.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "github.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "github.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.com"
+  },
+  {
+    "Type": 0,
+    "Value": "github.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.community"
+  },
+  {
+    "Type": 0,
+    "Value": "github.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "github.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".github.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubassets.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubassets.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubcopilot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubcopilot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "dependabot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dependabot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "git.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".git.io"
+  },
+  {
+    "Type": 0,
+    "Value": "githubstatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubstatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubuniverse.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubuniverse.com"
+  },
+  {
+    "Type": 0,
+    "Value": "githubusercontent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".githubusercontent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "myoctocat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myoctocat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opensource.guide"
+  },
+  {
+    "Type": 1,
+    "Value": ".opensource.guide"
+  },
+  {
+    "Type": 0,
+    "Value": "repo.new"
+  },
+  {
+    "Type": 1,
+    "Value": ".repo.new"
+  },
+  {
+    "Type": 0,
+    "Value": "thegithubshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thegithubshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "npm.community"
+  },
+  {
+    "Type": 1,
+    "Value": ".npm.community"
+  },
+  {
+    "Type": 0,
+    "Value": "npmjs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".npmjs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "strikingly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".strikingly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mystrikingly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mystrikingly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebase.io"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebaseapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebaseio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nginx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nginx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nginx.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nginx.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macruby.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".macruby.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cups.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cups.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macruby.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".macruby.net"
+  },
+  {
+    "Type": 0,
+    "Value": "swift.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".swift.org"
+  },
+  {
+    "Type": 0,
+    "Value": "appleswift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appleswift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webobjects.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".webobjects.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wpewebkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wpewebkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "calendarserver.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".calendarserver.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macruby.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".macruby.org"
+  },
+  {
+    "Type": 0,
+    "Value": "macosforge.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".macosforge.org"
+  },
+  {
+    "Type": 0,
+    "Value": "servicetalk.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".servicetalk.io"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-cloudkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-cloudkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "foundationdb.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".foundationdb.org"
+  },
+  {
+    "Type": 0,
+    "Value": "apple-mapkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apple-mapkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "webkitgtk.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".webkitgtk.org"
+  },
+  {
+    "Type": 0,
+    "Value": "carekit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".carekit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "researchandcare.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchandcare.org"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.net"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "webkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".webkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "xamarin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xamarin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-unpkg.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode-unpkg.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vscode.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".vscode.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "vsassets.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vsassets.io"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsforgit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsforgit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "braventures.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".braventures.com"
+  },
+  {
+    "Type": 0,
+    "Value": "braveux.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".braveux.com"
+  },
+  {
+    "Type": 0,
+    "Value": "compass.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".compass.is"
+  },
+  {
+    "Type": 0,
+    "Value": "fightforux.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fightforux.com"
+  },
+  {
+    "Type": 0,
+    "Value": "forthebadge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".forthebadge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stockagainstphotography.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stockagainstphotography.com"
+  },
+  {
+    "Type": 0,
+    "Value": "compose-spec.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".compose-spec.io"
+  },
+  {
+    "Type": 0,
+    "Value": "docker.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".docker.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alpinelinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".alpinelinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "java.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".java.com"
+  },
+  {
+    "Type": 0,
+    "Value": "java.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".java.net"
+  },
+  {
+    "Type": 0,
+    "Value": "adaptivecards.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".adaptivecards.io"
+  },
+  {
+    "Type": 0,
+    "Value": "api-extractor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".api-extractor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apisof.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".apisof.net"
+  },
+  {
+    "Type": 0,
+    "Value": "appcenter.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".appcenter.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "blazor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".blazor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "botframework.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".botframework.com"
+  },
+  {
+    "Type": 0,
+    "Value": "codethemicrobit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".codethemicrobit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devopsassessment.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".devopsassessment.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dot.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dot.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gamesstack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gamesstack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "graphengine.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".graphengine.io"
+  },
+  {
+    "Type": 0,
+    "Value": "insiderdevtour.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insiderdevtour.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jwt.ms"
+  },
+  {
+    "Type": 1,
+    "Value": ".jwt.ms"
+  },
+  {
+    "Type": 0,
+    "Value": "microbit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microbit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftadc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftadc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftgamestack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftgamestack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftiotinsiderlabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftiotinsiderlabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.info"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.org"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsilverlight.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsilverlight.net"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftsqlserver.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftsqlserver.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mmdnn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mmdnn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mono-project.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mono-project.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msinnovationchallenge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msinnovationchallenge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mspairlift.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mspairlift.com"
+  },
+  {
+    "Type": 0,
+    "Value": "msropendata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".msropendata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nuget.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nuget.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nugettest.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nugettest.org"
+  },
+  {
+    "Type": 0,
+    "Value": "opentranslatorstothings.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opentranslatorstothings.org"
+  },
+  {
+    "Type": 0,
+    "Value": "poshtestgallery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".poshtestgallery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pwabuilder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pwabuilder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sankie.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sankie.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sqlserveronlinux.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sqlserveronlinux.com"
+  },
+  {
+    "Type": 0,
+    "Value": "timelinestoryteller.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timelinestoryteller.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uwpcommunitytoolkit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uwpcommunitytoolkit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio-staging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio-staging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.co"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vfsforgit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfsforgit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devstreaming-cdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".devstreaming-cdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developerservices2.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".developerservices2.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playgrounds-cdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playgrounds-cdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "developer.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".developer.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "devimages-cdn.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".devimages-cdn.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "timestamp.apple.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".timestamp.apple.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visualstudio.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".visualstudio.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "greenend.org.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".greenend.org.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "mcr.microsoft.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mcr.microsoft.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blob.core.windows.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".blob.core.windows.net"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$"
+  },
+  {
+    "Type": 3,
+    "Value": "^github-production-release-asset-[0-9a-zA-Z]{6}\\.s3\\.amazonaws\\.com$"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.ampproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ads.unitychina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.unitychina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "splash-ads.cdn.unity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".splash-ads.cdn.unity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "splash-ads.unitychina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".splash-ads.unitychina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unityads.unity.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unityads.unity.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "unityads.unity3d.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unityads.unity3d.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unityads.unitychina.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".unityads.unitychina.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cdn.jetbrains.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdn.jetbrains.com"
+  },
+  {
+    "Type": 0,
+    "Value": "download-cdn.jetbrains.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".download-cdn.jetbrains.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase-settings.crashlytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "researchkit.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchkit.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "swiftui.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".swiftui.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "microsoftreactor.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".microsoftreactor.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "reactorms.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".reactorms.com.cn"
+  }
+]

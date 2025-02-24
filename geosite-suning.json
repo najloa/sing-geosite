@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "cnsuning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnsuning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "suning.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".suning.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "suning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".suning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "suningcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".suningcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "suningestate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".suningestate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "suningholdings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".suningholdings.com"
+  }
+]

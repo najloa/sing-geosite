@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "link.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".link.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stripe-terminal-local-reader.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".stripe-terminal-local-reader.net"
+  },
+  {
+    "Type": 0,
+    "Value": "stripe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stripe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stripe.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".stripe.network"
+  },
+  {
+    "Type": 0,
+    "Value": "stripecdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stripecdn.com"
+  }
+]

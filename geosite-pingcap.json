@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "asktug.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".asktug.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pingcap.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".pingcap.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "pingcap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pingcap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tidb.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidb.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "tidb.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidb.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tidbcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tidbcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tikv.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tikv.org"
+  }
+]

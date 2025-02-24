@@ -1,0 +1,1638 @@
+[
+  {
+    "Type": 1,
+    "Value": ".kindle"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--cckwcxetd"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--jlq480n2rg"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamaxun"
+  },
+  {
+    "Type": 1,
+    "Value": ".zappos"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.in"
+  },
+  {
+    "Type": 0,
+    "Value": "images-amazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".images-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.in"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.it"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "amaaozn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amaaozn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon-fashions.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon-fashions.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon-jp-recruiting.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon-jp-recruiting.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon-lantern.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon-lantern.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon-launchpad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon-launchpad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.de"
+  },
+  {
+    "Type": 0,
+    "Value": "media-imdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".media-imdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "imdb.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb.to"
+  },
+  {
+    "Type": 0,
+    "Value": "imdb.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".imdb.com"
+  },
+  {
+    "Type": 0,
+    "Value": "boxofficemojo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".boxofficemojo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a2z.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".a2z.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awscommandlineinterface.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awscommandlineinterface.com"
+  },
+  {
+    "Type": 0,
+    "Value": "containersonaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".containersonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.es"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.in"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.it"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.jobs"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.jobs"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.red"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.red"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonalexavoxcon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonalexavoxcon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonauthorinsights.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonauthorinsights.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonbusiness.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonbusiness.org"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonbusinessblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonbusinessblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazondevicesupport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazondevicesupport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonfctours.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonfctours.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonianblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonianblog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonimages.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonimages.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonlaunchpad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonlaunchpad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonliterarypartnership.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonliterarypartnership.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonlumberyard.wang"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonlumberyard.wang"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonpay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonpay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonpay.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonpay.in"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonsdi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonsdi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonstudiosguilds.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonstudiosguilds.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonvideodirect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonvideodirect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amzn.asia"
+  },
+  {
+    "Type": 1,
+    "Value": ".amzn.asia"
+  },
+  {
+    "Type": 0,
+    "Value": "amzn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amzn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amzn.to"
+  },
+  {
+    "Type": 1,
+    "Value": ".amzn.to"
+  },
+  {
+    "Type": 0,
+    "Value": "amznl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amznl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "associates-amazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".associates-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gameon-masters.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gameon-masters.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gdansk-amazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gdansk-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleproject.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleproject.com"
+  },
+  {
+    "Type": 0,
+    "Value": "media-amazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".media-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "primeday.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".primeday.info"
+  },
+  {
+    "Type": 0,
+    "Value": "siege-amazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".siege-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl-images-amazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssl-images-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ueberamazon.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".ueberamazon.de"
+  },
+  {
+    "Type": 0,
+    "Value": "yamaxun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamaxun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alexa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alexa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "audible.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".audible.com"
+  },
+  {
+    "Type": 0,
+    "Value": "createspace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".createspace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.es"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.it"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.de"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.de"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "elasticbeanstalk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".elasticbeanstalk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.info"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.es"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasis.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasis.info"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasis.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasis.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasis.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasis.org"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasis.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasis.us"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cdkworkshop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cdkworkshop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aiv-cdn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".aiv-cdn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonprimevideos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonprimevideos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonvideo.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonvideo.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonvideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonvideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "prime-video.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".prime-video.com"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasisnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasisnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "primevideo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".primevideo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "wfm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wfm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wholecitiesfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wholecitiesfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wholefoods.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wholefoods.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wholefoodsmarket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wholefoodsmarket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wholekidsfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wholekidsfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wholeplanetfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wholeplanetfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "awstrack.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".awstrack.me"
+  },
+  {
+    "Type": 0,
+    "Value": "amazontrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazontrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awstrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awstrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ss2.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".ss2.us"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsautoscaling.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsautoscaling.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "aesworkshops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aesworkshops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsbraket.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsbraket.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.biz"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.biz"
+  },
+  {
+    "Type": 0,
+    "Value": "thinkboxsoftware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thinkboxsoftware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.info"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.net"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.org"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonses.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonses.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amplifyapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amplifyapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amplifyframework.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amplifyframework.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-iot-hackathon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-iot-hackathon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsautopilot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsautopilot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "acmvalidations.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acmvalidations.com"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws-china.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws-china.com"
+  },
+  {
+    "Type": 0,
+    "Value": "acmvalidationsaws.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acmvalidationsaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awseducate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awseducate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsedstart.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsedstart.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awseducate.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".awseducate.net"
+  },
+  {
+    "Type": 0,
+    "Value": "awseducate.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".awseducate.org"
+  },
+  {
+    "Type": 0,
+    "Value": "awsglobalaccelerator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsglobalaccelerator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsloft-johannesburg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsloft-johannesburg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsloft-stockholm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsloft-stockholm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awssecworkshops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awssecworkshops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awsthinkbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsthinkbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wholefoodsmarket.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".wholefoodsmarket.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.co.uk"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.amzndns\\.(co\\.uk|com|net|org)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$"
+  },
+  {
+    "Type": 0,
+    "Value": "aboutamazon.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aboutamazon.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alexafund.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alexafund.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "alexafund.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".alexafund.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonbusiness.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonbusiness.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonbusiness.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonbusiness.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonchoice.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonchoice.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonchoice.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonchoice.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonchoices.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonchoices.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonchoices.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonchoices.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazoninspire.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazoninspire.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazoninspire.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazoninspire.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonlaunchpad.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonlaunchpad.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonlaunchpad.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonlaunchpad.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonlending.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonlending.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonnow.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonnow.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonnow.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonnow.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "assoc-amazon.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".assoc-amazon.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "primeday.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".primeday.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "primeday.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".primeday.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yamaxun.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yamaxun.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "z.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".z.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "images-cn.ssl-images-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "images-cn-8.ssl-images-amazon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kindle.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindle.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasis.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasis.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "kindleoasis.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".kindleoasis.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonprimevideo.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonprimevideo.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonprimevideo.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonprimevideo.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazon-adsystem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazon-adsystem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "serving-sys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".serving-sys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a2z.org.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".a2z.org.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonaws.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonaws.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonwebservices.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonwebservices.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "amazonworkdocs.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".amazonworkdocs.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "asfiovnxocqpcry.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".asfiovnxocqpcry.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-border.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-border.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "aws-icp-domain-manager.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".aws-icp-domain-manager.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsapps.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsapps.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsapps.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsapps.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "awsstatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".awsstatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront-cn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront-cn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront-test.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront-test.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudfront.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudfront.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdcloud.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdcloud.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdcloud.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdcloud.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcddns.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcddns.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "nwcdinfosec.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".nwcdinfosec.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "route53.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".route53.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "sagemaker.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".sagemaker.com.cn"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.amzndns-cn\\.(biz|cn|com|net)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  },
+  {
+    "Type": 3,
+    "Value": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
+  }
+]

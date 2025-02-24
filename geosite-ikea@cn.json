@@ -1,0 +1,34 @@
+[
+  {
+    "Type": 0,
+    "Value": "ikea.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ikea.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-dt.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-dt.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-internal.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-internal.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "ingka-system.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".ingka-system.cn"
+  }
+]

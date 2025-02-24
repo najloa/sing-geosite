@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "client-teamviewer-com.trafficmanager.net"
+  },
+  {
+    "Type": 0,
+    "Value": "teamviewer.com.cdn.cloudflare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "anydesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anydesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nomachine.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nomachine.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rustdesk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rustdesk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teamviewer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teamviewer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teamviewer.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".teamviewer.us"
+  },
+  {
+    "Type": 0,
+    "Value": "teamviewer.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".teamviewer.cn"
+  }
+]

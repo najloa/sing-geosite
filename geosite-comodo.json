@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "comodo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "comodoca4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".comodoca4.com"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "Type": 0,
+    "Value": "aod-pod-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "as-dash-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "as-hls-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ve-dash-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ve-uhd-push-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-dash-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-dash-ww-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-hls-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-sub-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-thumb-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vod-thumb-ww-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-cmaf-push-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-cmaf-pushb-ww-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-hls-push-uk-live.akamaized.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vs-hls-pushb-uk-live.akamaized.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc-reporting-api.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc-reporting-api.app"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcverticals.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcverticals.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.in"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcpersian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcpersian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.net.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.net.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbci.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbci.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcmedia.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcmedia.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.mp-pxcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.mp-pxcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bbc.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbc.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bidi.net.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".bidi.net.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "bbcfmt.s.llnwi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".bbcfmt.s.llnwi.net"
+  }
+]

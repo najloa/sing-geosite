@@ -1,0 +1,858 @@
+[
+  {
+    "Type": 0,
+    "Value": "csis-prod.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "a.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "assets.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "c.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "osu.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "m1.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "lazer.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "notify.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "spectator.ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "aomedia.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".aomedia.org"
+  },
+  {
+    "Type": 0,
+    "Value": "atypi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".atypi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "change.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".change.org"
+  },
+  {
+    "Type": 0,
+    "Value": "globalsecurity.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalsecurity.org"
+  },
+  {
+    "Type": 0,
+    "Value": "iana.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".iana.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ietf.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ietf.org"
+  },
+  {
+    "Type": 0,
+    "Value": "itu.int"
+  },
+  {
+    "Type": 1,
+    "Value": ".itu.int"
+  },
+  {
+    "Type": 0,
+    "Value": "opte.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opte.org"
+  },
+  {
+    "Type": 0,
+    "Value": "smpte.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".smpte.org"
+  },
+  {
+    "Type": 0,
+    "Value": "un.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".un.org"
+  },
+  {
+    "Type": 0,
+    "Value": "w3.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".w3.org"
+  },
+  {
+    "Type": 0,
+    "Value": "who.int"
+  },
+  {
+    "Type": 1,
+    "Value": ".who.int"
+  },
+  {
+    "Type": 0,
+    "Value": "wto.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wto.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archive-it.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive-it.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archive.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive.org"
+  },
+  {
+    "Type": 0,
+    "Value": "archive.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "archive.today"
+  },
+  {
+    "Type": 1,
+    "Value": ".archive.today"
+  },
+  {
+    "Type": 0,
+    "Value": "openlibrary.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openlibrary.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4pcdn.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4pcdn.org"
+  },
+  {
+    "Type": 0,
+    "Value": "4plebs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".4plebs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ccstatic.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ccstatic.org"
+  },
+  {
+    "Type": 0,
+    "Value": "creativecommons.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".creativecommons.org"
+  },
+  {
+    "Type": 0,
+    "Value": "creativecommons.engineering"
+  },
+  {
+    "Type": 1,
+    "Value": ".creativecommons.engineering"
+  },
+  {
+    "Type": 0,
+    "Value": "licensebuttons.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".licensebuttons.net"
+  },
+  {
+    "Type": 0,
+    "Value": "csis.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".csis.org"
+  },
+  {
+    "Type": 0,
+    "Value": "nist.gov"
+  },
+  {
+    "Type": 1,
+    "Value": ".nist.gov"
+  },
+  {
+    "Type": 0,
+    "Value": "time.gov"
+  },
+  {
+    "Type": 1,
+    "Value": ".time.gov"
+  },
+  {
+    "Type": 0,
+    "Value": "openmaps.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openmaps.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmap.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmap.net"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmap.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openstreetmaps.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openstreetmaps.org"
+  },
+  {
+    "Type": 0,
+    "Value": "osm.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".osm.org"
+  },
+  {
+    "Type": 0,
+    "Value": "osmfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".osmfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "stateofthemap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stateofthemap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stateofthemap.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".stateofthemap.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ppy.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".ppy.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "emojipedia.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".emojipedia.org"
+  },
+  {
+    "Type": 0,
+    "Value": "worldemojiawards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".worldemojiawards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "worldemojiday.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".worldemojiday.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--yt8h.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--yt8h.la"
+  },
+  {
+    "Type": 0,
+    "Value": "f-dro1d.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".f-dro1d.org"
+  },
+  {
+    "Type": 0,
+    "Value": "f-droid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".f-droid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "f-droid.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".f-droid.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fdroid.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fdroid.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "tryengineering.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tryengineering.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-ccnc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-ccnc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-ecce.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-ecce.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeemce.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeemce.org"
+  },
+  {
+    "Type": 0,
+    "Value": "standardsuniversity.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".standardsuniversity.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-region6.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-region6.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeer10.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeer10.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeer5.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeer5.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeer8.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeer8.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeeusa.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeeusa.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeefoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeefoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-into-focus.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-into-focus.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-vics.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-vics.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeeday.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeeday.org"
+  },
+  {
+    "Type": 0,
+    "Value": "datasheets360.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".datasheets360.com"
+  },
+  {
+    "Type": 0,
+    "Value": "globalspec.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".globalspec.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-isto.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-isto.org"
+  },
+  {
+    "Type": 0,
+    "Value": "techstreet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".techstreet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "computer.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".computer.org"
+  },
+  {
+    "Type": 0,
+    "Value": "comsoc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".comsoc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "embs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".embs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "emcs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".emcs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "grss-ieee.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".grss-ieee.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-aess.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-aess.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-cas.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-cas.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-ceda.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-ceda.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-edusociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-edusociety.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-ies.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-ies.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-ims.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-ims.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-npss.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-npss.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-pels.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-pels.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-pes.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-pes.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-ras.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-ras.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-sensors.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-sensors.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-tems.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-tems.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieee-uffc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieee-uffc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeeaps.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeeaps.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeecsc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeecsc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeecss.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeecss.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeedeis.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeedeis.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeemagnetics.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeemagnetics.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeenano.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeenano.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeeoes.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeeoes.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeesmc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeesmc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ieeesystemscouncil.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ieeesystemscouncil.org"
+  },
+  {
+    "Type": 0,
+    "Value": "itsoc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".itsoc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "mtt.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".mtt.org"
+  },
+  {
+    "Type": 0,
+    "Value": "photonicssociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".photonicssociety.org"
+  },
+  {
+    "Type": 0,
+    "Value": "signalprocessingsociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".signalprocessingsociety.org"
+  },
+  {
+    "Type": 0,
+    "Value": "technologyandsociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".technologyandsociety.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vtsociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".vtsociety.org"
+  },
+  {
+    "Type": 0,
+    "Value": "paskoocheh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paskoocheh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rolfoundation.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rolfoundation.org"
+  },
+  {
+    "Type": 0,
+    "Value": "rolsociety.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".rolsociety.org"
+  }
+]

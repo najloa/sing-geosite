@@ -1,0 +1,30 @@
+[
+  {
+    "Type": 0,
+    "Value": "bilibili.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".bilibili.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "biliintl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biliintl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dreamcast.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".dreamcast.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "upos-hz-mirrorakam.akamaized.net"
+  }
+]

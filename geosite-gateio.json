@@ -1,0 +1,42 @@
+[
+  {
+    "Type": 0,
+    "Value": "gate.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".gate.io"
+  },
+  {
+    "Type": 0,
+    "Value": "gatedata.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".gatedata.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gateimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gateio.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateio.live"
+  },
+  {
+    "Type": 0,
+    "Value": "gateio.services"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateio.services"
+  }
+]

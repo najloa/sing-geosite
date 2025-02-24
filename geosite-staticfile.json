@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "staticfile.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticfile.net"
+  },
+  {
+    "Type": 0,
+    "Value": "staticfile.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".staticfile.org"
+  }
+]

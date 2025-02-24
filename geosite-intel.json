@@ -1,0 +1,2078 @@
+[
+  {
+    "Type": 1,
+    "Value": ".intel"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "saffrontech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".saffrontech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.af"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.af"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ag"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ag"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.at"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.at"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.az"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.az"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ba"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ba"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.bg"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.bg"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.bh"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.bh"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.bi"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.bi"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.bs"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.bs"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.by"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.by"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cg"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cg"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cl"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cl"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cm"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cm"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cu"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cu"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cz"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cz"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.de"
+  },
+  {
+    "Type": 0,
+    "Value": "ospray.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ospray.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ospray.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".ospray.net"
+  },
+  {
+    "Type": 0,
+    "Value": "clearlinux.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".clearlinux.org"
+  },
+  {
+    "Type": 0,
+    "Value": "acpica.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".acpica.com"
+  },
+  {
+    "Type": 0,
+    "Value": "snap-telemetry.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".snap-telemetry.io"
+  },
+  {
+    "Type": 0,
+    "Value": "openvinotoolkit.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".openvinotoolkit.org"
+  },
+  {
+    "Type": 0,
+    "Value": "oneapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oneapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intellinuxgraphics.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellinuxgraphics.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intellinuxgraphics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellinuxgraphics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hyperscan.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".hyperscan.io"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tt"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tt"
+  },
+  {
+    "Type": 0,
+    "Value": "barefootnetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".barefootnetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xscale.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xscale.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xn--ztsq84g.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".xn--ztsq84g.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "xeon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xeon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vpro.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vpro.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vpro.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vpro.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vokevr.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vokevr.com"
+  },
+  {
+    "Type": 0,
+    "Value": "trustedanalytics.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustedanalytics.net"
+  },
+  {
+    "Type": 0,
+    "Value": "trustedanalytics.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".trustedanalytics.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thunderbolttechnology.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".thunderbolttechnology.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ac"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ac"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.dk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.dk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.dz"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.dz"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ee"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ee"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.eg"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.eg"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.es"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.es"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.eu"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.eu"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ga"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ga"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.gd"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.gd"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ge"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ge"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.gl"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.gl"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.gm"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.gm"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.gr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.gr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.gs"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.gs"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.gt"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.gt"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.gy"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.gy"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.hn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.hn"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ht"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ht"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.hu"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.hu"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ie"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ie"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.in"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.in"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.io"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.it"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.je"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.je"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.jo"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.jo"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ke"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ke"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.la"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.lc"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.lc"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.lk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.lk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.lt"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.lt"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.lu"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.lu"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ly"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ly"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ma"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ma"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.md"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.md"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.me"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mg"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mg"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mn"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mp"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mp"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mt"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mt"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mu"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mu"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mw"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mw"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.my"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ng"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ng"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.nl"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.nl"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.nu"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.nu"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.nz"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.nz"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.pa"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.pa"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.pl"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.pl"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.pn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.pn"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.re"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.re"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ro"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ro"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ru"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ru"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.rw"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.rw"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sa"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sa"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sc"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sc"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.se"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sg"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sg"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.si"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.si"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sn"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.st"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.st"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sv"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sv"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sx"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sx"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.sy"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.sy"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tf"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tf"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tj"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tj"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tl"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tl"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tm"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tm"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tn"
+  },
+  {
+    "Type": 0,
+    "Value": "01.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".01.org"
+  },
+  {
+    "Type": 0,
+    "Value": "theintelstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".theintelstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.ua"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.ua"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.us"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.uz"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.uz"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.vg"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.vg"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.vn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.vn"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.vu"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.vu"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.wf"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.wf"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.yt"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.yt"
+  },
+  {
+    "Type": 0,
+    "Value": "altera.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".altera.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alteraforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alteraforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alteraforums.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alteraforums.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alteraforums.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".alteraforums.net"
+  },
+  {
+    "Type": 0,
+    "Value": "alterauserforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alterauserforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alterauserforum.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".alterauserforum.net"
+  },
+  {
+    "Type": 0,
+    "Value": "alterauserforums.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alterauserforums.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alterauserforums.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".alterauserforums.net"
+  },
+  {
+    "Type": 0,
+    "Value": "buyaltera.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buyaltera.com"
+  },
+  {
+    "Type": 0,
+    "Value": "celeron.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".celeron.com"
+  },
+  {
+    "Type": 0,
+    "Value": "celeron.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".celeron.net"
+  },
+  {
+    "Type": 0,
+    "Value": "centrino.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".centrino.com"
+  },
+  {
+    "Type": 0,
+    "Value": "centrino.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".centrino.net"
+  },
+  {
+    "Type": 0,
+    "Value": "chips.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chips.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cilk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cilk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cilk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cilk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudinsights.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudinsights.com"
+  },
+  {
+    "Type": 0,
+    "Value": "clusterconnection.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".clusterconnection.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coreduo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coreduo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "coreextreme.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".coreextreme.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crosswalk-project.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crosswalk-project.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crosswalk-project.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".crosswalk-project.net"
+  },
+  {
+    "Type": 0,
+    "Value": "doceapower.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".doceapower.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "enpirion.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".enpirion.com"
+  },
+  {
+    "Type": 0,
+    "Value": "exascale-tech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".exascale-tech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "exploreintel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".exploreintel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gordonmoore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gordonmoore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "insidefilms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".insidefilms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intel-research.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel-research.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intel-university-collaboration.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel-university-collaboration.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intelamericasstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelamericasstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelapacstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelapacstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelatom.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelatom.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intelcapital.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelcapital.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelcapital.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelcapital.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intelcloudbuilders.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelcloudbuilders.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelcloudfinder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelcloudfinder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelemeastore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelemeastore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inteleventexpress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".inteleventexpress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelforchange.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelforchange.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelfreepress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelfreepress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelgo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelgo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intelinsight.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelinsight.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inteliotmarketplace.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".inteliotmarketplace.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intell.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intell.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intellearningseries.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellearningseries.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intellinuxwireless.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".intellinuxwireless.net"
+  },
+  {
+    "Type": 0,
+    "Value": "intelnervana.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelnervana.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelnet.component"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelnet.component"
+  },
+  {
+    "Type": 0,
+    "Value": "intelplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelquark.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelquark.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelrealsense.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelrealsense.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelrxt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelrxt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelsalestraining.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelsalestraining.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelsecurity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelsecurity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelserveredge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelserveredge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelsoftwarenetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelsoftwarenetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "inteltechnologyprovider.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".inteltechnologyprovider.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intelvmwarecybersecurity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelvmwarecybersecurity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "itnel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".itnel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "latencytop.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".latencytop.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lookinside.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lookinside.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makebettercode.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".makebettercode.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makesenseofdata.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".makesenseofdata.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movidius.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".movidius.com"
+  },
+  {
+    "Type": 0,
+    "Value": "movidius.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".movidius.net"
+  },
+  {
+    "Type": 0,
+    "Value": "nervanasys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nervanasys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nevex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nevex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nextgenerationcenter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextgenerationcenter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niosii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".niosii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "niosii.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".niosii.net"
+  },
+  {
+    "Type": 0,
+    "Value": "omekinteractive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".omekinteractive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "omnitek.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".omnitek.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "openamt.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openamt.com"
+  },
+  {
+    "Type": 0,
+    "Value": "opendroneid.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".opendroneid.org"
+  },
+  {
+    "Type": 0,
+    "Value": "optanedifference.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".optanedifference.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pentium.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pentium.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pentium.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pentium.net"
+  },
+  {
+    "Type": 0,
+    "Value": "pintool.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pintool.com"
+  },
+  {
+    "Type": 0,
+    "Value": "poweredbyintel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".poweredbyintel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reconinstruments.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reconinstruments.com"
+  },
+  {
+    "Type": 0,
+    "Value": "reconjet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".reconjet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "researchintel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".researchintel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "sensorynetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sensorynetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "siport.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".siport.com"
+  },
+  {
+    "Type": 0,
+    "Value": "smart-edge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".smart-edge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.ve"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.ve"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.ph"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.ph"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.cr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.cr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.za"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.za"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.my"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.my"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.mx"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.mx"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.jm"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.jm"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.hk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.hk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.ec"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.ec"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.co"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.br"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.br"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.pr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.pr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.au"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.au"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.bo"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.bo"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.pe"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.pe"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.uk"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.il"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.il"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.id"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.id"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.ar"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.ar"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.co.ae"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.co.ae"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.tr"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.tr"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.tw"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.tw"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.uy"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.uy"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.py"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.py"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "intel.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intel.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "intelrealsense.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".intelrealsense.cn"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "bing.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bing.com.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.bing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.bing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.bing.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.bing.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cn.mm.bing.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cn.mm.bing.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ditu.live.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ditu.live.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bj1.api.bing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "emoi-cncdn.bing.com"
+  }
+]

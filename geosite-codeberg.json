@@ -1,0 +1,18 @@
+[
+  {
+    "Type": 0,
+    "Value": "codeberg.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeberg.org"
+  },
+  {
+    "Type": 0,
+    "Value": "codeberg.page"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeberg.page"
+  }
+]

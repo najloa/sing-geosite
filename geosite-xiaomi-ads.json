@@ -1,0 +1,122 @@
+[
+  {
+    "Type": 0,
+    "Value": "a.market.xiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".a.market.xiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.intl.xiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.intl.xiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.mi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.mi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad.xiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad.xiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ad1.xiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ad1.xiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "admob.xiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".admob.xiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adv.sec.intl.miui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adv.sec.intl.miui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "adv.sec.miui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".adv.sec.miui.com"
+  },
+  {
+    "Type": 0,
+    "Value": "misc.in.duokanbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".misc.in.duokanbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mistat.xiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mistat.xiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.d.mi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sentry.d.mi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.d.xiaomi.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sentry.d.xiaomi.net"
+  },
+  {
+    "Type": 0,
+    "Value": "tjqonline.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".tjqonline.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "tracker.ai.xiaomi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tracker.ai.xiaomi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tracking.miui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tracking.miui.com"
+  }
+]

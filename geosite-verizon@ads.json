@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "ads.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ads.yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gemini.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemini.yahoo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ysm.yahoo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ysm.yahoo.com"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "bisq.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bisq.io"
+  },
+  {
+    "Type": 0,
+    "Value": "bisq.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".bisq.network"
+  },
+  {
+    "Type": 0,
+    "Value": "bitsquare.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitsquare.io"
+  }
+]

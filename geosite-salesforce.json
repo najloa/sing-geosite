@@ -1,0 +1,314 @@
+[
+  {
+    "Type": 0,
+    "Value": "appcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "appexchange.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".appexchange.com"
+  },
+  {
+    "Type": 0,
+    "Value": "attic.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".attic.io"
+  },
+  {
+    "Type": 0,
+    "Value": "beyondcore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".beyondcore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "buddymedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".buddymedia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chatter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chatter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudcraze.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudcraze.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cotweet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cotweet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "data.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".data.com"
+  },
+  {
+    "Type": 0,
+    "Value": "demandware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".demandware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "desk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".desk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "documentforce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".documentforce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dreamforce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dreamforce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "einstein.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".einstein.com"
+  },
+  {
+    "Type": 0,
+    "Value": "exacttarget.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".exacttarget.com"
+  },
+  {
+    "Type": 0,
+    "Value": "force.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".force.com"
+  },
+  {
+    "Type": 0,
+    "Value": "govforce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".govforce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gravitytank.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gravitytank.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heywire.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heywire.com"
+  },
+  {
+    "Type": 0,
+    "Value": "krux.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".krux.com"
+  },
+  {
+    "Type": 0,
+    "Value": "marketingcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".marketingcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "metamind.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".metamind.io"
+  },
+  {
+    "Type": 0,
+    "Value": "pardot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pardot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "quotable.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".quotable.com"
+  },
+  {
+    "Type": 0,
+    "Value": "radian6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".radian6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "relateiq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".relateiq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "salesforce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".salesforce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "salesforce.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".salesforce.org"
+  },
+  {
+    "Type": 0,
+    "Value": "salesforceiq.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".salesforceiq.com"
+  },
+  {
+    "Type": 0,
+    "Value": "salesforceliveagent.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".salesforceliveagent.com"
+  },
+  {
+    "Type": 0,
+    "Value": "salesforcemarketingcloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".salesforcemarketingcloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sequence.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sequence.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sfdcstatic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sfdcstatic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sforce.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".sforce.com"
+  },
+  {
+    "Type": 0,
+    "Value": "site.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".site.com"
+  },
+  {
+    "Type": 0,
+    "Value": "social.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".social.com"
+  },
+  {
+    "Type": 0,
+    "Value": "steelbrick.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".steelbrick.com"
+  },
+  {
+    "Type": 0,
+    "Value": "twinprime.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".twinprime.com"
+  },
+  {
+    "Type": 0,
+    "Value": "weinvoiceit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weinvoiceit.com"
+  }
+]

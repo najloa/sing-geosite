@@ -1,0 +1,54 @@
+[
+  {
+    "Type": 1,
+    "Value": ".cern"
+  },
+  {
+    "Type": 0,
+    "Value": "ams02.space"
+  },
+  {
+    "Type": 1,
+    "Value": ".ams02.space"
+  },
+  {
+    "Type": 0,
+    "Value": "cern.ch"
+  },
+  {
+    "Type": 1,
+    "Value": ".cern.ch"
+  },
+  {
+    "Type": 0,
+    "Value": "cixp.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".cixp.net"
+  },
+  {
+    "Type": 0,
+    "Value": "dotcernpilot.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".dotcernpilot.info"
+  },
+  {
+    "Type": 0,
+    "Value": "ippog.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ippog.org"
+  },
+  {
+    "Type": 0,
+    "Value": "linearcollider.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".linearcollider.org"
+  }
+]

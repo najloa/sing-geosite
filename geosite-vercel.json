@@ -1,0 +1,194 @@
+[
+  {
+    "Type": 0,
+    "Value": "vercel.events"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.events"
+  },
+  {
+    "Type": 0,
+    "Value": "zeit.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeit.co"
+  },
+  {
+    "Type": 0,
+    "Value": "nextjs.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".nextjs.org"
+  },
+  {
+    "Type": 0,
+    "Value": "now.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".now.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "static.fun"
+  },
+  {
+    "Type": 1,
+    "Value": ".static.fun"
+  },
+  {
+    "Type": 0,
+    "Value": "title.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".title.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "turborepo.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".turborepo.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel-dns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel-dns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel-status.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel-status.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel.app"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.app"
+  },
+  {
+    "Type": 0,
+    "Value": "zeitworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeitworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hyper.is"
+  },
+  {
+    "Type": 1,
+    "Value": ".hyper.is"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel.pub"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.pub"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel.live"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.live"
+  },
+  {
+    "Type": 0,
+    "Value": "err.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".err.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel.store"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.store"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "zeit-world.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeit-world.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeit-world.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeit-world.net"
+  },
+  {
+    "Type": 0,
+    "Value": "zeit-world.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeit-world.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vercel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vercel.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeit.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeit.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "zeit-world.co.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeit-world.co.uk"
+  }
+]

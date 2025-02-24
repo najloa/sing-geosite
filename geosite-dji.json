@@ -1,0 +1,50 @@
+[
+  {
+    "Type": 0,
+    "Value": "dji.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dji.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dji.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dji.net"
+  },
+  {
+    "Type": 0,
+    "Value": "djicdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".djicdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "djiops.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".djiops.com"
+  },
+  {
+    "Type": 0,
+    "Value": "djiservice.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".djiservice.org"
+  },
+  {
+    "Type": 0,
+    "Value": "skypixel.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skypixel.com"
+  }
+]

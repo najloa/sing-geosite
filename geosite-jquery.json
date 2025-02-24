@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "jquery.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jquery.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jquerymobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jquerymobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jqueryui.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".jqueryui.com"
+  }
+]

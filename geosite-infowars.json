@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "banned.video"
+  },
+  {
+    "Type": 1,
+    "Value": ".banned.video"
+  },
+  {
+    "Type": 0,
+    "Value": "infowars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".infowars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "infowarsmedia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".infowarsmedia.com"
+  }
+]

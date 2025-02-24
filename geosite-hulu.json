@@ -1,0 +1,382 @@
+[
+  {
+    "Type": 0,
+    "Value": "hulu.playback.edge.bamgrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "112263.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".112263.com"
+  },
+  {
+    "Type": 0,
+    "Value": "callhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".callhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "findyourlimits.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".findyourlimits.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freehulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freehulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hooloo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".hooloo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "hoolu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoolu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hoolu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".hoolu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "hu1u.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hu1u.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huloo.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".huloo.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "huloo.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".huloo.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "hulu.us"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulu.us"
+  },
+  {
+    "Type": 0,
+    "Value": "huluaction.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluaction.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluad.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluad.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluasks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluasks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulucall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulucall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulufree.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulufree.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulugans.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulugans.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulugermany.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulugermany.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulugo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulugo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluim.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluim.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluinstantmessenger.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluinstantmessenger.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluitaly.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluitaly.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulunet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulunet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulunetwork.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulunetwork.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluplus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulupremium.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulupremium.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulupurchase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulupurchase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluqa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluqa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulurussia.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulurussia.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluspain.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluspain.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulusports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulusports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulustream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulustream.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluteam.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluteam.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hulutv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hulutv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "huluusa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".huluusa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "joinmaidez.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".joinmaidez.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mushymush.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".mushymush.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "myhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".myhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "originalhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".originalhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "payhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".payhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "registerhulu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".registerhulu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thehulubraintrust.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thehulubraintrust.com"
+  },
+  {
+    "Type": 0,
+    "Value": "wwwhuluplus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wwwhuluplus.com"
+  }
+]

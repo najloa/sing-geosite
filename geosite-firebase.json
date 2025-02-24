@@ -1,0 +1,86 @@
+[
+  {
+    "Type": 0,
+    "Value": "firebase.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseappcheck.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebasedynamiclinks-ipv4.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebasedynamiclinks-ipv6.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebasedynamiclinks.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseinappmessaging.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseinstallations.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaselogging-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaselogging.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseperusertopics-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseremoteconfig.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebase.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebase.io"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebaseapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebaseio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".firebaseio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "firebase-settings.crashlytics.com"
+  }
+]

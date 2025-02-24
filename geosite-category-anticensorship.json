@@ -1,0 +1,698 @@
+[
+  {
+    "Type": 0,
+    "Value": "vpngate.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".vpngate.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "shadowsocks.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".shadowsocks.org"
+  },
+  {
+    "Type": 0,
+    "Value": "browserleaks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".browserleaks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bypasscensorship.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".bypasscensorship.org"
+  },
+  {
+    "Type": 0,
+    "Value": "censorship.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".censorship.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "dat.foundation"
+  },
+  {
+    "Type": 1,
+    "Value": ".dat.foundation"
+  },
+  {
+    "Type": 0,
+    "Value": "democracy.earth"
+  },
+  {
+    "Type": 1,
+    "Value": ".democracy.earth"
+  },
+  {
+    "Type": 0,
+    "Value": "eff.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".eff.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ffprofile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ffprofile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freenetproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".freenetproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "fteproxy.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".fteproxy.org"
+  },
+  {
+    "Type": 0,
+    "Value": "geti2p.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".geti2p.net"
+  },
+  {
+    "Type": 0,
+    "Value": "getoutline.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".getoutline.org"
+  },
+  {
+    "Type": 0,
+    "Value": "gfw.report"
+  },
+  {
+    "Type": 1,
+    "Value": ".gfw.report"
+  },
+  {
+    "Type": 0,
+    "Value": "guardianproject.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".guardianproject.info"
+  },
+  {
+    "Type": 0,
+    "Value": "hiddify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hiddify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "jitsi.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".jitsi.org"
+  },
+  {
+    "Type": 0,
+    "Value": "haveibeenpwned.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".haveibeenpwned.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ntc.party"
+  },
+  {
+    "Type": 1,
+    "Value": ".ntc.party"
+  },
+  {
+    "Type": 0,
+    "Value": "onionshare.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".onionshare.org"
+  },
+  {
+    "Type": 0,
+    "Value": "ooni.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".ooni.org"
+  },
+  {
+    "Type": 0,
+    "Value": "openvpn.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".openvpn.net"
+  },
+  {
+    "Type": 0,
+    "Value": "privacytools.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".privacytools.io"
+  },
+  {
+    "Type": 0,
+    "Value": "psiphon.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".psiphon.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "psiphon3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".psiphon3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sagernet.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".sagernet.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vpngate.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vpngate.net"
+  },
+  {
+    "Type": 0,
+    "Value": "sspanel.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sspanel.net"
+  },
+  {
+    "Type": 0,
+    "Value": "stunnel.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".stunnel.org"
+  },
+  {
+    "Type": 0,
+    "Value": "telex.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".telex.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "tribler.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".tribler.org"
+  },
+  {
+    "Type": 0,
+    "Value": "tunsafe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tunsafe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "turkeyblocks.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".turkeyblocks.org"
+  },
+  {
+    "Type": 0,
+    "Value": "uproxy.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".uproxy.org"
+  },
+  {
+    "Type": 0,
+    "Value": "vuvuzela.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".vuvuzela.io"
+  },
+  {
+    "Type": 0,
+    "Value": "whonix.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".whonix.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikileaks.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikileaks.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wireguard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".wireguard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zeronet.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".zeronet.io"
+  },
+  {
+    "Type": 0,
+    "Value": "getlantern.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".getlantern.org"
+  },
+  {
+    "Type": 0,
+    "Value": "lantern.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".lantern.io"
+  },
+  {
+    "Type": 0,
+    "Value": "opengw.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".opengw.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cf-ipfs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cf-ipfs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "akasha.world"
+  },
+  {
+    "Type": 1,
+    "Value": ".akasha.world"
+  },
+  {
+    "Type": 0,
+    "Value": "lokinet.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".lokinet.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pwnedpasswords.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pwnedpasswords.com"
+  },
+  {
+    "Type": 0,
+    "Value": "paskoocheh.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".paskoocheh.com"
+  },
+  {
+    "Type": 0,
+    "Value": "softether.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".softether.org"
+  },
+  {
+    "Type": 0,
+    "Value": "softether-download.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".softether-download.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ipns.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipns.co"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.tech"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.tech"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudflare-ipfs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudflare-ipfs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ahmia.fi"
+  },
+  {
+    "Type": 1,
+    "Value": ".ahmia.fi"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.io"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs-gateway.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs-gateway.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "c4rex.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".c4rex.co"
+  },
+  {
+    "Type": 0,
+    "Value": "via0.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".via0.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nftstorage.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".nftstorage.link"
+  },
+  {
+    "Type": 0,
+    "Value": "jorropo.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".jorropo.net"
+  },
+  {
+    "Type": 0,
+    "Value": "crustwebsites.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".crustwebsites.net"
+  },
+  {
+    "Type": 0,
+    "Value": "4everland.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".4everland.io"
+  },
+  {
+    "Type": 0,
+    "Value": "dweb.link"
+  },
+  {
+    "Type": 1,
+    "Value": ".dweb.link"
+  },
+  {
+    "Type": 0,
+    "Value": "censorship.no"
+  },
+  {
+    "Type": 1,
+    "Value": ".censorship.no"
+  },
+  {
+    "Type": 0,
+    "Value": "citizenlab.ca"
+  },
+  {
+    "Type": 1,
+    "Value": ".citizenlab.ca"
+  },
+  {
+    "Type": 0,
+    "Value": "citizenlab.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".citizenlab.org"
+  },
+  {
+    "Type": 0,
+    "Value": "epicbrowser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".epicbrowser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "v2fly.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".v2fly.org"
+  },
+  {
+    "Type": 0,
+    "Value": "v2ray.cool"
+  },
+  {
+    "Type": 1,
+    "Value": ".v2ray.cool"
+  },
+  {
+    "Type": 0,
+    "Value": "v2ray.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".v2ray.com"
+  },
+  {
+    "Type": 0,
+    "Value": "torproject.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".torproject.org"
+  },
+  {
+    "Type": 0,
+    "Value": "wikiunblocked.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".wikiunblocked.org"
+  },
+  {
+    "Type": 0,
+    "Value": "applecensorship.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".applecensorship.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freebrowser.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".freebrowser.org"
+  },
+  {
+    "Type": 0,
+    "Value": "freewechat.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freewechat.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freeweibo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".freeweibo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "freezhihu.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".freezhihu.org"
+  },
+  {
+    "Type": 0,
+    "Value": "greatfire.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".greatfire.org"
+  },
+  {
+    "Type": 0,
+    "Value": "pao-pao.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".pao-pao.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.eternum.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.eternum.io"
+  },
+  {
+    "Type": 0,
+    "Value": "gateway.pinata.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".gateway.pinata.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.runfission.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.runfission.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.anonymize.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.anonymize.com"
+  },
+  {
+    "Type": 0,
+    "Value": "twister.net.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".twister.net.co"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.best-practice.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.best-practice.se"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.lain.la"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.lain.la"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.fleek.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.fleek.co"
+  },
+  {
+    "Type": 0,
+    "Value": "ipfs.eth.aragon.network"
+  },
+  {
+    "Type": 1,
+    "Value": ".ipfs.eth.aragon.network"
+  }
+]

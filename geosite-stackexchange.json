@@ -1,0 +1,162 @@
+[
+  {
+    "Type": 0,
+    "Value": "askubuntu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".askubuntu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blogoverflow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blogoverflow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "codeforaliving.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeforaliving.io"
+  },
+  {
+    "Type": 0,
+    "Value": "mathoverflow.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mathoverflow.net"
+  },
+  {
+    "Type": 0,
+    "Value": "serverfault.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".serverfault.com"
+  },
+  {
+    "Type": 0,
+    "Value": "sstatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".sstatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "stackapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackauth.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackauth.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackexchange.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackexchange.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackmod.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackmod.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.blog"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.blog"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.co"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflow.email"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflow.email"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflowbusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflowbusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stackoverflowcareers.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackoverflowcareers.com"
+  },
+  {
+    "Type": 0,
+    "Value": "stacksnippets.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".stacksnippets.net"
+  },
+  {
+    "Type": 0,
+    "Value": "superuser.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".superuser.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tex-talk.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".tex-talk.net"
+  },
+  {
+    "Type": 0,
+    "Value": "thesffblog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesffblog.com"
+  }
+]

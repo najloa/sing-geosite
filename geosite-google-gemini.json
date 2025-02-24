@@ -1,0 +1,94 @@
+[
+  {
+    "Type": 0,
+    "Value": "ai.google.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "alkalicore-pa.clients6.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deepmind.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepmind.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deepmind.google"
+  },
+  {
+    "Type": 1,
+    "Value": ".deepmind.google"
+  },
+  {
+    "Type": 0,
+    "Value": "generativeai.google"
+  },
+  {
+    "Type": 1,
+    "Value": ".generativeai.google"
+  },
+  {
+    "Type": 0,
+    "Value": "geller-pa.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geller-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "generativelanguage.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".generativelanguage.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "proactivebackend-pa.googleapis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".proactivebackend-pa.googleapis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "makersuite.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".makersuite.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aistudio.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aistudio.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bard.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bard.google.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gemini.google.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemini.google.com"
+  }
+]

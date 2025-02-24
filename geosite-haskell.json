@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "haskell.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".haskell.org"
+  },
+  {
+    "Type": 0,
+    "Value": "haskellstack.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".haskellstack.org"
+  },
+  {
+    "Type": 0,
+    "Value": "stackage.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".stackage.org"
+  }
+]

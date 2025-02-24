@@ -1,0 +1,830 @@
+[
+  {
+    "Type": 0,
+    "Value": "vmware.tt.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cfblob.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cfblob.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudchoose.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudchoose.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudvolumes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudvolumes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cmpaas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cmpaas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cpedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cpedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crit-staging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".crit-staging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "experience-vmware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".experience-vmware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gemfire.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gemfire.net"
+  },
+  {
+    "Type": 0,
+    "Value": "geodesummit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".geodesummit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "getboxer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getboxer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitstar.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitstar.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gitstar.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gitstar.net"
+  },
+  {
+    "Type": 0,
+    "Value": "gopivotal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".gopivotal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "greenplum.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".greenplum.net"
+  },
+  {
+    "Type": 0,
+    "Value": "hwslabs.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hwslabs.com"
+  },
+  {
+    "Type": 0,
+    "Value": "immidio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".immidio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "itfromtheinside.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".itfromtheinside.com"
+  },
+  {
+    "Type": 0,
+    "Value": "latamvmwareforum.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".latamvmwareforum.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pivotalinitiative.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pivotalinitiative.com"
+  },
+  {
+    "Type": 0,
+    "Value": "snapvolumes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".snapvolumes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssdevrd.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssdevrd.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vcanedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vcanedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vcloudair.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vcloudair.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vfabric.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vfabric.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vidmpreview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vidmpreview.com"
+  },
+  {
+    "Type": 0,
+    "Value": "virsto.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".virsto.com"
+  },
+  {
+    "Type": 0,
+    "Value": "virsto.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".virsto.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vmglobal.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmglobal.net"
+  },
+  {
+    "Type": 0,
+    "Value": "vmmark.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmmark.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmtestdrive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmtestdrive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmware-cloudmanagement.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmware-cloudmanagement.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmware-techcenter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmware-techcenter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmware20mosaic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmware20mosaic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwareausnews.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwareausnews.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwarecertificationvideos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwarecertificationvideos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwarecloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwarecloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwaredemandcenter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwaredemandcenter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwareemeablog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwareemeablog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwaregrid.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwaregrid.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwarehorizon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwarehorizon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwareidentity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwareidentity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwarelearning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwarelearning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwarelearningplatform.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwarelearningplatform.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwarestuff.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwarestuff.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwareusergroupstore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwareusergroupstore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwareviewpoint.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwareviewpoint.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwarevmc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwarevmc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwdemo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwdemo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwgcomms.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwgcomms.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwhorizonair.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwhorizonair.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwidm-ads.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwidm-ads.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwidm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwidm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwlabconnect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwlabconnect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwlearningplatform.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwlearningplatform.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmworld2010.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmworld2010.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmworld2013.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmworld2013.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwsalesrewards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwsalesrewards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vmwservices.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vmwservices.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vnware.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vnware.net"
+  },
+  {
+    "Type": 0,
+    "Value": "whychoosehorizon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whychoosehorizon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whychooseview.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whychooseview.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whychoosevmwareeuc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whychoosevmwareeuc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "windowsuem.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".windowsuem.com"
+  },
+  {
+    "Type": 0,
+    "Value": "workspaceair.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".workspaceair.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xlstudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xlstudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "avinetworks.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".avinetworks.com"
+  },
+  {
+    "Type": 0,
+    "Value": "badaas.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".badaas.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitnami.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitnami.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitnamiapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitnamiapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bitnamistudio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bitnamistudio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dockerizer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dockerizer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudcredibility.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudcredibility.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudhealthtech.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudhealthtech.com"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudlive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cloudlive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kubeacademy.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kubeacademy.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kubeapps.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kubeapps.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nyansa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nyansa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "velocloud.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".velocloud.com"
+  },
+  {
+    "Type": 0,
+    "Value": "gopivotal.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".gopivotal.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heptio.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heptio.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliveipc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliveipc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliveitsm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliveitsm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliveprofiler.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliveprofiler.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alivercm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alivercm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aliverewind.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aliverewind.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alivertsm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alivertsm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alivevm.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alivevm.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alivevmax.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alivevmax.com"
+  },
+  {
+    "Type": 0,
+    "Value": "alivevue.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".alivevue.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vsphere.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vsphere.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vsphere.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".vsphere.net"
+  },
+  {
+    "Type": 0,
+    "Value": "air-watch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".air-watch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "airwatchexpress.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwatchexpress.com"
+  },
+  {
+    "Type": 0,
+    "Value": "airwatchqa.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".airwatchqa.com"
+  },
+  {
+    "Type": 0,
+    "Value": "getws1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getws1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "getwsone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".getwsone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whatisairwatch.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whatisairwatch.com"
+  },
+  {
+    "Type": 0,
+    "Value": "whatisworkspaceone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".whatisworkspaceone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "workspaceone.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".workspaceone.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heptio.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".heptio.cn"
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "Type": 0,
+    "Value": "ea.tt.omtrdc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "eaassets-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cloudsync-prod.s3.amazonaws.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin-a.akamaihd.net"
+  },
+  {
+    "Type": 0,
+    "Value": "rtm.tnt-ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssl-lvlt.cdn.ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "awayoutgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".awayoutgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefieldbadcompany2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefieldbadcompany2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefront2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefront2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefrontii.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefrontii.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bejewled-stars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bejewled-stars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bejeweledstars.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bejeweledstars.com"
+  },
+  {
+    "Type": 0,
+    "Value": "capitalgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".capitalgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "chillingo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".chillingo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "commandandconquer.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".commandandconquer.com"
+  },
+  {
+    "Type": 0,
+    "Value": "conquerwithcharacter.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".conquerwithcharacter.com"
+  },
+  {
+    "Type": 0,
+    "Value": "crysis.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".crysis.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "dawngate.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dawngate.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dawngatechronicles.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dawngatechronicles.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dicela.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dicela.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dicela.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dicela.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ea-anz-press.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ea-anz-press.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eaaccess.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eaaccess.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eacashcard.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eacashcard.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eacodigos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eacodigos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamobile.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamobile.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eanordic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eanordic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eaplay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eaplay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easports.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easports.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easports.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".easports.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsactive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsactive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsactiveonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsactiveonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsfootball.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsfootball.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsfootballclub.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsfootballclub.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsmma.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsmma.com"
+  },
+  {
+    "Type": 0,
+    "Value": "easportsworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".easportsworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "electronicarts.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".electronicarts.com"
+  },
+  {
+    "Type": 0,
+    "Value": "electronicarts.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".electronicarts.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "futpromos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".futpromos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "futunited.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".futunited.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ghostgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ghostgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heroesofdragonage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroesofdragonage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hutpromos.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hutpromos.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenchampionship.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenchampionship.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenrewards.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenrewards.com"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenseason.info"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenseason.info"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenseason.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenseason.net"
+  },
+  {
+    "Type": 0,
+    "Value": "maddenseason.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".maddenseason.org"
+  },
+  {
+    "Type": 0,
+    "Value": "maxis.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".maxis.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mysimsracing.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysimsracing.com"
+  },
+  {
+    "Type": 0,
+    "Value": "play4free.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".play4free.com"
+  },
+  {
+    "Type": 0,
+    "Value": "playapex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".playapex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pogo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pogo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pogobeta.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pogobeta.com"
+  },
+  {
+    "Type": 0,
+    "Value": "popcap.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".popcap.com"
+  },
+  {
+    "Type": 0,
+    "Value": "projectapex.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".projectapex.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pvzheroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvzheroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spearhead.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".spearhead.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "speedhunters.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speedhunters.com"
+  },
+  {
+    "Type": 0,
+    "Value": "spore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".spore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ssx3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ssx3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsbattlefront.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsbattlefront.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsbattlefront2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsbattlefront2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiberiumalliances.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiberiumalliances.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tiburon.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tiburon.com"
+  },
+  {
+    "Type": 0,
+    "Value": "tnt-ea.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".tnt-ea.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ultimaforever.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ultimaforever.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unravel2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unravel2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "unraveltwo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".unraveltwo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "visceralgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".visceralgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yogify.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yogify.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anthemgame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anthemgame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "anthemthegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".anthemthegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "apexlegends.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".apexlegends.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield1943.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield1943.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefield5.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefield5.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefieldheroes.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefieldheroes.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlefieldv.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlefieldv.com"
+  },
+  {
+    "Type": 0,
+    "Value": "battlelog.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".battlelog.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bioware.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bioware.com"
+  },
+  {
+    "Type": 0,
+    "Value": "biowarestore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".biowarestore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamythic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamythic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamythic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamythic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cncrivals.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cncrivals.com"
+  },
+  {
+    "Type": 0,
+    "Value": "camelot-europe.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".camelot-europe.com"
+  },
+  {
+    "Type": 0,
+    "Value": "camelotherald.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".camelotherald.com"
+  },
+  {
+    "Type": 0,
+    "Value": "camelotherald.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".camelotherald.net"
+  },
+  {
+    "Type": 0,
+    "Value": "daoc.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".daoc.net"
+  },
+  {
+    "Type": 0,
+    "Value": "darkageofcamelot.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".darkageofcamelot.com"
+  },
+  {
+    "Type": 0,
+    "Value": "darkness-risen.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".darkness-risen.com"
+  },
+  {
+    "Type": 0,
+    "Value": "deadspacegame.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".deadspacegame.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dice.se"
+  },
+  {
+    "Type": 1,
+    "Value": ".dice.se"
+  },
+  {
+    "Type": 0,
+    "Value": "dragonage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dragonage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dragonagekeep.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dragonagekeep.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dragonagemovie.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dragonagemovie.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thedreadwolfrises.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thedreadwolfrises.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dungeonkeeper.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dungeonkeeper.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "dungeonkeeper.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dungeonkeeper.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eafootballworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eafootballworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fifastreet.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fifastreet.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fifastreet3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fifastreet3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "frostbite.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".frostbite.com"
+  },
+  {
+    "Type": 0,
+    "Value": "industrialtoys.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".industrialtoys.com"
+  },
+  {
+    "Type": 0,
+    "Value": "masseffect.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".masseffect.com"
+  },
+  {
+    "Type": 0,
+    "Value": "masseffectarchives.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".masseffectarchives.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eamirrorsedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eamirrorsedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge.jp"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge.jp"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mirrorsedge2d.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mirrorsedge2d.com"
+  },
+  {
+    "Type": 0,
+    "Value": "blackboxgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".blackboxgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eablackbox.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eablackbox.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeed.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeed.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedboost.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedboost.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeeddriftkings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeeddriftkings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedeliminator.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedeliminator.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedlightning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedlightning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedoverdrive.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedoverdrive.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedproven.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedproven.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedredline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedredline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedshowdown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedshowdown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedstreetkings.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedstreetkings.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedtakedown.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedtakedown.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedtherun.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedtherun.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedtimeattack.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedtimeattack.com"
+  },
+  {
+    "Type": 0,
+    "Value": "needforspeedundergroundeast.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".needforspeedundergroundeast.com"
+  },
+  {
+    "Type": 0,
+    "Value": "nfsworld.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".nfsworld.com"
+  },
+  {
+    "Type": 0,
+    "Value": "teamneedforspeed.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".teamneedforspeed.com"
+  },
+  {
+    "Type": 0,
+    "Value": "plantsvszombies2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".plantsvszombies2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pvzgw2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pvzgw2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "seaofsolitude.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".seaofsolitude.com"
+  },
+  {
+    "Type": 0,
+    "Value": "simcity-buildit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".simcity-buildit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "simcity.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".simcity.com"
+  },
+  {
+    "Type": 0,
+    "Value": "skate2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".skate2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsfallenorder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsfallenorder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarsjedifallenorder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarsjedifallenorder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "starwarstheoldrepublic.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".starwarstheoldrepublic.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swjedifallenorder.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swjedifallenorder.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swjfo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swjfo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swtor.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".swtor.com"
+  },
+  {
+    "Type": 0,
+    "Value": "swtor.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".swtor.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mysims.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mysims.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesims.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesims.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesims3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesims3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesims4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesims4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "thesimssocial.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".thesimssocial.com"
+  },
+  {
+    "Type": 0,
+    "Value": "titanfall.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".titanfall.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mythicentertainment.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mythicentertainment.com"
+  },
+  {
+    "Type": 0,
+    "Value": "mythicentertainment.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".mythicentertainment.net"
+  },
+  {
+    "Type": 0,
+    "Value": "mythicgames.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".mythicgames.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ultimaonline.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ultimaonline.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "uoherald.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".uoherald.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xdsummit.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xdsummit.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eastore.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eastore.com"
+  },
+  {
+    "Type": 0,
+    "Value": "lordofultima.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".lordofultima.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".origin.com"
+  },
+  {
+    "Type": 0,
+    "Value": "origin.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".origin.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "eakorea.co.kr"
+  },
+  {
+    "Type": 1,
+    "Value": ".eakorea.co.kr"
+  },
+  {
+    "Type": 0,
+    "Value": "dungeonkeeper.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".dungeonkeeper.com.cn"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "Type": 0,
+    "Value": "vhx.tv"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhx.tv"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa1.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa1.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa3.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa3.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa4.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa4.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vhxqa6.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vhxqa6.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo-staging.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo-staging.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo-staging2.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo-staging2.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeo.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeo.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeobusiness.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeobusiness.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeogoods.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeogoods.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeoondemand.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeoondemand.com"
+  },
+  {
+    "Type": 0,
+    "Value": "vimeostatus.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".vimeostatus.com"
+  },
+  {
+    "Type": 0,
+    "Value": "livestream.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".livestream.com"
+  },
+  {
+    "Type": 3,
+    "Value": "^[0-9]+vod-adaptive\\.akamaized\\.net$"
+  }
+]

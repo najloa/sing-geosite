@@ -1,0 +1,98 @@
+[
+  {
+    "Type": 0,
+    "Value": "heroku.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroku.co"
+  },
+  {
+    "Type": 0,
+    "Value": "heroku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heroku.me"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroku.me"
+  },
+  {
+    "Type": 0,
+    "Value": "herokuapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".herokuapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "herokucdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".herokucdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "herokucharge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".herokucharge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "herokussl.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".herokussl.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heroku-app.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroku-app.com"
+  },
+  {
+    "Type": 0,
+    "Value": "heroku-charge.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".heroku-charge.com"
+  },
+  {
+    "Type": 0,
+    "Value": "codei.sh"
+  },
+  {
+    "Type": 1,
+    "Value": ".codei.sh"
+  },
+  {
+    "Type": 0,
+    "Value": "codeish.co"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeish.co"
+  },
+  {
+    "Type": 0,
+    "Value": "codeish.io"
+  },
+  {
+    "Type": 1,
+    "Value": ".codeish.io"
+  }
+]

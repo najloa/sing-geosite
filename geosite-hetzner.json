@@ -1,0 +1,102 @@
+[
+  {
+    "Type": 0,
+    "Value": "first-ns.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".first-ns.de"
+  },
+  {
+    "Type": 0,
+    "Value": "hetzner.cloud"
+  },
+  {
+    "Type": 1,
+    "Value": ".hetzner.cloud"
+  },
+  {
+    "Type": 0,
+    "Value": "hetzner.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hetzner.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hetzner.company"
+  },
+  {
+    "Type": 1,
+    "Value": ".hetzner.company"
+  },
+  {
+    "Type": 0,
+    "Value": "hetzner.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".hetzner.de"
+  },
+  {
+    "Type": 0,
+    "Value": "htznr.li"
+  },
+  {
+    "Type": 1,
+    "Value": ".htznr.li"
+  },
+  {
+    "Type": 0,
+    "Value": "second-ns.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".second-ns.com"
+  },
+  {
+    "Type": 0,
+    "Value": "second-ns.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".second-ns.de"
+  },
+  {
+    "Type": 0,
+    "Value": "your-objectstorage.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".your-objectstorage.com"
+  },
+  {
+    "Type": 0,
+    "Value": "your-server.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".your-server.de"
+  },
+  {
+    "Type": 0,
+    "Value": "your-storagebox.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".your-storagebox.de"
+  },
+  {
+    "Type": 0,
+    "Value": "your-storageshare.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".your-storageshare.de"
+  },
+  {
+    "Type": 0,
+    "Value": "sentry.hetzner.company"
+  }
+]

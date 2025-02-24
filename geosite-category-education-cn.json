@@ -1,0 +1,606 @@
+[
+  {
+    "Type": 0,
+    "Value": "moocs.unipus.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "opencourse.pku.edu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "study.163.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yudou.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yudou.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "yushiyan.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".yushiyan.net"
+  },
+  {
+    "Type": 0,
+    "Value": "xuetangx.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xuetangx.com"
+  },
+  {
+    "Type": 0,
+    "Value": "x-cloud.cc"
+  },
+  {
+    "Type": 1,
+    "Value": ".x-cloud.cc"
+  },
+  {
+    "Type": 0,
+    "Value": "xkw.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xkw.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zxxk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zxxk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dearedu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".dearedu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "kuaiduizuoye.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".kuaiduizuoye.com"
+  },
+  {
+    "Type": 0,
+    "Value": "liulishuo.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".liulishuo.com"
+  },
+  {
+    "Type": 0,
+    "Value": "llsapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".llsapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "llscdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".llscdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "llsserver.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".llsserver.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baicizhan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baicizhan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baicizhan.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".baicizhan.org"
+  },
+  {
+    "Type": 0,
+    "Value": "bczcdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".bczcdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "bczeducation.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".bczeducation.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "zhan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "burningvocabulary.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".burningvocabulary.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "burningvocabulary.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".burningvocabulary.com"
+  },
+  {
+    "Type": 0,
+    "Value": "dgjy.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".dgjy.net"
+  },
+  {
+    "Type": 0,
+    "Value": "91yunxiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".91yunxiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "aiyunxiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".aiyunxiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "haofenshu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".haofenshu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "iyunxiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".iyunxiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yunxiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yunxiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "keboyunxiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".keboyunxiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ketangpai.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ketangpai.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pigai.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".pigai.org"
+  },
+  {
+    "Type": 0,
+    "Value": "weilaiyunxiao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".weilaiyunxiao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "magedu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".magedu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "oldboyedu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".oldboyedu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "eduei.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".eduei.com"
+  },
+  {
+    "Type": 0,
+    "Value": "edu.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".edu.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "chinesemooc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".chinesemooc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "cnmooc.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".cnmooc.org"
+  },
+  {
+    "Type": 0,
+    "Value": "icourse163.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".icourse163.org"
+  },
+  {
+    "Type": 0,
+    "Value": "icourses.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icourses.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "mooc.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".mooc.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "openlearning.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".openlearning.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pmphmooc.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".pmphmooc.com"
+  },
+  {
+    "Type": 0,
+    "Value": "applysquare.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".applysquare.com"
+  },
+  {
+    "Type": 0,
+    "Value": "applysquare.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".applysquare.net"
+  },
+  {
+    "Type": 0,
+    "Value": "cctalk.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".cctalk.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hjapi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hjapi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "hjfile.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".hjfile.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "hujiang.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".hujiang.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yeshj.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yeshj.com"
+  },
+  {
+    "Type": 0,
+    "Value": "speiyou.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".speiyou.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xesimg.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xesimg.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xueersi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xueersi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "zhihuishu.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".zhihuishu.com"
+  },
+  {
+    "Type": 0,
+    "Value": "17zuoye.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".17zuoye.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "17zuoye.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".17zuoye.com"
+  },
+  {
+    "Type": 0,
+    "Value": "17zuoye.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".17zuoye.net"
+  },
+  {
+    "Type": 0,
+    "Value": "koocdn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".koocdn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "koolearn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".koolearn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "koopass.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".koopass.com"
+  },
+  {
+    "Type": 0,
+    "Value": "baydn.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".baydn.com"
+  },
+  {
+    "Type": 0,
+    "Value": "shanbay.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".shanbay.com"
+  },
+  {
+    "Type": 0,
+    "Value": "banmaaike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".banmaaike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "xiaoyuankousuan.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".xiaoyuankousuan.com"
+  },
+  {
+    "Type": 0,
+    "Value": "ybccode.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".ybccode.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuanfudao.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuanfudao.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuansouti.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuansouti.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuantiku.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuantiku.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fbstatic.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fbstatic.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "fenbi.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fenbi.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fenbike.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fenbike.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "fenbike.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fenbike.com"
+  },
+  {
+    "Type": 0,
+    "Value": "fenbilantian.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".fenbilantian.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "fenbilantian.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".fenbilantian.com"
+  },
+  {
+    "Type": 0,
+    "Value": "rainclassroom.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".rainclassroom.com"
+  },
+  {
+    "Type": 0,
+    "Value": "yuketang.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".yuketang.cn"
+  },
+  {
+    "Type": 0,
+    "Value": "icve.com.cn"
+  },
+  {
+    "Type": 1,
+    "Value": ".icve.com.cn"
+  }
+]

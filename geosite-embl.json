@@ -1,0 +1,58 @@
+[
+  {
+    "Type": 0,
+    "Value": "embl-hamburg.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".embl-hamburg.de"
+  },
+  {
+    "Type": 0,
+    "Value": "embl.de"
+  },
+  {
+    "Type": 1,
+    "Value": ".embl.de"
+  },
+  {
+    "Type": 0,
+    "Value": "embl.fr"
+  },
+  {
+    "Type": 1,
+    "Value": ".embl.fr"
+  },
+  {
+    "Type": 0,
+    "Value": "embl.it"
+  },
+  {
+    "Type": 1,
+    "Value": ".embl.it"
+  },
+  {
+    "Type": 0,
+    "Value": "embl.org"
+  },
+  {
+    "Type": 1,
+    "Value": ".embl.org"
+  },
+  {
+    "Type": 0,
+    "Value": "emblstatic.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".emblstatic.net"
+  },
+  {
+    "Type": 0,
+    "Value": "ebi.ac.uk"
+  },
+  {
+    "Type": 1,
+    "Value": ".ebi.ac.uk"
+  }
+]

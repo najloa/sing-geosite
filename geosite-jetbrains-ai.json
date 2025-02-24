@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "grazie.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".grazie.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "jetbrains.ai"
+  },
+  {
+    "Type": 1,
+    "Value": ".jetbrains.ai"
+  },
+  {
+    "Type": 0,
+    "Value": "grazie.aws.intellij.net"
+  },
+  {
+    "Type": 1,
+    "Value": ".grazie.aws.intellij.net"
+  }
+]

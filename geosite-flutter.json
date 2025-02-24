@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Value": "flutter.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".flutter.dev"
+  },
+  {
+    "Type": 0,
+    "Value": "flutterapp.com"
+  },
+  {
+    "Type": 1,
+    "Value": ".flutterapp.com"
+  },
+  {
+    "Type": 0,
+    "Value": "pub.dev"
+  },
+  {
+    "Type": 1,
+    "Value": ".pub.dev"
+  }
+]
